@@ -1,4 +1,5 @@
 'use strict';
+(function(){var of=window.fetch;window.fetch=function(u){if(String(u).includes('order.json')){console.trace('ORDER_FETCH_TRACE');}return of.apply(window,arguments);};})();
 
 /* 확대·축소 원천 봉쇄 — iOS 사파리는 meta의 user-scalable=no 를 무시할 수 있어
    집게 확대(gesturestart)를 코드로 막는다. 더블탭 확대는 CSS touch-action이 막는다 —
