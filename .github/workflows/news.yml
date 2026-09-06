@@ -1,0 +1,53 @@
+name: 오늘의 기사
+on:
+  schedule:
+    # **저녁 8시(한국)** — 그날 기사가 다 올라온 뒤다 (기사 사이트는 오전 9시~오후 6시에 올린다).
+    # 대표님 지시 (2026-09-01): "매일 저녁 당일 기사가 다 올라오고 나서 카드뉴스를 만들어라."
+    - cron: '0 11 * * *'
+    # 새벽 6시 30분은 남겨 둔다 — 저녁에 못 돌았거나 주말에 기사가 늦게 오를 때의 그물이다
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # ① 어제 기사 5개 고르기 — 우리 관심사(공장·임금·비자·버스·병원…)가 첫 기준
+      - run: python3 tools/fetch_news.py
+
+      # ② 다섯 기사 각각을 학습 세트로 (요약 2줄 + 단어 10 + 대화 2줄)
+      #    GEMINI_KEY 가 저장소 Secrets 에 없으면 이 단계는 조용히 건너뛴다.
+      - run: python3 tools/news_lesson.py
+        env:
+          GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
+
+      # ③ 새 단어·문장의 북부 남녀 음성 만들기 (edge-tts, 무료·키 불필요)
+      #    edge-tts 에는 남부 목소리가 없다 — 남부는 개발자 맥에서 채운다.
+      #    일주일 지난 기사 음성은 여기서 같이 치운다.
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install --quiet edge-tts
+      - run: python3 tools/news_audio.py
+        continue-on-error: true
+
+      # ④ 판번호를 새로 찍어야 폰의 캐시가 새 세트를 받는다
+      - run: python3 tools/stamp.py
+
+      # ⑤ 사흘 조용한 사람에게 알림 한 번 (하루 한 번까지만)
+      - run: |
+          curl -s -X POST https://viet-club.chaochao-app.workers.dev \
+            -H 'Origin: https://tpgus5119-coder.github.io' \
+            -H 'Content-Type: application/json' \
+            -d "{\"act\":\"push\",\"key\":\"$PUSH_KEY\"}" || true
+        env:
+          PUSH_KEY: ${{ secrets.PUSH_KEY }}
+        continue-on-error: true
+
+      - run: |
+          git config user.name news-bot
+          git config user.email actions@users.noreply.github.com
+          git add data/ audio/ index.html sw.js
+          git diff --cached --quiet || { git commit -m "오늘의 기사·학습 세트 자동 갱신" && git push; }

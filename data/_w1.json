@@ -1,0 +1,4795 @@
+{
+ "days": [
+  {
+   "day": 21,
+   "theme": "회사와 사람들",
+   "intro": "공장 말은 한자어가 많아 우리에게 유리하다 — quản lý(관리), công nhân(공인) 처럼 소리도 닮았다.",
+   "words": [
+    {
+     "vi": "xưởng",
+     "ko": "작업장·현장",
+     "kr_read": "쓰엉",
+     "tones": [
+      {
+       "syl": "xưởng",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "chuyền",
+     "ko": "생산 라인",
+     "kr_read": "쭈이엔",
+     "tones": [
+      {
+       "syl": "chuyền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "tổ trưởng",
+     "ko": "조장",
+     "kr_read": "또 쯔엉",
+     "tones": [
+      {
+       "syl": "tổ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "trưởng",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "hanja": "組長 (조장)"
+    },
+    {
+     "vi": "quản lý",
+     "ko": "관리자",
+     "kr_read": "꽌 리",
+     "tones": [
+      {
+       "syl": "quản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "lý",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "hanja": "管理 (관리)"
+    },
+    {
+     "vi": "giám đốc",
+     "ko": "사장·대표",
+     "kr_read": "잠 독",
+     "tones": [
+      {
+       "syl": "giám",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "đốc",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "hanja": "監督 (감독)"
+    },
+    {
+     "vi": "nhân sự",
+     "ko": "인사·인사 담당",
+     "kr_read": "년 스",
+     "tones": [
+      {
+       "syl": "nhân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "sự",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "hanja": "人事 (인사)"
+    },
+    {
+     "vi": "bảo vệ",
+     "ko": "경비원",
+     "kr_read": "바오 베",
+     "tones": [
+      {
+       "syl": "bảo",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "vệ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "hanja": "保衛 (보위)"
+    },
+    {
+     "vi": "đồng nghiệp",
+     "ko": "동료",
+     "kr_read": "동 응이엡",
+     "tones": [
+      {
+       "syl": "đồng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "nghiệp",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "ca",
+     "ko": "근무조·교대",
+     "kr_read": "까",
+     "tones": [
+      {
+       "syl": "ca",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "tăng ca",
+     "ko": "잔업하다",
+     "kr_read": "땅 까",
+     "tones": [
+      {
+       "syl": "tăng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ca",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    }
+   ],
+   "track": "work",
+   "dialog": {
+    "title": "첫 출근 인사",
+    "lines": [
+     {
+      "who": "A",
+      "vi": "Chào anh, tôi là người mới ở công ty.",
+      "ko": "안녕하세요, 회사에 새로 왔습니다.",
+      "kr_read": "짜오 아인 또이 라 응어이 머이 어 꽁 띠",
+      "gloss": [
+       {
+        "w": "Chào",
+        "m": "안녕"
+       },
+       {
+        "w": "tôi là",
+        "m": "나는 ~이다"
+       },
+       {
+        "w": "người mới",
+        "m": "신입"
+       },
+       {
+        "w": "công ty",
+        "m": "회사"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Chào",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "anh,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "là",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "người",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "mới",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "who": "B",
+      "vi": "Chào em! Em làm việc ở chuyền một nhé.",
+      "ko": "반가워요! 1번 라인에서 일해요.",
+      "kr_read": "짜오 앰 앰 람 비엑 어 쭈이엔 못 녜",
+      "gloss": [
+       {
+        "w": "làm việc",
+        "m": "일하다"
+       },
+       {
+        "w": "ở",
+        "m": "~에서"
+       },
+       {
+        "w": "chuyền",
+        "m": "라인"
+       },
+       {
+        "w": "một",
+        "m": "1"
+       },
+       {
+        "w": "nhé",
+        "m": "~해요"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Chào",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "em!",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "Em",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "việc",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "chuyền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "một",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     }
+    ],
+    "extra": [
+     {
+      "vi": "Nhà máy có nhiều công nhân.",
+      "ko": "공장에 작업자가 많아요",
+      "kr_read": "냐 마이 꼬 니에우 꽁 년",
+      "tones": [
+       {
+        "syl": "Nhà",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhiều",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nhân.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "vi": "Công ty có hai ca. Tổ trưởng đang ở xưởng.",
+      "ko": "회사는 2교대예요. 조장님은 작업장에 계세요",
+      "kr_read": "꽁 띠 꼬 하이 까 또 쯔엉 당 어 쓰엉",
+      "tones": [
+       {
+        "syl": "Công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "hai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ca.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "Tổ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "trưởng",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "đang",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "xưởng.",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       }
+      ]
+     },
+     {
+      "vi": "Đồng nghiệp tôi là người Việt Nam.",
+      "ko": "제 동료는 베트남 사람이에요",
+      "kr_read": "동 응이엡 또이 라 응어이 비엣 남",
+      "tones": [
+       {
+        "syl": "Đồng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "nghiệp",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "là",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "người",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "Việt",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "Nam.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "vi": "Hôm nay tôi tăng ca, quản lý biết rồi.",
+      "ko": "오늘 저 잔업해요, 관리자가 알아요",
+      "kr_read": "홈 나이 또이 땅 까 꽌 리 비엣 조이",
+      "tones": [
+       {
+        "syl": "Hôm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tăng",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ca,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "quản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "lý",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "biết",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "rồi.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ]
+     },
+     {
+      "vi": "Giám đốc và nhân sự ở văn phòng.",
+      "ko": "사장님과 인사 담당은 사무실에 있어요",
+      "kr_read": "잠 독 바 년 스 어 반 퐁",
+      "tones": [
+       {
+        "syl": "Giám",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đốc",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "và",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "nhân",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "sự",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "văn",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "phòng.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ]
+     },
+     {
+      "vi": "Bảo vệ ở nhà máy, chào bảo vệ nhé.",
+      "ko": "경비원은 공장에 있어요, 인사해요",
+      "kr_read": "바오 베 어 냐 마이 짜오 바오 베 녜",
+      "tones": [
+       {
+        "syl": "Bảo",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "vệ",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "nhà",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "máy,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "chào",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "bảo",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "vệ",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     }
+    ]
+   },
+   "mission": {
+    "goal": "",
+    "how": "",
+    "a": "",
+    "b": ""
+   }
+  },
+  {
+   "day": 22,
+   "theme": "재료와 도구",
+   "intro": "매일 손에 쥐는 것들부터. 실·바늘·원단은 하루에도 수십 번 말하게 된다.",
+   "words": [
+    {
+     "vi": "vải",
+     "ko": "원단·천",
+     "kr_read": "바이",
+     "tones": [
+      {
+       "syl": "vải",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "chỉ",
+     "ko": "실",
+     "kr_read": "찌",
+     "tones": [
+      {
+       "syl": "chỉ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "kim",
+     "ko": "바늘",
+     "kr_read": "낌",
+     "tones": [
+      {
+       "syl": "kim",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "kéo",
+     "ko": "가위",
+     "kr_read": "깨오",
+     "tones": [
+      {
+       "syl": "kéo",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "máy may",
+     "ko": "재봉틀",
+     "kr_read": "마이 마이",
+     "tones": [
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "may",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "cúc",
+     "ko": "단추",
+     "kr_read": "꾹",
+     "tones": [
+      {
+       "syl": "cúc",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "south": "nút [눗]"
+    },
+    {
+     "vi": "khuy",
+     "ko": "단춧구멍",
+     "kr_read": "쿠이",
+     "tones": [
+      {
+       "syl": "khuy",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "dây kéo",
+     "ko": "지퍼",
+     "kr_read": "저이 깨오",
+     "tones": [
+      {
+       "syl": "dây",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "kéo",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "mẫu",
+     "ko": "샘플·견본",
+     "kr_read": "머우",
+     "tones": [
+      {
+       "syl": "mẫu",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      }
+     ]
+    },
+    {
+     "vi": "màu",
+     "ko": "색깔",
+     "kr_read": "마우",
+     "tones": [
+      {
+       "syl": "màu",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    }
+   ],
+   "track": "work",
+   "dialog": {
+    "title": "자재 찾기",
+    "lines": [
+     {
+      "who": "A",
+      "vi": "Chị, vải với chỉ ở đâu?",
+      "ko": "원단이랑 실 어디 있어요?",
+      "kr_read": "찌 바이 버이 찌 어 더우",
+      "gloss": [
+       {
+        "w": "vải",
+        "m": "원단"
+       },
+       {
+        "w": "với",
+        "m": "~와"
+       },
+       {
+        "w": "chỉ",
+        "m": "실"
+       },
+       {
+        "w": "ở đâu",
+        "m": "어디에"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Chị,",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "vải",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "với",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "chỉ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "đâu?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "who": "B",
+      "vi": "Ở trong hộp kia. Kim cũng ở đây.",
+      "ko": "저 상자 안에요. 바늘도 여기 있어요.",
+      "kr_read": "어 쫑 홉 끼아 낌 꿍 어 더이",
+      "gloss": [
+       {
+        "w": "trong",
+        "m": "안"
+       },
+       {
+        "w": "hộp",
+        "m": "상자"
+       },
+       {
+        "w": "kia",
+        "m": "저"
+       },
+       {
+        "w": "kim",
+        "m": "바늘"
+       },
+       {
+        "w": "cũng",
+        "m": "~도"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "trong",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hộp",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "kia.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "Kim",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "cũng",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "đây.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     }
+    ],
+    "extra": [
+     {
+      "vi": "Mẫu này màu đẹp lắm.",
+      "ko": "이 샘플 색이 아주 예뻐요",
+      "kr_read": "머우 나이 마우 댑 람",
+      "tones": [
+       {
+        "syl": "Mẫu",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "màu",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "đẹp",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "lắm.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Cúc với khuy ở hộp kia.",
+      "ko": "단추와 단춧구멍감은 저 상자에",
+      "kr_read": "꾹 버이 쿠이 어 홉 끼아",
+      "tones": [
+       {
+        "syl": "Cúc",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "với",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "khuy",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "hộp",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "kia.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "vi": "Dây kéo này mới.",
+      "ko": "이 지퍼는 새것이에요",
+      "kr_read": "저이 깨오 나이 머이",
+      "tones": [
+       {
+        "syl": "Dây",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "kéo",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "mới.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Máy may với kéo ở xưởng.",
+      "ko": "재봉틀과 가위는 작업장에",
+      "kr_read": "마이 마이 버이 깨오 어 쓰엉",
+      "tones": [
+       {
+        "syl": "Máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "may",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "với",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "kéo",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "xưởng.",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       }
+      ]
+     }
+    ]
+   },
+   "mission": {
+    "goal": "",
+    "how": "",
+    "a": "",
+    "b": ""
+   }
+  },
+  {
+   "day": 23,
+   "theme": "옷의 부위",
+   "intro": "옷 한 벌의 지도. 어디를 박는지 말할 수 있어야 일 이야기가 된다.",
+   "words": [
+    {
+     "vi": "áo",
+     "ko": "윗옷",
+     "kr_read": "아오",
+     "tones": [
+      {
+       "syl": "áo",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "quần",
+     "ko": "바지",
+     "kr_read": "꾸언",
+     "tones": [
+      {
+       "syl": "quần",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "tay áo",
+     "ko": "소매",
+     "kr_read": "따이 아오",
+     "tones": [
+      {
+       "syl": "tay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "áo",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "cổ áo",
+     "ko": "옷깃·칼라",
+     "kr_read": "꼬 아오",
+     "tones": [
+      {
+       "syl": "cổ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "áo",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "túi",
+     "ko": "주머니",
+     "kr_read": "뚜이",
+     "tones": [
+      {
+       "syl": "túi",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "gấu",
+     "ko": "밑단",
+     "kr_read": "거우",
+     "tones": [
+      {
+       "syl": "gấu",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "south": "lai [라이]"
+    },
+    {
+     "vi": "thân trước",
+     "ko": "앞판",
+     "kr_read": "턴 쯔억",
+     "tones": [
+      {
+       "syl": "thân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "trước",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "thân sau",
+     "ko": "뒷판",
+     "kr_read": "턴 사우",
+     "tones": [
+      {
+       "syl": "thân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "sau",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "đường may",
+     "ko": "솔기·박은 선",
+     "kr_read": "드엉 마이",
+     "tones": [
+      {
+       "syl": "đường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "may",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "cỡ",
+     "ko": "사이즈·치수",
+     "kr_read": "꺼",
+     "tones": [
+      {
+       "syl": "cỡ",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      }
+     ]
+    }
+   ],
+   "track": "work",
+   "dialog": {
+    "title": "사이즈 확인",
+    "lines": [
+     {
+      "who": "A",
+      "vi": "Áo này cỡ gì?",
+      "ko": "이 옷 몇 사이즈예요?",
+      "kr_read": "아오 나이 꺼 지",
+      "gloss": [
+       {
+        "w": "áo",
+        "m": "윗옷"
+       },
+       {
+        "w": "này",
+        "m": "이"
+       },
+       {
+        "w": "cỡ",
+        "m": "사이즈"
+       },
+       {
+        "w": "gì",
+        "m": "무엇"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Áo",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "cỡ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "gì?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ]
+     },
+     {
+      "who": "B",
+      "vi": "Cỡ hai. Tay áo rất đẹp.",
+      "ko": "2 사이즈요. 소매가 아주 예뻐요.",
+      "kr_read": "꺼 하이 따이 아오 젓 댑",
+      "gloss": [
+       {
+        "w": "cỡ hai",
+        "m": "2 사이즈"
+       },
+       {
+        "w": "tay áo",
+        "m": "소매"
+       },
+       {
+        "w": "rất",
+        "m": "아주"
+       },
+       {
+        "w": "đẹp",
+        "m": "예쁘다"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Cỡ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "hai.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "Tay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "áo",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đẹp.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ]
+     }
+    ],
+    "extra": [
+     {
+      "vi": "Túi ở thân trước.",
+      "ko": "주머니는 앞판에 있어요",
+      "kr_read": "뚜이 어 턴 쯔억",
+      "tones": [
+       {
+        "syl": "Túi",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "thân",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "trước.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Thân sau có đường may đẹp.",
+      "ko": "뒷판 박음선이 예뻐요",
+      "kr_read": "턴 사우 꼬 드엉 마이 댑",
+      "tones": [
+       {
+        "syl": "Thân",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "sau",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đường",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "may",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đẹp.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ]
+     },
+     {
+      "vi": "Quần này có hai túi.",
+      "ko": "이 바지엔 주머니가 둘",
+      "kr_read": "꾸언 나이 꼬 하이 뚜이",
+      "tones": [
+       {
+        "syl": "Quần",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "hai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "túi.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Cổ áo đẹp, gấu áo cũng đẹp.",
+      "ko": "깃도 예쁘고 밑단도 예뻐요",
+      "kr_read": "꼬 아오 댑 거우 아오 꿍 댑",
+      "tones": [
+       {
+        "syl": "Cổ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "áo",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đẹp,",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "gấu",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "áo",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "cũng",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "đẹp.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ]
+     }
+    ]
+   },
+   "mission": {
+    "goal": "",
+    "how": "",
+    "a": "",
+    "b": ""
+   }
+  },
+  {
+   "day": 24,
+   "theme": "동작 — 자르고 박고",
+   "intro": "봉제의 동사들. 오늘부터 '무엇을 하는지'를 말할 수 있다.",
+   "words": [
+    {
+     "vi": "cắt",
+     "ko": "자르다·재단하다",
+     "kr_read": "깟",
+     "tones": [
+      {
+       "syl": "cắt",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "may",
+     "ko": "박다·재봉하다",
+     "kr_read": "마이",
+     "tones": [
+      {
+       "syl": "may",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "vắt sổ",
+     "ko": "오버록 치다",
+     "kr_read": "밧 소",
+     "tones": [
+      {
+       "syl": "vắt",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "sổ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "ủi",
+     "ko": "다림질하다",
+     "kr_read": "우이",
+     "tones": [
+      {
+       "syl": "ủi",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "gấp",
+     "ko": "개다·접다",
+     "kr_read": "겁",
+     "tones": [
+      {
+       "syl": "gấp",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "đóng gói",
+     "ko": "포장하다",
+     "kr_read": "동 고이",
+     "tones": [
+      {
+       "syl": "đóng",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "gói",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "đính",
+     "ko": "달다·붙이다",
+     "kr_read": "딘",
+     "tones": [
+      {
+       "syl": "đính",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "tháo",
+     "ko": "뜯다·풀다",
+     "kr_read": "타오",
+     "tones": [
+      {
+       "syl": "tháo",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "thêu",
+     "ko": "수놓다·자수하다",
+     "kr_read": "테우",
+     "tones": [
+      {
+       "syl": "thêu",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "nhặt chỉ",
+     "ko": "실밥 따다",
+     "kr_read": "냣 찌",
+     "tones": [
+      {
+       "syl": "nhặt",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "chỉ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    }
+   ],
+   "track": "work",
+   "dialog": {
+    "title": "오늘 할 일",
+    "lines": [
+     {
+      "who": "A",
+      "vi": "Hôm nay em cắt hay may?",
+      "ko": "오늘 저는 재단이에요, 봉제예요?",
+      "kr_read": "홈 나이 앰 깟 하이 마이",
+      "gloss": [
+       {
+        "w": "hôm nay",
+        "m": "오늘"
+       },
+       {
+        "w": "cắt",
+        "m": "재단"
+       },
+       {
+        "w": "hay",
+        "m": "아니면"
+       },
+       {
+        "w": "may",
+        "m": "봉제"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Hôm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "em",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "cắt",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "hay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "may?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "who": "B",
+      "vi": "Em may, và đính cúc nhé.",
+      "ko": "봉제하고, 단추도 달아요.",
+      "kr_read": "앰 마이 바 딘 꾹 녜",
+      "gloss": [
+       {
+        "w": "may",
+        "m": "박다"
+       },
+       {
+        "w": "và",
+        "m": "그리고"
+       },
+       {
+        "w": "đính",
+        "m": "달다"
+       },
+       {
+        "w": "cúc",
+        "m": "단추"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Em",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "may,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "và",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "đính",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "cúc",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     }
+    ],
+    "extra": [
+     {
+      "vi": "Vắt sổ trước, may sau.",
+      "ko": "오버록 먼저, 박기는 나중에",
+      "kr_read": "밧 소 쯔억 마이 사우",
+      "tones": [
+       {
+        "syl": "Vắt",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "sổ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "trước,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "may",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "sau.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "vi": "Gấp áo và đóng gói nhé.",
+      "ko": "옷 개서 포장해요",
+      "kr_read": "겁 아오 바 동 고이 녜",
+      "tones": [
+       {
+        "syl": "Gấp",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "áo",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "và",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "đóng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "gói",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Tháo chỉ này được không?",
+      "ko": "이 실 뜯어도 돼요?",
+      "kr_read": "타오 찌 나이 드억 콩",
+      "tones": [
+       {
+        "syl": "Tháo",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "chỉ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "được",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "vi": "Ủi áo, thêu tên, nhặt chỉ nhé.",
+      "ko": "다림질하고, 이름 수놓고, 실밥 따요",
+      "kr_read": "우이 아오 테우 뗀 냣 찌 녜",
+      "tones": [
+       {
+        "syl": "Ủi",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "áo,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thêu",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tên,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nhặt",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "chỉ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     }
+    ]
+   },
+   "mission": {
+    "goal": "",
+    "how": "",
+    "a": "",
+    "b": ""
+   }
+  },
+  {
+   "day": 25,
+   "theme": "품질과 불량",
+   "intro": "불량을 말할 수 있으면 사고를 막는다. xin lỗi(사과)의 lỗi가 '잘못·불량'이다.",
+   "words": [
+    {
+     "vi": "lỗi",
+     "ko": "불량·오류",
+     "kr_read": "로이",
+     "tones": [
+      {
+       "syl": "lỗi",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      }
+     ]
+    },
+    {
+     "vi": "hỏng",
+     "ko": "고장나다·망가지다",
+     "kr_read": "홍",
+     "tones": [
+      {
+       "syl": "hỏng",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "kiểm tra",
+     "ko": "검사하다",
+     "kr_read": "끼엠 짜",
+     "tones": [
+      {
+       "syl": "kiểm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tra",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "hanja": "檢查 (검사)"
+    },
+    {
+     "vi": "chất lượng",
+     "ko": "품질",
+     "kr_read": "쩟 르엉",
+     "tones": [
+      {
+       "syl": "chất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "lượng",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "hanja": "質量 (질량)"
+    },
+    {
+     "vi": "sản phẩm",
+     "ko": "제품",
+     "kr_read": "산 펌",
+     "tones": [
+      {
+       "syl": "sản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "phẩm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "hanja": "產品 (산품)"
+    },
+    {
+     "vi": "sửa",
+     "ko": "고치다·수선하다",
+     "kr_read": "스어",
+     "tones": [
+      {
+       "syl": "sửa",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "đạt",
+     "ko": "합격이다",
+     "kr_read": "닷",
+     "tones": [
+      {
+       "syl": "đạt",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "hanja": "達 (달)"
+    },
+    {
+     "vi": "làm lại",
+     "ko": "다시 하다",
+     "kr_read": "람 라이",
+     "tones": [
+      {
+       "syl": "làm",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "lại",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "bẩn",
+     "ko": "더럽다·얼룩지다",
+     "kr_read": "번",
+     "tones": [
+      {
+       "syl": "bẩn",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "vết",
+     "ko": "자국·흠",
+     "kr_read": "벳",
+     "tones": [
+      {
+       "syl": "vết",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    }
+   ],
+   "track": "work",
+   "dialog": {
+    "title": "불량 알리기",
+    "lines": [
+     {
+      "who": "A",
+      "vi": "Sản phẩm này có lỗi.",
+      "ko": "이 제품 불량이에요.",
+      "kr_read": "산 펌 나이 꼬 로이",
+      "gloss": [
+       {
+        "w": "sản phẩm",
+        "m": "제품"
+       },
+       {
+        "w": "này",
+        "m": "이"
+       },
+       {
+        "w": "có",
+        "m": "있다"
+       },
+       {
+        "w": "lỗi",
+        "m": "불량"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Sản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "phẩm",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "lỗi.",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       }
+      ]
+     },
+     {
+      "who": "B",
+      "vi": "Đường may bẩn. Làm lại nhé.",
+      "ko": "박음선이 얼룩졌네요. 다시 하세요.",
+      "kr_read": "드엉 마이 번 람 라이 녜",
+      "gloss": [
+       {
+        "w": "đường may",
+        "m": "박음선"
+       },
+       {
+        "w": "bẩn",
+        "m": "얼룩"
+       },
+       {
+        "w": "làm lại",
+        "m": "다시 하다"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Đường",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "may",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "bẩn.",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "Làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "lại",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     }
+    ],
+    "extra": [
+     {
+      "vi": "Kiểm tra chất lượng trước nhé.",
+      "ko": "품질부터 검사해요",
+      "kr_read": "끼엠 짜 쩟 르엉 쯔억 녜",
+      "tones": [
+       {
+        "syl": "Kiểm",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tra",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "chất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "lượng",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "trước",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Máy may bị hỏng, sửa được không?",
+      "ko": "재봉틀이 고장났어요, 고칠 수 있어요?",
+      "kr_read": "마이 마이 비 홍 스어 드억 콩",
+      "tones": [
+       {
+        "syl": "Máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "may",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "bị",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "hỏng,",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "sửa",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "được",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "vi": "Đạt rồi, rất tốt!",
+      "ko": "합격이에요, 아주 좋아요!",
+      "kr_read": "닷 조이 젓 똣",
+      "tones": [
+       {
+        "syl": "Đạt",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "rồi,",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tốt!",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Có vết bẩn ở thân sau.",
+      "ko": "뒷판에 얼룩이 있어요",
+      "kr_read": "꼬 벳 번 어 턴 사우",
+      "tones": [
+       {
+        "syl": "Có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "vết",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "bẩn",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "thân",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "sau.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     }
+    ]
+   },
+   "mission": {
+    "goal": "",
+    "how": "",
+    "a": "",
+    "b": ""
+   }
+  },
+  {
+   "day": 26,
+   "theme": "수량과 납기",
+   "intro": "숫자는 이미 배웠다. 오늘은 그 숫자로 물량을 주고받는다.",
+   "words": [
+    {
+     "vi": "số lượng",
+     "ko": "수량",
+     "kr_read": "소 르엉",
+     "tones": [
+      {
+       "syl": "số",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "lượng",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "hanja": "數量 (수량)"
+    },
+    {
+     "vi": "tổng",
+     "ko": "총·합계",
+     "kr_read": "똥",
+     "tones": [
+      {
+       "syl": "tổng",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "hanja": "總 (총)"
+    },
+    {
+     "vi": "hàng",
+     "ko": "물건·물량",
+     "kr_read": "항",
+     "tones": [
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "giao",
+     "ko": "넘기다·납품하다",
+     "kr_read": "자오",
+     "tones": [
+      {
+       "syl": "giao",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "nhận",
+     "ko": "받다",
+     "kr_read": "년",
+     "tones": [
+      {
+       "syl": "nhận",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "gửi",
+     "ko": "보내다",
+     "kr_read": "그이",
+     "tones": [
+      {
+       "syl": "gửi",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "hết",
+     "ko": "다 떨어지다",
+     "kr_read": "혯",
+     "tones": [
+      {
+       "syl": "hết",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "đủ",
+     "ko": "충분하다",
+     "kr_read": "두",
+     "tones": [
+      {
+       "syl": "đủ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "thêm",
+     "ko": "더·추가로",
+     "kr_read": "템",
+     "tones": [
+      {
+       "syl": "thêm",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "kịp",
+     "ko": "제때 되다",
+     "kr_read": "낍",
+     "tones": [
+      {
+       "syl": "kịp",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    }
+   ],
+   "track": "work",
+   "dialog": {
+    "title": "물량 확인",
+    "lines": [
+     {
+      "who": "A",
+      "vi": "Hôm nay giao bao nhiêu hàng?",
+      "ko": "오늘 물량 얼마나 납품해요?",
+      "kr_read": "홈 나이 자오 바오 니에우 항",
+      "gloss": [
+       {
+        "w": "giao",
+        "m": "납품하다"
+       },
+       {
+        "w": "bao nhiêu",
+        "m": "얼마나"
+       },
+       {
+        "w": "hàng",
+        "m": "물량"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Hôm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "giao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "bao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nhiêu",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hàng?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ]
+     },
+     {
+      "who": "B",
+      "vi": "Tổng một nghìn cái. Làm kịp không?",
+      "ko": "총 천 개요. 제때 되겠어요?",
+      "kr_read": "똥 못 응인 까이 람 낍 콩",
+      "gloss": [
+       {
+        "w": "tổng",
+        "m": "총"
+       },
+       {
+        "w": "một nghìn",
+        "m": "1000"
+       },
+       {
+        "w": "cái",
+        "m": "개"
+       },
+       {
+        "w": "kịp",
+        "m": "제때"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Tổng",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "một",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "nghìn",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "cái.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "Làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "kịp",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     }
+    ],
+    "extra": [
+     {
+      "vi": "Hộp hết rồi, cho thêm nhé.",
+      "ko": "상자가 다 떨어졌어요, 더 주세요",
+      "kr_read": "홉 혯 조이 쪼 템 녜",
+      "tones": [
+       {
+        "syl": "Hộp",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "hết",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "rồi,",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "cho",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "thêm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Số lượng đủ rồi.",
+      "ko": "수량은 충분해요",
+      "kr_read": "소 르엉 두 조이",
+      "tones": [
+       {
+        "syl": "Số",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "lượng",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "đủ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "rồi.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ]
+     },
+     {
+      "vi": "Nhận hàng ở đâu?",
+      "ko": "물건은 어디서 받아요?",
+      "kr_read": "년 항 어 더우",
+      "tones": [
+       {
+        "syl": "Nhận",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "hàng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "đâu?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "vi": "Gửi hàng cho quản lý nhé.",
+      "ko": "물건을 관리자에게 보내요",
+      "kr_read": "그이 항 쪼 꽌 리 녜",
+      "tones": [
+       {
+        "syl": "Gửi",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "hàng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "cho",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "quản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "lý",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     }
+    ]
+   },
+   "mission": {
+    "goal": "",
+    "how": "",
+    "a": "",
+    "b": ""
+   }
+  },
+  {
+   "day": 27,
+   "theme": "안전",
+   "intro": "안전 말은 목숨을 지키는 말이다. an toàn(安全)·chú ý(注意) — 한자어라 외우기 쉽다.",
+   "words": [
+    {
+     "vi": "an toàn",
+     "ko": "안전",
+     "kr_read": "안 또안",
+     "tones": [
+      {
+       "syl": "an",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "toàn",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "hanja": "安全 (안전)"
+    },
+    {
+     "vi": "nguy hiểm",
+     "ko": "위험하다",
+     "kr_read": "응우이 히엠",
+     "tones": [
+      {
+       "syl": "nguy",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hiểm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "hanja": "危險 (위험)"
+    },
+    {
+     "vi": "cẩn thận",
+     "ko": "조심하다",
+     "kr_read": "껀 턴",
+     "tones": [
+      {
+       "syl": "cẩn",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "thận",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "tai nạn",
+     "ko": "사고",
+     "kr_read": "따이 난",
+     "tones": [
+      {
+       "syl": "tai",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "nạn",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "hanja": "災難 (재난)"
+    },
+    {
+     "vi": "cấm",
+     "ko": "금지하다",
+     "kr_read": "껌",
+     "tones": [
+      {
+       "syl": "cấm",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "hanja": "禁 (금)"
+    },
+    {
+     "vi": "chú ý",
+     "ko": "주의하다",
+     "kr_read": "쭈 이",
+     "tones": [
+      {
+       "syl": "chú",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "ý",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "hanja": "注意 (주의)"
+    },
+    {
+     "vi": "bảo hộ",
+     "ko": "보호구·보호",
+     "kr_read": "바오 호",
+     "tones": [
+      {
+       "syl": "bảo",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "hộ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "hanja": "保護 (보호)"
+    },
+    {
+     "vi": "găng tay",
+     "ko": "장갑",
+     "kr_read": "강 따이",
+     "tones": [
+      {
+       "syl": "găng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "tay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "khẩu trang",
+     "ko": "마스크",
+     "kr_read": "커우 짱",
+     "tones": [
+      {
+       "syl": "khẩu",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "trang",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "phải",
+     "ko": "~해야 한다",
+     "kr_read": "파이",
+     "tones": [
+      {
+       "syl": "phải",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    }
+   ],
+   "track": "work",
+   "dialog": {
+    "title": "위험 확인",
+    "lines": [
+     {
+      "who": "A",
+      "vi": "Ở đây nguy hiểm không?",
+      "ko": "여기 위험해요?",
+      "kr_read": "어 더이 응우이 히엠 콩",
+      "gloss": [
+       {
+        "w": "ở đây",
+        "m": "여기"
+       },
+       {
+        "w": "nguy hiểm",
+        "m": "위험"
+       },
+       {
+        "w": "không",
+        "m": "~해요?"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "đây",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nguy",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hiểm",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "who": "B",
+      "vi": "Phải cẩn thận. Phải có găng tay.",
+      "ko": "조심해야 해요. 장갑을 껴야 해요.",
+      "kr_read": "파이 껀 턴 파이 꼬 강 따이",
+      "gloss": [
+       {
+        "w": "phải",
+        "m": "~해야 한다"
+       },
+       {
+        "w": "cẩn thận",
+        "m": "조심"
+       },
+       {
+        "w": "găng tay",
+        "m": "장갑"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Phải",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "cẩn",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "thận.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "Phải",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "găng",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tay.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     }
+    ],
+    "extra": [
+     {
+      "vi": "Đây là bảo hộ. An toàn trước!",
+      "ko": "이게 보호구예요. 안전 먼저!",
+      "kr_read": "더이 라 바오 호 안 또안 쯔억",
+      "tones": [
+       {
+        "syl": "Đây",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "là",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "bảo",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "hộ.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "An",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "toàn",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "trước!",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Cấm ăn ở xưởng.",
+      "ko": "작업장에서 취식 금지",
+      "kr_read": "껌 안 어 쓰엉",
+      "tones": [
+       {
+        "syl": "Cấm",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ăn",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "xưởng.",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       }
+      ]
+     },
+     {
+      "vi": "Chú ý! Phải có khẩu trang.",
+      "ko": "주의! 마스크 써야 해요",
+      "kr_read": "쭈 이 파이 꼬 커우 짱",
+      "tones": [
+       {
+        "syl": "Chú",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ý!",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "Phải",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "khẩu",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "trang.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "vi": "Hôm qua có tai nạn.",
+      "ko": "어제 사고가 있었어요",
+      "kr_read": "홈 꾸아 꼬 따이 난",
+      "tones": [
+       {
+        "syl": "Hôm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "qua",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nạn.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ]
+     }
+    ]
+   },
+   "mission": {
+    "goal": "",
+    "how": "",
+    "a": "",
+    "b": ""
+   }
+  },
+  {
+   "day": 28,
+   "theme": "지시 알아듣기",
+   "intro": "'맞다/틀리다/이렇게'만 알아들어도 작업 지시의 절반이 풀린다.",
+   "words": [
+    {
+     "vi": "nhanh",
+     "ko": "빠르다·빨리",
+     "kr_read": "냐인",
+     "tones": [
+      {
+       "syl": "nhanh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "đúng",
+     "ko": "맞다",
+     "kr_read": "둥",
+     "tones": [
+      {
+       "syl": "đúng",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "sai",
+     "ko": "틀리다",
+     "kr_read": "사이",
+     "tones": [
+      {
+       "syl": "sai",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "giống",
+     "ko": "같다",
+     "kr_read": "종",
+     "tones": [
+      {
+       "syl": "giống",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "khác",
+     "ko": "다르다",
+     "kr_read": "칵",
+     "tones": [
+      {
+       "syl": "khác",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "xem",
+     "ko": "보다",
+     "kr_read": "쌤",
+     "tones": [
+      {
+       "syl": "xem",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "chỗ",
+     "ko": "자리·부분",
+     "kr_read": "쪼",
+     "tones": [
+      {
+       "syl": "chỗ",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      }
+     ]
+    },
+    {
+     "vi": "thế này",
+     "ko": "이렇게",
+     "kr_read": "테 나이",
+     "tones": [
+      {
+       "syl": "thế",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "này",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "cái này",
+     "ko": "이것",
+     "kr_read": "까이 나이",
+     "tones": [
+      {
+       "syl": "cái",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "này",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "cái kia",
+     "ko": "저것",
+     "kr_read": "까이 끼아",
+     "tones": [
+      {
+       "syl": "cái",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "kia",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    }
+   ],
+   "track": "work",
+   "dialog": {
+    "title": "맞는지 물어보기",
+    "lines": [
+     {
+      "who": "A",
+      "vi": "Làm thế này, đúng không?",
+      "ko": "이렇게 하면 맞아요?",
+      "kr_read": "람 테 나이 둥 콩",
+      "gloss": [
+       {
+        "w": "làm",
+        "m": "하다"
+       },
+       {
+        "w": "thế này",
+        "m": "이렇게"
+       },
+       {
+        "w": "đúng",
+        "m": "맞다"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "thế",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này,",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "đúng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "who": "B",
+      "vi": "Sai rồi. Xem tôi làm nhé.",
+      "ko": "틀렸어요. 내가 하는 걸 봐요.",
+      "kr_read": "사이 조이 쌤 또이 람 녜",
+      "gloss": [
+       {
+        "w": "sai",
+        "m": "틀리다"
+       },
+       {
+        "w": "rồi",
+        "m": "~했다"
+       },
+       {
+        "w": "xem",
+        "m": "보다"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Sai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "rồi.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "Xem",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     }
+    ],
+    "extra": [
+     {
+      "vi": "Cái này khác cái kia.",
+      "ko": "이건 저것과 달라요",
+      "kr_read": "까이 나이 칵 까이 끼아",
+      "tones": [
+       {
+        "syl": "Cái",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "khác",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "cái",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "kia.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "vi": "Chỗ này sai rồi.",
+      "ko": "이 부분이 틀렸어요",
+      "kr_read": "쪼 나이 사이 조이",
+      "tones": [
+       {
+        "syl": "Chỗ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "sai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "rồi.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ]
+     },
+     {
+      "vi": "Làm giống cái này nhé.",
+      "ko": "이것과 똑같이 하세요",
+      "kr_read": "람 종 까이 나이 녜",
+      "tones": [
+       {
+        "syl": "Làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "giống",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "cái",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Làm nhanh được không?",
+      "ko": "빨리 할 수 있어요?",
+      "kr_read": "람 냐인 드억 콩",
+      "tones": [
+       {
+        "syl": "Làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "nhanh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "được",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     }
+    ]
+   },
+   "mission": {
+    "goal": "",
+    "how": "",
+    "a": "",
+    "b": ""
+   }
+  },
+  {
+   "day": 29,
+   "theme": "기계와 전기",
+   "intro": "기계 앞에서 쓰는 말. '누르지 마세요'를 알아듣는 것이 안전의 시작이다.",
+   "words": [
+    {
+     "vi": "máy",
+     "ko": "기계",
+     "kr_read": "마이",
+     "tones": [
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "điện",
+     "ko": "전기",
+     "kr_read": "디엔",
+     "tones": [
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "hanja": "電 (전)"
+    },
+    {
+     "vi": "nút",
+     "ko": "버튼",
+     "kr_read": "눗",
+     "tones": [
+      {
+       "syl": "nút",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "south": "주의 — 남부에서 nút은 '단추'(cúc) 뜻으로도 쓴다"
+    },
+    {
+     "vi": "bấm",
+     "ko": "누르다",
+     "kr_read": "범",
+     "tones": [
+      {
+       "syl": "bấm",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "dây",
+     "ko": "줄·선",
+     "kr_read": "저이",
+     "tones": [
+      {
+       "syl": "dây",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "băng chuyền",
+     "ko": "컨베이어",
+     "kr_read": "방 쭈이엔",
+     "tones": [
+      {
+       "syl": "băng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "chuyền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "dao",
+     "ko": "칼",
+     "kr_read": "자오",
+     "tones": [
+      {
+       "syl": "dao",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "bàn ủi",
+     "ko": "다리미",
+     "kr_read": "반 우이",
+     "tones": [
+      {
+       "syl": "bàn",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "ủi",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "đèn",
+     "ko": "등·전등",
+     "kr_read": "댄",
+     "tones": [
+      {
+       "syl": "đèn",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "dụng cụ",
+     "ko": "공구·도구",
+     "kr_read": "중 꾸",
+     "tones": [
+      {
+       "syl": "dụng",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "cụ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "hanja": "用具 (용구)"
+    }
+   ],
+   "track": "work",
+   "dialog": {
+    "title": "기계 고장",
+    "lines": [
+     {
+      "who": "A",
+      "vi": "Máy này bị lỗi rồi.",
+      "ko": "이 기계에 문제 생겼어요.",
+      "kr_read": "마이 나이 비 로이 조이",
+      "gloss": [
+       {
+        "w": "máy",
+        "m": "기계"
+       },
+       {
+        "w": "bị lỗi",
+        "m": "문제가 생기다"
+       },
+       {
+        "w": "rồi",
+        "m": "~했다"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "bị",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "lỗi",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "rồi.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ]
+     },
+     {
+      "who": "B",
+      "vi": "Đừng bấm nút. Đợi quản lý nhé.",
+      "ko": "버튼 누르지 마요. 관리자를 기다려요.",
+      "kr_read": "등 범 눗 더이 꽌 리 녜",
+      "gloss": [
+       {
+        "w": "đừng",
+        "m": "~하지 마"
+       },
+       {
+        "w": "bấm",
+        "m": "누르다"
+       },
+       {
+        "w": "nút",
+        "m": "버튼"
+       },
+       {
+        "w": "đợi",
+        "m": "기다리다"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Đừng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "bấm",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nút.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "Đợi",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "quản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "lý",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     }
+    ],
+    "extra": [
+     {
+      "vi": "Bàn ủi mới ở xưởng.",
+      "ko": "새 다리미는 작업장에 있어요",
+      "kr_read": "반 우이 머이 어 쓰엉",
+      "tones": [
+       {
+        "syl": "Bàn",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "ủi",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "mới",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "xưởng.",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       }
+      ]
+     },
+     {
+      "vi": "Cẩn thận! Dây điện ở dưới.",
+      "ko": "조심! 전선이 아래에 있어요",
+      "kr_read": "껀 턴 저이 디엔 어 즈어이",
+      "tones": [
+       {
+        "syl": "Cẩn",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "thận!",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "Dây",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "điện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "dưới.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Đèn ở trên băng chuyền không sáng.",
+      "ko": "컨베이어 위 등이 안 켜져요",
+      "kr_read": "댄 어 쩬 방 쭈이엔 콩 상",
+      "tones": [
+       {
+        "syl": "Đèn",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "trên",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "băng",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "chuyền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "không",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "sáng.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Dao ở trong hộp dụng cụ.",
+      "ko": "칼은 공구함 안에 있어요",
+      "kr_read": "자오 어 쫑 홉 중 꾸",
+      "tones": [
+       {
+        "syl": "Dao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "trong",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hộp",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "dụng",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "cụ.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ]
+     }
+    ]
+   },
+   "mission": {
+    "goal": "",
+    "how": "",
+    "a": "",
+    "b": ""
+   }
+  },
+  {
+   "day": 30,
+   "theme": "근태와 보고",
+   "intro": "휴가·지각·보고 — 회사 생활의 말들. báo cáo(報告)도 우리말과 닮았다.",
+   "words": [
+    {
+     "vi": "báo cáo",
+     "ko": "보고하다",
+     "kr_read": "바오 까오",
+     "tones": [
+      {
+       "syl": "báo",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "cáo",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "hanja": "報告 (보고)"
+    },
+    {
+     "vi": "đi làm",
+     "ko": "출근하다",
+     "kr_read": "디 람",
+     "tones": [
+      {
+       "syl": "đi",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "làm",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "đến",
+     "ko": "도착하다",
+     "kr_read": "덴",
+     "tones": [
+      {
+       "syl": "đến",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "họp",
+     "ko": "회의하다",
+     "kr_read": "홉",
+     "tones": [
+      {
+       "syl": "họp",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "nghỉ phép",
+     "ko": "휴가 내다",
+     "kr_read": "응이 팹",
+     "tones": [
+      {
+       "syl": "nghỉ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "phép",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "xin phép",
+     "ko": "양해를 구하다",
+     "kr_read": "씬 팹",
+     "tones": [
+      {
+       "syl": "xin",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "phép",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "lương",
+     "ko": "월급",
+     "kr_read": "르엉",
+     "tones": [
+      {
+       "syl": "lương",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "đúng giờ",
+     "ko": "제시간에",
+     "kr_read": "둥 저",
+     "tones": [
+      {
+       "syl": "đúng",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "giờ",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "vắng",
+     "ko": "결근하다·자리 비우다",
+     "kr_read": "방",
+     "tones": [
+      {
+       "syl": "vắng",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "cố gắng",
+     "ko": "열심히 하다",
+     "kr_read": "꼬 강",
+     "tones": [
+      {
+       "syl": "cố",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "gắng",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    }
+   ],
+   "track": "work",
+   "dialog": {
+    "title": "휴가 말하기",
+    "lines": [
+     {
+      "who": "A",
+      "vi": "Xin phép, mai tôi nghỉ phép ạ.",
+      "ko": "실례지만, 내일 휴가입니다.",
+      "kr_read": "씬 팹 마이 또이 응이 팹 아",
+      "gloss": [
+       {
+        "w": "xin phép",
+        "m": "양해 구함"
+       },
+       {
+        "w": "mai",
+        "m": "내일"
+       },
+       {
+        "w": "nghỉ phép",
+        "m": "휴가"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Xin",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "phép,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nghỉ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "phép",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ạ.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ]
+     },
+     {
+      "who": "B",
+      "vi": "Vâng. Nhớ báo cáo tổ trưởng nhé.",
+      "ko": "네. 조장님께 보고 잊지 마요.",
+      "kr_read": "벙 녀 바오 까오 또 쯔엉 녜",
+      "gloss": [
+       {
+        "w": "nhớ",
+        "m": "기억하다"
+       },
+       {
+        "w": "báo cáo",
+        "m": "보고하다"
+       },
+       {
+        "w": "tổ trưởng",
+        "m": "조장"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Vâng.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "Nhớ",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "báo",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "cáo",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tổ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "trưởng",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     }
+    ],
+    "extra": [
+     {
+      "vi": "Mai tôi đi làm sớm.",
+      "ko": "내일 저는 일찍 출근해요",
+      "kr_read": "마이 또이 디 람 섬",
+      "tones": [
+       {
+        "syl": "Mai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "sớm.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Mấy giờ họp? Ai vắng?",
+      "ko": "몇 시에 회의해요? 누가 결근이에요?",
+      "kr_read": "머이 저 홉 아이 방",
+      "tones": [
+       {
+        "syl": "Mấy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "giờ",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "họp?",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "Ai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "vắng?",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "vi": "Tôi đến đúng giờ.",
+      "ko": "저는 제시간에 도착해요",
+      "kr_read": "또이 덴 둥 저",
+      "tones": [
+       {
+        "syl": "Tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đến",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đúng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "giờ.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ]
+     },
+     {
+      "vi": "Hôm nay có lương! Cố gắng nhé!",
+      "ko": "오늘 월급날! 힘내요!",
+      "kr_read": "홈 나이 꼬 르엉 꼬 강 녜",
+      "tones": [
+       {
+        "syl": "Hôm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "lương!",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "Cố",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "gắng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhé!",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     }
+    ]
+   },
+   "mission": {
+    "goal": "",
+    "how": "",
+    "a": "",
+    "b": ""
+   }
+  }
+ ]
+}

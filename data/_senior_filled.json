@@ -1,0 +1,539 @@
+{
+ "note": "자료가 없는 일일 회차를 주간 시험에서 되살린 것. 원본이 아니라 추정이다.",
+ "sets": [
+  {
+   "kind": "일일(추정)",
+   "no": 63,
+   "words": [
+    {
+     "ko": "완전히 (completely)",
+     "vi": "hoàn toàn",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "아직 기억하다 (still remember)",
+     "vi": "còn nhớ",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "진보적인 (progressive)",
+     "vi": "tiến bộ",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "놀라다 (surprised)",
+     "vi": "ngạc nhiên",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "시간 관념 (punctuality)",
+     "vi": "giờ giấc",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "걱정하다 (worried)",
+     "vi": "lo lắng",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "화법 (way of speaking)",
+     "vi": "kiểu nói chuyện",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "편안한 (comfortable)",
+     "vi": "thoải mái",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "말투 (manner of speaking)",
+     "vi": "cách nói",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "편리한 (convenient)",
+     "vi": "thuận tiện",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "억양 (accent)",
+     "vi": "giọng",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "성숙하다 (mature)",
+     "vi": "trưởng thành",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "은어 (slang)",
+     "vi": "tiếng lóng",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "생겨나다 (rise up)",
+     "vi": "mọc lên",
+     "way": "차례 균등",
+     "week": 16
+    },
+    {
+     "ko": "기여하다 (to contribute)",
+     "vi": "góp phần",
+     "way": "차례 균등",
+     "week": 16
+    },
+    {
+     "ko": "공감하다 (sympathize)",
+     "vi": "thông cảm",
+     "way": "차례 균등",
+     "week": 16
+    }
+   ]
+  },
+  {
+   "kind": "일일(추정)",
+   "no": 65,
+   "words": [
+    {
+     "ko": "감각, 느낌 (feeling)",
+     "vi": "cảm giác",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "비판하다 (reprimand)",
+     "vi": "phê bình",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "하지만 (but)",
+     "vi": "nhưng",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "젖다 (wet)",
+     "vi": "ướt",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "~들 (복수) (plural marker)",
+     "vi": "những",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "프로젝트 (project)",
+     "vi": "dự án",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "소중한 (precious)",
+     "vi": "quý",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "컬렉션 (To collect,Collection)",
+     "vi": "sưu tập",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "흥미로워하다 (interested)",
+     "vi": "thích thú",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "가끔 (sometimes)",
+     "vi": "đôi khi",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "매우 기쁜 (extremely joyful)",
+     "vi": "vui sướng",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "것 (thing)",
+     "vi": "điều",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "영광이다 (pleased)",
+     "vi": "hân hạnh",
+     "way": "차례 균등",
+     "week": 14
+    }
+   ]
+  },
+  {
+   "kind": "일일(추정)",
+   "no": 66,
+   "words": [
+    {
+     "ko": "종류, 방식 (type / style)",
+     "vi": "kiểu",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "명예로운 (honor)",
+     "vi": "vinh dự",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "이유 (reason)",
+     "vi": "lí do",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "자랑스럽다 (proud)",
+     "vi": "tự hào",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "보통은 (usually)",
+     "vi": "thường là",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "강아지 인형 (stuffed dog toy)",
+     "vi": "con chó bông",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "정말로 (indeed / really)",
+     "vi": "đúng là",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "아쉽다 (regretful)",
+     "vi": "tiếc",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "매우 (very)",
+     "vi": "rất là (= rất)",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "의욕이 없다 (depressed)",
+     "vi": "chán nản",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "보상하다 (compensate)",
+     "vi": "đền bù",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "거절하다 (refuse)",
+     "vi": "từ chối",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "보충하다, 메우다 (make up for)",
+     "vi": "bù đắp",
+     "way": "차례 균등",
+     "week": 14
+    }
+   ]
+  },
+  {
+   "kind": "일일(추정)",
+   "no": 67,
+   "words": [
+    {
+     "ko": "구역, 지역 (area)",
+     "vi": "vùng",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "배상하다 (compensate (damage)",
+     "vi": "bồi thường",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "시각 (viewpoint)",
+     "vi": "cách nhìn",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "적응하다 (adapt)",
+     "vi": "thích nghi",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "사고방식 (way of thinking)",
+     "vi": "cách nghĩ",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "적합하다 (suitable)",
+     "vi": "phù hợp",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "흐르다 (flow)",
+     "vi": "trôi",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "분투하다, 노력하다 (strive)",
+     "vi": "phấn đấu",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "보답하다 (rreciprocate)",
+     "vi": "đền đáp",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "노력 (effort)",
+     "vi": "nỗ lực",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "정들다 (bonded)",
+     "vi": "gắn bó",
+     "way": "차례 균등",
+     "week": 14
+    },
+    {
+     "ko": "특별한 (special)",
+     "vi": "đặc biệt",
+     "way": "차례 균등",
+     "week": 14
+    }
+   ]
+  },
+  {
+   "kind": "일일(추정)",
+   "no": 92,
+   "words": [
+    {
+     "ko": "조언 (advice)",
+     "vi": "lời khuyên",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "대중적인 (popular)",
+     "vi": "phổ biến",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "비록 ~이지만 (although)",
+     "vi": "mặc dù",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "네트워크 (network)",
+     "vi": "mạng lưới",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "묘사하다 (describe)",
+     "vi": "miêu tả",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "편리한 (convenient)",
+     "vi": "thuận lợi",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "추측하다, 맞히다 (guess, predict)",
+     "vi": "đoán",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "반드시, 꼭, 틀림없이 (definitely, certainly)",
+     "vi": "nhất định",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "준수하다 (comply with)",
+     "vi": "tuân thủ",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "점수, 스코어 (score)",
+     "vi": "tỉ số",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "규칙을 지키다 (follow the rules)",
+     "vi": "giữ quy tắc",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "행동 action",
+     "vi": "hành động",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "잘생긴 (handsome)",
+     "vi": "điển trai",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "책임자 person in charge",
+     "vi": "chủ nhiệm",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "느린, 굼뜬 (slow, sluggish)",
+     "vi": "chậm chạp",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "잠기다, 침수되다, 가득 차다 (flooded / full of)",
+     "vi": "ngập",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "가치 있는 (valuable)",
+     "vi": "có giá trị",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "활기찬, 생동감 있는 (lively, vibrant, dynamic)",
+     "vi": "sôi động",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "자리를 비우다 (be away)",
+     "vi": "đi vắng",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "죽다, 죽은 (die, dead)",
+     "vi": "chết",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "(메시지를) 전하다 (send (a message))",
+     "vi": "nhắn",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "벌주다, 벌금을 물리다 (punish,  fine)",
+     "vi": "phạt",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "번호를 잘못 누르다 (wrong number)",
+     "vi": "nhầm số",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "같은 방향 (same direction)",
+     "vi": "cùng chiều",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "반대 방향, 역방향 (opposite direction)",
+     "vi": "ngược chiều",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "금지하다 (forbid, prohibit, ban)",
+     "vi": "cấm",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "규칙, 원칙 (rule, principle)",
+     "vi": "quy tắc",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "법 (law)",
+     "vi": "luật",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "향상시키다 (improve)",
+     "vi": "nâng cao",
+     "way": "차례 균등",
+     "week": 19
+    },
+    {
+     "ko": "거친, 부주의한 (careless, reckless, sloppy)",
+     "vi": "ẩu",
+     "way": "차례 균등",
+     "week": 19
+    }
+   ]
+  }
+ ]
+}

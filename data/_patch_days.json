@@ -1,0 +1,723 @@
+{
+ "note": "days.json 에만 살아 있던 **사용자 지시 수정**. 조립기를 다시 돌리면 지워지므로 여기 붙들어 둔다. 근거는 커밋 0a911e95 · 5c2d9c7e.",
+ "replace_day": {
+  "8.5": {
+   "day": 8.5,
+   "theme": "재는 말 — 치수와 무게",
+   "n": 9,
+   "intro": "세는 말(cái·con)은 앞 강에서 했습니다. 오늘은 **재는 말**입니다 — 치수·무게는 작업지시서와 검수표에 매일 나오는데, 세는 말보다 훨씬 자주 씁니다.\n현장에서 cm은 mét이 아니라 **phân**(分)이라고 합니다 — 한국어 \"분\"과 같은 한자입니다.\nkg은 남부에서 **ký**라고 하는데, 35강의 ký(서명하다)와 글자가 같습니다. 앞뒤로 가릅니다.\nchiều dài(길이)와 độ dày(두께)는 소리가 닮았습니다 — dài는 길게, dày는 짧게.",
+   "words": [
+    {
+     "vi": "kích thước",
+     "ko": "치수·규격",
+     "kr_read": "끽 트억",
+     "img": "d085-kich-thuoc.webp",
+     "emoji": "📐",
+     "tones": [
+      {
+       "syl": "kích",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "thước",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "chiều dài",
+     "ko": "길이",
+     "kr_read": "찌에우 자이",
+     "img": "d085-chieu-dai.webp",
+     "emoji": "📏",
+     "tones": [
+      {
+       "syl": "chiều",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "dài",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "chiều rộng",
+     "ko": "너비",
+     "kr_read": "찌에우 종",
+     "img": "d085-chieu-rong.webp",
+     "tones": [
+      {
+       "syl": "chiều",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "rộng",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "chiều cao",
+     "ko": "높이",
+     "kr_read": "찌에우 까오",
+     "img": "d085-chieu-cao.webp",
+     "tones": [
+      {
+       "syl": "chiều",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "cao",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "độ dày",
+     "ko": "두께",
+     "kr_read": "도 자이",
+     "img": "d085-do-day.webp",
+     "tones": [
+      {
+       "syl": "độ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "dày",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "mét",
+     "ko": "미터 (m)",
+     "kr_read": "맫",
+     "img": "d085-met.webp",
+     "tones": [
+      {
+       "syl": "mét",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "phân",
+     "ko": "센티 (cm)",
+     "kr_read": "펀",
+     "img": "d085-phan.webp",
+     "hanja": "分 (분)",
+     "tones": [
+      {
+       "syl": "phân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "mi-li-mét",
+     "ko": "밀리 (mm)",
+     "kr_read": "미 리 맫",
+     "img": "d085-mi-li-met.webp",
+     "tones": [
+      {
+       "syl": "mi",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "li",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "mét",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "ki-lô",
+     "ko": "킬로 (kg)",
+     "kr_read": "끼 로",
+     "img": "d085-ki-lo.webp",
+     "south": "ký",
+     "tones": [
+      {
+       "syl": "ki",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "lô",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "gam",
+     "ko": "그램 (g)",
+     "kr_read": "감",
+     "img": "d085-gam.webp",
+     "tones": [
+      {
+       "syl": "gam",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    }
+   ],
+   "dialog": {
+    "title": "치수 확인",
+    "lines": [
+     {
+      "who": "A",
+      "vi": "Kích thước bao nhiêu?",
+      "ko": "치수가 얼마예요?",
+      "kr_read": "끽 트억 바오 니에우",
+      "gloss": [
+       {
+        "w": "kích thước",
+        "m": "치수"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Kích",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thước",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "bao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nhiêu?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "who": "B",
+      "vi": "Chiều dài hai mét, chiều rộng một mét.",
+      "ko": "길이 2미터, 너비 1미터요.",
+      "kr_read": "찌에우 자이 하이 맫, 찌에우 종 못 맫",
+      "gloss": [
+       {
+        "w": "chiều dài",
+        "m": "길이"
+       },
+       {
+        "w": "mét",
+        "m": "미터"
+       },
+       {
+        "w": "chiều rộng",
+        "m": "너비"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Chiều",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "dài",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "hai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mét,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "chiều",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "rộng",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "một",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "mét.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ]
+     },
+     {
+      "who": "A",
+      "vi": "Còn độ dày? Chiều cao mấy phân?",
+      "ko": "두께는요? 높이는 몇 센티예요?",
+      "kr_read": "꼰 도 자이? 찌에우 까오 머이 펀?",
+      "gloss": [
+       {
+        "w": "độ dày",
+        "m": "두께"
+       },
+       {
+        "w": "chiều cao",
+        "m": "높이"
+       },
+       {
+        "w": "phân",
+        "m": "센티"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Còn",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "độ",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "dày?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "Chiều",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "cao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mấy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "phân?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     },
+     {
+      "who": "B",
+      "vi": "Ba mi-li-mét. Tám phân. Một cái năm ki-lô.",
+      "ko": "3밀리요. 8센티요. 하나에 5킬로예요.",
+      "kr_read": "바 미 리 맫. 땀 펀. 못 까이 남 끼 로",
+      "gloss": [
+       {
+        "w": "mi-li-mét",
+        "m": "밀리"
+       },
+       {
+        "w": "ki-lô",
+        "m": "킬로"
+       }
+      ],
+      "tones": [
+       {
+        "syl": "Ba",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "li",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mét.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "Tám",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "phân.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "Một",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "cái",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "năm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ki",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "lô.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ]
+     }
+    ]
+   },
+   "mission": {
+    "goal": "내 앞에 있는 물건 하나를 골라 치수를 베트남어로 말한다",
+    "how": "자로 재고 chiều dài · chiều rộng · độ dày 를 순서대로 말해 본다. 단위는 phân으로.",
+    "a": "Kích thước bao nhiêu?",
+    "b": "Chiều dài ba mươi phân, chiều rộng hai mươi phân."
+   },
+   "cover": "cvv-85.webp"
+  }
+ },
+ "word_ko": {
+  "16": {
+   "đau": "아프다 (쑤시다)"
+  },
+  "20": {
+   "hứa": "약속하다 (다짐)",
+   "hẹn": "약속하다 (만날 날)"
+  }
+ },
+ "dialog": {
+  "75": {
+   "title": "칭찬 주고받기",
+   "lines": [
+    {
+     "who": "A",
+     "vi": "Em may giỏi ghê!",
+     "ko": "봉제 실력이 엄청나네요!",
+     "kr_read": "앰 마이 조이 게",
+     "gloss": [
+      {
+       "w": "giỏi",
+       "m": "잘하다"
+      },
+      {
+       "w": "ghê",
+       "m": "엄청"
+      }
+     ],
+     "tones": [
+      {
+       "syl": "Em",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "may",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "giỏi",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "ghê!",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "who": "B",
+     "vi": "Thật à? Anh khéo quá nhỉ.",
+     "ko": "정말요? 형은 솜씨가 정말 좋으신걸요.",
+     "kr_read": "텃 아? 아인 캐오 꽈 니",
+     "gloss": [
+      {
+       "w": "thật",
+       "m": "정말"
+      },
+      {
+       "w": "khéo",
+       "m": "솜씨 좋다"
+      },
+      {
+       "w": "quá",
+       "m": "아주"
+      }
+     ],
+     "tones": [
+      {
+       "syl": "Thật",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "à?",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "Anh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "khéo",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "quá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "nhỉ.",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    }
+   ],
+   "extra": [
+    {
+     "vi": "Tuyệt vời! Vỗ tay nào!",
+     "ko": "훌륭해요! 박수!",
+     "kr_read": "뚜이엣 버이 보 따이 나오",
+     "tones": [
+      {
+       "syl": "Tuyệt",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "vời!",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "Vỗ",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      },
+      {
+       "syl": "tay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "nào!",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "Em còn dở lắm ạ.",
+     "ko": "전 아직 서툴러요",
+     "kr_read": "앰 꼰 저 람 아",
+     "tones": [
+      {
+       "syl": "Em",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "còn",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "dở",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "lắm",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "ạ.",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "À, em quen rồi!",
+     "ko": "아, 이제 익숙해요!",
+     "kr_read": "아 앰 꾸앤 조이",
+     "tones": [
+      {
+       "syl": "À,",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "em",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "quen",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "rồi!",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "Ừ, đúng rồi.",
+     "ko": "응, 맞아 (동갑 친구끼리만 쓰는 반말)",
+     "kr_read": "으 둥 조이",
+     "tones": [
+      {
+       "syl": "Ừ,",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "đúng",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "rồi.",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    }
+   ],
+   "emoji": "",
+   "img": "d75-scene.webp"
+  }
+ }
+}

@@ -1,0 +1,57 @@
+[
+ {
+  "n": 1,
+  "text": "Em hai mươi tuổi. Bây giờ chín giờ rưỡi sáng.",
+  "why": "giờ (r/d/gi) · rưỡi (ngã) · sáng (s) · chín (ch)",
+  "files": {
+   "A": "1_A.mp3",
+   "B": "1_B.mp3",
+   "C": "1_C.mp3",
+   "D": "1_D.mp3"
+  }
+ },
+ {
+  "n": 2,
+  "text": "Xin lỗi, nhà vệ sinh ở đâu? Có gần đây không?",
+  "why": "Xin / sinh (s vs x) · lỗi (ngã) · ở (hỏi)",
+  "files": {
+   "A": "2_A.mp3",
+   "B": "2_B.mp3",
+   "C": "2_C.mp3",
+   "D": "2_D.mp3"
+  }
+ },
+ {
+  "n": 3,
+  "text": "Đỏ, xanh và trắng. Màu đỏ đẹp lắm.",
+  "why": "đỏ (hỏi) · xanh (x) · trắng (tr)",
+  "files": {
+   "A": "3_A.mp3",
+   "B": "3_B.mp3",
+   "C": "3_C.mp3",
+   "D": "3_D.mp3"
+  }
+ },
+ {
+  "n": 4,
+  "text": "Ở trong hộp kia. Kim cũng ở đây.",
+  "why": "cũng (ngã) vs ở·hộp (hỏi) — 남부는 이 둘을 합쳐 낸다",
+  "files": {
+   "A": "4_A.mp3",
+   "B": "4_B.mp3",
+   "C": "4_C.mp3",
+   "D": "4_D.mp3"
+  }
+ },
+ {
+  "n": 5,
+  "text": "Có, chính phủ hỗ trợ rất tốt.",
+  "why": "chính (ch) vs trợ (tr) 한 문장에 · hỗ (ngã) vs phủ (hỏi) · rất (r)",
+  "files": {
+   "A": "5_A.mp3",
+   "B": "5_B.mp3",
+   "C": "5_C.mp3",
+   "D": "5_D.mp3"
+  }
+ }
+]

@@ -1,0 +1,117 @@
+#!/usr/bin/env python3
+"""한글 기본기 9개 — 모음·자음·받침·숫자(한자어/고유어)·시간·돈·인사·호칭.
+
+KIIP/EPS 어느 교재도 참고하지 않았다. 한글 자모 구성, 7종성 규칙, 한자어/고유어
+숫자 체계는 특정 교재의 저작물이 아니라 한국어 자체의 언어학적 사실이라 —
+어느 "한국어 배우기" 책에도 똑같이 나온다. 그래서 라이선스 문제와 무관하다.
+베트남어 발음 힌트는 정확한 음성학 대응이 아니라 학습자가 감을 잡는 근사치다.
+"""
+
+BASICS = [
+ {"n": 1, "title_ko": "기본 모음 10개", "title_vi": "10 nguyên âm cơ bản",
+  "explain_ko": "한글의 가장 기본이 되는 모음입니다. 획이 위나 오른쪽을 향하면 밝은 소리(ㅏㅑㅗㅛ), 아래나 왼쪽을 향하면 어두운 소리(ㅓㅕㅜㅠ)입니다.",
+  "explain_vi": "Đây là các nguyên âm cơ bản nhất của chữ Hàn. Nét hướng lên/phải là âm sáng (ㅏㅑㅗㅛ), nét hướng xuống/trái là âm tối (ㅓㅕㅜㅠ).",
+  "table": [
+    {"ko": "ㅏ", "say": "아", "read": "a", "vi": "như 'a' trong tiếng Việt"},
+    {"ko": "ㅑ", "say": "야", "read": "ya", "vi": "như 'ia' (nhanh)"},
+    {"ko": "ㅓ", "say": "어", "read": "eo", "vi": "giữa 'ơ' và 'â'"},
+    {"ko": "ㅕ", "say": "여", "read": "yeo", "vi": "y + eo"},
+    {"ko": "ㅗ", "say": "오", "read": "o", "vi": "như 'o' tiếng Việt"},
+    {"ko": "ㅛ", "say": "요", "read": "yo", "vi": "như 'yo'"},
+    {"ko": "ㅜ", "say": "우", "read": "u", "vi": "như 'u' tiếng Việt"},
+    {"ko": "ㅠ", "say": "유", "read": "yu", "vi": "như 'yu'"},
+    {"ko": "ㅡ", "say": "으", "read": "eu", "vi": "như 'ư' tiếng Việt"},
+    {"ko": "ㅣ", "say": "이", "read": "i", "vi": "như 'i' tiếng Việt"},
+  ]},
+ {"n": 2, "title_ko": "기본 자음 14개", "title_vi": "14 phụ âm cơ bản",
+  "explain_ko": "단어 맨 앞에 오면 순한 소리, 모음 사이에 오면 좀 더 된 소리가 나는 자음이 많습니다(ㄱㄷㅂㅈ).",
+  "explain_vi": "Nhiều phụ âm (ㄱㄷㅂㅈ) phát âm nhẹ khi ở đầu từ, nhưng nghe hơi khác khi đứng giữa nguyên âm.",
+  "table": [
+    {"ko": "ㄱ", "say": "가", "read": "g/k", "vi": "gần 'g', cuối âm tiết nghe như 'k'"},
+    {"ko": "ㄴ", "say": "나", "read": "n", "vi": "như 'n' tiếng Việt"},
+    {"ko": "ㄷ", "say": "다", "read": "d/t", "vi": "gần 'đ'"},
+    {"ko": "ㄹ", "say": "라", "read": "r/l", "vi": "giữa 'r' và 'l'"},
+    {"ko": "ㅁ", "say": "마", "read": "m", "vi": "như 'm' tiếng Việt"},
+    {"ko": "ㅂ", "say": "바", "read": "b/p", "vi": "gần 'b'"},
+    {"ko": "ㅅ", "say": "사", "read": "s", "vi": "như 's', trước 'ㅣ' nghe gần 'sh'"},
+    {"ko": "ㅇ", "say": "아", "read": "무음/ng", "vi": "đầu âm tiết thì câm, cuối âm tiết như 'ng'"},
+    {"ko": "ㅈ", "say": "자", "read": "j", "vi": "gần 'ch' tiếng Việt"},
+    {"ko": "ㅊ", "say": "차", "read": "ch", "vi": "'j' bật hơi mạnh"},
+    {"ko": "ㅋ", "say": "카", "read": "k", "vi": "'g' bật hơi mạnh"},
+    {"ko": "ㅌ", "say": "타", "read": "t", "vi": "'đ' bật hơi mạnh"},
+    {"ko": "ㅍ", "say": "파", "read": "p", "vi": "'b' bật hơi mạnh"},
+    {"ko": "ㅎ", "say": "하", "read": "h", "vi": "như 'h' tiếng Việt"},
+  ]},
+ {"n": 3, "title_ko": "받침 — 겹쳐도 소리는 7가지뿐", "title_vi": "Phụ âm cuối — nhiều chữ nhưng chỉ 7 cách đọc",
+  "explain_ko": "글자는 여러 개지만 받침(글자 끝소리)으로 오면 실제로는 7가지 소리로만 납니다. 특히 ㄷㅅㅆㅈㅊㅌㅎ는 받침에서 전부 [ㄷ] 소리로 뭉칩니다.",
+  "explain_vi": "Có nhiều chữ khác nhau nhưng khi làm phụ âm cuối âm tiết thì chỉ phát ra 7 âm. Đặc biệt ㄷㅅㅆㅈㅊㅌㅎ ở cuối đều đọc thành âm [ㄷ].",
+  "table": [
+    {"ko": "ㄱㅋㄲ", "say": "부엌", "read": "[윽] · 예: 부엌", "vi": "đọc như 'ㄱ' — 부엌 đọc thành [부억]"},
+    {"ko": "ㄴ", "say": "눈", "read": "[은] · 예: 눈", "vi": "đọc nguyên như 'ㄴ'"},
+    {"ko": "ㄷㅅㅆㅈㅊㅌㅎ", "say": "옷", "read": "[읃] · 예: 옷", "vi": "đọc như 'ㄷ' — 옷 đọc thành [옫]"},
+    {"ko": "ㄹ", "say": "물", "read": "[을] · 예: 물", "vi": "đọc nguyên như 'ㄹ'"},
+    {"ko": "ㅁ", "say": "밤", "read": "[음] · 예: 밤", "vi": "đọc nguyên như 'ㅁ'"},
+    {"ko": "ㅂㅍ", "say": "앞", "read": "[읍] · 예: 앞", "vi": "đọc như 'ㅂ' — 앞 đọc thành [압]"},
+    {"ko": "ㅇ", "say": "강", "read": "[응] · 예: 강", "vi": "đọc nguyên như 'ㅇ'"},
+  ]},
+ {"n": 4, "title_ko": "숫자 (한자어) — 돈·전화번호·날짜에", "title_vi": "Số Hán-Hàn — dùng cho tiền, số điện thoại, ngày tháng",
+  "explain_ko": "중국 한자에서 온 숫자입니다. 돈, 전화번호, 분(分), 날짜, km처럼 '단위가 큰 것'이나 '숫자를 하나씩 읽는 것'에 씁니다.",
+  "explain_vi": "Số gốc Hán. Dùng khi nói tiền, số điện thoại, phút, ngày tháng, km — tức là số lớn hoặc đọc từng chữ số.",
+  "table": [
+    {"ko": "일 이 삼 사 오", "read": "1 2 3 4 5", "vi": "giống cách đọc số Hán-Việt (nhất, nhị, tam…)"},
+    {"ko": "육 칠 팔 구 십", "read": "6 7 8 9 10", "vi": "thập = 10"},
+    {"ko": "백 / 천 / 만", "read": "100 / 1,000 / 10,000", "vi": "⚠ '만'은 10,000 — tiếng Việt vẫn đếm theo 1,000 (mười nghìn) nên đây là điểm hay nhầm nhất"},
+  ]},
+ {"n": 5, "title_ko": "숫자 (고유어) — 나이·개수·시각에", "title_vi": "Số thuần Hàn — dùng cho tuổi, đếm đồ vật, giờ",
+  "explain_ko": "한국어 고유의 숫자입니다. 나이, 물건 개수, 사람 수, 시(時)처럼 '하나씩 세는 것'에 씁니다. 99까지만 있고 100부터는 한자어를 씁니다.",
+  "explain_vi": "Số thuần Hàn (không phải gốc Hán). Dùng khi đếm tuổi, số đồ vật, số người, giờ. Chỉ có đến 99, từ 100 trở đi dùng số Hán-Hàn.",
+  "table": [
+    {"ko": "하나 둘 셋 넷 다섯", "read": "1 2 3 4 5", "vi": "đếm đồ vật: 하나 → sau danh từ đổi thành 한 (한 개)"},
+    {"ko": "여섯 일곱 여덟 아홉 열", "read": "6 7 8 9 10", "vi": "열 살 = 10 tuổi"},
+    {"ko": "스물 서른 마흔 쉰", "read": "20 30 40 50", "vi": "스물 → 스무 살 (chỉ số 20 mới đổi dạng như vậy)"},
+  ]},
+ {"n": 6, "title_ko": "시간 읽기 — 시는 고유어, 분은 한자어", "title_vi": "Đọc giờ — 'giờ' dùng số thuần Hàn, 'phút' dùng số Hán-Hàn",
+  "explain_ko": "한 문장 안에서 숫자 체계가 섞입니다. '시'(時) 앞에는 고유어 숫자, '분'(分) 앞에는 한자어 숫자를 씁니다.",
+  "explain_vi": "Trong cùng một câu, hai hệ số trộn lẫn: trước '시'(giờ) dùng số thuần Hàn, trước '분'(phút) dùng số Hán-Hàn.",
+  "table": [
+    {"ko": "한 시", "read": "1시", "vi": "하나 아님 → 한 (số thuần Hàn đổi dạng trước lượng từ)"},
+    {"ko": "두 시 삼십 분", "read": "2:30", "vi": "두 (thuần Hàn) + 시, 삼십 (Hán-Hàn) + 분"},
+    {"ko": "아홉 시 오 분", "read": "9:05", "vi": "아홉 (thuần Hàn) + 시, 오 (Hán-Hàn) + 분"},
+  ]},
+ {"n": 7, "title_ko": "돈 읽기 — 만 단위로 끊어 읽는다", "title_vi": "Đọc tiền — ngắt theo đơn vị 'vạn' (만)",
+  "explain_ko": "한국 돈은 원(원)입니다. 큰 수는 '만' 단위로 끊어 읽습니다 — 10,000은 '일만'이 아니라 그냥 '만'입니다.",
+  "explain_vi": "Tiền Hàn Quốc là 원(won). Số lớn ngắt theo đơn vị 만(vạn=10,000) — 10,000 chỉ đọc là '만', không nói '일만'.",
+  "table": [
+    {"ko": "만 원", "read": "10,000원", "vi": "10.000 won"},
+    {"ko": "오만 원", "read": "50,000원", "vi": "50.000 won"},
+    {"ko": "십만 원", "read": "100,000원", "vi": "100.000 won — 십(10)+만(10,000)"},
+  ]},
+ {"n": 8, "title_ko": "기본 인사말", "title_vi": "Các câu chào cơ bản",
+  "explain_ko": "가장 먼저 익혀야 할 인사말입니다. 웃어른께는 항상 이 격식 있는 형태를 씁니다.",
+  "explain_vi": "Những câu chào cần học đầu tiên. Với người lớn tuổi hơn luôn dùng dạng lịch sự này.",
+  "table": [
+    {"ko": "안녕하세요", "read": "annyeonghaseyo", "vi": "Xin chào (dùng cả sáng/trưa/tối)"},
+    {"ko": "감사합니다", "read": "gamsahamnida", "vi": "Cảm ơn (lịch sự)"},
+    {"ko": "죄송합니다", "read": "joesonghamnida", "vi": "Xin lỗi (lịch sự)"},
+    {"ko": "안녕히 계세요", "read": "annyeonghi gyeseyo", "vi": "Tạm biệt (nói với người ở lại)"},
+    {"ko": "안녕히 가세요", "read": "annyeonghi gaseyo", "vi": "Tạm biệt (nói với người rời đi)"},
+  ]},
+ {"n": 9, "title_ko": "호칭 기초", "title_vi": "Cách xưng hô cơ bản",
+  "explain_ko": "이름 뒤에 '씨'를 붙이면 무난합니다. 가족 호칭은 말하는 사람의 성별에 따라 달라집니다.",
+  "explain_vi": "Gắn '씨' sau tên là cách xưng hô an toàn nhất. Cách gọi người thân thay đổi theo giới tính của người nói.",
+  "table": [
+    {"ko": "이름 + 씨", "read": "vd: 흐엉 씨", "vi": "gọi tên + 씨 — lịch sự, dùng được với hầu hết mọi người"},
+    {"ko": "형 / 오빠", "read": "anh (nam gọi anh trai=형, nữ gọi=오빠)", "vi": "형=nam gọi nam lớn tuổi hơn, 오빠=nữ gọi nam lớn tuổi hơn"},
+    {"ko": "누나 / 언니", "read": "chị (nam gọi=누나, nữ gọi=언니)", "vi": "누나=nam gọi nữ lớn tuổi hơn, 언니=nữ gọi nữ lớn tuổi hơn"},
+    {"ko": "사장님 / 과장님", "read": "giám đốc / trưởng phòng + 님", "vi": "gắn '님' sau chức danh sẽ thành cách gọi kính trọng"},
+  ]},
+]
+
+if __name__ == "__main__":
+    import json, os
+    n_row = sum(len(b["table"]) for b in BASICS)
+    print(f"기본기 {len(BASICS)}개 · 표 항목 {n_row}개")
+    out = os.path.join(os.path.dirname(__file__), "..", "data", "ko_basics.json")
+    json.dump({"note": "특정 교재 미참고 — 한글 자모·숫자 체계는 한국어 자체의 언어학적 사실", "items": BASICS},
+              open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print("저장:", out)

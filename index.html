@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="theme-color" content="#0f1115">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="짜오짜오">
+<meta name="mobile-web-app-capable" content="yes">
+<title>짜오짜오 — 베트남어</title>
+<link rel="stylesheet" href="style.css?v=cb643be8">
+</head>
+<body>
+
+<header id="top">
+  <button id="back" class="ghost" hidden>‹</button>
+  <button id="goHome" class="ghost icon" title="홈으로" aria-label="홈으로" hidden>
+    <svg viewBox="0 0 24 24"><path d="M3.6 11.4 12 4.2l8.4 7.2"/><path d="M5.8 10.6V19a1 1 0 0 0 1 1h3.4v-4.6h3.6V20h3.4a1 1 0 0 0 1-1v-8.4"/></svg>
+  </button>
+  <button id="wxnow" class="ghost wxnow" title="베트남 날씨와 시각" aria-label="날씨와 시각" hidden></button>
+  <h1 id="title">짜오짜오</h1>
+  <button id="goChat" class="ghost icon" title="메신저" aria-label="메신저">
+    <svg viewBox="0 0 24 24"><path d="M12 3.8c-4.7 0-8.5 3.1-8.5 7 0 2.2 1.2 4.1 3 5.4v3.3l3.2-1.8c.7.1 1.5.2 2.3.2 4.7 0 8.5-3.1 8.5-7s-3.8-7.1-8.5-7.1Z"/></svg>
+    <i class="chatdot" hidden></i>
+  </button>
+  <button id="goMe" class="ghost icon" title="내 정보" aria-label="내 정보">
+    <svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.6"/><path d="M4.8 20a7.2 7.2 0 0 1 14.4 0"/></svg>
+  </button>
+  <button id="region" class="ghost" title="북부/남부 소리 전환">북부</button>
+  <button id="voice" class="ghost" title="목소리 바꾸기">여</button>
+</header>
+
+<main>
+  <!-- 홈 -->
+  <section id="home" class="view">
+    <div id="plan" class="plan"></div>
+    <div id="progress" class="progress"></div>
+    <div class="menu" id="menu"></div>
+  </section>
+
+  <!-- 학습 -->
+  <section id="learn" class="view" hidden>
+    <div id="card" class="card"></div>
+    <!-- '‹ 이전 / 다음 ›' 을 뺐다 (대표님 지시) — **밀어서 넘긴다**.
+         마지막 장에서만 단추가 나온다. 진도를 확정하는 자리라 실수로 밀려 넘어가면 안 된다. -->
+    <!-- 화면 좌우에 붙박이 넘김 단추 (대표님 지시 2026-08-31).
+         밀어서 넘기기도 그대로 둔다 — 단추는 밀기를 모르는 사람을 위한 것이다. -->
+    <button id="goPrev" class="pagearrow left" type="button" aria-label="이전">‹</button>
+    <button id="goNext" class="pagearrow right" type="button" aria-label="다음">›</button>
+    <div class="pager">
+      <span id="pos"></span>
+      <button id="next" class="primary big" hidden>다음 ›</button>
+    </div>
+  </section>
+
+  <!-- 퀴즈 -->
+  <section id="quiz" class="view" hidden>
+    <div id="quizBar" class="bar"><div id="quizFill"></div></div>
+    <div id="quizBody"></div>
+  </section>
+
+  <!-- 성조 드릴 -->
+  <section id="tone" class="view" hidden>
+    <div id="toneBody"></div>
+  </section>
+
+  <!-- 규칙 -->
+  <section id="rules" class="view" hidden>
+    <div id="rulesBody"></div>
+  </section>
+
+  <!-- 업적 -->
+  <section id="award" class="view" hidden>
+    <div id="awardBody"></div>
+  </section>
+
+  <!-- 학습 과정 목록 -->
+  <section id="course" class="view" hidden>
+    <ol id="dayList" class="days"></ol>
+  </section>
+
+  <!-- 따라 말하기 -->
+  <section id="speak" class="view" hidden>
+    <div id="speakBody"></div>
+  </section>
+
+  <!-- 자판 -->
+  <section id="type" class="view" hidden>
+    <div id="typeBody"></div>
+  </section>
+
+  <!-- 손글씨 -->
+  <section id="write" class="view" hidden>
+    <div id="writeBody"></div>
+  </section>
+
+  <!-- 베트남 소식 -->
+  <section id="news" class="view" hidden>
+    <div id="newsBody"></div>
+  </section>
+
+  <!-- 날씨 · 시간 -->
+  <section id="wx" class="view" hidden>
+    <div id="wxBody"></div>
+  </section>
+
+  <!-- 사용법 -->
+  <section id="guide" class="view" hidden>
+    <div id="guideBody"></div>
+  </section>
+
+  <!-- 하위 메뉴 -->
+  <section id="sub" class="view" hidden>
+    <div id="subBody"></div>
+  </section>
+
+  <!-- 모의고사 -->
+  <section id="exam" class="view" hidden>
+    <div id="examBody"></div>
+  </section>
+
+  <!-- 동아리 -->
+  <section id="club" class="view" hidden>
+    <div id="clubBody"></div>
+  </section>
+
+  <!-- 주간 성적표 -->
+  <section id="week" class="view" hidden>
+    <div id="weekBody"></div>
+  </section>
+
+  <!-- 닉네임 -->
+  <section id="nick" class="view" hidden>
+    <div id="nickBody"></div>
+  </section>
+
+  <!-- AI 대화 -->
+  <section id="chat" class="view" hidden>
+    <div id="tch" class="tch" hidden></div>
+    <div id="chatSetup" hidden></div>
+    <div id="chatLog" class="chatlog"></div>
+    <form id="chatForm" class="chatin" hidden>
+      <button id="chatMic" class="ghost icon" type="button" title="말로 하기" aria-label="말로">
+        <svg viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5.5 11.5a6.5 6.5 0 0 0 13 0"/><path d="M12 18v3"/></svg>
+      </button>
+      <div class="tawrap" data-v=""><textarea id="chatText" rows="1" placeholder="베트남어나 한국어로…" autocomplete="off"></textarea></div>
+      <button class="primary" type="submit">보내기</button>
+    </form>
+    <div id="chatTone" class="tonebar" hidden></div>
+  </section>
+</main>
+
+<script src="pitch.js?v=cb643be8"></script>
+<script src="app.js?v=cb643be8"></script>
+</body>
+</html>

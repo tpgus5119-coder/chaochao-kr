@@ -1,0 +1,5738 @@
+{
+ "w-a74f31069d.webp": {
+  "ko": "생산하다",
+  "ok": true
+ },
+ "w-09b230153a.webp": {
+  "ko": "고정된, 일정한",
+  "ok": true
+ },
+ "d56-lich.webp": {
+  "ko": "일정, 스케줄",
+  "ok": true
+ },
+ "w-fc98cf14a6.webp": {
+  "ko": "생산 라인, 생산 공정",
+  "ok": false
+ },
+ "w-b3ca9b4016.webp": {
+  "ko": "특산물 / 산물, 생산물",
+  "ok": true
+ },
+ "x-san-luong.webp": {
+  "ko": "생산량",
+  "ok": true
+ },
+ "w-c3dfeb2e50.webp": {
+  "ko": "가공하다",
+  "ok": true
+ },
+ "x-doi-lich.webp": {
+  "ko": "일정을 변경하다",
+  "ok": true
+ },
+ "w-b723ed2868.webp": {
+  "ko": "생산 계획",
+  "ok": false
+ },
+ "w-6bb53bbf54.webp": {
+  "ko": "생산성",
+  "ok": false
+ },
+ "k-jakeop.webp": {
+  "ko": "작업",
+  "ok": true
+ },
+ "x-tang-ca.webp": {
+  "ko": "야근",
+  "ok": false
+ },
+ "w-900e11671c.webp": {
+  "ko": "작업실",
+  "ok": true
+ },
+ "x-quy-trinh.webp": {
+  "ko": "규정, 공정과정",
+  "ok": false
+ },
+ "x-cong-doan.webp": {
+  "ko": "(공정)단계",
+  "ok": false
+ },
+ "d59-chuyen.webp": {
+  "ko": "편 ( 교통수단의 회차나 일정)",
+  "ok": true
+ },
+ "w-3907a54c1a.webp": {
+  "ko": "제조, 연도",
+  "ok": false
+ },
+ "d52-lap-rap.webp": {
+  "ko": "조립하다",
+  "ok": false
+ },
+ "d110-chat-lieu.webp": {
+  "ko": "재질 / 소재",
+  "ok": true
+ },
+ "d107-khay.webp": {
+  "ko": "트레이(=tray)",
+  "ok": true
+ },
+ "w-99f871b3b3.webp": {
+  "ko": "라인 시작 부분",
+  "ok": false
+ },
+ "x-chuong-trinh.webp": {
+  "ko": "프로그램",
+  "ok": false
+ },
+ "w-b71c376378.webp": {
+  "ko": "한 개당 여러 번",
+  "ok": false
+ },
+ "d107-thao-tac.webp": {
+  "ko": "작업 동작 / 작업 방법",
+  "ok": true
+ },
+ "d114-nhac-nho.webp": {
+  "ko": "주의시키다 / 안내하다",
+  "ok": true
+ },
+ "d107-bo-phan.webp": {
+  "ko": "구성 부분·부품",
+  "ok": false
+ },
+ "w-39586749e0.webp": {
+  "ko": "부품 반",
+  "ok": false
+ },
+ "w-e6b206bead.webp": {
+  "ko": "창고 측 / 자재팀",
+  "ok": true
+ },
+ "d108-ty-le.webp": {
+  "ko": "불량 비율",
+  "ok": false
+ },
+ "w-5ff5da3786.webp": {
+  "ko": "부족",
+  "ok": false
+ },
+ "d108-be-mat.webp": {
+  "ko": "표면 / 상판",
+  "ok": true
+ },
+ "w-9e2c48ce88.webp": {
+  "ko": "철 구조물 추가 / 철제 보강",
+  "ok": true
+ },
+ "w-00f83567b4.webp": {
+  "ko": "양품 / 정상품",
+  "ok": true
+ },
+ "w-f5c6735481.webp": {
+  "ko": "승인자",
+  "ok": true
+ },
+ "w-ba379bd28d.webp": {
+  "ko": "생산관리",
+  "ok": false
+ },
+ "w-12bcf19605.webp": {
+  "ko": "‘G’ 표시를 하다",
+  "ok": true
+ },
+ "w-cadeeeda3e.webp": {
+  "ko": "트레이 / 작업용 받침대",
+  "ok": false
+ },
+ "w-771921d7a4.webp": {
+  "ko": "라인에서",
+  "ok": true
+ },
+ "w-c1b4c8cea7.webp": {
+  "ko": "다시 살펴보다",
+  "ok": true
+ },
+ "w-da98fc52c5.webp": {
+  "ko": "불량 수리",
+  "ok": false
+ },
+ "d75-nhi.webp": {
+  "ko": "~지 (부드러운 어조의 확인 표현)",
+  "ok": false
+ },
+ "w-86c6119e6d.webp": {
+  "ko": "인쇄 잉크",
+  "ok": true
+ },
+ "w-3fe1d138a9.webp": {
+  "ko": "라벨이 구겨짐",
+  "ok": true
+ },
+ "w-06943c48d8.webp": {
+  "ko": "통관",
+  "ok": false
+ },
+ "w-284aa2521c.webp": {
+  "ko": "선사",
+  "ok": false
+ },
+ "w-ccdd9b3c0b.webp": {
+  "ko": "작업 지시서",
+  "ok": true
+ },
+ "w-1462030def.webp": {
+  "ko": "주문 수량",
+  "ok": false
+ },
+ "w-035fb35f08.webp": {
+  "ko": "일일 목표",
+  "ok": true
+ },
+ "w-22f0cfdafe.webp": {
+  "ko": "계획 달성",
+  "ok": true
+ },
+ "w-7130f35f62.webp": {
+  "ko": "계획 초과",
+  "ok": true
+ },
+ "w-c9526e785b.webp": {
+  "ko": "후 공정",
+  "ok": false
+ },
+ "x-chay-thu.webp": {
+  "ko": "시운전",
+  "ok": false
+ },
+ "w-fd7bd9d0da.webp": {
+  "ko": "시생산",
+  "ok": true
+ },
+ "w-38d123b2ee.webp": {
+  "ko": "주간조",
+  "ok": false
+ },
+ "w-88fff38bce.webp": {
+  "ko": "출석 점검",
+  "ok": false
+ },
+ "w-797d3843af.webp": {
+  "ko": "숙련공",
+  "ok": true
+ },
+ "w-4d24ae3389.webp": {
+  "ko": "인력 배치",
+  "ok": false
+ },
+ "w-9d9c5cefa3.webp": {
+  "ko": "낭비",
+  "ok": true
+ },
+ "w-46cc5e1412.webp": {
+  "ko": "반제품",
+  "ok": false
+ },
+ "w-f42e0a2e70.webp": {
+  "ko": "폐기품",
+  "ok": true
+ },
+ "x-lam-lai.webp": {
+  "ko": "재작업하다",
+  "ok": true
+ },
+ "x-chuyen.webp": {
+  "ko": "생산 라인",
+  "ok": false
+ },
+ "d30-nghi-phep.webp": {
+  "ko": "휴가 내다",
+  "ok": true
+ },
+ "x-phong.webp": {
+  "ko": "방",
+  "ok": true
+ },
+ "d22-kim.webp": {
+  "ko": "바늘",
+  "ok": true
+ },
+ "d23-ao.webp": {
+  "ko": "윗옷",
+  "ok": true
+ },
+ "d23-quan.webp": {
+  "ko": "바지",
+  "ok": true
+ },
+ "x-cang-chi.webp": {
+  "ko": "실 장력",
+  "ok": false
+ },
+ "d31-thay-kim.webp": {
+  "ko": "바늘을 갈다",
+  "ok": false
+ },
+ "d31-gay-kim.webp": {
+  "ko": "바늘이 부러지다",
+  "ok": false
+ },
+ "d31-dau-may.webp": {
+  "ko": "기계 기름",
+  "ok": false
+ },
+ "x-chinh.webp": {
+  "ko": "조정하다",
+  "ok": false
+ },
+ "x-mex.webp": {
+  "ko": "심지",
+  "ok": false
+ },
+ "x-boj.webp": {
+  "ko": "바택",
+  "ok": true
+ },
+ "x-phu-lieu.webp": {
+  "ko": "부속 재료",
+  "ok": true
+ },
+ "d34-phai.webp": {
+  "ko": "색이 빠지다",
+  "ok": false
+ },
+ "d36-lon.webp": {
+  "ko": "안팎을 뒤집다",
+  "ok": false
+ },
+ "x-dan.webp": {
+  "ko": "붙이다",
+  "ok": true
+ },
+ "d36-tui-nilon.webp": {
+  "ko": "비닐봉지",
+  "ok": true
+ },
+ "d36-dong-thung.webp": {
+  "ko": "상자에 담다",
+  "ok": true
+ },
+ "d51-day-dien.webp": {
+  "ko": "전력선",
+  "ok": false
+ },
+ "d52-rut.webp": {
+  "ko": "뽑다",
+  "ok": true
+ },
+ "d55-doi-ca.webp": {
+  "ko": "교대를 바꾸다",
+  "ok": false
+ },
+ "x-mau.webp": {
+  "ko": "샘플, 모델",
+  "ok": false
+ },
+ "x-chat-luong.webp": {
+  "ko": "품질",
+  "ok": true
+ },
+ "k-hapgyeokhada.webp": {
+  "ko": "합격하다",
+  "ok": true
+ },
+ "w-39b300c745.webp": {
+  "ko": "기준",
+  "ok": true
+ },
+ "d32-do.webp": {
+  "ko": "재다, 측정하다",
+  "ok": true
+ },
+ "x-tieu-chuan.webp": {
+  "ko": "복습 / 기준",
+  "ok": false
+ },
+ "w-f1252b13a5.webp": {
+  "ko": "품질 관리",
+  "ok": true
+ },
+ "d88-hang-loi.webp": {
+  "ko": "불량품",
+  "ok": true
+ },
+ "w-a4fbd137cd.webp": {
+  "ko": "수하물 검사",
+  "ok": true
+ },
+ "w-51fbc327a5.webp": {
+  "ko": "최종 검사",
+  "ok": false
+ },
+ "d88-hang-dat.webp": {
+  "ko": "합격품",
+  "ok": false
+ },
+ "w-3295aa86f9.webp": {
+  "ko": "불합격품",
+  "ok": true
+ },
+ "w-00de2268b8.webp": {
+  "ko": "불량품 격리",
+  "ok": true
+ },
+ "w-1fd3069648.webp": {
+  "ko": "허용 공차",
+  "ok": false
+ },
+ "w-83cd023832.webp": {
+  "ko": "치수 측정",
+  "ok": true
+ },
+ "x-thieu.webp": {
+  "ko": "부족하다",
+  "ok": false
+ },
+ "d57-goi.webp": {
+  "ko": "포장하다",
+  "ok": true
+ },
+ "w-ed17a518f9.webp": {
+  "ko": "재료",
+  "ok": true
+ },
+ "d51-linh-kien.webp": {
+  "ko": "개별 부품·소자",
+  "ok": true
+ },
+ "w-1c903ce433.webp": {
+  "ko": "주요 성분, 주재료",
+  "ok": false
+ },
+ "d08-hop.webp": {
+  "ko": "상자, 박스",
+  "ok": true
+ },
+ "w-10d10e8f2c.webp": {
+  "ko": "궁핍한, 부족한",
+  "ok": false
+ },
+ "w-526df421cb.webp": {
+  "ko": "양, 수량",
+  "ok": true
+ },
+ "w-0939e30166.webp": {
+  "ko": "가공 전 원료",
+  "ok": true
+ },
+ "w-928a8ae8b2.webp": {
+  "ko": "제조용 원자재",
+  "ok": false
+ },
+ "w-6f90eea0fe.webp": {
+  "ko": "재고품",
+  "ok": true
+ },
+ "d35-kho.webp": {
+  "ko": "창고·저장소",
+  "ok": true
+ },
+ "d24-dong-goi.webp": {
+  "ko": "포장",
+  "ok": true
+ },
+ "x-so-luong.webp": {
+  "ko": "수량",
+  "ok": false
+ },
+ "w-47b3160932.webp": {
+  "ko": "단위",
+  "ok": false
+ },
+ "w-1e72d54b9b.webp": {
+  "ko": "용지부족",
+  "ok": false
+ },
+ "w-33fbd89870.webp": {
+  "ko": "자재 불출",
+  "ok": false
+ },
+ "w-7e4f046e08.webp": {
+  "ko": "재고 소진",
+  "ok": true
+ },
+ "w-13c24d1900.webp": {
+  "ko": "보관하다",
+  "ok": true
+ },
+ "w-7d0def9b36.webp": {
+  "ko": "고장",
+  "ok": true
+ },
+ "d25-hong.webp": {
+  "ko": "고장난",
+  "ok": false
+ },
+ "x-thiet-bi.webp": {
+  "ko": "장비, 설비",
+  "ok": true
+ },
+ "d25-sua.webp": {
+  "ko": "수리하다",
+  "ok": false
+ },
+ "x-khoi-dong-lai.webp": {
+  "ko": "재기동",
+  "ok": false
+ },
+ "d27-gang-tay.webp": {
+  "ko": "장갑(줄임말)",
+  "ok": true
+ },
+ "x-cam.webp": {
+  "ko": "금지하다",
+  "ok": false
+ },
+ "x-nguy-hiem.webp": {
+  "ko": "위험한",
+  "ok": true
+ },
+ "d27-tai-nan.webp": {
+  "ko": "사고",
+  "ok": false
+ },
+ "x-an-toan.webp": {
+  "ko": "안전",
+  "ok": true
+ },
+ "w-030a9efaad.webp": {
+  "ko": "역주행 금지",
+  "ok": false
+ },
+ "w-8a7d26c53e.webp": {
+  "ko": "견인차 금지",
+  "ok": false
+ },
+ "w-eb84cd2a94.webp": {
+  "ko": "자동차 금지",
+  "ok": true
+ },
+ "w-812916adf5.webp": {
+  "ko": "씨클로 금지",
+  "ok": false
+ },
+ "w-b7de255d07.webp": {
+  "ko": "우회전 금지",
+  "ok": false
+ },
+ "w-8da17b70f8.webp": {
+  "ko": "소화기",
+  "ok": true
+ },
+ "w-e844b95d58.webp": {
+  "ko": "보안경",
+  "ok": true
+ },
+ "d102-bang.webp": {
+  "ko": "자격증",
+  "ok": false
+ },
+ "x-cong-tac.webp": {
+  "ko": "출장",
+  "ok": true
+ },
+ "d101-nhan-vien.webp": {
+  "ko": "직원",
+  "ok": true
+ },
+ "w-880d28cf13.webp": {
+  "ko": "대표, 대리",
+  "ok": false
+ },
+ "w-665cc38dc6.webp": {
+  "ko": "부서를 이동하다",
+  "ok": false
+ },
+ "d30-luong.webp": {
+  "ko": "급여",
+  "ok": true
+ },
+ "w-f4453fde21.webp": {
+  "ko": "대표자, 대표",
+  "ok": false
+ },
+ "d111-tuyen-dung.webp": {
+  "ko": "채용하다",
+  "ok": true
+ },
+ "w-dcd3b20b53.webp": {
+  "ko": "승진시키다",
+  "ok": false
+ },
+ "d21-dong-nghiep.webp": {
+  "ko": "동료",
+  "ok": true
+ },
+ "w-962042b2e8.webp": {
+  "ko": "임금",
+  "ok": true
+ },
+ "w-ff31fb1189.webp": {
+  "ko": "부사장, 부국장",
+  "ok": false
+ },
+ "w-a7f8169ed9.webp": {
+  "ko": "퇴근 시간대",
+  "ok": true
+ },
+ "w-831d2bdfae.webp": {
+  "ko": "직속 상사",
+  "ok": false
+ },
+ "w-da0bee84bd.webp": {
+  "ko": "자격증·증서",
+  "ok": true
+ },
+ "w-9aa47ea29a.webp": {
+  "ko": "가부장적인, 권위적인",
+  "ok": true
+ },
+ "w-82ddfc769d.webp": {
+  "ko": "모래사장",
+  "ok": true
+ },
+ "w-6b42540b4a.webp": {
+  "ko": "승진하다",
+  "ok": true
+ },
+ "w-bc05d53480.webp": {
+  "ko": "근태 / 출근 기록",
+  "ok": true
+ },
+ "d21-to-truong.webp": {
+  "ko": "팀장",
+  "ok": true
+ },
+ "d30-di-lam.webp": {
+  "ko": "예습 / 출근",
+  "ok": true
+ },
+ "k-toegeun.webp": {
+  "ko": "퇴근",
+  "ok": true
+ },
+ "d111-sep.webp": {
+  "ko": "사장·상사",
+  "ok": true
+ },
+ "w-2358ba5e1d.webp": {
+  "ko": "과, 파트, 부서, 부처",
+  "ok": true
+ },
+ "w-0cd076e851.webp": {
+  "ko": "대표 사무실",
+  "ok": true
+ },
+ "w-1c96660870.webp": {
+  "ko": "본사",
+  "ok": true
+ },
+ "w-76e97132ec.webp": {
+  "ko": "퇴근 시각",
+  "ok": false
+ },
+ "w-904884341a.webp": {
+  "ko": "지각하다, 늦게 가다",
+  "ok": false
+ },
+ "w-a57a39290a.webp": {
+  "ko": "월급을 받다",
+  "ok": true
+ },
+ "d21-nhan-su.webp": {
+  "ko": "인사",
+  "ok": false
+ },
+ "w-e9ef1a7665.webp": {
+  "ko": "로 승진되다, 추천되다",
+  "ok": false
+ },
+ "w-9859a193f5.webp": {
+  "ko": "인력 채용, 헤드 헌팅",
+  "ok": true
+ },
+ "w-3026d8585e.webp": {
+  "ko": "휴가를 내다",
+  "ok": true
+ },
+ "w-7c5e7b555a.webp": {
+  "ko": "대표 사무소",
+  "ok": false
+ },
+ "w-eda1ee0a88.webp": {
+  "ko": "월급이 오르다",
+  "ok": true
+ },
+ "w-e109349bd0.webp": {
+  "ko": "근무시간",
+  "ok": false
+ },
+ "k-hyuga.webp": {
+  "ko": "휴가·방학",
+  "ok": true
+ },
+ "w-66e8516517.webp": {
+  "ko": "채용 담당자",
+  "ok": false
+ },
+ "w-47fb24c254.webp": {
+  "ko": "직원교육",
+  "ok": false
+ },
+ "w-93c6cbc92f.webp": {
+  "ko": "휴가일",
+  "ok": true
+ },
+ "w-ad9260a591.webp": {
+  "ko": "대표적인 음식",
+  "ok": true
+ },
+ "w-ee9bc03cf8.webp": {
+  "ko": "직원 급여",
+  "ok": true
+ },
+ "x-thu-viec.webp": {
+  "ko": "수습",
+  "ok": false
+ },
+ "d67-bang-luong.webp": {
+  "ko": "급여 명세서",
+  "ok": true
+ },
+ "x-luong-co-ban.webp": {
+  "ko": "기본급",
+  "ok": false
+ },
+ "x-phu-cap.webp": {
+  "ko": "수당",
+  "ok": true
+ },
+ "d64-nghi-om.webp": {
+  "ko": "병가",
+  "ok": true
+ },
+ "w-9e9edc64c9.webp": {
+  "ko": "무급 휴가",
+  "ok": false
+ },
+ "d64-ve-som.webp": {
+  "ko": "조퇴",
+  "ok": false
+ },
+ "w-21a26812f3.webp": {
+  "ko": "인사 평가",
+  "ok": true
+ },
+ "w-d284249fc2.webp": {
+  "ko": "노사 대화",
+  "ok": false
+ },
+ "d66-hop-dong.webp": {
+  "ko": "계약",
+  "ok": true
+ },
+ "x-bao-cao.webp": {
+  "ko": "보고하다",
+  "ok": true
+ },
+ "w-5911d7fdf9.webp": {
+  "ko": "예산",
+  "ok": false
+ },
+ "k-yoguhada.webp": {
+  "ko": "요구하다",
+  "ok": false
+ },
+ "d56-ho-so.webp": {
+  "ko": "서류·파일",
+  "ok": true
+ },
+ "w-5840c22928.webp": {
+  "ko": "회계원",
+  "ok": false
+ },
+ "w-4fd52110f2.webp": {
+  "ko": "회의실",
+  "ok": true
+ },
+ "w-5df2cd9edf.webp": {
+  "ko": "제안하다",
+  "ok": true
+ },
+ "d35-ky.webp": {
+  "ko": "서명하다",
+  "ok": true
+ },
+ "d57-hoa-don.webp": {
+  "ko": "영수증",
+  "ok": false
+ },
+ "x-chu.webp": {
+  "ko": "글자·문자",
+  "ok": false
+ },
+ "d35-ghi.webp": {
+  "ko": "기록하다, 적다",
+  "ok": true
+ },
+ "w-1abc02ccfb.webp": {
+  "ko": "베끼다, 복사하다",
+  "ok": true
+ },
+ "w-0d1cd67197.webp": {
+  "ko": "승인",
+  "ok": false
+ },
+ "d57-khach-hang.webp": {
+  "ko": "고객",
+  "ok": true
+ },
+ "d59-giay-to.webp": {
+  "ko": "문서·증빙서류",
+  "ok": true
+ },
+ "w-00a2e227a1.webp": {
+  "ko": "인쇄기, 프린터",
+  "ok": true
+ },
+ "w-c15c5dc2bc.webp": {
+  "ko": "문서를 저장하다",
+  "ok": false
+ },
+ "w-14a02375c0.webp": {
+  "ko": "추정 예산",
+  "ok": false
+ },
+ "w-6c26f2fb92.webp": {
+  "ko": "지갑·자금",
+  "ok": true
+ },
+ "w-9a0ccdd418.webp": {
+  "ko": "원가, 가격",
+  "ok": false
+ },
+ "d30-hop.webp": {
+  "ko": "회의하다",
+  "ok": true
+ },
+ "w-2e7b4a7b90.webp": {
+  "ko": "기초학회계",
+  "ok": false
+ },
+ "w-a1944ea99a.webp": {
+  "ko": "고객 관리",
+  "ok": false
+ },
+ "w-21d62d1533.webp": {
+  "ko": "장부",
+  "ok": true
+ },
+ "d56-email.webp": {
+  "ko": "이메일",
+  "ok": true
+ },
+ "w-871ac15ea6.webp": {
+  "ko": "전기 요금 영수증",
+  "ok": false
+ },
+ "d56-in.webp": {
+  "ko": "인쇄하다",
+  "ok": true
+ },
+ "w-d84b6f4b0c.webp": {
+  "ko": "기록",
+  "ok": true
+ },
+ "w-957ada5b17.webp": {
+  "ko": "문서, 텍스트",
+  "ok": true
+ },
+ "d56-cuoc-hop.webp": {
+  "ko": "회의, 회합",
+  "ok": true
+ },
+ "w-1a4bacc3ad.webp": {
+  "ko": "판매량·매출 실적",
+  "ok": true
+ },
+ "w-8d492fab73.webp": {
+  "ko": "컬러 프린터",
+  "ok": true
+ },
+ "w-2d3206c09e.webp": {
+  "ko": "회의록",
+  "ok": true
+ },
+ "d68-ban-sao.webp": {
+  "ko": "사본",
+  "ok": true
+ },
+ "w-172d3db687.webp": {
+  "ko": "공증",
+  "ok": false
+ },
+ "d46-quet.webp": {
+  "ko": "쓸다·스캔하다",
+  "ok": false
+ },
+ "d88-danh-dau.webp": {
+  "ko": "표시하다 / 마킹하다",
+  "ok": false
+ },
+ "d110-dien-tro.webp": {
+  "ko": "저항 (Resistance)",
+  "ok": true
+ },
+ "d110-luc-ep.webp": {
+  "ko": "압력 / 프레스 힘",
+  "ok": true
+ },
+ "w-ed0981783a.webp": {
+  "ko": "전자부품",
+  "ok": true
+ },
+ "d91-bo-mach.webp": {
+  "ko": "기판·PCB",
+  "ok": true
+ },
+ "w-62527f2416.webp": {
+  "ko": "전기 회로",
+  "ok": false
+ },
+ "w-3aac307419.webp": {
+  "ko": "인덕터",
+  "ok": false
+ },
+ "d51-chip.webp": {
+  "ko": "칩",
+  "ok": true
+ },
+ "w-8e186f2eec.webp": {
+  "ko": "마이크로칩",
+  "ok": true
+ },
+ "w-1699a0d5b5.webp": {
+  "ko": "반도체 물질",
+  "ok": false
+ },
+ "w-5301e6f4c7.webp": {
+  "ko": "커넥터",
+  "ok": true
+ },
+ "w-cb9f7eb3e4.webp": {
+  "ko": "도선·전선",
+  "ok": true
+ },
+ "d51-pin.webp": {
+  "ko": "배터리",
+  "ok": false
+ },
+ "w-70c470b1d7.webp": {
+  "ko": "솔더 페이스트",
+  "ok": false
+ },
+ "d91-han.webp": {
+  "ko": "납땜하다",
+  "ok": true
+ },
+ "d89-thao-ra.webp": {
+  "ko": "분해하다",
+  "ok": false
+ },
+ "w-c14bd84b9a.webp": {
+  "ko": "기판 세척",
+  "ok": false
+ },
+ "w-2f8ff90479.webp": {
+  "ko": "엑스레이 검사",
+  "ok": false
+ },
+ "w-5976213b40.webp": {
+  "ko": "교정하다",
+  "ok": false
+ },
+ "w-b13c13dd3c.webp": {
+  "ko": "불량률",
+  "ok": false
+ },
+ "w-63858a6d3d.webp": {
+  "ko": "납땜 불량",
+  "ok": true
+ },
+ "w-f5f312f238.webp": {
+  "ko": "기포",
+  "ok": true
+ },
+ "d53-phong-sach.webp": {
+  "ko": "클린룸",
+  "ok": true
+ },
+ "w-b74ac90768.webp": {
+  "ko": "방진복",
+  "ok": false
+ },
+ "w-8a09a4376e.webp": {
+  "ko": "정전기 매트",
+  "ok": false
+ },
+ "x-tinh-dien.webp": {
+  "ko": "정전기",
+  "ok": true
+ },
+ "w-8eb67bce52.webp": {
+  "ko": "실온",
+  "ok": false
+ },
+ "d55-day-chuyen.webp": {
+  "ko": "라인",
+  "ok": true
+ },
+ "d29-bang-chuyen.webp": {
+  "ko": "컨베이어",
+  "ok": true
+ },
+ "w-b5d738a06a.webp": {
+  "ko": "부품 트레이",
+  "ok": true
+ },
+ "w-80890daca7.webp": {
+  "ko": "설비 프로그램",
+  "ok": false
+ },
+ "w-f1db1ee92a.webp": {
+  "ko": "설비 부품 교체",
+  "ok": true
+ },
+ "w-5df70d8803.webp": {
+  "ko": "비가동 시간",
+  "ok": false
+ },
+ "w-537920693b.webp": {
+  "ko": "설비 생산성",
+  "ok": false
+ },
+ "w-6cc6620b83.webp": {
+  "ko": "바코드",
+  "ok": false
+ },
+ "w-daa17b3bc1.webp": {
+  "ko": "스티커식 라벨",
+  "ok": false
+ },
+ "w-8c565c0ba4.webp": {
+  "ko": "로트",
+  "ok": true
+ },
+ "k-telrebijeon.webp": {
+  "ko": "텔레비전",
+  "ok": true
+ },
+ "w-6700df1871.webp": {
+  "ko": "케이스",
+  "ok": false
+ },
+ "w-da3a4e11b2.webp": {
+  "ko": "완충재",
+  "ok": false
+ },
+ "w-f8aefeeae5.webp": {
+  "ko": "설계 변경",
+  "ok": false
+ },
+ "w-e860909c58.webp": {
+  "ko": "조립 로봇",
+  "ok": true
+ },
+ "w-86aca03c01.webp": {
+  "ko": "정전기 트레이",
+  "ok": true
+ },
+ "w-92289235ca.webp": {
+  "ko": "작업용 테이블",
+  "ok": true
+ },
+ "w-d056d4318c.webp": {
+  "ko": "비상 정지 버튼",
+  "ok": false
+ },
+ "w-f7d301841a.webp": {
+  "ko": "전력 공급원",
+  "ok": true
+ },
+ "w-ff75b4ff24.webp": {
+  "ko": "초기화",
+  "ok": false
+ },
+ "w-cd12e51c5d.webp": {
+  "ko": "데이터 저장",
+  "ok": true
+ },
+ "w-eea00e2e9c.webp": {
+  "ko": "소프트웨어 버전",
+  "ok": false
+ },
+ "d91-moi-han.webp": {
+  "ko": "납땜부",
+  "ok": true
+ },
+ "w-9581c652ad.webp": {
+  "ko": "솔더 볼",
+  "ok": true
+ },
+ "w-6c54e65c32.webp": {
+  "ko": "기판 휨",
+  "ok": false
+ },
+ "w-38c6725267.webp": {
+  "ko": "누전",
+  "ok": true
+ },
+ "w-a6c89fbe61.webp": {
+  "ko": "온도 시험",
+  "ok": false
+ },
+ "w-c73da96784.webp": {
+  "ko": "카메라 검사",
+  "ok": false
+ },
+ "w-8c01837cdd.webp": {
+  "ko": "필름 제거",
+  "ok": true
+ },
+ "w-c3d3ea9378.webp": {
+  "ko": "방열 패드",
+  "ok": false
+ },
+ "w-63a602c474.webp": {
+  "ko": "전동 드라이버",
+  "ok": true
+ },
+ "w-eca981b38c.webp": {
+  "ko": "교대장",
+  "ok": true
+ },
+ "w-c35e3dbfb0.webp": {
+  "ko": "자재 투입",
+  "ok": true
+ },
+ "d52-siet.webp": {
+  "ko": "조이다",
+  "ok": true
+ },
+ "k-pulda.webp": {
+  "ko": "풀다",
+  "ok": false
+ },
+ "w-c8883fd01c.webp": {
+  "ko": "뒤집어 넘기다",
+  "ok": false
+ },
+ "k-neotda.webp": {
+  "ko": "넣다",
+  "ok": true
+ },
+ "w-917095565d.webp": {
+  "ko": "꺼내다",
+  "ok": false
+ },
+ "w-f82dbd9eff.webp": {
+  "ko": "다음 공정으로",
+  "ok": true
+ },
+ "w-67f8edf4a2.webp": {
+  "ko": "보류",
+  "ok": true
+ },
+ "w-62860bb78f.webp": {
+  "ko": "반송",
+  "ok": false
+ },
+ "w-e26f02c0e9.webp": {
+  "ko": "휘어진",
+  "ok": true
+ },
+ "w-3ebbd0dabd.webp": {
+  "ko": "찌그러짐",
+  "ok": false
+ },
+ "d34-lech.webp": {
+  "ko": "어긋남",
+  "ok": false
+ },
+ "w-25a068d618.webp": {
+  "ko": "과다",
+  "ok": true
+ },
+ "w-4a2732df67.webp": {
+  "ko": "꽉 낌",
+  "ok": false
+ },
+ "w-3e2cded362.webp": {
+  "ko": "걸림",
+  "ok": true
+ },
+ "d93-vo.webp": {
+  "ko": "깨짐",
+  "ok": true
+ },
+ "w-e43ef1a886.webp": {
+  "ko": "드라이버",
+  "ok": true
+ },
+ "d32-thuoc.webp": {
+  "ko": "자",
+  "ok": true
+ },
+ "w-d619950e1f.webp": {
+  "ko": "검사등",
+  "ok": true
+ },
+ "k-cheongsogi.webp": {
+  "ko": "진공청소기",
+  "ok": true
+ },
+ "w-a97dcf3078.webp": {
+  "ko": "보관함",
+  "ok": true
+ },
+ "d085-do-day.webp": {
+  "ko": "두께",
+  "ok": true
+ },
+ "w-50af2163bd.webp": {
+  "ko": "압력",
+  "ok": true
+ },
+ "w-1cd385d7e0.webp": {
+  "ko": "주기",
+  "ok": false
+ },
+ "w-c8fa045293.webp": {
+  "ko": "다시 확인",
+  "ok": false
+ },
+ "x-bao-ngay.webp": {
+  "ko": "즉시 보고",
+  "ok": true
+ },
+ "w-aafd7d1018.webp": {
+  "ko": "지시 대기",
+  "ok": false
+ },
+ "w-53a743b4bb.webp": {
+  "ko": "기준대로",
+  "ok": false
+ },
+ "d42-cham-lai.webp": {
+  "ko": "천천히",
+  "ok": true
+ },
+ "w-d88d977626.webp": {
+  "ko": "생산 데이터",
+  "ok": false
+ },
+ "d21-xuong.webp": {
+  "ko": "작업장",
+  "ok": true
+ },
+ "d08-cai-ghe.webp": {
+  "ko": "의자",
+  "ok": true
+ },
+ "w-dff6ed6a4d.webp": {
+  "ko": "일반적인 책상·탁자",
+  "ok": true
+ },
+ "w-9ba221734c.webp": {
+  "ko": "사원증",
+  "ok": true
+ },
+ "d53-mu.webp": {
+  "ko": "모자",
+  "ok": true
+ },
+ "w-a07a6a94a1.webp": {
+  "ko": "작업복",
+  "ok": true
+ },
+ "d27-khau-trang.webp": {
+  "ko": "마스크",
+  "ok": true
+ },
+ "x-bo.webp": {
+  "ko": "기판(줄임말)",
+  "ok": true
+ },
+ "w-d6022524a2.webp": {
+  "ko": "코일",
+  "ok": true
+ },
+ "w-82e90a8c5c.webp": {
+  "ko": "차단기",
+  "ok": false
+ },
+ "w-97e1fd3c8d.webp": {
+  "ko": "민소매 옷 / 짧은 소매 옷 통칭",
+  "ok": false
+ },
+ "d37-dep.webp": {
+  "ko": "슬리퍼",
+  "ok": true
+ },
+ "d37-giay.webp": {
+  "ko": "신발",
+  "ok": true
+ },
+ "w-3fb5deec92.webp": {
+  "ko": "옷 한 벌, 의류 세트",
+  "ok": true
+ },
+ "w-a95e821f41.webp": {
+  "ko": "니트",
+  "ok": true
+ },
+ "d22-vai.webp": {
+  "ko": "천, 직물",
+  "ok": true
+ },
+ "d70-vi.webp": {
+  "ko": "지갑",
+  "ok": true
+ },
+ "d435-hoa-van.webp": {
+  "ko": "무늬, 패턴",
+  "ok": true
+ },
+ "w-c5cdb10c21.webp": {
+  "ko": "방직 공장, 직물 공장",
+  "ok": false
+ },
+ "x-gau.webp": {
+  "ko": "(옷, 바지) 밑단",
+  "ok": true
+ },
+ "w-a6b4b819f7.webp": {
+  "ko": "신발, 구두",
+  "ok": true
+ },
+ "w-cd5aab0254.webp": {
+  "ko": "소수민족 전통 직물",
+  "ok": true
+ },
+ "w-e5e903d848.webp": {
+  "ko": "신발 한 쌍",
+  "ok": true
+ },
+ "w-069750a4cd.webp": {
+  "ko": "원단의 너비",
+  "ok": true
+ },
+ "w-b447f4e557.webp": {
+  "ko": "뒤품",
+  "ok": true
+ },
+ "w-92f189ebba.webp": {
+  "ko": "어깨 너비",
+  "ok": true
+ },
+ "d32-ep-mex.webp": {
+  "ko": "심지 덧대기",
+  "ok": false
+ },
+ "w-3fe3c353bc.webp": {
+  "ko": "옆선",
+  "ok": false
+ },
+ "x-than-sau.webp": {
+  "ko": "뒷판",
+  "ok": true
+ },
+ "w-d299821890.webp": {
+  "ko": "쌍 입술",
+  "ok": false
+ },
+ "d31-dut-chi.webp": {
+  "ko": "실 끊김",
+  "ok": false
+ },
+ "w-0444e454d6.webp": {
+  "ko": "단추달기",
+  "ok": false
+ },
+ "w-655d7dce79.webp": {
+  "ko": "세무가죽",
+  "ok": false
+ },
+ "w-218107ede7.webp": {
+  "ko": "깃둘레",
+  "ok": false
+ },
+ "w-1f1c6fdd22.webp": {
+  "ko": "요척",
+  "ok": false
+ },
+ "w-63092d061b.webp": {
+  "ko": "옆줄무늬",
+  "ok": true
+ },
+ "w-ce3db00fe3.webp": {
+  "ko": "두겹",
+  "ok": false
+ },
+ "d24-theu.webp": {
+  "ko": "자수",
+  "ok": true
+ },
+ "w-c56a8c25ce.webp": {
+  "ko": "안단 솔기",
+  "ok": false
+ },
+ "x-than-truoc.webp": {
+  "ko": "앞판",
+  "ok": false
+ },
+ "w-d3fc41b946.webp": {
+  "ko": "앞주머니",
+  "ok": true
+ },
+ "w-7e2e1dbc53.webp": {
+  "ko": "생산에 투입",
+  "ok": false
+ },
+ "d24-ui.webp": {
+  "ko": "다림질하다",
+  "ok": true
+ },
+ "w-5c12fca557.webp": {
+  "ko": "긴소매",
+  "ok": true
+ },
+ "w-a61d568e9d.webp": {
+  "ko": "표시",
+  "ok": false
+ },
+ "w-87d11a46d3.webp": {
+  "ko": "덧대어 박기",
+  "ok": false
+ },
+ "w-101d6096c6.webp": {
+  "ko": "옷의 덧단",
+  "ok": true
+ },
+ "w-61f4afa2c2.webp": {
+  "ko": "주머니 자루",
+  "ok": true
+ },
+ "w-bde00c042c.webp": {
+  "ko": "밑위 길이",
+  "ok": true
+ },
+ "w-300c755604.webp": {
+  "ko": "옆판",
+  "ok": false
+ },
+ "d23-tay-ao.webp": {
+  "ko": "소매",
+  "ok": true
+ },
+ "w-61dbefb114.webp": {
+  "ko": "천 견본",
+  "ok": false
+ },
+ "w-d02a177a20.webp": {
+  "ko": "상단 덧단",
+  "ok": false
+ },
+ "w-5f1a3904d7.webp": {
+  "ko": "바지길이",
+  "ok": true
+ },
+ "d33-ly.webp": {
+  "ko": "박는주름",
+  "ok": false
+ },
+ "w-8e8874783f.webp": {
+  "ko": "뒤집어 돌리기",
+  "ok": false
+ },
+ "w-429c7e5ffe.webp": {
+  "ko": "소매 아래쪽.",
+  "ok": false
+ },
+ "w-161a061a25.webp": {
+  "ko": "허리안",
+  "ok": false
+ },
+ "w-2f05eb04c8.webp": {
+  "ko": "경고",
+  "ok": true
+ },
+ "w-7fa5ce5d2d.webp": {
+  "ko": "가죽 구두",
+  "ok": true
+ },
+ "k-gabang.webp": {
+  "ko": "가방",
+  "ok": true
+ },
+ "w-9279bcba4f.webp": {
+  "ko": "끈·스트랩",
+  "ok": true
+ },
+ "w-6927574d9d.webp": {
+  "ko": "미드솔",
+  "ok": true
+ },
+ "w-61128f51ac.webp": {
+  "ko": "끈 구멍",
+  "ok": true
+ },
+ "w-be8a14af82.webp": {
+  "ko": "천연가죽",
+  "ok": true
+ },
+ "w-5baf8d8f28.webp": {
+  "ko": "합성피혁",
+  "ok": true
+ },
+ "w-47622325a7.webp": {
+  "ko": "EVA 폼",
+  "ok": true
+ },
+ "w-9a00010129.webp": {
+  "ko": "밑창 압착",
+  "ok": true
+ },
+ "w-b76d937a87.webp": {
+  "ko": "본드 칠하기",
+  "ok": true
+ },
+ "w-78b28b4495.webp": {
+  "ko": "표면 거칠게 하기",
+  "ok": false
+ },
+ "w-985259520b.webp": {
+  "ko": "금형 성형",
+  "ok": false
+ },
+ "w-51f1645492.webp": {
+  "ko": "가죽 재단",
+  "ok": true
+ },
+ "w-4953eec88e.webp": {
+  "ko": "짝 검사",
+  "ok": false
+ },
+ "w-9cbc5b1db2.webp": {
+  "ko": "짝 불일치",
+  "ok": true
+ },
+ "w-ac40bee88e.webp": {
+  "ko": "신발 치수",
+  "ok": false
+ },
+ "w-e805dd1bcc.webp": {
+  "ko": "신발 박스 포장",
+  "ok": true
+ },
+ "w-e2486d1e81.webp": {
+  "ko": "라스팅 라인",
+  "ok": false
+ },
+ "w-86ae4d1fb2.webp": {
+  "ko": "밑창 라인",
+  "ok": true
+ },
+ "w-aac094ac92.webp": {
+  "ko": "컬러 차트",
+  "ok": true
+ },
+ "w-6eec7c1c39.webp": {
+  "ko": "기준 사이즈",
+  "ok": false
+ },
+ "w-d7e7bab1f1.webp": {
+  "ko": "재단 칼 절단",
+  "ok": false
+ },
+ "w-6929612cc0.webp": {
+  "ko": "자동 재단",
+  "ok": false
+ },
+ "w-55e05ef2bc.webp": {
+  "ko": "로고 자수",
+  "ok": false
+ },
+ "w-54f43a553d.webp": {
+  "ko": "타공",
+  "ok": false
+ },
+ "w-7b85c40fc4.webp": {
+  "ko": "겉에서 눌러 박기",
+  "ok": false
+ },
+ "w-f7587c6c44.webp": {
+  "ko": "일반적인 열처리",
+  "ok": false
+ },
+ "w-75dc8cc408.webp": {
+  "ko": "접착 검사",
+  "ok": false
+ },
+ "w-516a0c29be.webp": {
+  "ko": "접착력 시험",
+  "ok": false
+ },
+ "w-5fa1318967.webp": {
+  "ko": "불량 신발",
+  "ok": true
+ },
+ "w-16cd265da0.webp": {
+  "ko": "본드 오염",
+  "ok": false
+ },
+ "w-53ee641415.webp": {
+  "ko": "타이어 펌프하다",
+  "ok": false
+ },
+ "w-3de8135542.webp": {
+  "ko": "주방 선반",
+  "ok": false
+ },
+ "w-776aefd21a.webp": {
+  "ko": "프레스 금형",
+  "ok": false
+ },
+ "w-f6961d9627.webp": {
+  "ko": "선반",
+  "ok": true
+ },
+ "d32-may-cat.webp": {
+  "ko": "절단기",
+  "ok": false
+ },
+ "w-82e2b3c280.webp": {
+  "ko": "용접기",
+  "ok": true
+ },
+ "w-45d5f8ca10.webp": {
+  "ko": "아크 용접",
+  "ok": true
+ },
+ "w-74b45f941a.webp": {
+  "ko": "플라스틱 압축",
+  "ok": true
+ },
+ "w-8d63a5bdd2.webp": {
+  "ko": "도금하다",
+  "ok": false
+ },
+ "w-7677922866.webp": {
+  "ko": "밸브",
+  "ok": false
+ },
+ "w-c9020392ac.webp": {
+  "ko": "실린더",
+  "ok": true
+ },
+ "w-06f12bd202.webp": {
+  "ko": "유압",
+  "ok": false
+ },
+ "w-25a768381f.webp": {
+  "ko": "윤활유",
+  "ok": true
+ },
+ "w-ab26244534.webp": {
+  "ko": "벨트",
+  "ok": true
+ },
+ "w-bc33a641dd.webp": {
+  "ko": "기어",
+  "ok": true
+ },
+ "d51-oc-vit.webp": {
+  "ko": "나사",
+  "ok": true
+ },
+ "w-6c32141d02.webp": {
+  "ko": "너트",
+  "ok": true
+ },
+ "w-c40d1f7e30.webp": {
+  "ko": "와셔",
+  "ok": false
+ },
+ "d90-ban-ve.webp": {
+  "ko": "도면",
+  "ok": true
+ },
+ "w-9cca059c0d.webp": {
+  "ko": "정렬하다",
+  "ok": true
+ },
+ "w-f0e16c049d.webp": {
+  "ko": "부속품",
+  "ok": false
+ },
+ "w-3606435a6c.webp": {
+  "ko": "교체 부품",
+  "ok": true
+ },
+ "w-0e70e4715f.webp": {
+  "ko": "기계 가공",
+  "ok": true
+ },
+ "w-8ea1a8b9a9.webp": {
+  "ko": "정밀 가공",
+  "ok": true
+ },
+ "w-652605f54b.webp": {
+  "ko": "가공 프로그램",
+  "ok": false
+ },
+ "w-8c1de69f7e.webp": {
+  "ko": "절삭 공구",
+  "ok": true
+ },
+ "w-4286b610ba.webp": {
+  "ko": "드릴 비트",
+  "ok": true
+ },
+ "w-f54dac9f30.webp": {
+  "ko": "회전 속도",
+  "ok": true
+ },
+ "d80-giao-hang.webp": {
+  "ko": "배송하다, 배달하다",
+  "ok": true
+ },
+ "w-3766974c49.webp": {
+  "ko": "세관",
+  "ok": false
+ },
+ "k-suip.webp": {
+  "ko": "소득, 수입",
+  "ok": true
+ },
+ "w-9a18e8378c.webp": {
+  "ko": "원산지, 출처",
+  "ok": true
+ },
+ "w-70c95326f7.webp": {
+  "ko": "물류비용",
+  "ok": false
+ },
+ "w-02b240c95a.webp": {
+  "ko": "국제무역, 통상",
+  "ok": true
+ },
+ "w-0aec95befd.webp": {
+  "ko": "운송, 운반",
+  "ok": true
+ },
+ "w-5f29ba5fa5.webp": {
+  "ko": "운송수단",
+  "ok": true
+ },
+ "w-2cba9e2ab1.webp": {
+  "ko": "운송 / 배송",
+  "ok": true
+ },
+ "w-2f1e1419bb.webp": {
+  "ko": "주문서",
+  "ok": false
+ },
+ "w-77d7997c86.webp": {
+  "ko": "수출세",
+  "ok": false
+ },
+ "w-c927fff21f.webp": {
+  "ko": "휘발유, 석유를 운송하다",
+  "ok": true
+ },
+ "w-94ff527fa6.webp": {
+  "ko": "매출·수입금",
+  "ok": true
+ },
+ "x-alo.webp": {
+  "ko": "여보세요",
+  "ok": true
+ },
+ "w-6f8121921a.webp": {
+  "ko": "수출과 수입",
+  "ok": false
+ },
+ "w-6d1b1c143b.webp": {
+  "ko": "물류 창고",
+  "ok": true
+ },
+ "d97-nhap-kho.webp": {
+  "ko": "입고하다",
+  "ok": true
+ },
+ "d97-xuat-kho.webp": {
+  "ko": "출고하다",
+  "ok": true
+ },
+ "x-ton-kho.webp": {
+  "ko": "재고(상태)",
+  "ok": true
+ },
+ "w-99eca55cdd.webp": {
+  "ko": "입고 전표",
+  "ok": false
+ },
+ "d96-xe-nang.webp": {
+  "ko": "지게차",
+  "ok": true
+ },
+ "d95-pallet.webp": {
+  "ko": "팔레트",
+  "ok": true
+ },
+ "w-926d847d88.webp": {
+  "ko": "상하차",
+  "ok": true
+ },
+ "w-8ac48855bc.webp": {
+  "ko": "트럭",
+  "ok": true
+ },
+ "w-b4f4de2ef0.webp": {
+  "ko": "선박",
+  "ok": true
+ },
+ "w-3e110d9a9e.webp": {
+  "ko": "항구",
+  "ok": true
+ },
+ "w-fbac6d5d7d.webp": {
+  "ko": "짓다·쌓다",
+  "ok": true
+ },
+ "d114-xay-dung.webp": {
+  "ko": "건설하다·구축하다",
+  "ok": true
+ },
+ "w-358a0169ff.webp": {
+  "ko": "공사장",
+  "ok": false
+ },
+ "w-c9c03c304f.webp": {
+  "ko": "설계도",
+  "ok": false
+ },
+ "w-e80ba76069.webp": {
+  "ko": "발주처",
+  "ok": false
+ },
+ "w-498a695fb7.webp": {
+  "ko": "크레인",
+  "ok": true
+ },
+ "w-78909b820d.webp": {
+  "ko": "기초 굴착",
+  "ok": true
+ },
+ "w-13e00550b3.webp": {
+  "ko": "파이프·관",
+  "ok": true
+ },
+ "w-1b41a1893b.webp": {
+  "ko": "전기 설비",
+  "ok": true
+ },
+ "w-699c9141c0.webp": {
+  "ko": "방수",
+  "ok": false
+ },
+ "w-facd02bc10.webp": {
+  "ko": "안전모",
+  "ok": true
+ },
+ "w-c8718769be.webp": {
+  "ko": "경고 표지판",
+  "ok": true
+ },
+ "d110-nhua.webp": {
+  "ko": "플라스틱",
+  "ok": true
+ },
+ "w-226d9cce00.webp": {
+  "ko": "폐수, 하수",
+  "ok": true
+ },
+ "w-7d614c8888.webp": {
+  "ko": "약품",
+  "ok": true
+ },
+ "w-ee90bba054.webp": {
+  "ko": "화학 약품",
+  "ok": true
+ },
+ "w-d082aaeadd.webp": {
+  "ko": "농도",
+  "ok": false
+ },
+ "w-4e715b4aef.webp": {
+  "ko": "중화하다",
+  "ok": false
+ },
+ "w-a2fed3bd46.webp": {
+  "ko": "신재 수지",
+  "ok": true
+ },
+ "w-2989a8d6fb.webp": {
+  "ko": "사출 성형",
+  "ok": false
+ },
+ "w-6304d44c12.webp": {
+  "ko": "착색제",
+  "ok": true
+ },
+ "w-14a39563a7.webp": {
+  "ko": "식품회사",
+  "ok": true
+ },
+ "w-734a0f63e2.webp": {
+  "ko": "진공 포장",
+  "ok": false
+ },
+ "w-aa4163aa01.webp": {
+  "ko": "유통기한",
+  "ok": false
+ },
+ "w-d7e5ad222f.webp": {
+  "ko": "가공 라인",
+  "ok": true
+ },
+ "w-8684bdc630.webp": {
+  "ko": "가공실",
+  "ok": false
+ },
+ "w-300a38a17b.webp": {
+  "ko": "냉동 창고",
+  "ok": true
+ },
+ "w-d8de0f798b.webp": {
+  "ko": "전시, 진열",
+  "ok": true
+ },
+ "w-dfe3d33d00.webp": {
+  "ko": "진열하다, 전시하다",
+  "ok": true
+ },
+ "w-226ec7dc9b.webp": {
+  "ko": "판촉, 할인 행사",
+  "ok": true
+ },
+ "k-pyeonuijeom.webp": {
+  "ko": "편의점",
+  "ok": true
+ },
+ "w-d1d2e600ec.webp": {
+  "ko": "할인 행사",
+  "ok": true
+ },
+ "w-5fa884b0bd.webp": {
+  "ko": "판매 영수증",
+  "ok": true
+ },
+ "w-dcc95e835f.webp": {
+  "ko": "단골",
+  "ok": true
+ },
+ "x-khieu-nai.webp": {
+  "ko": "고객 불만",
+  "ok": false
+ },
+ "w-d1e89f4e30.webp": {
+  "ko": "교환·반품",
+  "ok": true
+ },
+ "w-8cd3bd7916.webp": {
+  "ko": "상품 점검",
+  "ok": true
+ },
+ "w-ecb2262ea5.webp": {
+  "ko": "가격표 부착",
+  "ok": true
+ },
+ "w-20b7038504.webp": {
+  "ko": "가격 변경",
+  "ok": true
+ },
+ "w-ee5404420f.webp": {
+  "ko": "재고 실사",
+  "ok": true
+ },
+ "w-ff8fb8e0aa.webp": {
+  "ko": "상품 로스",
+  "ok": false
+ },
+ "d57-thuc-don.webp": {
+  "ko": "메뉴",
+  "ok": true
+ },
+ "d48-quan.webp": {
+  "ko": "(작은)식당",
+  "ok": true
+ },
+ "k-sikdang.webp": {
+  "ko": "음식점(업장)",
+  "ok": false
+ },
+ "k-kape.webp": {
+  "ko": "카페",
+  "ok": true
+ },
+ "w-1f49d7db36.webp": {
+  "ko": "세금계산서",
+  "ok": true
+ },
+ "w-119c51f6f0.webp": {
+  "ko": "홀 서빙",
+  "ok": true
+ },
+ "w-b36c19cbd4.webp": {
+  "ko": "주문하다",
+  "ok": true
+ },
+ "w-7ecb702f36.webp": {
+  "ko": "계산서",
+  "ok": false
+ },
+ "w-44bbef2e4f.webp": {
+  "ko": "팁",
+  "ok": true
+ },
+ "w-c61324971c.webp": {
+  "ko": "테이블과 의자",
+  "ok": true
+ },
+ "w-e9383e0bde.webp": {
+  "ko": "주방 도구",
+  "ok": true
+ },
+ "w-77588b894a.webp": {
+  "ko": "플레이팅",
+  "ok": true
+ },
+ "d01-chao.webp": {
+  "ko": "안녕 (인사말)",
+  "ok": true
+ },
+ "x-xin-chao.webp": {
+  "ko": "안녕하세요 (정중)",
+  "ok": true
+ },
+ "d01-anh.webp": {
+  "ko": "형·오빠 (손위 남자)",
+  "ok": true
+ },
+ "d01-chi.webp": {
+  "ko": "누나·언니 (손위 여자)",
+  "ok": true
+ },
+ "d01-em.webp": {
+  "ko": "동생 (손아래)",
+  "ok": false
+ },
+ "d01-ban.webp": {
+  "ko": "너·친구 (동갑)",
+  "ok": true
+ },
+ "x-toi.webp": {
+  "ko": "나·저",
+  "ok": true
+ },
+ "x-vaang.webp": {
+  "ko": "네",
+  "ok": true
+ },
+ "d01-cam-on.webp": {
+  "ko": "고맙습니다",
+  "ok": true
+ },
+ "x-ten.webp": {
+  "ko": "이름",
+  "ok": false
+ },
+ "x-gi.webp": {
+  "ko": "무엇",
+  "ok": true
+ },
+ "d2-la.webp": {
+  "ko": "~이다",
+  "ok": false
+ },
+ "d2-cua.webp": {
+  "ko": "~의",
+  "ok": false
+ },
+ "d02-nguoi.webp": {
+  "ko": "사람",
+  "ok": true
+ },
+ "x-khong.webp": {
+  "ko": "아니다 / ~입니까?",
+  "ok": false
+ },
+ "x-cos.webp": {
+  "ko": "있다",
+  "ok": true
+ },
+ "x-rat.webp": {
+  "ko": "매우",
+  "ok": false
+ },
+ "d02-vui.webp": {
+  "ko": "기쁘다",
+  "ok": true
+ },
+ "d03-nuoc.webp": {
+  "ko": "나라·물",
+  "ok": false
+ },
+ "d03-han-quoc.webp": {
+  "ko": "한국",
+  "ok": true
+ },
+ "d03-viet-nam.webp": {
+  "ko": "베트남",
+  "ok": true
+ },
+ "d03-song.webp": {
+  "ko": "살다",
+  "ok": true
+ },
+ "x-o.webp": {
+  "ko": "~에 (있다)",
+  "ok": false
+ },
+ "x-ddaau.webp": {
+  "ko": "어디",
+  "ok": true
+ },
+ "d03-day.webp": {
+  "ko": "여기",
+  "ok": true
+ },
+ "x-kia.webp": {
+  "ko": "저기",
+  "ok": true
+ },
+ "d03-thanh-pho.webp": {
+  "ko": "도시",
+  "ok": true
+ },
+ "x-va.webp": {
+  "ko": "그리고",
+  "ok": true
+ },
+ "d04-gap.webp": {
+  "ko": "만나다",
+  "ok": true
+ },
+ "x-duoc.webp": {
+  "ko": "~하게 되다·할 수 있다",
+  "ok": true
+ },
+ "d04-khoe.webp": {
+  "ko": "건강하다·잘 지내다",
+  "ok": true
+ },
+ "d04-met.webp": {
+  "ko": "피곤하다",
+  "ok": true
+ },
+ "d04-hom-nay.webp": {
+  "ko": "오늘",
+  "ok": false
+ },
+ "x-cung.webp": {
+  "ko": "~도·또한",
+  "ok": true
+ },
+ "x-binh-thuong.webp": {
+  "ko": "보통이다",
+  "ok": true
+ },
+ "x-biet.webp": {
+  "ko": "이해하다",
+  "ok": false
+ },
+ "d05-noi.webp": {
+  "ko": "말하다",
+  "ok": true
+ },
+ "d05-nghe.webp": {
+  "ko": "듣다",
+  "ok": true
+ },
+ "d05-lai.webp": {
+  "ko": "다시",
+  "ok": true
+ },
+ "x-cham.webp": {
+  "ko": "천천히",
+  "ok": true
+ },
+ "d05-tieng-viet.webp": {
+  "ko": "베트남어",
+  "ok": true
+ },
+ "d05-tieng-han.webp": {
+  "ko": "한국어",
+  "ok": true
+ },
+ "x-mot-chut.webp": {
+  "ko": "조금",
+  "ok": false
+ },
+ "d06-tam-biet.webp": {
+  "ko": "안녕히 가세요",
+  "ok": false
+ },
+ "x-hen-gap-lai.webp": {
+  "ko": "또 만나요",
+  "ok": true
+ },
+ "d06-mai.webp": {
+  "ko": "내일",
+  "ok": false
+ },
+ "d6-nhe.webp": {
+  "ko": "~할게요 (부드럽게)",
+  "ok": true
+ },
+ "d06-di.webp": {
+  "ko": "가다",
+  "ok": true
+ },
+ "d06-ve.webp": {
+  "ko": "돌아가다",
+  "ok": false
+ },
+ "d06-nha.webp": {
+  "ko": "집",
+  "ok": true
+ },
+ "x-sau.webp": {
+  "ko": "~후에·뒤",
+  "ok": false
+ },
+ "x-truoc.webp": {
+  "ko": "~전에·앞",
+  "ok": true
+ },
+ "x-roi.webp": {
+  "ko": "이미·했다",
+  "ok": false
+ },
+ "d07-mot.webp": {
+  "ko": "1",
+  "ok": false
+ },
+ "d07-hai.webp": {
+  "ko": "2",
+  "ok": true
+ },
+ "d07-ba.webp": {
+  "ko": "3",
+  "ok": true
+ },
+ "d07-bon.webp": {
+  "ko": "4",
+  "ok": true
+ },
+ "d07-nam.webp": {
+  "ko": "5",
+  "ok": true
+ },
+ "d07-sau.webp": {
+  "ko": "6",
+  "ok": true
+ },
+ "d07-bay.webp": {
+  "ko": "7",
+  "ok": true
+ },
+ "d07-tam.webp": {
+  "ko": "8",
+  "ok": true
+ },
+ "d07-chin.webp": {
+  "ko": "9",
+  "ok": true
+ },
+ "d07-muoi.webp": {
+  "ko": "10",
+  "ok": true
+ },
+ "x-maays.webp": {
+  "ko": "몇 (적은 수)",
+  "ok": false
+ },
+ "x-bao-nhieu.webp": {
+  "ko": "얼마나·몇 (큰 수)",
+  "ok": false
+ },
+ "d08-cai.webp": {
+  "ko": "개 (물건 단위)",
+  "ok": false
+ },
+ "d08-chiec.webp": {
+  "ko": "대 (기계 단위)",
+  "ok": false
+ },
+ "d08-con.webp": {
+  "ko": "마리 (동물 단위)",
+  "ok": true
+ },
+ "d08-thung.webp": {
+  "ko": "상자·박스",
+  "ok": true
+ },
+ "x-tat-ca.webp": {
+  "ko": "전부·모두",
+  "ok": false
+ },
+ "x-con.webp": {
+  "ko": "남다·아직 있다",
+  "ok": false
+ },
+ "d085-kich-thuoc.webp": {
+  "ko": "치수·규격",
+  "ok": true
+ },
+ "d085-chieu-dai.webp": {
+  "ko": "길이",
+  "ok": true
+ },
+ "d085-chieu-rong.webp": {
+  "ko": "너비",
+  "ok": true
+ },
+ "d085-chieu-cao.webp": {
+  "ko": "높이",
+  "ok": true
+ },
+ "d085-met.webp": {
+  "ko": "미터 (m)",
+  "ok": false
+ },
+ "d085-phan.webp": {
+  "ko": "센티 (cm)",
+  "ok": true
+ },
+ "d085-mi-li-met.webp": {
+  "ko": "밀리 (mm)",
+  "ok": false
+ },
+ "d085-ki-lo.webp": {
+  "ko": "킬로 (kg)",
+  "ok": false
+ },
+ "d085-gam.webp": {
+  "ko": "그램 (g)",
+  "ok": false
+ },
+ "d09-tuoi.webp": {
+  "ko": "살·나이",
+  "ok": true
+ },
+ "x-muoi.webp": {
+  "ko": "십 (20·30의 십)",
+  "ok": false
+ },
+ "d09-gio.webp": {
+  "ko": "시·시간",
+  "ok": true
+ },
+ "d09-phut.webp": {
+  "ko": "분",
+  "ok": false
+ },
+ "d09-bay-gio.webp": {
+  "ko": "지금",
+  "ok": false
+ },
+ "d09-ruoi.webp": {
+  "ko": "반 (30분)",
+  "ok": false
+ },
+ "d09-sang.webp": {
+  "ko": "아침·오전",
+  "ok": true
+ },
+ "d09-chieu.webp": {
+  "ko": "오후",
+  "ok": false
+ },
+ "d09-toi.webp": {
+  "ko": "저녁·밤",
+  "ok": true
+ },
+ "x-luc.webp": {
+  "ko": "~에 (시각)",
+  "ok": true
+ },
+ "d10-thu-hai.webp": {
+  "ko": "월요일",
+  "ok": false
+ },
+ "x-thu-ba.webp": {
+  "ko": "화요일",
+  "ok": false
+ },
+ "x-thu-tu.webp": {
+  "ko": "수요일",
+  "ok": false
+ },
+ "x-thu-nam.webp": {
+  "ko": "목요일",
+  "ok": false
+ },
+ "x-thu-sau.webp": {
+  "ko": "금요일",
+  "ok": false
+ },
+ "x-thu-bay.webp": {
+  "ko": "토요일",
+  "ok": false
+ },
+ "d10-chu-nhat.webp": {
+  "ko": "일요일",
+  "ok": false
+ },
+ "d10-hom-qua.webp": {
+  "ko": "어제",
+  "ok": false
+ },
+ "x-ngayf.webp": {
+  "ko": "날·일",
+  "ok": true
+ },
+ "d10-tuan.webp": {
+  "ko": "주",
+  "ok": true
+ },
+ "x-da.webp": {
+  "ko": "이미 ~했다",
+  "ok": false
+ },
+ "x-ddang.webp": {
+  "ko": "~하는 중",
+  "ok": true
+ },
+ "x-se.webp": {
+  "ko": "~할 것이다",
+  "ok": false
+ },
+ "d19-chua.webp": {
+  "ko": "아직 (안)",
+  "ok": false
+ },
+ "d19-xong.webp": {
+  "ko": "다 되다·완료",
+  "ok": true
+ },
+ "x-voi.webp": {
+  "ko": "~와 함께",
+  "ok": true
+ },
+ "d19-cung.webp": {
+  "ko": "같이·함께",
+  "ok": true
+ },
+ "x-hom-kia.webp": {
+  "ko": "그저께",
+  "ok": false
+ },
+ "x-bao-gio.webp": {
+  "ko": "언제",
+  "ok": true
+ },
+ "x-sao.webp": {
+  "ko": "왜·어떻게",
+  "ok": true
+ },
+ "x-lam-viec.webp": {
+  "ko": "일하다",
+  "ok": true
+ },
+ "d101-nghe.webp": {
+  "ko": "직업·기술",
+  "ok": true
+ },
+ "d101-cong-ty.webp": {
+  "ko": "회사",
+  "ok": true
+ },
+ "d101-nha-may.webp": {
+  "ko": "공장",
+  "ok": true
+ },
+ "d101-cong-nhan.webp": {
+  "ko": "노동자·직공",
+  "ok": true
+ },
+ "d101-van-phong.webp": {
+  "ko": "사무실",
+  "ok": true
+ },
+ "d101-hoc.webp": {
+  "ko": "배우다·공부하다",
+  "ok": true
+ },
+ "d101-vat-va.webp": {
+  "ko": "고되다·힘들다",
+  "ok": true
+ },
+ "d101-tuyen.webp": {
+  "ko": "뽑다·채용하다",
+  "ok": true
+ },
+ "d11-day.webp": {
+  "ko": "일어나다",
+  "ok": true
+ },
+ "d11-bat-dau.webp": {
+  "ko": "시작하다",
+  "ok": true
+ },
+ "d11-ket-thuc.webp": {
+  "ko": "끝나다",
+  "ok": true
+ },
+ "d11-lam.webp": {
+  "ko": "하다·일하다",
+  "ok": true
+ },
+ "d11-viec.webp": {
+  "ko": "일",
+  "ok": true
+ },
+ "d11-nghi.webp": {
+  "ko": "쉬다",
+  "ok": true
+ },
+ "x-som.webp": {
+  "ko": "일찍·이르다",
+  "ok": true
+ },
+ "d11-muon.webp": {
+  "ko": "늦다",
+  "ok": true
+ },
+ "x-moaix.webp": {
+  "ko": "매·각각",
+  "ok": false
+ },
+ "x-thuwowngf.webp": {
+  "ko": "보통·자주",
+  "ok": false
+ },
+ "x-lam-on.webp": {
+  "ko": "부디·좀 (부탁)",
+  "ok": false
+ },
+ "d17-giup.webp": {
+  "ko": "돕다",
+  "ok": true
+ },
+ "x-can.webp": {
+  "ko": "필요하다",
+  "ok": false
+ },
+ "d17-hoi.webp": {
+  "ko": "묻다",
+  "ok": true
+ },
+ "x-duoc-khong.webp": {
+  "ko": "~해 주실 수 있나요",
+  "ok": false
+ },
+ "x-hay.webp": {
+  "ko": "~하세요 (지시)",
+  "ok": false
+ },
+ "d17-dung.webp": {
+  "ko": "~하지 마세요",
+  "ok": true
+ },
+ "d17-mo.webp": {
+  "ko": "열다·켜다",
+  "ok": false
+ },
+ "d17-dong.webp": {
+  "ko": "닫다·끄다",
+  "ok": true
+ },
+ "d17-doi.webp": {
+  "ko": "기다리다",
+  "ok": true
+ },
+ "d18-tot.webp": {
+  "ko": "좋다",
+  "ok": true
+ },
+ "d18-xau.webp": {
+  "ko": "나쁘다",
+  "ok": true
+ },
+ "d18-dep.webp": {
+  "ko": "예쁘다·아름답다",
+  "ok": true
+ },
+ "d18-hay.webp": {
+  "ko": "재미있다",
+  "ok": true
+ },
+ "d18-kho.webp": {
+  "ko": "어렵다",
+  "ok": true
+ },
+ "d18-de.webp": {
+  "ko": "쉽다",
+  "ok": false
+ },
+ "d18-moi.webp": {
+  "ko": "새롭다·막 ~했다",
+  "ok": false
+ },
+ "d18-cu.webp": {
+  "ko": "오래되다·낡다",
+  "ok": true
+ },
+ "d18-nhieu.webp": {
+  "ko": "많다",
+  "ok": true
+ },
+ "d18-it.webp": {
+  "ko": "적다",
+  "ok": false
+ },
+ "d20-nho.webp": {
+  "ko": "기억하다·그립다",
+  "ok": false
+ },
+ "d20-quen.webp": {
+  "ko": "잊다",
+  "ok": false
+ },
+ "d20-hua.webp": {
+  "ko": "약속하다 (다짐)",
+  "ok": false
+ },
+ "d20-chac-chan.webp": {
+  "ko": "확실히",
+  "ok": true
+ },
+ "x-hen.webp": {
+  "ko": "약속하다 (만날 날)",
+  "ok": true
+ },
+ "x-ai.webp": {
+  "ko": "누구",
+  "ok": true
+ },
+ "x-gi-nua.webp": {
+  "ko": "또 뭐",
+  "ok": true
+ },
+ "x-thoi.webp": {
+  "ko": "그만·~만",
+  "ok": true
+ },
+ "x-nua.webp": {
+  "ko": "더",
+  "ok": false
+ },
+ "d20-quan-trong.webp": {
+  "ko": "중요하다",
+  "ok": true
+ },
+ "d45-bong-da.webp": {
+  "ko": "축구",
+  "ok": true
+ },
+ "d45-xem-phim.webp": {
+  "ko": "영화를 보다",
+  "ok": true
+ },
+ "d45-nghe-nhac.webp": {
+  "ko": "음악을 듣다",
+  "ok": true
+ },
+ "x-choi.webp": {
+  "ko": "놀다",
+  "ok": true
+ },
+ "d45-chup-anh.webp": {
+  "ko": "사진을 찍다",
+  "ok": true
+ },
+ "d45-du-lich.webp": {
+  "ko": "여행하다",
+  "ok": true
+ },
+ "d45-boi.webp": {
+  "ko": "수영하다",
+  "ok": true
+ },
+ "d45-doc-sach.webp": {
+  "ko": "책을 읽다",
+  "ok": true
+ },
+ "d45-hat.webp": {
+  "ko": "노래하다",
+  "ok": true
+ },
+ "x-the-thao.webp": {
+  "ko": "운동·스포츠",
+  "ok": true
+ },
+ "d49-chuc-mung.webp": {
+  "ko": "축하하다",
+  "ok": true
+ },
+ "d49-sinh-nhat.webp": {
+  "ko": "생일",
+  "ok": true
+ },
+ "d49-qua.webp": {
+  "ko": "선물",
+  "ok": true
+ },
+ "d49-tet.webp": {
+  "ko": "설날·뗏",
+  "ok": true
+ },
+ "x-nam-moi.webp": {
+  "ko": "새해",
+  "ok": false
+ },
+ "x-hanh-phuc.webp": {
+  "ko": "행복하다",
+  "ok": true
+ },
+ "x-suc-khoe.webp": {
+  "ko": "건강",
+  "ok": true
+ },
+ "d49-li-xi.webp": {
+  "ko": "세뱃돈",
+  "ok": true
+ },
+ "d49-banh.webp": {
+  "ko": "빵·떡",
+  "ok": true
+ },
+ "d49-keo.webp": {
+  "ko": "사탕",
+  "ok": true
+ },
+ "d16-bi.webp": {
+  "ko": "(나쁜 일을) 당하다",
+  "ok": true
+ },
+ "d16-dau.webp": {
+  "ko": "아프다 (쑤시다)",
+  "ok": true
+ },
+ "d16-om.webp": {
+  "ko": "아프다 (병나다)",
+  "ok": true
+ },
+ "d16-benh-vien.webp": {
+  "ko": "병원",
+  "ok": true
+ },
+ "d16-thuoc.webp": {
+  "ko": "약",
+  "ok": true
+ },
+ "d16-dau2.webp": {
+  "ko": "머리",
+  "ok": true
+ },
+ "x-bung.webp": {
+  "ko": "배",
+  "ok": true
+ },
+ "d16-tay.webp": {
+  "ko": "손",
+  "ok": true
+ },
+ "d16-chan.webp": {
+  "ko": "다리·발",
+  "ok": true
+ },
+ "d16-cam.webp": {
+  "ko": "감기",
+  "ok": true
+ },
+ "d47-mat.webp": {
+  "ko": "눈",
+  "ok": true
+ },
+ "d47-mui.webp": {
+  "ko": "코",
+  "ok": true
+ },
+ "d47-mieng.webp": {
+  "ko": "입",
+  "ok": true
+ },
+ "d47-rang.webp": {
+  "ko": "이·치아",
+  "ok": true
+ },
+ "x-hong.webp": {
+  "ko": "목구멍",
+  "ok": true
+ },
+ "d47-sot.webp": {
+  "ko": "열나다",
+  "ok": true
+ },
+ "d47-ho.webp": {
+  "ko": "기침하다",
+  "ok": true
+ },
+ "d47-chong-mat.webp": {
+  "ko": "어지럽다",
+  "ok": true
+ },
+ "d47-hieu-thuoc.webp": {
+  "ko": "약국",
+  "ok": true
+ },
+ "d47-kham.webp": {
+  "ko": "진찰받다",
+  "ok": true
+ },
+ "x-nay.webp": {
+  "ko": "이·이것",
+  "ok": false
+ },
+ "d13-tien.webp": {
+  "ko": "돈",
+  "ok": true
+ },
+ "d13-dat.webp": {
+  "ko": "비싸다",
+  "ok": true
+ },
+ "d13-re.webp": {
+  "ko": "싸다",
+  "ok": false
+ },
+ "d13-mua.webp": {
+  "ko": "사다",
+  "ok": false
+ },
+ "d13-ban.webp": {
+  "ko": "팔다",
+  "ok": true
+ },
+ "x-cho.webp": {
+  "ko": "~에게 주다",
+  "ok": false
+ },
+ "x-xin.webp": {
+  "ko": "청하다·주세요",
+  "ok": false
+ },
+ "d13-nghin.webp": {
+  "ko": "천 (1000)",
+  "ok": true
+ },
+ "d13-dong.webp": {
+  "ko": "동 (베트남 돈)",
+  "ok": false
+ },
+ "d102-tram.webp": {
+  "ko": "백 (100)",
+  "ok": true
+ },
+ "d102-chuc.webp": {
+  "ko": "열 (10개 묶음)",
+  "ok": true
+ },
+ "d102-trieu.webp": {
+  "ko": "백만",
+  "ok": true
+ },
+ "d102-gia.webp": {
+  "ko": "가격",
+  "ok": true
+ },
+ "d102-tinh.webp": {
+  "ko": "계산하다",
+  "ok": true
+ },
+ "d102-cong.webp": {
+  "ko": "더하다",
+  "ok": true
+ },
+ "d102-tru.webp": {
+  "ko": "빼다",
+  "ok": true
+ },
+ "d102-tien-le.webp": {
+  "ko": "잔돈",
+  "ok": true
+ },
+ "d102-tien-thua.webp": {
+  "ko": "거스름돈",
+  "ok": false
+ },
+ "d21-quan-ly.webp": {
+  "ko": "관리자",
+  "ok": true
+ },
+ "d21-giam-doc.webp": {
+  "ko": "사장·대표",
+  "ok": true
+ },
+ "d21-bao-ve.webp": {
+  "ko": "경비원",
+  "ok": true
+ },
+ "x-ca.webp": {
+  "ko": "근무조·교대",
+  "ok": false
+ },
+ "x-tong.webp": {
+  "ko": "총·합계",
+  "ok": true
+ },
+ "d26-hang.webp": {
+  "ko": "물건·물량",
+  "ok": true
+ },
+ "d26-giao.webp": {
+  "ko": "넘기다·납품하다",
+  "ok": true
+ },
+ "x-nhan.webp": {
+  "ko": "받다",
+  "ok": true
+ },
+ "x-gui.webp": {
+  "ko": "보내다",
+  "ok": true
+ },
+ "x-het.webp": {
+  "ko": "다 떨어지다",
+  "ok": false
+ },
+ "x-du.webp": {
+  "ko": "충분하다",
+  "ok": false
+ },
+ "x-them.webp": {
+  "ko": "더·추가로",
+  "ok": false
+ },
+ "x-kip.webp": {
+  "ko": "제때 되다",
+  "ok": true
+ },
+ "x-can-than.webp": {
+  "ko": "조심하다",
+  "ok": false
+ },
+ "x-chu-y.webp": {
+  "ko": "주의하다",
+  "ok": true
+ },
+ "d27-bao-ho.webp": {
+  "ko": "보호구·보호",
+  "ok": true
+ },
+ "d27-phai.webp": {
+  "ko": "~해야 한다",
+  "ok": false
+ },
+ "x-nhanh.webp": {
+  "ko": "빠르다·빨리",
+  "ok": true
+ },
+ "x-dung.webp": {
+  "ko": "맞다",
+  "ok": false
+ },
+ "x-sai.webp": {
+  "ko": "틀리다",
+  "ok": true
+ },
+ "x-giong.webp": {
+  "ko": "같다",
+  "ok": false
+ },
+ "x-khac.webp": {
+  "ko": "다르다",
+  "ok": true
+ },
+ "x-xem.webp": {
+  "ko": "보다",
+  "ok": true
+ },
+ "x-choax.webp": {
+  "ko": "자리·부분",
+  "ok": true
+ },
+ "x-the-nay.webp": {
+  "ko": "이렇게",
+  "ok": false
+ },
+ "x-cai-nay.webp": {
+  "ko": "이것",
+  "ok": true
+ },
+ "x-cai-kia.webp": {
+  "ko": "저것",
+  "ok": false
+ },
+ "x-mays.webp": {
+  "ko": "기계",
+  "ok": true
+ },
+ "x-dien.webp": {
+  "ko": "전기",
+  "ok": true
+ },
+ "d29-nut.webp": {
+  "ko": "버튼",
+  "ok": false
+ },
+ "d29-bam.webp": {
+  "ko": "누르다",
+  "ok": true
+ },
+ "d29-day.webp": {
+  "ko": "줄·선",
+  "ok": true
+ },
+ "d29-dao.webp": {
+  "ko": "칼",
+  "ok": true
+ },
+ "d29-ban-ui.webp": {
+  "ko": "다리미",
+  "ok": true
+ },
+ "d29-den.webp": {
+  "ko": "등·전등",
+  "ok": false
+ },
+ "d29-dung-cu.webp": {
+  "ko": "공구·도구",
+  "ok": true
+ },
+ "x-ddeans.webp": {
+  "ko": "도착하다",
+  "ok": true
+ },
+ "x-xin-phep.webp": {
+  "ko": "양해를 구하다",
+  "ok": false
+ },
+ "x-dung-gio.webp": {
+  "ko": "제시간에",
+  "ok": true
+ },
+ "x-vawngs.webp": {
+  "ko": "결근하다·자리 비우다",
+  "ok": true
+ },
+ "x-co-gang.webp": {
+  "ko": "열심히 하다",
+  "ok": false
+ },
+ "d35-dem.webp": {
+  "ko": "세다",
+  "ok": false
+ },
+ "d35-can.webp": {
+  "ko": "무게를 달다",
+  "ok": false
+ },
+ "x-bang.webp": {
+  "ko": "표·판",
+  "ok": true
+ },
+ "x-so.webp": {
+  "ko": "번호·숫자",
+  "ok": true
+ },
+ "d35-the.webp": {
+  "ko": "카드·사원증",
+  "ok": true
+ },
+ "x-ddown.webp": {
+  "ko": "전표·주문서",
+  "ok": false
+ },
+ "d35-xuat.webp": {
+  "ko": "내보내다·출고하다",
+  "ok": true
+ },
+ "d37-nha-an.webp": {
+  "ko": "구내식당",
+  "ok": true
+ },
+ "d37-com-trua.webp": {
+  "ko": "점심밥",
+  "ok": true
+ },
+ "x-nghi-trua.webp": {
+  "ko": "점심 휴식",
+  "ok": true
+ },
+ "d37-ky-tuc-xa.webp": {
+  "ko": "기숙사",
+  "ok": false
+ },
+ "d37-dong-phuc.webp": {
+  "ko": "유니폼·작업복",
+  "ok": true
+ },
+ "x-taangf.webp": {
+  "ko": "층",
+  "ok": true
+ },
+ "d37-thang-may.webp": {
+  "ko": "엘리베이터",
+  "ok": true
+ },
+ "d38-tam-ung.webp": {
+  "ko": "가불하다·선지급",
+  "ok": true
+ },
+ "d38-khoang.webp": {
+  "ko": "약·쯤",
+  "ok": false
+ },
+ "x-thangs.webp": {
+  "ko": "달·월",
+  "ok": true
+ },
+ "x-thuwowngr.webp": {
+  "ko": "상여금·보너스",
+  "ok": true
+ },
+ "x-tawng.webp": {
+  "ko": "오르다·늘다",
+  "ok": true
+ },
+ "x-giam.webp": {
+  "ko": "줄다·내리다",
+  "ok": true
+ },
+ "x-phan-tram.webp": {
+  "ko": "퍼센트",
+  "ok": true
+ },
+ "x-bao-hiem.webp": {
+  "ko": "보험",
+  "ok": true
+ },
+ "x-thueas.webp": {
+  "ko": "세금",
+  "ok": false
+ },
+ "d38-ngan-hang.webp": {
+  "ko": "은행",
+  "ok": true
+ },
+ "x-khu.webp": {
+  "ko": "구역",
+  "ok": true
+ },
+ "d39-loi-di.webp": {
+  "ko": "통로",
+  "ok": true
+ },
+ "d39-cua.webp": {
+  "ko": "문",
+  "ok": true
+ },
+ "d39-cau-thang.webp": {
+  "ko": "계단",
+  "ok": true
+ },
+ "d39-ben-phai.webp": {
+  "ko": "오른쪽",
+  "ok": true
+ },
+ "d39-ben-trai.webp": {
+  "ko": "왼쪽",
+  "ok": true
+ },
+ "x-thawngr.webp": {
+  "ko": "곧장·똑바로",
+  "ok": true
+ },
+ "d39-len.webp": {
+  "ko": "오르다·올라가다",
+  "ok": true
+ },
+ "d39-xuong.webp": {
+  "ko": "내리다·내려가다",
+  "ok": false
+ },
+ "x-quay-lai.webp": {
+  "ko": "되돌아가다",
+  "ok": true
+ },
+ "d40-goi-dien.webp": {
+  "ko": "전화를 걸다",
+  "ok": true
+ },
+ "d40-nghe-may.webp": {
+  "ko": "전화를 받다",
+  "ok": true
+ },
+ "d40-tin-nhan.webp": {
+  "ko": "문자 메시지",
+  "ok": true
+ },
+ "x-so-dien-thoai.webp": {
+  "ko": "전화번호",
+  "ok": true
+ },
+ "x-baanj.webp": {
+  "ko": "바쁘다",
+  "ok": true
+ },
+ "x-ranh.webp": {
+  "ko": "한가하다",
+  "ok": true
+ },
+ "d40-cho.webp": {
+  "ko": "잠깐 기다리다",
+  "ok": false
+ },
+ "x-lien-lac.webp": {
+  "ko": "연락하다",
+  "ok": true
+ },
+ "d40-sac.webp": {
+  "ko": "충전하다",
+  "ok": true
+ },
+ "d22-chi.webp": {
+  "ko": "실",
+  "ok": true
+ },
+ "d22-keo.webp": {
+  "ko": "가위",
+  "ok": true
+ },
+ "d22-may-may.webp": {
+  "ko": "재봉틀",
+  "ok": true
+ },
+ "d22-cuc.webp": {
+  "ko": "단추",
+  "ok": true
+ },
+ "x-khuy.webp": {
+  "ko": "단춧구멍",
+  "ok": true
+ },
+ "d22-day-keo.webp": {
+  "ko": "지퍼",
+  "ok": true
+ },
+ "d22-mau.webp": {
+  "ko": "색깔",
+  "ok": true
+ },
+ "d23-co-ao.webp": {
+  "ko": "옷깃·칼라",
+  "ok": true
+ },
+ "d23-tui.webp": {
+  "ko": "주머니",
+  "ok": true
+ },
+ "d23-duong-may.webp": {
+  "ko": "솔기·박은 선",
+  "ok": false
+ },
+ "x-cowx.webp": {
+  "ko": "사이즈·치수",
+  "ok": false
+ },
+ "d24-cat.webp": {
+  "ko": "자르다·재단하다",
+  "ok": true
+ },
+ "d24-may.webp": {
+  "ko": "박다·재봉하다",
+  "ok": true
+ },
+ "x-vat-so.webp": {
+  "ko": "오버록 치다",
+  "ok": false
+ },
+ "d24-gap.webp": {
+  "ko": "개다·접다",
+  "ok": false
+ },
+ "d24-dinh.webp": {
+  "ko": "달다·붙이다",
+  "ok": true
+ },
+ "x-thao.webp": {
+  "ko": "뜯다·풀다",
+  "ok": false
+ },
+ "x-nhat-chi.webp": {
+  "ko": "실밥 따다",
+  "ok": false
+ },
+ "x-loi.webp": {
+  "ko": "불량·오류",
+  "ok": true
+ },
+ "d25-kiem-tra.webp": {
+  "ko": "검사하다",
+  "ok": true
+ },
+ "x-san-pham.webp": {
+  "ko": "제품",
+  "ok": true
+ },
+ "x-ddatj.webp": {
+  "ko": "합격이다",
+  "ok": true
+ },
+ "x-baanr.webp": {
+  "ko": "더럽다·얼룩지다",
+  "ok": false
+ },
+ "d25-vet.webp": {
+  "ko": "자국·흠",
+  "ok": true
+ },
+ "d31-mui-may.webp": {
+  "ko": "땀·스티치",
+  "ok": true
+ },
+ "x-lai-mui.webp": {
+  "ko": "되박음질하다",
+  "ok": false
+ },
+ "x-bo-mui.webp": {
+  "ko": "땀이 빠지다·스킵",
+  "ok": false
+ },
+ "x-deu.webp": {
+  "ko": "고르다·균일하다",
+  "ok": true
+ },
+ "x-ban-cat.webp": {
+  "ko": "재단대",
+  "ok": true
+ },
+ "d32-trai-vai.webp": {
+  "ko": "원단을 펴다·연단",
+  "ok": true
+ },
+ "d32-rap.webp": {
+  "ko": "패턴·형지",
+  "ok": true
+ },
+ "d32-phan.webp": {
+  "ko": "초크·분필",
+  "ok": false
+ },
+ "d32-ve.webp": {
+  "ko": "긋다·그리다",
+  "ok": true
+ },
+ "x-lop.webp": {
+  "ko": "겹·층",
+  "ok": true
+ },
+ "d33-nhan.webp": {
+  "ko": "라벨·상표",
+  "ok": false
+ },
+ "x-lot.webp": {
+  "ko": "안감",
+  "ok": false
+ },
+ "d33-vien.webp": {
+  "ko": "파이핑·테두리",
+  "ok": true
+ },
+ "d33-khoa.webp": {
+  "ko": "버클·잠금",
+  "ok": true
+ },
+ "d33-ghim.webp": {
+  "ko": "핀",
+  "ok": true
+ },
+ "d33-chun.webp": {
+  "ko": "고무줄",
+  "ok": true
+ },
+ "d34-nhan.webp": {
+  "ko": "주름지다·퍼커링",
+  "ok": true
+ },
+ "d34-rach.webp": {
+  "ko": "찢어지다",
+  "ok": true
+ },
+ "d34-thung.webp": {
+  "ko": "구멍 나다",
+  "ok": true
+ },
+ "d34-o.webp": {
+  "ko": "얼룩지다·변색되다",
+  "ok": true
+ },
+ "x-sot.webp": {
+  "ko": "누락되다·빠뜨리다",
+  "ok": true
+ },
+ "x-doi.webp": {
+  "ko": "바꾸다",
+  "ok": true
+ },
+ "x-loai.webp": {
+  "ko": "등급·종류",
+  "ok": false
+ },
+ "d34-huy.webp": {
+  "ko": "폐기하다",
+  "ok": true
+ },
+ "x-hoan-thanh.webp": {
+  "ko": "완성하다",
+  "ok": true
+ },
+ "d36-treo.webp": {
+  "ko": "걸다",
+  "ok": false
+ },
+ "d36-moc.webp": {
+  "ko": "옷걸이·고리",
+  "ok": true
+ },
+ "d36-bang-dinh.webp": {
+  "ko": "테이프",
+  "ok": true
+ },
+ "d36-xep.webp": {
+  "ko": "개켜 쌓다·정리하다",
+  "ok": true
+ },
+ "x-sach.webp": {
+  "ko": "깨끗하다",
+  "ok": true
+ },
+ "d43-do.webp": {
+  "ko": "빨갛다",
+  "ok": true
+ },
+ "d43-den.webp": {
+  "ko": "까맣다",
+  "ok": true
+ },
+ "d43-trang.webp": {
+  "ko": "하얗다",
+  "ok": true
+ },
+ "x-xanh.webp": {
+  "ko": "파랗다·푸르다",
+  "ok": true
+ },
+ "d43-vang.webp": {
+  "ko": "노랗다·금색",
+  "ok": true
+ },
+ "d43-hong.webp": {
+  "ko": "분홍이다",
+  "ok": true
+ },
+ "d43-nau.webp": {
+  "ko": "갈색이다",
+  "ok": true
+ },
+ "d43-tim.webp": {
+  "ko": "보라색이다",
+  "ok": true
+ },
+ "x-dam.webp": {
+  "ko": "진하다",
+  "ok": false
+ },
+ "x-nhat.webp": {
+  "ko": "연하다",
+  "ok": true
+ },
+ "d435-xanh-da-troi.webp": {
+  "ko": "하늘색",
+  "ok": true
+ },
+ "d435-xanh-nuoc-bien.webp": {
+  "ko": "바다색·남색",
+  "ok": true
+ },
+ "d435-xanh-la-cay.webp": {
+  "ko": "초록색",
+  "ok": true
+ },
+ "d435-da-cam.webp": {
+  "ko": "주황색",
+  "ok": true
+ },
+ "d435-xam.webp": {
+  "ko": "회색",
+  "ok": true
+ },
+ "d435-mau-sac.webp": {
+  "ko": "색깔",
+  "ok": true
+ },
+ "d435-ke-soc.webp": {
+  "ko": "줄무늬",
+  "ok": true
+ },
+ "d435-trong-suot.webp": {
+  "ko": "투명하다",
+  "ok": false
+ },
+ "d435-hinh-tron.webp": {
+  "ko": "동그라미·원",
+  "ok": true
+ },
+ "d44-buon.webp": {
+  "ko": "슬프다",
+  "ok": true
+ },
+ "d44-so.webp": {
+  "ko": "무섭다",
+  "ok": true
+ },
+ "x-lo.webp": {
+  "ko": "걱정하다",
+  "ok": false
+ },
+ "d44-gian.webp": {
+  "ko": "화나다",
+  "ok": true
+ },
+ "x-chan.webp": {
+  "ko": "지루하다·질리다",
+  "ok": false
+ },
+ "d44-cuoi.webp": {
+  "ko": "웃다",
+  "ok": true
+ },
+ "d44-khoc.webp": {
+  "ko": "울다",
+  "ok": true
+ },
+ "x-thoai-mai.webp": {
+  "ko": "편안하다",
+  "ok": true
+ },
+ "x-cang-thang.webp": {
+  "ko": "긴장되다·스트레스",
+  "ok": true
+ },
+ "x-nho-nha.webp": {
+  "ko": "집이 그립다",
+  "ok": true
+ },
+ "x-gioi.webp": {
+  "ko": "잘한다·유능하다",
+  "ok": true
+ },
+ "x-tuyet-voi.webp": {
+  "ko": "훌륭하다",
+  "ok": true
+ },
+ "x-kheo.webp": {
+  "ko": "솜씨 좋다",
+  "ok": true
+ },
+ "x-dowr.webp": {
+  "ko": "서툴다·못하다",
+  "ok": false
+ },
+ "d75-a.webp": {
+  "ko": "아하·~예요?",
+  "ok": false
+ },
+ "d75-u.webp": {
+  "ko": "응 (반말 — 손윗사람에겐 금물)",
+  "ok": false
+ },
+ "x-ghe.webp": {
+  "ko": "엄청·대단히",
+  "ok": false
+ },
+ "d75-vo-tay.webp": {
+  "ko": "박수 치다",
+  "ok": true
+ },
+ "x-quen.webp": {
+  "ko": "익숙하다·아는 사이다",
+  "ok": false
+ },
+ "d12-an.webp": {
+  "ko": "먹다",
+  "ok": true
+ },
+ "d12-uong.webp": {
+  "ko": "마시다",
+  "ok": true
+ },
+ "d12-com.webp": {
+  "ko": "밥",
+  "ok": true
+ },
+ "d12-pho.webp": {
+  "ko": "쌀국수",
+  "ok": false
+ },
+ "d12-muon.webp": {
+  "ko": "~하고 싶다",
+  "ok": true
+ },
+ "d12-ca-phe.webp": {
+  "ko": "커피",
+  "ok": true
+ },
+ "d12-ngon.webp": {
+  "ko": "맛있다",
+  "ok": true
+ },
+ "d12-doi.webp": {
+  "ko": "배고프다",
+  "ok": true
+ },
+ "d12-no.webp": {
+  "ko": "배부르다",
+  "ok": true
+ },
+ "d12-thich.webp": {
+  "ko": "좋아하다",
+  "ok": true
+ },
+ "d106-lon.webp": {
+  "ko": "돼지(고기)",
+  "ok": false
+ },
+ "d106-trung.webp": {
+  "ko": "달걀",
+  "ok": true
+ },
+ "x-dau-phu.webp": {
+  "ko": "두부",
+  "ok": true
+ },
+ "d106-rau-muong.webp": {
+  "ko": "모닝글로리(공심채)",
+  "ok": true
+ },
+ "d106-toi.webp": {
+  "ko": "마늘",
+  "ok": true
+ },
+ "d106-khoai-tay.webp": {
+  "ko": "감자",
+  "ok": false
+ },
+ "d106-dua-chuot.webp": {
+  "ko": "오이",
+  "ok": true
+ },
+ "d106-ca-rot.webp": {
+  "ko": "당근",
+  "ok": true
+ },
+ "d106-ca-chua.webp": {
+  "ko": "토마토",
+  "ok": true
+ },
+ "d106-ot-tay.webp": {
+  "ko": "피망·파프리카",
+  "ok": true
+ },
+ "d104-chuoi.webp": {
+  "ko": "바나나",
+  "ok": true
+ },
+ "d104-xoai.webp": {
+  "ko": "망고",
+  "ok": true
+ },
+ "d104-dua.webp": {
+  "ko": "파인애플",
+  "ok": true
+ },
+ "d104-dua2.webp": {
+  "ko": "코코넛",
+  "ok": true
+ },
+ "d104-tao.webp": {
+  "ko": "사과",
+  "ok": true
+ },
+ "d104-dua-hau.webp": {
+  "ko": "수박",
+  "ok": true
+ },
+ "d104-dau-tay.webp": {
+  "ko": "딸기",
+  "ok": true
+ },
+ "d104-dao.webp": {
+  "ko": "복숭아",
+  "ok": true
+ },
+ "x-mang-cut.webp": {
+  "ko": "망고스틴",
+  "ok": true
+ },
+ "d104-tuoi.webp": {
+  "ko": "신선하다",
+  "ok": true
+ },
+ "d48-gap-nhau.webp": {
+  "ko": "서로 만나다",
+  "ok": true
+ },
+ "x-cung-nhau.webp": {
+  "ko": "함께·다 같이",
+  "ok": true
+ },
+ "x-mowif.webp": {
+  "ko": "초대하다·권하다",
+  "ok": true
+ },
+ "x-khach.webp": {
+  "ko": "손님",
+  "ok": true
+ },
+ "d48-tra.webp": {
+  "ko": "차(마시는)",
+  "ok": true
+ },
+ "d48-bia.webp": {
+  "ko": "맥주",
+  "ok": true
+ },
+ "d48-say.webp": {
+  "ko": "취하다",
+  "ok": true
+ },
+ "x-vui-ve.webp": {
+  "ko": "즐겁다",
+  "ok": true
+ },
+ "d48-karaoke.webp": {
+  "ko": "노래방",
+  "ok": true
+ },
+ "d76-sua.webp": {
+  "ko": "우유·연유",
+  "ok": true
+ },
+ "d76-ca-phe-sua.webp": {
+  "ko": "연유커피",
+  "ok": false
+ },
+ "d76-ca-phe-da.webp": {
+  "ko": "아이스커피",
+  "ok": true
+ },
+ "x-ngot.webp": {
+  "ko": "달다",
+  "ok": true
+ },
+ "x-ddawngs.webp": {
+  "ko": "쓰다",
+  "ok": false
+ },
+ "d76-tra-da.webp": {
+  "ko": "얼음차 (무료로 주는)",
+  "ok": false
+ },
+ "d76-sinh-to.webp": {
+  "ko": "생과일 셰이크",
+  "ok": true
+ },
+ "d76-nuoc-mia.webp": {
+  "ko": "사탕수수 주스",
+  "ok": true
+ },
+ "d76-ong-hut.webp": {
+  "ko": "빨대",
+  "ok": true
+ },
+ "d76-coc.webp": {
+  "ko": "잔·컵",
+  "ok": true
+ },
+ "d77-bat.webp": {
+  "ko": "그릇·사발",
+  "ok": true
+ },
+ "x-tai.webp": {
+  "ko": "설익힌·레어",
+  "ok": true
+ },
+ "d77-bo.webp": {
+  "ko": "소고기",
+  "ok": true
+ },
+ "d77-ga.webp": {
+  "ko": "닭고기",
+  "ok": true
+ },
+ "d77-rau.webp": {
+  "ko": "야채",
+  "ok": true
+ },
+ "d77-chanh.webp": {
+  "ko": "라임",
+  "ok": true
+ },
+ "d77-ot.webp": {
+  "ko": "고추",
+  "ok": true
+ },
+ "d77-hanh.webp": {
+  "ko": "파",
+  "ok": true
+ },
+ "d77-nuoc-dung.webp": {
+  "ko": "육수",
+  "ok": true
+ },
+ "x-thom.webp": {
+  "ko": "향긋하다",
+  "ok": true
+ },
+ "x-com-rang.webp": {
+  "ko": "볶음밥",
+  "ok": true
+ },
+ "x-bun-cha.webp": {
+  "ko": "분짜(석쇠구이 국수)",
+  "ok": true
+ },
+ "x-nem-ran.webp": {
+  "ko": "튀김 스프링롤",
+  "ok": true
+ },
+ "d77-banh-mi.webp": {
+  "ko": "바게트 샌드위치",
+  "ok": false
+ },
+ "d77-my-xao.webp": {
+  "ko": "볶음면",
+  "ok": false
+ },
+ "x-sua-chua.webp": {
+  "ko": "요거트",
+  "ok": true
+ },
+ "d76-sua-tuoi.webp": {
+  "ko": "생우유",
+  "ok": true
+ },
+ "d76-ruou.webp": {
+  "ko": "술",
+  "ok": true
+ },
+ "d76-nuoc-hoa-qua.webp": {
+  "ko": "과일 주스",
+  "ok": true
+ },
+ "d76-kem.webp": {
+  "ko": "아이스크림",
+  "ok": true
+ },
+ "d14-tren.webp": {
+  "ko": "위",
+  "ok": true
+ },
+ "d14-duoi.webp": {
+  "ko": "아래",
+  "ok": true
+ },
+ "d14-trong.webp": {
+  "ko": "안·속",
+  "ok": true
+ },
+ "d14-ngoai.webp": {
+  "ko": "밖",
+  "ok": false
+ },
+ "d14-ben-canh.webp": {
+  "ko": "옆",
+  "ok": false
+ },
+ "d14-gan.webp": {
+  "ko": "가깝다",
+  "ok": false
+ },
+ "d14-xa.webp": {
+  "ko": "멀다",
+  "ok": true
+ },
+ "d14-duong.webp": {
+  "ko": "길",
+  "ok": true
+ },
+ "d14-cho.webp": {
+  "ko": "시장",
+  "ok": true
+ },
+ "d14-nha-ve-sinh.webp": {
+  "ko": "화장실",
+  "ok": true
+ },
+ "x-xe.webp": {
+  "ko": "차·탈것",
+  "ok": true
+ },
+ "d42-xe-may.webp": {
+  "ko": "오토바이",
+  "ok": true
+ },
+ "d42-xe-buyt.webp": {
+  "ko": "버스",
+  "ok": true
+ },
+ "d42-di-bo.webp": {
+  "ko": "걷다·도보",
+  "ok": true
+ },
+ "d42-sang-duong.webp": {
+  "ko": "길을 건너다",
+  "ok": true
+ },
+ "d42-ben.webp": {
+  "ko": "정류장",
+  "ok": true
+ },
+ "d42-ve.webp": {
+  "ko": "표·티켓",
+  "ok": true
+ },
+ "d42-lai-xe.webp": {
+  "ko": "운전하다",
+  "ok": true
+ },
+ "d42-xang.webp": {
+  "ko": "기름·휘발유",
+  "ok": true
+ },
+ "d42-tac-duong.webp": {
+  "ko": "길이 막히다",
+  "ok": true
+ },
+ "d42-di-thang.webp": {
+  "ko": "직진하다",
+  "ok": false
+ },
+ "d42-re-trai.webp": {
+  "ko": "좌회전하다",
+  "ok": true
+ },
+ "d42-re-phai.webp": {
+  "ko": "우회전하다",
+  "ok": true
+ },
+ "d42-dung-lai.webp": {
+  "ko": "멈추다·세우다",
+  "ok": true
+ },
+ "d42-nhanh-len.webp": {
+  "ko": "서두르다·빨리",
+  "ok": true
+ },
+ "d42-xe-taxi.webp": {
+  "ko": "택시",
+  "ok": true
+ },
+ "d425-ban-do.webp": {
+  "ko": "지도",
+  "ok": true
+ },
+ "d425-den-giao-thong.webp": {
+  "ko": "신호등",
+  "ok": true
+ },
+ "d425-con-hem.webp": {
+  "ko": "골목",
+  "ok": true
+ },
+ "d80-ship.webp": {
+  "ko": "배달",
+  "ok": true
+ },
+ "d80-app.webp": {
+  "ko": "앱",
+  "ok": true
+ },
+ "x-dia-chi.webp": {
+  "ko": "주소",
+  "ok": true
+ },
+ "x-so-nha.webp": {
+  "ko": "번지·집 번호",
+  "ok": true
+ },
+ "d80-ngo.webp": {
+  "ko": "골목",
+  "ok": true
+ },
+ "x-noi.webp": {
+  "ko": "곳·장소",
+  "ok": true
+ },
+ "x-den-noi.webp": {
+  "ko": "도착하다",
+  "ok": false
+ },
+ "d80-dat-xe.webp": {
+  "ko": "차를 부르다(그랩)",
+  "ok": true
+ },
+ "d80-gui-hang.webp": {
+  "ko": "물건을 부치다",
+  "ok": true
+ },
+ "d51-man-hinh.webp": {
+  "ko": "화면·디스플레이",
+  "ok": true
+ },
+ "d51-mach.webp": {
+  "ko": "회로",
+  "ok": true
+ },
+ "d51-keo.webp": {
+  "ko": "접착제·본드",
+  "ok": true
+ },
+ "d51-kinh.webp": {
+  "ko": "유리·렌즈",
+  "ok": false
+ },
+ "x-cam-bien.webp": {
+  "ko": "센서",
+  "ok": false
+ },
+ "d52-gan.webp": {
+  "ko": "장착하다·붙이다",
+  "ok": true
+ },
+ "d52-van.webp": {
+  "ko": "돌려 조이다",
+  "ok": false
+ },
+ "d52-cam.webp": {
+  "ko": "꽂다",
+  "ok": true
+ },
+ "d52-bat.webp": {
+  "ko": "켜다",
+  "ok": true
+ },
+ "d52-tat.webp": {
+  "ko": "끄다",
+  "ok": false
+ },
+ "d52-nap.webp": {
+  "ko": "충전하다·넣다",
+  "ok": true
+ },
+ "d53-bui.webp": {
+  "ko": "먼지",
+  "ok": true
+ },
+ "d53-vong-tay.webp": {
+  "ko": "정전기 밴드·팔찌",
+  "ok": true
+ },
+ "d53-thoi.webp": {
+  "ko": "불다(에어)",
+  "ok": false
+ },
+ "d53-hut.webp": {
+  "ko": "빨아들이다·흡입하다",
+  "ok": true
+ },
+ "x-kho.webp": {
+  "ko": "마르다·건조하다",
+  "ok": true
+ },
+ "x-am.webp": {
+  "ko": "습하다",
+  "ok": false
+ },
+ "d53-vao.webp": {
+  "ko": "들어가다",
+  "ok": true
+ },
+ "x-toc-do.webp": {
+  "ko": "속도",
+  "ok": true
+ },
+ "x-muc-tieu.webp": {
+  "ko": "목표",
+  "ok": true
+ },
+ "d55-ngung.webp": {
+  "ko": "멈추다",
+  "ok": true
+ },
+ "d55-chay.webp": {
+  "ko": "돌다·가동하다",
+  "ok": false
+ },
+ "x-tiep-tuc.webp": {
+  "ko": "계속하다",
+  "ok": true
+ },
+ "x-ke-hoach.webp": {
+  "ko": "계획",
+  "ok": true
+ },
+ "x-bao.webp": {
+  "ko": "알리다",
+  "ok": true
+ },
+ "d56-may-tinh.webp": {
+  "ko": "컴퓨터",
+  "ok": true
+ },
+ "d56-giay.webp": {
+  "ko": "종이",
+  "ok": true
+ },
+ "d56-but.webp": {
+  "ko": "펜",
+  "ok": true
+ },
+ "x-tai-lieu.webp": {
+  "ko": "자료",
+  "ok": true
+ },
+ "d57-phuc-vu.webp": {
+  "ko": "응대하다·서비스",
+  "ok": true
+ },
+ "x-ddawtj.webp": {
+  "ko": "주문하다·예약하다",
+  "ok": false
+ },
+ "d57-mang-ve.webp": {
+  "ko": "가져가다·포장 판매",
+  "ok": true
+ },
+ "d57-tinh-tien.webp": {
+  "ko": "계산하다",
+  "ok": true
+ },
+ "d57-tien-mat.webp": {
+  "ko": "현금",
+  "ok": true
+ },
+ "d57-giam-gia.webp": {
+  "ko": "할인하다",
+  "ok": true
+ },
+ "d59-cuoc-hen.webp": {
+  "ko": "약속(공식)",
+  "ok": true
+ },
+ "d59-san-bay.webp": {
+  "ko": "공항",
+  "ok": true
+ },
+ "d59-may-bay.webp": {
+  "ko": "비행기",
+  "ok": true
+ },
+ "d59-khach-san.webp": {
+  "ko": "호텔",
+  "ok": true
+ },
+ "x-dat-phong.webp": {
+  "ko": "방을 예약하다",
+  "ok": false
+ },
+ "x-hoan.webp": {
+  "ko": "연기되다·미뤄지다",
+  "ok": true
+ },
+ "x-hon.webp": {
+  "ko": "~보다 더",
+  "ok": true
+ },
+ "x-tai-khoan.webp": {
+  "ko": "계좌",
+  "ok": false
+ },
+ "d60-chuyen-tien.webp": {
+  "ko": "송금하다",
+  "ok": true
+ },
+ "d60-rut-tien.webp": {
+  "ko": "출금하다",
+  "ok": true
+ },
+ "d60-doi-tien.webp": {
+  "ko": "환전하다",
+  "ok": true
+ },
+ "x-ty-gia.webp": {
+  "ko": "환율",
+  "ok": true
+ },
+ "x-phi.webp": {
+  "ko": "수수료",
+  "ok": false
+ },
+ "d60-mat-khau.webp": {
+  "ko": "비밀번호",
+  "ok": true
+ },
+ "x-dang-ky.webp": {
+  "ko": "등록하다·신청하다",
+  "ok": true
+ },
+ "d60-dien.webp": {
+  "ko": "기입하다·적어 넣다",
+  "ok": true
+ },
+ "d60-nop.webp": {
+  "ko": "제출하다·내다",
+  "ok": true
+ },
+ "d61-mac.webp": {
+  "ko": "입다",
+  "ok": true
+ },
+ "d61-deo.webp": {
+  "ko": "차다·착용하다",
+  "ok": true
+ },
+ "x-cham-chi.webp": {
+  "ko": "성실하다·부지런하다",
+  "ok": true
+ },
+ "d61-luoi.webp": {
+  "ko": "게으르다",
+  "ok": false
+ },
+ "x-noi-quy.webp": {
+  "ko": "사규·규정",
+  "ok": true
+ },
+ "x-giu.webp": {
+  "ko": "지키다·유지하다",
+  "ok": true
+ },
+ "x-gon-gang.webp": {
+  "ko": "단정하다·정돈되다",
+  "ok": true
+ },
+ "x-thai-do.webp": {
+  "ko": "태도",
+  "ok": true
+ },
+ "x-nghiem-tuc.webp": {
+  "ko": "진지하다·엄정하다",
+  "ok": false
+ },
+ "d61-vut.webp": {
+  "ko": "버리다",
+  "ok": true
+ },
+ "x-nho.webp": {
+  "ko": "부탁하다",
+  "ok": false
+ },
+ "d62-giup-do.webp": {
+  "ko": "도와주다",
+  "ok": true
+ },
+ "d62-chia-se.webp": {
+  "ko": "나누다·공유하다",
+  "ok": true
+ },
+ "x-ton-trong.webp": {
+  "ko": "존중하다",
+  "ok": true
+ },
+ "x-hoi-tham.webp": {
+  "ko": "안부를 묻다",
+  "ok": false
+ },
+ "d62-khen.webp": {
+  "ko": "칭찬하다",
+  "ok": true
+ },
+ "x-che.webp": {
+  "ko": "흉보다·깎아내리다",
+  "ok": false
+ },
+ "d62-cai-nhau.webp": {
+  "ko": "다투다",
+  "ok": true
+ },
+ "x-dua.webp": {
+  "ko": "농담하다",
+  "ok": true
+ },
+ "x-than.webp": {
+  "ko": "친하다",
+  "ok": true
+ },
+ "d63-lien-hoan.webp": {
+  "ko": "회식·파티",
+  "ok": true
+ },
+ "x-chuc.webp": {
+  "ko": "기원하다·빌다",
+  "ok": true
+ },
+ "d63-rot.webp": {
+  "ko": "따르다",
+  "ok": false
+ },
+ "d63-can-ly.webp": {
+  "ko": "잔을 비우다·건배",
+  "ok": true
+ },
+ "d63-gap.webp": {
+  "ko": "(음식을) 집다·집어 주다",
+  "ok": true
+ },
+ "x-ep.webp": {
+  "ko": "강요하다",
+  "ok": false
+ },
+ "d63-tu-choi.webp": {
+  "ko": "거절하다",
+  "ok": false
+ },
+ "x-tang-hai.webp": {
+  "ko": "2차",
+  "ok": false
+ },
+ "x-bua.webp": {
+  "ko": "끼니·식사 자리",
+  "ok": true
+ },
+ "x-qua.webp": {
+  "ko": "너무·정말",
+  "ok": false
+ },
+ "x-xin-nghi.webp": {
+  "ko": "휴가를 신청하다",
+  "ok": true
+ },
+ "x-phep-nam.webp": {
+  "ko": "연차",
+  "ok": false
+ },
+ "x-ly-do.webp": {
+  "ko": "이유",
+  "ok": false
+ },
+ "x-viec-gap.webp": {
+  "ko": "급한 일",
+  "ok": true
+ },
+ "d64-thong-bao.webp": {
+  "ko": "공지하다·알리다",
+  "ok": true
+ },
+ "x-sap.webp": {
+  "ko": "곧 ~하려 하다",
+  "ok": false
+ },
+ "x-nhac.webp": {
+  "ko": "일깨우다·챙겨 말하다",
+  "ok": true
+ },
+ "x-nham.webp": {
+  "ko": "착각하다·잘못 알다",
+  "ok": false
+ },
+ "x-lowx.webp": {
+  "ko": "그만 ~해 버리다",
+  "ok": true
+ },
+ "x-co-y.webp": {
+  "ko": "고의로",
+  "ok": false
+ },
+ "x-vo-y.webp": {
+  "ko": "실수로·무심코",
+  "ok": false
+ },
+ "x-tha-loi.webp": {
+  "ko": "용서하다",
+  "ok": false
+ },
+ "x-lan.webp": {
+  "ko": "번·회",
+  "ok": false
+ },
+ "x-sua-sai.webp": {
+  "ko": "잘못을 바로잡다",
+  "ok": true
+ },
+ "x-kinh-nghiem.webp": {
+  "ko": "경험",
+  "ok": false
+ },
+ "x-bo-qua.webp": {
+  "ko": "넘어가 주다",
+  "ok": false
+ },
+ "x-that.webp": {
+  "ko": "정말로·진심으로",
+  "ok": true
+ },
+ "x-chinh-thuc.webp": {
+  "ko": "정식의",
+  "ok": false
+ },
+ "x-thoi-han.webp": {
+  "ko": "기한",
+  "ok": true
+ },
+ "x-gia-han.webp": {
+  "ko": "연장하다",
+  "ok": false
+ },
+ "x-dieu-khoan.webp": {
+  "ko": "조항",
+  "ok": false
+ },
+ "x-quyen-loi.webp": {
+  "ko": "권리·복리",
+  "ok": false
+ },
+ "x-nghia-vu.webp": {
+  "ko": "의무",
+  "ok": false
+ },
+ "x-ky.webp": {
+  "ko": "꼼꼼히·신중히",
+  "ok": true
+ },
+ "d67-lam-them.webp": {
+  "ko": "추가 근무하다",
+  "ok": false
+ },
+ "x-ngay-cong.webp": {
+  "ko": "근무 일수",
+  "ok": false
+ },
+ "d67-nhan.webp": {
+  "ko": "곱하다",
+  "ok": true
+ },
+ "d67-chia.webp": {
+  "ko": "나누다",
+  "ok": true
+ },
+ "x-tong-cong.webp": {
+  "ko": "총합·합계",
+  "ok": true
+ },
+ "d67-chuyen-khoan.webp": {
+  "ko": "계좌 이체하다",
+  "ok": false
+ },
+ "d67-so.webp": {
+  "ko": "통장·장부",
+  "ok": false
+ },
+ "x-thac-mac.webp": {
+  "ko": "의문·궁금한 점",
+  "ok": true
+ },
+ "d68-giay-phep.webp": {
+  "ko": "허가증",
+  "ok": true
+ },
+ "x-lao-dong.webp": {
+  "ko": "노동",
+  "ok": true
+ },
+ "d68-the-tam-tru.webp": {
+  "ko": "임시거주증",
+  "ok": false
+ },
+ "d68-dai-su-quan.webp": {
+  "ko": "대사관",
+  "ok": false
+ },
+ "x-lanh-su-quan.webp": {
+  "ko": "영사관",
+  "ok": false
+ },
+ "d68-khai.webp": {
+  "ko": "기입하다·신고하다",
+  "ok": true
+ },
+ "x-han.webp": {
+  "ko": "기한",
+  "ok": false
+ },
+ "x-qua-han.webp": {
+  "ko": "기한이 지나다",
+  "ok": true
+ },
+ "d68-anh.webp": {
+  "ko": "사진",
+  "ok": true
+ },
+ "x-y-te.webp": {
+  "ko": "의료",
+  "ok": true
+ },
+ "d69-kham-suc-khoe.webp": {
+  "ko": "건강검진",
+  "ok": false
+ },
+ "d69-don-thuoc.webp": {
+  "ko": "처방전",
+  "ok": true
+ },
+ "x-cap-cuu.webp": {
+  "ko": "응급",
+  "ok": true
+ },
+ "d69-xe-cap-cuu.webp": {
+  "ko": "구급차",
+  "ok": true
+ },
+ "d69-nam.webp": {
+  "ko": "눕다",
+  "ok": true
+ },
+ "d69-nam-vien.webp": {
+  "ko": "입원하다",
+  "ok": true
+ },
+ "d69-xuat-vien.webp": {
+  "ko": "퇴원하다",
+  "ok": true
+ },
+ "x-khoi.webp": {
+  "ko": "(병이) 낫다",
+  "ok": false
+ },
+ "d69-met-moi.webp": {
+  "ko": "피로하다",
+  "ok": true
+ },
+ "d70-mat.webp": {
+  "ko": "잃어버리다",
+  "ok": false
+ },
+ "d70-tim.webp": {
+  "ko": "찾다",
+  "ok": true
+ },
+ "x-thay.webp": {
+  "ko": "발견하다·보이다",
+  "ok": true
+ },
+ "d70-roi.webp": {
+  "ko": "떨어뜨리다",
+  "ok": false
+ },
+ "d70-trom.webp": {
+  "ko": "도둑·도난",
+  "ok": true
+ },
+ "d70-cong-an.webp": {
+  "ko": "경찰(공안)",
+  "ok": true
+ },
+ "x-bao-mat.webp": {
+  "ko": "분실 신고하다",
+  "ok": false
+ },
+ "d70-dien-thoai.webp": {
+  "ko": "전화기·휴대폰",
+  "ok": true
+ },
+ "x-binh-tinh.webp": {
+  "ko": "침착하다",
+  "ok": false
+ },
+ "d46-giat.webp": {
+  "ko": "빨래하다",
+  "ok": true
+ },
+ "d46-nau.webp": {
+  "ko": "요리하다·짓다",
+  "ok": true
+ },
+ "x-donj.webp": {
+  "ko": "치우다·정리하다",
+  "ok": true
+ },
+ "d46-rua.webp": {
+  "ko": "씻다·설거지하다",
+  "ok": true
+ },
+ "d46-phoi.webp": {
+  "ko": "널다·말리다",
+  "ok": false
+ },
+ "d46-lau.webp": {
+  "ko": "닦다",
+  "ok": true
+ },
+ "d46-rac.webp": {
+  "ko": "쓰레기",
+  "ok": true
+ },
+ "d46-ngu.webp": {
+  "ko": "자다",
+  "ok": true
+ },
+ "d46-tam.webp": {
+  "ko": "샤워하다·목욕하다",
+  "ok": true
+ },
+ "x-nuoc-ngoai.webp": {
+  "ko": "외국",
+  "ok": true
+ },
+ "x-visa.webp": {
+  "ko": "비자",
+  "ok": false
+ },
+ "d50-ho-chieu.webp": {
+  "ko": "여권",
+  "ok": false
+ },
+ "x-thuea.webp": {
+  "ko": "빌리다·세내다",
+  "ok": true
+ },
+ "x-van-hoa.webp": {
+  "ko": "문화",
+  "ok": true
+ },
+ "x-thoi-quen.webp": {
+  "ko": "습관",
+  "ok": true
+ },
+ "d50-cho-dem.webp": {
+  "ko": "야시장",
+  "ok": true
+ },
+ "d50-dem.webp": {
+  "ko": "밤",
+  "ok": true
+ },
+ "x-co-len.webp": {
+  "ko": "힘내라",
+  "ok": false
+ },
+ "d50-xe-om.webp": {
+  "ko": "오토바이 택시",
+  "ok": true
+ },
+ "d78-sim.webp": {
+  "ko": "유심",
+  "ok": true
+ },
+ "x-mang.webp": {
+  "ko": "통신망·인터넷",
+  "ok": true
+ },
+ "d78-wifi.webp": {
+  "ko": "와이파이",
+  "ok": true
+ },
+ "x-cuoc.webp": {
+  "ko": "요금",
+  "ok": true
+ },
+ "x-goi-cuoc.webp": {
+  "ko": "요금제",
+  "ok": false
+ },
+ "x-nap-tien.webp": {
+  "ko": "(요금을) 충전하다",
+  "ok": true
+ },
+ "d78-cuoc-goi.webp": {
+  "ko": "통화",
+  "ok": true
+ },
+ "x-mien-phi.webp": {
+  "ko": "무료",
+  "ok": true
+ },
+ "x-ma.webp": {
+  "ko": "코드·번호",
+  "ok": true
+ },
+ "d78-quet-ma.webp": {
+  "ko": "코드를 찍다(QR)",
+  "ok": true
+ },
+ "d15-gia-dinh.webp": {
+  "ko": "가족",
+  "ok": true
+ },
+ "d15-bo.webp": {
+  "ko": "아버지",
+  "ok": true
+ },
+ "d15-me.webp": {
+  "ko": "어머니",
+  "ok": true
+ },
+ "d15-con-trai.webp": {
+  "ko": "아들",
+  "ok": true
+ },
+ "d15-vo.webp": {
+  "ko": "아내",
+  "ok": true
+ },
+ "d15-chong.webp": {
+  "ko": "남편",
+  "ok": false
+ },
+ "x-anh-trai.webp": {
+  "ko": "형·오빠",
+  "ok": false
+ },
+ "x-chi-gai.webp": {
+  "ko": "누나·언니",
+  "ok": false
+ },
+ "x-em-trai.webp": {
+  "ko": "남동생",
+  "ok": true
+ },
+ "d15-em-gai.webp": {
+  "ko": "여동생",
+  "ok": true
+ },
+ "d71-que.webp": {
+  "ko": "고향",
+  "ok": true
+ },
+ "x-tinh.webp": {
+  "ko": "성(지방 행정구역)",
+  "ok": false
+ },
+ "x-mien.webp": {
+  "ko": "지방·권역",
+  "ok": false
+ },
+ "x-mien-bac.webp": {
+  "ko": "북부",
+  "ok": false
+ },
+ "x-mien-nam.webp": {
+  "ko": "남부",
+  "ok": false
+ },
+ "x-sinh-nam.webp": {
+  "ko": "~년생",
+  "ok": false
+ },
+ "d71-ket-hon.webp": {
+  "ko": "결혼하다",
+  "ok": true
+ },
+ "x-doc-than.webp": {
+  "ko": "미혼이다",
+  "ok": false
+ },
+ "d71-nguoi-yeu.webp": {
+  "ko": "애인",
+  "ok": true
+ },
+ "d71-co-con.webp": {
+  "ko": "자녀가 있다",
+  "ok": true
+ },
+ "d41-troi.webp": {
+  "ko": "하늘·날씨",
+  "ok": true
+ },
+ "d41-mua.webp": {
+  "ko": "비가 오다",
+  "ok": true
+ },
+ "d41-nang.webp": {
+  "ko": "햇볕이 나다",
+  "ok": true
+ },
+ "d41-nong.webp": {
+  "ko": "덥다",
+  "ok": true
+ },
+ "d41-lanh.webp": {
+  "ko": "춥다",
+  "ok": true
+ },
+ "d41-gio.webp": {
+  "ko": "바람",
+  "ok": true
+ },
+ "d41-may.webp": {
+  "ko": "구름",
+  "ok": true
+ },
+ "d41-o.webp": {
+  "ko": "우산",
+  "ok": true
+ },
+ "x-mua.webp": {
+  "ko": "계절·철",
+  "ok": true
+ },
+ "x-uot.webp": {
+  "ko": "젖다",
+  "ok": true
+ },
+ "x-cuoi.webp": {
+  "ko": "끝·마지막",
+  "ok": false
+ },
+ "x-cuoi-tuan.webp": {
+  "ko": "주말",
+  "ok": true
+ },
+ "x-ke.webp": {
+  "ko": "이야기해 주다",
+  "ok": true
+ },
+ "x-di-choi.webp": {
+  "ko": "놀러 가다",
+  "ok": false
+ },
+ "d74-ve-que.webp": {
+  "ko": "고향에 다녀오다",
+  "ok": true
+ },
+ "d74-mot-minh.webp": {
+  "ko": "혼자",
+  "ok": true
+ },
+ "d74-ban-be.webp": {
+  "ko": "친구들",
+  "ok": true
+ },
+ "d74-hen-ho.webp": {
+  "ko": "데이트하다",
+  "ok": true
+ },
+ "d74-nghi-ngoi.webp": {
+  "ko": "푹 쉬다",
+  "ok": true
+ },
+ "d74-di-dao.webp": {
+  "ko": "산책하다",
+  "ok": true
+ },
+ "d73-doi.webp": {
+  "ko": "팀",
+  "ok": true
+ },
+ "x-tran.webp": {
+  "ko": "경기·판",
+  "ok": false
+ },
+ "d73-thang.webp": {
+  "ko": "이기다",
+  "ok": false
+ },
+ "d73-thua.webp": {
+  "ko": "지다",
+  "ok": true
+ },
+ "x-hoa.webp": {
+  "ko": "비기다",
+  "ok": false
+ },
+ "x-ty-so.webp": {
+  "ko": "스코어·점수",
+  "ok": true
+ },
+ "d73-cau-thu.webp": {
+  "ko": "선수",
+  "ok": true
+ },
+ "d73-da.webp": {
+  "ko": "(공을) 차다",
+  "ok": true
+ },
+ "d73-co-vu.webp": {
+  "ko": "응원하다",
+  "ok": true
+ },
+ "d73-vo-dich.webp": {
+  "ko": "우승하다",
+  "ok": true
+ },
+ "x-thu.webp": {
+  "ko": "해 보다·시험 삼아",
+  "ok": false
+ },
+ "x-truoc-het.webp": {
+  "ko": "우선·먼저",
+  "ok": false
+ },
+ "x-ddos.webp": {
+  "ko": "그것·그",
+  "ok": false
+ },
+ "x-sau-do.webp": {
+  "ko": "그다음에",
+  "ok": true
+ },
+ "x-tung.webp": {
+  "ko": "하나씩·각각",
+  "ok": true
+ },
+ "x-theo.webp": {
+  "ko": "따르다·~대로",
+  "ok": false
+ },
+ "d81-lam-theo.webp": {
+  "ko": "따라 하다",
+  "ok": false
+ },
+ "x-cach.webp": {
+  "ko": "방법",
+  "ok": true
+ },
+ "x-dung-cach.webp": {
+  "ko": "올바른 방법으로",
+  "ok": true
+ },
+ "x-ro-rang.webp": {
+  "ko": "분명하게",
+  "ok": false
+ },
+ "x-tien-do.webp": {
+  "ko": "진도·진행",
+  "ok": true
+ },
+ "x-lau.webp": {
+  "ko": "오래 걸리다",
+  "ok": true
+ },
+ "x-bao-lau.webp": {
+  "ko": "얼마나 오래",
+  "ok": true
+ },
+ "x-con-lai.webp": {
+  "ko": "남은 것",
+  "ok": true
+ },
+ "x-van-de.webp": {
+  "ko": "문제",
+  "ok": true
+ },
+ "x-giai-quyet.webp": {
+  "ko": "해결하다",
+  "ok": true
+ },
+ "x-ngay.webp": {
+  "ko": "즉시·바로",
+  "ok": true
+ },
+ "x-on.webp": {
+  "ko": "괜찮다·안정되다",
+  "ok": true
+ },
+ "x-tamj.webp": {
+  "ko": "일단·임시로",
+  "ok": true
+ },
+ "x-gop-y.webp": {
+  "ko": "의견을 주다·피드백하다",
+  "ok": true
+ },
+ "x-nhe-nhang.webp": {
+  "ko": "부드럽게",
+  "ok": true
+ },
+ "x-rieng.webp": {
+  "ko": "따로·개인적으로",
+  "ok": true
+ },
+ "d83-noi-rieng.webp": {
+  "ko": "따로 말하다",
+  "ok": true
+ },
+ "x-truoc-mat.webp": {
+  "ko": "면전에서·앞에서",
+  "ok": true
+ },
+ "d83-tranh.webp": {
+  "ko": "피하다",
+  "ok": false
+ },
+ "d83-xau-ho.webp": {
+  "ko": "창피하다",
+  "ok": true
+ },
+ "x-mat-mat.webp": {
+  "ko": "체면을 잃다",
+  "ok": false
+ },
+ "x-y.webp": {
+  "ko": "뜻·의도",
+  "ok": true
+ },
+ "x-hieu-y.webp": {
+  "ko": "뜻을 알아듣다",
+  "ok": true
+ },
+ "d84-dong-vien.webp": {
+  "ko": "격려하다",
+  "ok": false
+ },
+ "x-tin-tuong.webp": {
+  "ko": "신뢰하다",
+  "ok": true
+ },
+ "x-tu-hao.webp": {
+  "ko": "자랑스럽다",
+  "ok": false
+ },
+ "x-tien-bo.webp": {
+  "ko": "발전하다·늘다",
+  "ok": true
+ },
+ "x-xuat-sac.webp": {
+  "ko": "뛰어나다",
+  "ok": true
+ },
+ "d84-nhom.webp": {
+  "ko": "조·팀",
+  "ok": true
+ },
+ "x-ca-nhom.webp": {
+  "ko": "팀 전체",
+  "ok": true
+ },
+ "d84-nho-co.webp": {
+  "ko": "~덕분에",
+  "ok": false
+ },
+ "x-phat-huy.webp": {
+  "ko": "발휘하다",
+  "ok": false
+ },
+ "d84-nu-cuoi.webp": {
+  "ko": "미소",
+  "ok": true
+ },
+ "x-y-kien.webp": {
+  "ko": "의견",
+  "ok": true
+ },
+ "d85-phat-bieu.webp": {
+  "ko": "발언하다",
+  "ok": true
+ },
+ "x-dong-y.webp": {
+  "ko": "동의하다",
+  "ok": true
+ },
+ "d85-phan-doi.webp": {
+  "ko": "반대하다",
+  "ok": false
+ },
+ "x-quyet-dinh.webp": {
+  "ko": "결정하다",
+  "ok": false
+ },
+ "d85-ghi-chep.webp": {
+  "ko": "기록하다·메모하다",
+  "ok": true
+ },
+ "d85-thu-ky.webp": {
+  "ko": "서기·비서",
+  "ok": false
+ },
+ "x-ket-luan.webp": {
+  "ko": "결론",
+  "ok": false
+ },
+ "d85-bieu-quyet.webp": {
+  "ko": "표결하다",
+  "ok": false
+ },
+ "d96-nang.webp": {
+  "ko": "들어올리다",
+  "ok": true
+ },
+ "d96-ha.webp": {
+  "ko": "내리다",
+  "ok": true
+ },
+ "d96-lui.webp": {
+  "ko": "후진하다",
+  "ok": false
+ },
+ "x-coi.webp": {
+  "ko": "경적",
+  "ok": true
+ },
+ "d96-dung.webp": {
+  "ko": "서다",
+  "ok": false
+ },
+ "x-tranh-xa.webp": {
+  "ko": "멀리 피하다",
+  "ok": false
+ },
+ "x-khu-vuc.webp": {
+  "ko": "구역",
+  "ok": false
+ },
+ "d96-nang2.webp": {
+  "ko": "무겁다",
+  "ok": true
+ },
+ "d96-nhe.webp": {
+  "ko": "가볍다",
+  "ok": false
+ },
+ "x-nhap.webp": {
+  "ko": "들이다·입력하다",
+  "ok": true
+ },
+ "x-phieu.webp": {
+  "ko": "전표·표",
+  "ok": false
+ },
+ "d97-ke.webp": {
+  "ko": "선반·랙",
+  "ok": true
+ },
+ "d97-sap-xep.webp": {
+  "ko": "정리해 배치하다",
+  "ok": true
+ },
+ "x-vi-tri.webp": {
+  "ko": "위치",
+  "ok": true
+ },
+ "d97-trong.webp": {
+  "ko": "비다",
+  "ok": false
+ },
+ "d97-day.webp": {
+  "ko": "가득 차다",
+  "ok": true
+ },
+ "d100-giao-nhan.webp": {
+  "ko": "인수인계·배송 수령",
+  "ok": true
+ },
+ "x-bien-ban.webp": {
+  "ko": "확인서·조서",
+  "ok": true
+ },
+ "d100-nguoi-nhan.webp": {
+  "ko": "수령인",
+  "ok": true
+ },
+ "d100-nguoi-gui.webp": {
+  "ko": "발송인",
+  "ok": false
+ },
+ "x-dung-hen.webp": {
+  "ko": "약속대로·제때",
+  "ok": true
+ },
+ "x-hu.webp": {
+  "ko": "망가지다",
+  "ok": true
+ },
+ "d100-hu-hong.webp": {
+  "ko": "파손되다",
+  "ok": true
+ },
+ "x-ddeanf.webp": {
+  "ko": "배상하다",
+  "ok": false
+ },
+ "d100-chup-lai.webp": {
+  "ko": "찍어 두다",
+  "ok": false
+ },
+ "d88-phan-loai.webp": {
+  "ko": "분류하다",
+  "ok": true
+ },
+ "x-tach.webp": {
+  "ko": "분리하다",
+  "ok": false
+ },
+ "x-tach-rieng.webp": {
+  "ko": "따로 빼다",
+  "ok": false
+ },
+ "x-daaus.webp": {
+  "ko": "표시·부호",
+  "ok": true
+ },
+ "d88-tem.webp": {
+  "ko": "스티커·태그",
+  "ok": true
+ },
+ "x-lan-cuoi.webp": {
+  "ko": "마지막으로·최종",
+  "ok": false
+ },
+ "d89-ra.webp": {
+  "ko": "나가다·밖으로",
+  "ok": false
+ },
+ "d89-thay-the.webp": {
+  "ko": "교체하다",
+  "ok": false
+ },
+ "x-nguyen.webp": {
+  "ko": "원래대로·그대로",
+  "ok": false
+ },
+ "x-giu-nguyen.webp": {
+  "ko": "그대로 두다",
+  "ok": false
+ },
+ "d89-tay.webp": {
+  "ko": "지우다·얼룩 빼다",
+  "ok": false
+ },
+ "d89-xuoc.webp": {
+  "ko": "긁히다",
+  "ok": false
+ },
+ "d89-lo.webp": {
+  "ko": "구멍",
+  "ok": true
+ },
+ "d89-duong-chi.webp": {
+  "ko": "실땀·실자국",
+  "ok": false
+ },
+ "x-nhu-moi.webp": {
+  "ko": "새것처럼",
+  "ok": false
+ },
+ "x-huong-dan.webp": {
+  "ko": "지침·안내",
+  "ok": true
+ },
+ "d90-ky-hieu.webp": {
+  "ko": "기호",
+  "ok": true
+ },
+ "x-chu-thich.webp": {
+  "ko": "주석·설명 달기",
+  "ok": false
+ },
+ "x-trang.webp": {
+  "ko": "페이지·쪽",
+  "ok": true
+ },
+ "x-dong.webp": {
+  "ko": "줄·행",
+  "ok": true
+ },
+ "x-muc.webp": {
+  "ko": "항목",
+  "ok": true
+ },
+ "x-tim-hieu.webp": {
+  "ko": "알아보다",
+  "ok": true
+ },
+ "x-cap-nhat.webp": {
+  "ko": "업데이트하다",
+  "ok": true
+ },
+ "x-phien-ban.webp": {
+  "ko": "버전·판",
+  "ok": false
+ },
+ "d91-thiec.webp": {
+  "ko": "땜납·주석",
+  "ok": true
+ },
+ "d91-mo-han.webp": {
+  "ko": "인두",
+  "ok": false
+ },
+ "d91-khoi.webp": {
+  "ko": "연기",
+  "ok": true
+ },
+ "x-chay.webp": {
+  "ko": "녹아 흐르다",
+  "ok": true
+ },
+ "x-nong-chay.webp": {
+  "ko": "녹다",
+  "ok": true
+ },
+ "d91-kep.webp": {
+  "ko": "집게·클립",
+  "ok": true
+ },
+ "d92-nguon.webp": {
+  "ko": "전원",
+  "ok": true
+ },
+ "d92-khoi-dong.webp": {
+  "ko": "켜다·기동하다",
+  "ok": true
+ },
+ "x-hien-thi.webp": {
+  "ko": "표시되다·뜨다",
+  "ok": false
+ },
+ "x-phan-mem.webp": {
+  "ko": "소프트웨어",
+  "ok": true
+ },
+ "x-mem.webp": {
+  "ko": "부드럽다",
+  "ok": true
+ },
+ "x-cai-dat.webp": {
+  "ko": "설치하다·설정하다",
+  "ok": true
+ },
+ "d92-ket-noi.webp": {
+  "ko": "연결하다",
+  "ok": true
+ },
+ "x-du-lieu.webp": {
+  "ko": "데이터",
+  "ok": true
+ },
+ "x-luu.webp": {
+  "ko": "저장하다",
+  "ok": true
+ },
+ "x-ma-loi.webp": {
+  "ko": "불량 코드",
+  "ok": false
+ },
+ "x-diem.webp": {
+  "ko": "점·점수",
+  "ok": false
+ },
+ "d93-nut.webp": {
+  "ko": "금 가다",
+  "ok": false
+ },
+ "d93-chay.webp": {
+  "ko": "타다",
+  "ok": false
+ },
+ "d93-chap.webp": {
+  "ko": "합선되다",
+  "ok": false
+ },
+ "x-ho.webp": {
+  "ko": "틈이 벌어지다",
+  "ok": false
+ },
+ "d93-ro.webp": {
+  "ko": "새다",
+  "ok": false
+ },
+ "x-keu.webp": {
+  "ko": "소리가 나다",
+  "ok": true
+ },
+ "d93-rung.webp": {
+  "ko": "떨리다·진동하다",
+  "ok": true
+ },
+ "d94-noi.webp": {
+  "ko": "잇다·연결하다",
+  "ok": true
+ },
+ "x-noi-dat.webp": {
+  "ko": "접지하다",
+  "ok": true
+ },
+ "x-nhiet.webp": {
+  "ko": "열",
+  "ok": true
+ },
+ "d94-nhiet-do.webp": {
+  "ko": "온도",
+  "ok": true
+ },
+ "x-do-am.webp": {
+  "ko": "습도",
+  "ok": true
+ },
+ "d94-quat.webp": {
+  "ko": "선풍기·팬",
+  "ok": true
+ },
+ "d94-loc.webp": {
+  "ko": "거르다·필터링하다",
+  "ok": true
+ },
+ "d94-mang-loc.webp": {
+  "ko": "필터",
+  "ok": true
+ },
+ "d94-bui-min.webp": {
+  "ko": "미세먼지",
+  "ok": true
+ },
+ "x-cach-dien.webp": {
+  "ko": "절연하다",
+  "ok": false
+ },
+ "x-kien.webp": {
+  "ko": "짝·건 (포장 단위)",
+  "ok": false
+ },
+ "d95-niem-phong.webp": {
+  "ko": "봉인하다",
+  "ok": false
+ },
+ "d95-can-nang.webp": {
+  "ko": "무게",
+  "ok": true
+ },
+ "d95-danh-sach.webp": {
+  "ko": "목록·리스트",
+  "ok": true
+ },
+ "x-doi-chieu.webp": {
+  "ko": "대조하다",
+  "ok": false
+ },
+ "x-chong.webp": {
+  "ko": "막다·방지하다",
+  "ok": true
+ },
+ "x-chong-am.webp": {
+  "ko": "방습하다",
+  "ok": true
+ },
+ "d95-ky-nhan.webp": {
+  "ko": "수령 서명하다",
+  "ok": true
+ },
+ "x-du-so.webp": {
+  "ko": "수량이 맞다",
+  "ok": false
+ },
+ "d107-van-hanh.webp": {
+  "ko": "설비를 운영하다",
+  "ok": true
+ },
+ "d107-boc.webp": {
+  "ko": "떼다·벗기다",
+  "ok": false
+ },
+ "d107-dong-hang.webp": {
+  "ko": "출하 준비하다",
+  "ok": true
+ },
+ "d107-tham.webp": {
+  "ko": "매트·바닥 시트",
+  "ok": true
+ },
+ "x-thuc-te.webp": {
+  "ko": "실제",
+  "ok": false
+ },
+ "d108-ngoai-quan.webp": {
+  "ko": "외관·외관 검사",
+  "ok": true
+ },
+ "d108-di-vat.webp": {
+  "ko": "이물",
+  "ok": true
+ },
+ "d108-tham-my.webp": {
+  "ko": "미관·보기 좋음",
+  "ok": true
+ },
+ "d108-ket-qua.webp": {
+  "ko": "결과",
+  "ok": true
+ },
+ "d108-hang-muc.webp": {
+  "ko": "검사 항목",
+  "ok": true
+ },
+ "d108-loai-hinh.webp": {
+  "ko": "유형",
+  "ok": true
+ },
+ "d108-kiem-soat.webp": {
+  "ko": "관리하다·통제하다",
+  "ok": true
+ },
+ "d108-cam-giac.webp": {
+  "ko": "느낌",
+  "ok": true
+ },
+ "d109-nguyen-nhan.webp": {
+  "ko": "원인",
+  "ok": false
+ },
+ "d109-bien-phap.webp": {
+  "ko": "방안·수단",
+  "ok": false
+ },
+ "d109-doi-sach.webp": {
+  "ko": "대응책",
+  "ok": false
+ },
+ "d109-phat-sinh.webp": {
+  "ko": "발생하다",
+  "ok": true
+ },
+ "d109-cai-thien.webp": {
+  "ko": "개선하다",
+  "ok": true
+ },
+ "d109-triet-de.webp": {
+  "ko": "철저히",
+  "ok": true
+ },
+ "d109-tuan-thu.webp": {
+  "ko": "규정을 준수하다",
+  "ok": true
+ },
+ "d109-dam-bao.webp": {
+  "ko": "보장하다",
+  "ok": true
+ },
+ "d109-lap-lai.webp": {
+  "ko": "반복하다·되풀이되다",
+  "ok": true
+ },
+ "d109-anh-huong.webp": {
+  "ko": "영향을 주다",
+  "ok": true
+ },
+ "d110-ky-thuat.webp": {
+  "ko": "기술·기술팀",
+  "ok": true
+ },
+ "x-thong-so.webp": {
+  "ko": "사양·수치",
+  "ok": true
+ },
+ "d110-kim-loai.webp": {
+  "ko": "금속",
+  "ok": true
+ },
+ "d110-tiep-xuc.webp": {
+  "ko": "접촉하다",
+  "ok": true
+ },
+ "d110-muc.webp": {
+  "ko": "잉크",
+  "ok": true
+ },
+ "d111-nhan-luc.webp": {
+  "ko": "인력",
+  "ok": true
+ },
+ "d111-dao-tao.webp": {
+  "ko": "교육하다·양성하다",
+  "ok": true
+ },
+ "d111-nhan-tai.webp": {
+  "ko": "인재",
+  "ok": true
+ },
+ "d111-dam-nhan.webp": {
+  "ko": "맡다·담당하다",
+  "ok": true
+ },
+ "d111-duyet.webp": {
+  "ko": "승인하다·결재하다",
+  "ok": true
+ },
+ "d111-thoi-vu.webp": {
+  "ko": "단기·계절 (근로)",
+  "ok": false
+ },
+ "d111-nghi-viec.webp": {
+  "ko": "퇴사하다",
+  "ok": false
+ },
+ "d111-dai-ngo.webp": {
+  "ko": "처우·대우",
+  "ok": false
+ },
+ "d112-qua-tai.webp": {
+  "ko": "과부하·벅차다",
+  "ok": true
+ },
+ "d112-ganh-nang.webp": {
+  "ko": "부담",
+  "ok": true
+ },
+ "d112-khoi-luong.webp": {
+  "ko": "업무량·분량",
+  "ok": true
+ },
+ "d112-thieu-hut.webp": {
+  "ko": "결원·부족분",
+  "ok": false
+ },
+ "d112-bien-dong.webp": {
+  "ko": "변동",
+  "ok": true
+ },
+ "d112-tinh-trang.webp": {
+  "ko": "상태·상황",
+  "ok": true
+ },
+ "d112-kho-khan.webp": {
+  "ko": "어려움",
+  "ok": true
+ },
+ "d112-ho-tro.webp": {
+  "ko": "지원하다",
+  "ok": true
+ },
+ "d112-uu-tien.webp": {
+  "ko": "우선하다",
+  "ok": false
+ },
+ "d112-ung-ho.webp": {
+  "ko": "지지하다·밀어주다",
+  "ok": true
+ },
+ "d113-qua-trinh.webp": {
+  "ko": "과정",
+  "ok": true
+ },
+ "d113-thuc-hien.webp": {
+  "ko": "수행하다·실행하다",
+  "ok": true
+ },
+ "d113-noi-dung.webp": {
+  "ko": "내용",
+  "ok": true
+ },
+ "d113-thu-tu.webp": {
+  "ko": "차례·순번",
+  "ok": false
+ },
+ "d113-nhiem-vu.webp": {
+  "ko": "임무·맡은 일",
+  "ok": true
+ },
+ "d113-phuong-phap.webp": {
+  "ko": "방식",
+  "ok": true
+ },
+ "d113-ghi-chu.webp": {
+  "ko": "비고·메모",
+  "ok": true
+ },
+ "d113-co-ban.webp": {
+  "ko": "기본적인",
+  "ok": false
+ },
+ "d113-thuan-tien.webp": {
+  "ko": "편리하다",
+  "ok": true
+ },
+ "d113-hieu-qua.webp": {
+  "ko": "효율·효과",
+  "ok": false
+ },
+ "d114-co-cau.webp": {
+  "ko": "구조·체계",
+  "ok": true
+ },
+ "d114-phat-trien.webp": {
+  "ko": "키우다·성장시키다",
+  "ok": true
+ },
+ "d114-vai-tro.webp": {
+  "ko": "역할",
+  "ok": true
+ },
+ "d114-lau-dai.webp": {
+  "ko": "오래가는·장기의",
+  "ok": false
+ },
+ "d114-lien-tuc.webp": {
+  "ko": "계속·잇달아",
+  "ok": true
+ },
+ "x-yeu-cau.webp": {
+  "ko": "요청하다·요구",
+  "ok": false
+ },
+ "d114-dai-hoi.webp": {
+  "ko": "대회",
+  "ok": false
+ },
+ "d114-lich-su.webp": {
+  "ko": "이력",
+  "ok": false
+ }
+}

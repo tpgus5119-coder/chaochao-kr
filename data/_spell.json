@@ -1,0 +1,9467 @@
+{
+ "bọn anh": {
+  "vi": "bọn anh",
+  "ko": "형, 오빠들 (자기를 소개할 때)",
+  "fix": ""
+ },
+ "bọn chị": {
+  "vi": "bọn chị",
+  "ko": "누나, 언니들 (자기를 소개할 때)",
+  "fix": ""
+ },
+ "các ông": {
+  "vi": "các ông",
+  "ko": "할아버지들",
+  "fix": ""
+ },
+ "các bà": {
+  "vi": "các bà",
+  "ko": "할머니들",
+  "fix": ""
+ },
+ "chào các cháu": {
+  "vi": "chào các cháu",
+  "ko": "얘들아 안녕·손주들 안녕",
+  "fix": ""
+ },
+ "chào các bạn": {
+  "vi": "chào các bạn",
+  "ko": "여러분 안녕하세요",
+  "fix": ""
+ },
+ "hẹn gặp lại bạn": {
+  "vi": "hẹn gặp lại bạn",
+  "ko": "다시 만나요",
+  "fix": ""
+ },
+ "cước phí": {
+  "vi": "cước phí",
+  "ko": "요금",
+  "fix": ""
+ },
+ "xe tắc xi": {
+  "vi": "xe tắc xi",
+  "ko": "택시",
+  "fix": "xe taxi"
+ },
+ "xe đạp": {
+  "vi": "xe đạp",
+  "ko": "자전거",
+  "fix": ""
+ },
+ "cây bút": {
+  "vi": "cây bút",
+  "ko": "펜",
+  "fix": ""
+ },
+ "rau quả": {
+  "vi": "rau quả",
+  "ko": "야채",
+  "fix": ""
+ },
+ "tôm": {
+  "vi": "tôm",
+  "ko": "새우",
+  "fix": ""
+ },
+ "ngò": {
+  "vi": "ngò",
+  "ko": "고수",
+  "fix": ""
+ },
+ "sò huyết": {
+  "vi": "sò huyết",
+  "ko": "조개",
+  "fix": ""
+ },
+ "trứng gà": {
+  "vi": "trứng gà",
+  "ko": "계란",
+  "fix": ""
+ },
+ "không khỏe lắm": {
+  "vi": "không khỏe lắm",
+  "ko": "별로 좋지 않은",
+  "fix": ""
+ },
+ "nhà riȇng": {
+  "vi": "nhà riȇng",
+  "ko": "개인 주택",
+  "fix": "nhà riêng"
+ },
+ "vui": {
+  "vi": "vui",
+  "ko": "기쁜",
+  "fix": ""
+ },
+ "mình hơi mệt": {
+  "vi": "mình hơi mệt",
+  "ko": "난 좀 피곤해",
+  "fix": ""
+ },
+ "sâu": {
+  "vi": "sâu",
+  "ko": "깊은",
+  "fix": ""
+ },
+ "giới thiệu": {
+  "vi": "giới thiệu",
+  "ko": "소개하다",
+  "fix": ""
+ },
+ "bài tập về nhà": {
+  "vi": "bài tập về nhà",
+  "ko": "숙제",
+  "fix": ""
+ },
+ "đúng": {
+  "vi": "đúng",
+  "ko": "올바른, 옳다",
+  "fix": ""
+ },
+ "trời ơi": {
+  "vi": "trời ơi",
+  "ko": "맙소사",
+  "fix": ""
+ },
+ "cố gắng học nhé": {
+  "vi": "cố gắng học nhé",
+  "ko": "열심히 공부하렴",
+  "fix": ""
+ },
+ "tên": {
+  "vi": "tên",
+  "ko": "이름",
+  "fix": ""
+ },
+ "ngưởi": {
+  "vi": "ngưởi",
+  "ko": "사람",
+  "fix": "người"
+ },
+ "bản thân": {
+  "vi": "bản thân",
+  "ko": "자기소개(목적어)",
+  "fix": ""
+ },
+ "ấy": {
+  "vi": "ấy",
+  "ko": "그,저 (지칭어)",
+  "fix": ""
+ },
+ "bạn gái": {
+  "vi": "bạn gái",
+  "ko": "여자 친구",
+  "fix": ""
+ },
+ "dẹp": {
+  "vi": "dẹp",
+  "ko": "잘생겼어요",
+  "fix": "đẹp"
+ },
+ "chúng em": {
+  "vi": "chúng em",
+  "ko": "(연하)저희",
+  "fix": ""
+ },
+ "lít": {
+  "vi": "lít",
+  "ko": "리터",
+  "fix": ""
+ },
+ "mililít": {
+  "vi": "mililít",
+  "ko": "밀리리터",
+  "fix": ""
+ },
+ "độ": {
+  "vi": "độ",
+  "ko": "도 (온도)",
+  "fix": ""
+ },
+ "ít tuổi hơn": {
+  "vi": "ít tuổi hơn",
+  "ko": "나이가 더 적은",
+  "fix": ""
+ },
+ "ví dụ": {
+  "vi": "ví dụ",
+  "ko": "예문",
+  "fix": ""
+ },
+ "ít chỗ nhất": {
+  "vi": "ít chỗ nhất",
+  "ko": "(차의 좌석이) 제일 적다",
+  "fix": ""
+ },
+ "họ": {
+  "vi": "họ",
+  "ko": "그들",
+  "fix": ""
+ },
+ "ăn": {
+  "vi": "ăn",
+  "ko": "먹다",
+  "fix": ""
+ },
+ "ngày mai": {
+  "vi": "ngày mai",
+  "ko": "내일",
+  "fix": ""
+ },
+ "giáo": {
+  "vi": "giáo",
+  "ko": "선생님",
+  "fix": "giáo viên"
+ },
+ "lầm": {
+  "vi": "lầm",
+  "ko": "잘못 생각하다",
+  "fix": ""
+ },
+ "chúng ta": {
+  "vi": "chúng ta",
+  "ko": "우리 (듣는사람 포함)",
+  "fix": ""
+ },
+ "bà ầy": {
+  "vi": "bà ầy",
+  "ko": "그 할머니",
+  "fix": "bà ấy"
+ },
+ "cá phê sữa đá": {
+  "vi": "cá phê sữa đá",
+  "ko": "아이스 밀크 커피",
+  "fix": "cà phê sữa đá"
+ },
+ "đay": {
+  "vi": "đay",
+  "ko": "아프다",
+  "fix": "đau"
+ },
+ "hiếu": {
+  "vi": "hiếu",
+  "ko": "효, 좋아하다",
+  "fix": ""
+ },
+ "hiếu kỳ": {
+  "vi": "hiếu kỳ",
+  "ko": "호기심이 있는",
+  "fix": ""
+ },
+ "tôi dễ thương": {
+  "vi": "tôi dễ thương",
+  "ko": "나는 귀엽다",
+  "fix": ""
+ },
+ "dễ": {
+  "vi": "dễ",
+  "ko": "쉬운",
+  "fix": ""
+ },
+ "quả dừa": {
+  "vi": "quả dừa",
+  "ko": "코코넛",
+  "fix": ""
+ },
+ "từ~đến~": {
+  "vi": "từ~đến~",
+  "ko": "부터 / 까지(시간)",
+  "fix": ""
+ },
+ "tiếng nhật": {
+  "vi": "tiếng Nhật",
+  "ko": "예습 / 일본어",
+  "fix": "tiếng Nhật"
+ },
+ "cuốn tiểu thuyết": {
+  "vi": "cuốn tiểu thuyết",
+  "ko": "소설책",
+  "fix": ""
+ },
+ "cái kính râm": {
+  "vi": "cái kính râm",
+  "ko": "선글라스",
+  "fix": ""
+ },
+ "chúng tôi": {
+  "vi": "chúng tôi",
+  "ko": "우리",
+  "fix": ""
+ },
+ "nghề": {
+  "vi": "nghề",
+  "ko": "직업",
+  "fix": ""
+ },
+ "hoạ sĩ": {
+  "vi": "hoạ sĩ",
+  "ko": "화가",
+  "fix": ""
+ },
+ "đây là": {
+  "vi": "đây là",
+  "ko": "여기는 · 이것은",
+  "fix": ""
+ },
+ "hầu bàn": {
+  "vi": "hầu bàn",
+  "ko": "웨이터",
+  "fix": ""
+ },
+ "họa sỹ": {
+  "vi": "họa sỹ",
+  "ko": "도장공",
+  "fix": "họa sĩ"
+ },
+ "trường tiểu học": {
+  "vi": "trường tiểu học",
+  "ko": "초등학교",
+  "fix": ""
+ },
+ "ba lan": {
+  "vi": "Ba Lan",
+  "ko": "폴란드",
+  "fix": ""
+ },
+ "pháp": {
+  "vi": "Pháp",
+  "ko": "프랑스",
+  "fix": ""
+ },
+ "thái lan": {
+  "vi": "Thái Lan",
+  "ko": "태국",
+  "fix": ""
+ },
+ "phần lan": {
+  "vi": "Phần Lan",
+  "ko": "핀란드",
+  "fix": ""
+ },
+ "thụy điển": {
+  "vi": "Thụy Điển",
+  "ko": "스웨덴",
+  "fix": ""
+ },
+ "tiếng khme": {
+  "vi": "tiếng Khme",
+  "ko": "캄보디아어",
+  "fix": "tiếng Khmer"
+ },
+ "quả dưa hấu": {
+  "vi": "quả dưa hấu",
+  "ko": "수박",
+  "fix": ""
+ },
+ "quả sầu riêng": {
+  "vi": "quả sầu riêng",
+  "ko": "두리안",
+  "fix": ""
+ },
+ "trứng ốp la": {
+  "vi": "trứng ốp la",
+  "ko": "달걀후라이",
+  "fix": ""
+ },
+ "tờ báo": {
+  "vi": "tờ báo",
+  "ko": "신문",
+  "fix": ""
+ },
+ "nước hàn": {
+  "vi": "nước Hàn",
+  "ko": "(나라) 한국",
+  "fix": ""
+ },
+ "người hàn": {
+  "vi": "người Hàn",
+  "ko": "(사람) 한국인",
+  "fix": ""
+ },
+ "việt": {
+  "vi": "Việt",
+  "ko": "베트남",
+  "fix": ""
+ },
+ "kí túc xá": {
+  "vi": "kí túc xá",
+  "ko": "기숙사",
+  "fix": "ký túc xá"
+ },
+ "con trai tôi": {
+  "vi": "con trai tôi",
+  "ko": "내 아들",
+  "fix": ""
+ },
+ "con bò": {
+  "vi": "con bò",
+  "ko": "소",
+  "fix": ""
+ },
+ "cái bút bi": {
+  "vi": "cái bút bi",
+  "ko": "볼펜",
+  "fix": ""
+ },
+ "cảm thấy": {
+  "vi": "cảm thấy",
+  "ko": "느끼다",
+  "fix": ""
+ },
+ "đo, đấy, kia": {
+  "vi": "đo, đấy, kia",
+  "ko": "(멀리 있는) (총 3개 배움, 택1)",
+  "fix": "?"
+ },
+ "họ đều": {
+  "vi": "họ đều",
+  "ko": "그들은 모두",
+  "fix": ""
+ },
+ "mở trang": {
+  "vi": "mở trang",
+  "ko": "(책의 ~쪽을) 펴다",
+  "fix": ""
+ },
+ "quyển vở": {
+  "vi": "quyển vở",
+  "ko": "공책",
+  "fix": ""
+ },
+ "chiêc giầy": {
+  "vi": "chiêc giầy",
+  "ko": "신발(한 쪽)",
+  "fix": "chiếc giày"
+ },
+ "mỏng": {
+  "vi": "mỏng",
+  "ko": "얇은",
+  "fix": ""
+ },
+ "xấu": {
+  "vi": "xấu",
+  "ko": "못생긴",
+  "fix": ""
+ },
+ "bài kiểm tra": {
+  "vi": "bài kiểm tra",
+  "ko": "시험",
+  "fix": ""
+ },
+ "xin": {
+  "vi": "xin",
+  "ko": "청하다",
+  "fix": ""
+ },
+ "cháu": {
+  "vi": "cháu",
+  "ko": "어린이, 손자",
+  "fix": ""
+ },
+ "trả lời câu hỏi": {
+  "vi": "trả lời câu hỏi",
+  "ko": "질문에 대답하다",
+  "fix": ""
+ },
+ "quả táo": {
+  "vi": "quả táo",
+  "ko": "사과",
+  "fix": ""
+ },
+ "con lợn": {
+  "vi": "con lợn",
+  "ko": "돼지",
+  "fix": ""
+ },
+ "cái nhà": {
+  "vi": "cái nhà",
+  "ko": "집",
+  "fix": ""
+ },
+ "tấm vé": {
+  "vi": "tấm vé",
+  "ko": "티켓",
+  "fix": ""
+ },
+ "tờ séc": {
+  "vi": "tờ séc",
+  "ko": "수표",
+  "fix": ""
+ },
+ "con hổ": {
+  "vi": "con hổ",
+  "ko": "호랑이",
+  "fix": ""
+ },
+ "cái nhà đó mới": {
+  "vi": "cái nhà đó mới",
+  "ko": "저 집은 새것이다",
+  "fix": ""
+ },
+ "quả bóng": {
+  "vi": "quả bóng",
+  "ko": "공",
+  "fix": ""
+ },
+ "con rắn": {
+  "vi": "con rắn",
+  "ko": "뱀",
+  "fix": ""
+ },
+ "nước nga": {
+  "vi": "nước Nga",
+  "ko": "러시아",
+  "fix": ""
+ },
+ "người pháp": {
+  "vi": "người Pháp",
+  "ko": "프랑스 인",
+  "fix": ""
+ },
+ "cái bút chì": {
+  "vi": "cái bút chì",
+  "ko": "연필",
+  "fix": ""
+ },
+ "quyển lịch": {
+  "vi": "quyển lịch",
+  "ko": "달력",
+  "fix": ""
+ },
+ "quả cam": {
+  "vi": "quả cam",
+  "ko": "오렌지",
+  "fix": ""
+ },
+ "con voi": {
+  "vi": "con voi",
+  "ko": "코끼리",
+  "fix": ""
+ },
+ "thi": {
+  "vi": "thi",
+  "ko": "시험 보다",
+  "fix": ""
+ },
+ "phòng học": {
+  "vi": "phòng học",
+  "ko": "교실",
+  "fix": ""
+ },
+ "cuối tuần trước": {
+  "vi": "cuối tuần trước",
+  "ko": "지난 주말",
+  "fix": ""
+ },
+ "máy lạng": {
+  "vi": "máy lạng",
+  "ko": "슬라이서",
+  "fix": "?"
+ },
+ "nghe lời, ngoan": {
+  "vi": "nghe lời, ngoan",
+  "ko": "말 잘듣는",
+  "fix": ""
+ },
+ "hư": {
+  "vi": "hư",
+  "ko": "버릇없는",
+  "fix": ""
+ },
+ "hấp tấp": {
+  "vi": "hấp tấp",
+  "ko": "성격이 급한",
+  "fix": ""
+ },
+ "già": {
+  "vi": "già",
+  "ko": "늙은",
+  "fix": ""
+ },
+ "trẻ": {
+  "vi": "trẻ",
+  "ko": "어린",
+  "fix": ""
+ },
+ "tại sao": {
+  "vi": "tại sao",
+  "ko": "왜",
+  "fix": ""
+ },
+ "lòng": {
+  "vi": "lòng",
+  "ko": "마음",
+  "fix": ""
+ },
+ "công viên nước": {
+  "vi": "công viên nước",
+  "ko": "워터파크",
+  "fix": ""
+ },
+ "mỗi ngày": {
+  "vi": "mỗi ngày",
+  "ko": "매일",
+  "fix": ""
+ },
+ "rộng rãi": {
+  "vi": "rộng rãi",
+  "ko": "화통한(밥 잘사주는)",
+  "fix": "hào phóng"
+ },
+ "hà tiện": {
+  "vi": "hà tiện",
+  "ko": "구두쇠",
+  "fix": ""
+ },
+ "nóng tính": {
+  "vi": "nóng tính",
+  "ko": "분노 조절을 잘 못하는",
+  "fix": ""
+ },
+ "trầm tĩnh": {
+  "vi": "trầm tĩnh",
+  "ko": "조용한",
+  "fix": "trầm tĩnh"
+ },
+ "giáo sư": {
+  "vi": "giáo sư",
+  "ko": "교수",
+  "fix": ""
+ },
+ "dữ": {
+  "vi": "dữ",
+  "ko": "사나운",
+  "fix": ""
+ },
+ "ra ngoài": {
+  "vi": "ra ngoài",
+  "ko": "밖으로 나가다",
+  "fix": ""
+ },
+ "giảng bài": {
+  "vi": "giảng bài",
+  "ko": "강의하다",
+  "fix": ""
+ },
+ "máy quạt": {
+  "vi": "máy quạt",
+  "ko": "선풍기",
+  "fix": ""
+ },
+ "tư áo": {
+  "vi": "tư áo",
+  "ko": "옷장",
+  "fix": "tủ áo"
+ },
+ "bến xu buýt": {
+  "vi": "bến xu buýt",
+  "ko": "버스정류장",
+  "fix": "bến xe buýt"
+ },
+ "trủa": {
+  "vi": "trủa",
+  "ko": "(아침 / 정오 전까지)",
+  "fix": "?"
+ },
+ "một nghìn": {
+  "vi": "một nghìn",
+  "ko": "천",
+  "fix": ""
+ },
+ "mười nghìn": {
+  "vi": "mười nghìn",
+  "ko": "만",
+  "fix": ""
+ },
+ "một trăm nghìn": {
+  "vi": "một trăm nghìn",
+  "ko": "십만",
+  "fix": ""
+ },
+ "mười triệu": {
+  "vi": "mười triệu",
+  "ko": "천만",
+  "fix": ""
+ },
+ "một trăm triệu": {
+  "vi": "một trăm triệu",
+  "ko": "1억",
+  "fix": ""
+ },
+ "có chín quyển": {
+  "vi": "có chín quyển",
+  "ko": "책이 아홉 권 있다",
+  "fix": ""
+ },
+ "về nhất": {
+  "vi": "về nhất",
+  "ko": "1등하다",
+  "fix": ""
+ },
+ "hai mươi": {
+  "vi": "hai mươi",
+  "ko": "이십",
+  "fix": ""
+ },
+ "tồi lắm": {
+  "vi": "tồi lắm",
+  "ko": "매우 나쁘다(형편없다)",
+  "fix": ""
+ },
+ "dịch bài báo": {
+  "vi": "dịch bài báo",
+  "ko": "기사를 번역하다",
+  "fix": ""
+ },
+ "bia hơi": {
+  "vi": "bia hơi",
+  "ko": "생맥주",
+  "fix": ""
+ },
+ "dùng máy tính": {
+  "vi": "dùng máy tính",
+  "ko": "컴퓨터를 하다",
+  "fix": ""
+ },
+ "làm bài tập": {
+  "vi": "làm bài tập",
+  "ko": "숙제를 하다",
+  "fix": ""
+ },
+ "nhiều loại đàn": {
+  "vi": "nhiều loại đàn",
+  "ko": "많은 종류의 악기(줄이 달린",
+  "fix": ""
+ },
+ "vài": {
+  "vi": "vài",
+  "ko": "몇몇",
+  "fix": ""
+ },
+ "hoá ơn": {
+  "vi": "hoá ơn",
+  "ko": "감사하다",
+  "fix": "cảm ơn"
+ },
+ "mười lăm": {
+  "vi": "mười lăm",
+  "ko": "십오",
+  "fix": ""
+ },
+ "hai mươi mốt": {
+  "vi": "hai mươi mốt",
+  "ko": "스물하나",
+  "fix": ""
+ },
+ "hai mươi tư": {
+  "vi": "hai mươi tư",
+  "ko": "스물넷 · 24",
+  "fix": ""
+ },
+ "lời khuyên của cô": {
+  "vi": "lời khuyên của cô",
+  "ko": "선생님의 조언",
+  "fix": ""
+ },
+ "đi mua sắm": {
+  "vi": "đi mua sắm",
+  "ko": "쇼핑하러 가다",
+  "fix": ""
+ },
+ "bưu điện": {
+  "vi": "bưu điện",
+  "ko": "우체국",
+  "fix": ""
+ },
+ "đồ ăn": {
+  "vi": "đồ ăn",
+  "ko": "먹을 거",
+  "fix": ""
+ },
+ "chị ấy uống thuốc": {
+  "vi": "chị ấy uống thuốc",
+  "ko": "그 여자가 약을 먹다",
+  "fix": ""
+ },
+ "phẩy": {
+  "vi": "phẩy",
+  "ko": "쉼표",
+  "fix": ""
+ },
+ "nói lại": {
+  "vi": "nói lại",
+  "ko": "따라 읽다",
+  "fix": ""
+ },
+ "daọ nay": {
+  "vi": "daọ nay",
+  "ko": "최근",
+  "fix": "dạo này"
+ },
+ "ăn tối": {
+  "vi": "ăn tối",
+  "ko": "저녁을 먹다",
+  "fix": ""
+ },
+ "may ảnh": {
+  "vi": "may ảnh",
+  "ko": "카메라",
+  "fix": "máy ảnh"
+ },
+ "lóp học": {
+  "vi": "lóp học",
+  "ko": "교실",
+  "fix": "lớp học"
+ },
+ "nhạc": {
+  "vi": "nhạc",
+  "ko": "음악",
+  "fix": ""
+ },
+ "mọi nơi": {
+  "vi": "mọi nơi",
+  "ko": "어디에서나 / 모든 곳에서",
+  "fix": ""
+ },
+ "vì": {
+  "vi": "vì",
+  "ko": "왜냐하면",
+  "fix": ""
+ },
+ "giá": {
+  "vi": "giá",
+  "ko": "가격",
+  "fix": ""
+ },
+ "nhà máy dệt": {
+  "vi": "nhà máy dệt",
+  "ko": "방직 공장, 직물 공장",
+  "fix": ""
+ },
+ "câu cá": {
+  "vi": "câu cá",
+  "ko": "낚시질하다",
+  "fix": ""
+ },
+ "hộp giấy ăn": {
+  "vi": "hộp giấy ăn",
+  "ko": "곽휴지",
+  "fix": ""
+ },
+ "thùng rác": {
+  "vi": "thùng rác",
+  "ko": "쓰레기통",
+  "fix": ""
+ },
+ "cái gường": {
+  "vi": "cái gường",
+  "ko": "거울",
+  "fix": "cái gương"
+ },
+ "cái giương": {
+  "vi": "cái giương",
+  "ko": "침대",
+  "fix": "cái giường"
+ },
+ "ngăn kéo": {
+  "vi": "ngăn kéo",
+  "ko": "서랍",
+  "fix": ""
+ },
+ "lần nữa": {
+  "vi": "lần nữa",
+  "ko": "다시, 한 번 더",
+  "fix": ""
+ },
+ "ôn": {
+  "vi": "ôn",
+  "ko": "복습하다",
+  "fix": ""
+ },
+ "ăn trưa": {
+  "vi": "ăn trưa",
+  "ko": "점심을 먹다",
+  "fix": ""
+ },
+ "hè": {
+  "vi": "hè",
+  "ko": "여름",
+  "fix": ""
+ },
+ "món ăn": {
+  "vi": "món ăn",
+  "ko": "음식",
+  "fix": ""
+ },
+ "chủ thể": {
+  "vi": "chủ thể",
+  "ko": "주제",
+  "fix": ""
+ },
+ "không thể": {
+  "vi": "không thể",
+  "ko": "불가능",
+  "fix": ""
+ },
+ "tội của tôi": {
+  "vi": "tội của tôi",
+  "ko": "나의 죄",
+  "fix": ""
+ },
+ "bức tường": {
+  "vi": "bức tường",
+  "ko": "벽",
+  "fix": ""
+ },
+ "ước mơ của mình": {
+  "vi": "ước mơ của mình",
+  "ko": "나의 꿈",
+  "fix": ""
+ },
+ "người đẹp à ~": {
+  "vi": "người đẹp à ~",
+  "ko": "예쁜아",
+  "fix": ""
+ },
+ "hẹn": {
+  "vi": "hẹn",
+  "ko": "약속하다",
+  "fix": ""
+ },
+ "đợt": {
+  "vi": "đợt",
+  "ko": "기간, 한 차례",
+  "fix": ""
+ },
+ "làm ruộng": {
+  "vi": "làm ruộng",
+  "ko": "농사짓다",
+  "fix": ""
+ },
+ "ra khỏi": {
+  "vi": "ra khỏi",
+  "ko": "밖으로 나가다",
+  "fix": ""
+ },
+ "một ít": {
+  "vi": "một ít",
+  "ko": "적은",
+  "fix": ""
+ },
+ "sân tennis": {
+  "vi": "sân tennis",
+  "ko": "테니스 장",
+  "fix": ""
+ },
+ "dệt vải": {
+  "vi": "dệt vải",
+  "ko": "직조하다",
+  "fix": ""
+ },
+ "trả": {
+  "vi": "trả",
+  "ko": "지불하다 / 돌려주다",
+  "fix": ""
+ },
+ "chữa": {
+  "vi": "chữa",
+  "ko": "수리하다 / 치료하다 / 정정하다",
+  "fix": ""
+ },
+ "chuyển": {
+  "vi": "chuyển",
+  "ko": "옮기다 / 건네주다",
+  "fix": ""
+ },
+ "văn": {
+  "vi": "văn",
+  "ko": "문학",
+  "fix": ""
+ },
+ "vắng mặt": {
+  "vi": "vắng mặt",
+  "ko": "결석하다",
+  "fix": ""
+ },
+ "đi thăm": {
+  "vi": "đi thăm",
+  "ko": "방문하다",
+  "fix": ""
+ },
+ "phức tạp": {
+  "vi": "phức tạp",
+  "ko": "복잡한",
+  "fix": ""
+ },
+ "viết": {
+  "vi": "viết",
+  "ko": "쓰다",
+  "fix": ""
+ },
+ "uống rượu": {
+  "vi": "uống rượu",
+  "ko": "술마시다",
+  "fix": ""
+ },
+ "ăn sáng": {
+  "vi": "ăn sáng",
+  "ko": "아침을 먹다",
+  "fix": ""
+ },
+ "chơi violon": {
+  "vi": "chơi violon",
+  "ko": "바이올린을 켜다",
+  "fix": ""
+ },
+ "đóng cửa sổ": {
+  "vi": "đóng cửa sổ",
+  "ko": "창문을 닫다",
+  "fix": ""
+ },
+ "bà nội": {
+  "vi": "bà nội",
+  "ko": "친 할머니",
+  "fix": ""
+ },
+ "ông nội": {
+  "vi": "ông nội",
+  "ko": "친 할아버지",
+  "fix": ""
+ },
+ "bác trai": {
+  "vi": "bác trai",
+  "ko": "큰 아버지",
+  "fix": ""
+ },
+ "em họ": {
+  "vi": "em họ",
+  "ko": "사촌동생",
+  "fix": ""
+ },
+ "anh rể": {
+  "vi": "Anh rể",
+  "ko": "매형",
+  "fix": "anh rể"
+ },
+ "chị dâu": {
+  "vi": "chị dâu",
+  "ko": "형수",
+  "fix": ""
+ },
+ "em dâu": {
+  "vi": "em dâu",
+  "ko": "제수",
+  "fix": ""
+ },
+ "đính hôn": {
+  "vi": "đính hôn",
+  "ko": "약혼하다",
+  "fix": ""
+ },
+ "ly thân": {
+  "vi": "ly thân",
+  "ko": "별거하다",
+  "fix": ""
+ },
+ "mẹ đơn thân": {
+  "vi": "mẹ đơn thân",
+  "ko": "싱글맘",
+  "fix": ""
+ },
+ "bố đơn thân": {
+  "vi": "bố đơn thân",
+  "ko": "싱글대디",
+  "fix": ""
+ },
+ "chị họ": {
+  "vi": "chị họ",
+  "ko": "사촌 누나 / 사촌 언니",
+  "fix": ""
+ },
+ "cháu ngoại": {
+  "vi": "cháu ngoại",
+  "ko": "손주 (딸 쪽",
+  "fix": "cháu ngoại"
+ },
+ "gia đình đông người": {
+  "vi": "gia đình đông người",
+  "ko": "대가족",
+  "fix": ""
+ },
+ "ngoặc": {
+  "vi": "ngoặc",
+  "ko": "괄호",
+  "fix": ""
+ },
+ "tuần trước": {
+  "vi": "tuần trước",
+  "ko": "지난 주",
+  "fix": ""
+ },
+ "giúp": {
+  "vi": "giúp",
+  "ko": "돕다",
+  "fix": ""
+ },
+ "vì sao": {
+  "vi": "vì sao",
+  "ko": "왜냐하면 · 별",
+  "fix": ""
+ },
+ "nâng côc": {
+  "vi": "nâng côc",
+  "ko": "건배하다",
+  "fix": "nâng cốc"
+ },
+ "làm bài kiểm tra": {
+  "vi": "làm bài kiểm tra",
+  "ko": "시험을 보다",
+  "fix": ""
+ },
+ "chờ một lát": {
+  "vi": "chờ một lát",
+  "ko": "잠시만요",
+  "fix": ""
+ },
+ "bởi vì": {
+  "vi": "bởi vì",
+  "ko": "왜냐하면…이기 때문에",
+  "fix": ""
+ },
+ "tái hiện": {
+  "vi": "tái hiện",
+  "ko": "재현하다",
+  "fix": ""
+ },
+ "đi công tác": {
+  "vi": "đi công tác",
+  "ko": "출장가다",
+  "fix": ""
+ },
+ "mời các em ngồi": {
+  "vi": "mời các em ngồi",
+  "ko": "자리에 앉으세요",
+  "fix": ""
+ },
+ "đại": {
+  "vi": "đại",
+  "ko": "대(大)",
+  "fix": ""
+ },
+ "trời tiết": {
+  "vi": "trời tiết",
+  "ko": "날씨",
+  "fix": "thời tiết"
+ },
+ "kể chuyện": {
+  "vi": "kể chuyện",
+  "ko": "이야기하다, 이야기 들려주다",
+  "fix": ""
+ },
+ "dến": {
+  "vi": "dến",
+  "ko": "가다(도착지에 간다)",
+  "fix": "đến"
+ },
+ "lên": {
+  "vi": "lên",
+  "ko": "(배에) 타다",
+  "fix": ""
+ },
+ "bạn tari": {
+  "vi": "bạn tari",
+  "ko": "남자친구",
+  "fix": "bạn trai"
+ },
+ "bạn gai": {
+  "vi": "bạn gai",
+  "ko": "여자친구",
+  "fix": "bạn gái"
+ },
+ "viết chính tả": {
+  "vi": "viết chính tả",
+  "ko": "받아쓰기",
+  "fix": ""
+ },
+ "rõ": {
+  "vi": "rõ",
+  "ko": "명확한, 뚜렷한",
+  "fix": ""
+ },
+ "viện bảo tàng": {
+  "vi": "viện bảo tàng",
+  "ko": "박물관",
+  "fix": ""
+ },
+ "mùa xuân": {
+  "vi": "mùa xuân",
+  "ko": "봄",
+  "fix": ""
+ },
+ "mùa đông": {
+  "vi": "mùa đông",
+  "ko": "겨울",
+  "fix": ""
+ },
+ "sang": {
+  "vi": "sang",
+  "ko": "가다[같은 유닛 안에서의 이동]",
+  "fix": ""
+ },
+ "nếu thì": {
+  "vi": "nếu thì",
+  "ko": "만약 하면 하다",
+  "fix": "nếu... thì"
+ },
+ "xuống xe": {
+  "vi": "xuống xe",
+  "ko": "하차하다, (차에서) 내리다",
+  "fix": ""
+ },
+ "lên xe": {
+  "vi": "lên xe",
+  "ko": "승차하다, (차에) 타다",
+  "fix": ""
+ },
+ "năm sau": {
+  "vi": "năm sau",
+  "ko": "내년",
+  "fix": ""
+ },
+ "trời nóng": {
+  "vi": "trời nóng",
+  "ko": "무더운 날씨",
+  "fix": ""
+ },
+ "chăm học": {
+  "vi": "chăm học",
+  "ko": "공부에 열중하다",
+  "fix": ""
+ },
+ "để học tiếng việt": {
+  "vi": "để học tiếng Việt",
+  "ko": "베트남어를 배우기 위해",
+  "fix": ""
+ },
+ "là": {
+  "vi": "là",
+  "ko": "입니다",
+  "fix": ""
+ },
+ "tính chất": {
+  "vi": "tính chất",
+  "ko": "특성",
+  "fix": ""
+ },
+ "trèo lên": {
+  "vi": "trèo lên",
+  "ko": "기어오르다",
+  "fix": ""
+ },
+ "nhà hát lớn": {
+  "vi": "nhà hát lớn",
+  "ko": "대극장(오페라극장)",
+  "fix": ""
+ },
+ "vậy thì": {
+  "vi": "vậy thì",
+  "ko": "그렇다면, 따라서",
+  "fix": ""
+ },
+ "đi ra": {
+  "vi": "đi ra",
+  "ko": "( / 밖으로) 나가다",
+  "fix": ""
+ },
+ "bơi qua": {
+  "vi": "bơi qua",
+  "ko": "헤엄쳐 건너다",
+  "fix": ""
+ },
+ "sống một mình": {
+  "vi": "sống một mình",
+  "ko": "혼자 살다",
+  "fix": ""
+ },
+ "chạy vào": {
+  "vi": "chạy vào",
+  "ko": "뛰어서 입장하다",
+  "fix": ""
+ },
+ "năm nay": {
+  "vi": "năm nay",
+  "ko": "올해",
+  "fix": ""
+ },
+ "xích lô": {
+  "vi": "xích lô",
+  "ko": "인력거",
+  "fix": ""
+ },
+ "hàng chục nghìn": {
+  "vi": "hàng chục nghìn",
+  "ko": "수만",
+  "fix": ""
+ },
+ "hàng vạn": {
+  "vi": "hàng vạn",
+  "ko": "수만",
+  "fix": ""
+ },
+ "rựou vào lời ra": {
+  "vi": "rựou vào lời ra",
+  "ko": "마실수록 말을 많이 한다 (취중진담)",
+  "fix": "rượu vào lời ra"
+ },
+ "ô nhiễm bụi mịn": {
+  "vi": "ô nhiễm bụi mịn",
+  "ko": "미세먼지",
+  "fix": ""
+ },
+ "xin được việc": {
+  "vi": "xin được việc",
+  "ko": "취직하다",
+  "fix": ""
+ },
+ "tháng lương": {
+  "vi": "tháng lương",
+  "ko": "월급",
+  "fix": ""
+ },
+ "tăng": {
+  "vi": "tăng",
+  "ko": "증가하다",
+  "fix": ""
+ },
+ "chiếu": {
+  "vi": "chiếu",
+  "ko": "상영하다",
+  "fix": ""
+ },
+ "tháng lương đầu tiên": {
+  "vi": "tháng lương đầu tiên",
+  "ko": "첫 월급",
+  "fix": ""
+ },
+ "cảm lạnh": {
+  "vi": "cảm lạnh",
+  "ko": "감기 걸리다",
+  "fix": ""
+ },
+ "phóng nhanh": {
+  "vi": "phóng nhanh",
+  "ko": "빨리 운전하다",
+  "fix": ""
+ },
+ "trả tiền": {
+  "vi": "trả tiền",
+  "ko": "돈을 지불하다",
+  "fix": ""
+ },
+ "tiền giấy": {
+  "vi": "tiền giấy",
+  "ko": "지폐",
+  "fix": ""
+ },
+ "tiền xu": {
+  "vi": "tiền xu",
+  "ko": "동전",
+  "fix": ""
+ },
+ "xe lửa": {
+  "vi": "xe lửa",
+  "ko": "기차",
+  "fix": ""
+ },
+ "trung tâm ngoại ngữ": {
+  "vi": "trung tâm ngoại ngữ",
+  "ko": "어학원",
+  "fix": ""
+ },
+ "ở đó": {
+  "vi": "ở đó",
+  "ko": "거기",
+  "fix": ""
+ },
+ "nửa": {
+  "vi": "nửa",
+  "ko": "절반, 중간",
+  "fix": ""
+ },
+ "bức chân dung": {
+  "vi": "bức chân dung",
+  "ko": "초상화",
+  "fix": ""
+ },
+ "chiếc váy": {
+  "vi": "chiếc váy",
+  "ko": "치마",
+  "fix": ""
+ },
+ "người đi đường": {
+  "vi": "người đi đường",
+  "ko": "보행자",
+  "fix": ""
+ },
+ "cuối năm": {
+  "vi": "cuối năm",
+  "ko": "연말",
+  "fix": ""
+ },
+ "ngày quốc khánh": {
+  "vi": "ngày quốc khánh",
+  "ko": "국경일",
+  "fix": ""
+ },
+ "tết nguyên đán": {
+  "vi": "Tết Nguyên Đán",
+  "ko": "설날",
+  "fix": ""
+ },
+ "đầu tuần": {
+  "vi": "đầu tuần",
+  "ko": "주초",
+  "fix": ""
+ },
+ "đặt chỗ": {
+  "vi": "đặt chỗ",
+  "ko": "예약",
+  "fix": ""
+ },
+ "chồng": {
+  "vi": "chồng",
+  "ko": "남편",
+  "fix": ""
+ },
+ "cây gia hệ": {
+  "vi": "cây gia hệ",
+  "ko": "가계도",
+  "fix": "gia phả"
+ },
+ "nhà nội": {
+  "vi": "nhà nội",
+  "ko": "시댁·아버지 본가",
+  "fix": ""
+ },
+ "nhà ngoại": {
+  "vi": "nhà ngoại",
+  "ko": "외가",
+  "fix": ""
+ },
+ "một giờ rưỡi": {
+  "vi": "một giờ rưỡi",
+  "ko": "한 시 반",
+  "fix": ""
+ },
+ "từ đây": {
+  "vi": "từ đây",
+  "ko": "여기서부터",
+  "fix": ""
+ },
+ "rẽ tay phải": {
+  "vi": "rẽ tay phải",
+  "ko": "우회전",
+  "fix": ""
+ },
+ "tiệm cắt tóc": {
+  "vi": "tiệm cắt tóc",
+  "ko": "미용실",
+  "fix": ""
+ },
+ "cửa hàng hoa": {
+  "vi": "cửa hàng hoa",
+  "ko": "꽃집",
+  "fix": ""
+ },
+ "tàu điện trên cao": {
+  "vi": "tàu điện trên cao",
+  "ko": "지상철",
+  "fix": ""
+ },
+ "tháng tới": {
+  "vi": "tháng tới",
+  "ko": "다음 달",
+  "fix": ""
+ },
+ "buổi trưa": {
+  "vi": "buổi trưa",
+  "ko": "점심, 정오",
+  "fix": ""
+ },
+ "buổi chiều": {
+  "vi": "buổi chiều",
+  "ko": "오후",
+  "fix": ""
+ },
+ "buổi tối": {
+  "vi": "buổi tối",
+  "ko": "저녁, 밤",
+  "fix": ""
+ },
+ "mấy giờ": {
+  "vi": "mấy giờ",
+  "ko": "몇 시",
+  "fix": ""
+ },
+ "mưa gió": {
+  "vi": "mưa gió",
+  "ko": "비바람",
+  "fix": ""
+ },
+ "lười": {
+  "vi": "lười",
+  "ko": "게으른",
+  "fix": ""
+ },
+ "các đảo trên biển": {
+  "vi": "các đảo trên biển",
+  "ko": "바다 위에 있는 여러 섬들",
+  "fix": ""
+ },
+ "tôi đi nhé": {
+  "vi": "tôi đi nhé",
+  "ko": "나 갈게요",
+  "fix": ""
+ },
+ "giơ tay lên": {
+  "vi": "giơ tay lên",
+  "ko": "손을 들다",
+  "fix": ""
+ },
+ "hạ tay xuống": {
+  "vi": "hạ tay xuống",
+  "ko": "손을 내리다",
+  "fix": ""
+ },
+ "ngẩng đầu lên": {
+  "vi": "ngẩng đầu lên",
+  "ko": "고개를 들다",
+  "fix": ""
+ },
+ "nhắm mắt vào": {
+  "vi": "nhắm mắt vào",
+  "ko": "눈을 감다",
+  "fix": ""
+ },
+ "bật đèn lên": {
+  "vi": "bật đèn lên",
+  "ko": "불을 켜다",
+  "fix": ""
+ },
+ "đừng lo lắng": {
+  "vi": "đừng lo lắng",
+  "ko": "걱정하지 마세요",
+  "fix": ""
+ },
+ "kết quả học tập": {
+  "vi": "kết quả học tập",
+  "ko": "학업 성적",
+  "fix": ""
+ },
+ "bác sĩ": {
+  "vi": "bác sĩ",
+  "ko": "의사",
+  "fix": ""
+ },
+ "tiếng": {
+  "vi": "tiếng",
+  "ko": "시간, 언어",
+  "fix": ""
+ },
+ "suốt": {
+  "vi": "suốt",
+  "ko": "완전히, 모두, 처음부터",
+  "fix": ""
+ },
+ "trên thực tế": {
+  "vi": "trên thực tế",
+  "ko": "사실",
+  "fix": ""
+ },
+ "ngày tết": {
+  "vi": "ngày Tết",
+  "ko": "설날",
+  "fix": ""
+ },
+ "mùa khô": {
+  "vi": "mùa khô",
+  "ko": "건기",
+  "fix": ""
+ },
+ "đi bằng tàu": {
+  "vi": "đi bằng tàu",
+  "ko": "배로가다",
+  "fix": "đi bằng tàu"
+ },
+ "thường": {
+  "vi": "thường",
+  "ko": "자주(빈도",
+  "fix": "thường"
+ },
+ "hoa anh đào": {
+  "vi": "hoa anh đào",
+  "ko": "벚꽃",
+  "fix": ""
+ },
+ "hãng": {
+  "vi": "hãng",
+  "ko": "브랜드",
+  "fix": ""
+ },
+ "cân hành lý": {
+  "vi": "cân hành lý",
+  "ko": "수화물 무게를 측정하다",
+  "fix": ""
+ },
+ "bức thư": {
+  "vi": "bức thư",
+  "ko": "편지",
+  "fix": ""
+ },
+ "hàng không": {
+  "vi": "hàng không",
+  "ko": "항공사",
+  "fix": ""
+ },
+ "quốc tế lao động": {
+  "vi": "quốc tế lao động",
+  "ko": "노동절",
+  "fix": ""
+ },
+ "dự hội nghị": {
+  "vi": "dự hội nghị",
+  "ko": "회의에 참석하다",
+  "fix": ""
+ },
+ "hè trước": {
+  "vi": "hè trước",
+  "ko": "지난 여름",
+  "fix": ""
+ },
+ "ngày kìa": {
+  "vi": "ngày kìa",
+  "ko": "3일 후",
+  "fix": ""
+ },
+ "nửa tiéng": {
+  "vi": "nửa tiéng",
+  "ko": "30분",
+  "fix": "nửa tiếng"
+ },
+ "lấy nhau": {
+  "vi": "lấy nhau",
+  "ko": "결혼하다",
+  "fix": ""
+ },
+ "làm việc nhà": {
+  "vi": "làm việc nhà",
+  "ko": "집안일",
+  "fix": ""
+ },
+ "đơn xin": {
+  "vi": "đơn xin",
+  "ko": "신청서",
+  "fix": ""
+ },
+ "trong trường hợp này": {
+  "vi": "trong trường hợp này",
+  "ko": "이 경우에는",
+  "fix": ""
+ },
+ "đan áo len": {
+  "vi": "đan áo len",
+  "ko": "스웨터를 뜨개질하다",
+  "fix": ""
+ },
+ "hiệu giặt là": {
+  "vi": "hiệu giặt là",
+  "ko": "세탁소",
+  "fix": ""
+ },
+ "dọn nhà": {
+  "vi": "dọn nhà",
+  "ko": "집 청소하다, 이사하다",
+  "fix": ""
+ },
+ "nếu không thì": {
+  "vi": "nếu không thì",
+  "ko": "만약 하지 않으면",
+  "fix": ""
+ },
+ "ngoài ra": {
+  "vi": "ngoài ra",
+  "ko": "게다가·그 외에",
+  "fix": ""
+ },
+ "còn giá trị": {
+  "vi": "còn giá trị",
+  "ko": "아직 유효하다",
+  "fix": ""
+ },
+ "cả nhà": {
+  "vi": "cả nhà",
+  "ko": "온 가족",
+  "fix": ""
+ },
+ "nghĩ": {
+  "vi": "nghĩ",
+  "ko": "생각하다",
+  "fix": ""
+ },
+ "cuối thần": {
+  "vi": "cuối thần",
+  "ko": "주말",
+  "fix": "cuối tuần"
+ },
+ "tháng giêng": {
+  "vi": "tháng giêng",
+  "ko": "음력 1월",
+  "fix": ""
+ },
+ "tháng chạp": {
+  "vi": "tháng chạp",
+  "ko": "음력 12월",
+  "fix": ""
+ },
+ "tiêu chí": {
+  "vi": "tiêu chí",
+  "ko": "기준",
+  "fix": ""
+ },
+ "căn phòng": {
+  "vi": "căn phòng",
+  "ko": "방",
+  "fix": ""
+ },
+ "nơi đỗ xe": {
+  "vi": "nơi đỗ xe",
+  "ko": "주차장",
+  "fix": ""
+ },
+ "thiết kế nội thất": {
+  "vi": "thiết kế nội thất",
+  "ko": "인테리어 디자인",
+  "fix": ""
+ },
+ "không gian thoáng": {
+  "vi": "không gian thoáng",
+  "ko": "넒은 공간",
+  "fix": ""
+ },
+ "xếp hạng": {
+  "vi": "xếp hạng",
+  "ko": "질서있게 정리하다",
+  "fix": ""
+ },
+ "lý lịch": {
+  "vi": "lý lịch",
+  "ko": "이력·경력",
+  "fix": ""
+ },
+ "ngày mười bốn": {
+  "vi": "ngày mười bốn",
+  "ko": "14일",
+  "fix": ""
+ },
+ "đầu thập niên 90": {
+  "vi": "đầu thập niên 90",
+  "ko": "90년대 초",
+  "fix": ""
+ },
+ "mùa hạ": {
+  "vi": "mùa hạ",
+  "ko": "여름",
+  "fix": ""
+ },
+ "nhận phòng": {
+  "vi": "nhận phòng",
+  "ko": "체크인하다",
+  "fix": ""
+ },
+ "tính tình": {
+  "vi": "tính tình",
+  "ko": "성격, 기질",
+  "fix": ""
+ },
+ "oi": {
+  "vi": "oi",
+  "ko": "덥고 습하다",
+  "fix": "oi bức"
+ },
+ "mũ bảo hiểm": {
+  "vi": "mũ bảo hiểm",
+  "ko": "헬멧",
+  "fix": ""
+ },
+ "sắp chuyển": {
+  "vi": "sắp chuyển",
+  "ko": "곧 이사하다",
+  "fix": ""
+ },
+ "trời oi": {
+  "vi": "trời oi",
+  "ko": "무덥다, 후텁지근하다",
+  "fix": "trời oi bức"
+ },
+ "tạp dề": {
+  "vi": "tạp dề",
+  "ko": "앞치마",
+  "fix": ""
+ },
+ "mặn": {
+  "vi": "mặn",
+  "ko": "짜다",
+  "fix": ""
+ },
+ "giòn": {
+  "vi": "giòn",
+  "ko": "쫄깃하다 (긍정적)",
+  "fix": "?"
+ },
+ "rang": {
+  "vi": "rang",
+  "ko": "볶다",
+  "fix": ""
+ },
+ "diểm tốt": {
+  "vi": "diểm tốt",
+  "ko": "좋은 점수",
+  "fix": "điểm tốt"
+ },
+ "phòng tiếp tân": {
+  "vi": "phòng tiếp tân",
+  "ko": "접견실, 접대실",
+  "fix": ""
+ },
+ "không nên": {
+  "vi": "không nên",
+  "ko": "을하지 않는편이 낫다",
+  "fix": ""
+ },
+ "trở": {
+  "vi": "trở",
+  "ko": "돌아가다",
+  "fix": "trở về"
+ },
+ "nhằm": {
+  "vi": "nhằm",
+  "ko": "겨냥하다, / 를 위해",
+  "fix": ""
+ },
+ "giới trẻ": {
+  "vi": "giới trẻ",
+  "ko": "젊은층, 청년층",
+  "fix": ""
+ },
+ "phòng khách": {
+  "vi": "phòng khách",
+  "ko": "거실",
+  "fix": ""
+ },
+ "phòng ăn": {
+  "vi": "phòng ăn",
+  "ko": "식당",
+  "fix": ""
+ },
+ "bếp": {
+  "vi": "bếp",
+  "ko": "부엌",
+  "fix": ""
+ },
+ "phòng làm việc": {
+  "vi": "phòng làm việc",
+  "ko": "작업실",
+  "fix": ""
+ },
+ "hợp đồng thuê nhà": {
+  "vi": "hợp đồng thuê nhà",
+  "ko": "임대 계약서·주택 임대차 계약",
+  "fix": ""
+ },
+ "có giá trị": {
+  "vi": "có giá trị",
+  "ko": "가치있는",
+  "fix": ""
+ },
+ "thêm": {
+  "vi": "thêm",
+  "ko": "더, 추가하다",
+  "fix": ""
+ },
+ "giổng nhau": {
+  "vi": "giổng nhau",
+  "ko": "같다",
+  "fix": "giống nhau"
+ },
+ "dần": {
+  "vi": "dần",
+  "ko": "점차로, 차차로, 서서히",
+  "fix": ""
+ },
+ "ngủ sai": {
+  "vi": "ngủ sai",
+  "ko": "깊은 잠",
+  "fix": "ngủ say"
+ },
+ "cây ăn quả": {
+  "vi": "cây ăn quả",
+  "ko": "과일 나무",
+  "fix": ""
+ },
+ "vườn cây ăn trái": {
+  "vi": "vườn cây ăn trái",
+  "ko": "과수원",
+  "fix": ""
+ },
+ "nhà đa hộ": {
+  "vi": "nhà đa hộ",
+  "ko": "다가구 주택",
+  "fix": ""
+ },
+ "phòng bếp": {
+  "vi": "phòng bếp",
+  "ko": "주방",
+  "fix": ""
+ },
+ "điều hòa không khí": {
+  "vi": "điều hòa không khí",
+  "ko": "에어 컨디셔너",
+  "fix": ""
+ },
+ "lên giá": {
+  "vi": "lên giá",
+  "ko": "가격이 오르다",
+  "fix": ""
+ },
+ "quầy đổi tiền": {
+  "vi": "quầy đổi tiền",
+  "ko": "(환전소)",
+  "fix": ""
+ },
+ "giấy miễn thị thực": {
+  "vi": "giấy miễn thị thực",
+  "ko": "비자면제증명",
+  "fix": ""
+ },
+ "cân hà": {
+  "vi": "cân hà",
+  "ko": "짐무게를 재다",
+  "fix": "cân hành lý"
+ },
+ "kiểm tra hành lý": {
+  "vi": "kiểm tra hành lý",
+  "ko": "수하물 검사",
+  "fix": ""
+ },
+ "kiểm tra người": {
+  "vi": "kiểm tra người",
+  "ko": "신체검사(공항보안검색)",
+  "fix": ""
+ },
+ "lấy hành lý": {
+  "vi": "lấy hành lý",
+  "ko": "짐을 찾다",
+  "fix": ""
+ },
+ "phong chờ": {
+  "vi": "phong chờ",
+  "ko": "(공항) 대합실",
+  "fix": "phòng chờ"
+ },
+ "xuống máy bay": {
+  "vi": "xuống máy bay",
+  "ko": "비행기에서 내리다",
+  "fix": ""
+ },
+ "tiết kiẹm tiền": {
+  "vi": "tiết kiẹm tiền",
+  "ko": "돈을 모으다",
+  "fix": "tiết kiệm tiền"
+ },
+ "cám ơn chị nhiều": {
+  "vi": "cám ơn chị nhiều",
+  "ko": "언니·누나 감사합니다",
+  "fix": ""
+ },
+ "đường ngập nước": {
+  "vi": "đường ngập nước",
+  "ko": "도로가 침수되다",
+  "fix": ""
+ },
+ "gía đắt lên": {
+  "vi": "gía đắt lên",
+  "ko": "가격이 오르다",
+  "fix": "giá đắt lên"
+ },
+ "thời hạn bảo hành": {
+  "vi": "thời hạn bảo hành",
+  "ko": "보증기간",
+  "fix": ""
+ },
+ "yêu cầu chính đáng": {
+  "vi": "yêu cầu chính đáng",
+  "ko": "정당한 요구",
+  "fix": ""
+ },
+ "nâng cao hiệu quả": {
+  "vi": "nâng cao hiệu quả",
+  "ko": "효과를 향상시키다(고양하다)",
+  "fix": ""
+ },
+ "máy di động": {
+  "vi": "máy di động",
+  "ko": "휴대전화",
+  "fix": "điện thoại di động"
+ },
+ "đổi tiền": {
+  "vi": "đổi tiền",
+  "ko": "환전하다",
+  "fix": ""
+ },
+ "phòng ngủ": {
+  "vi": "phòng ngủ",
+  "ko": "침실",
+  "fix": ""
+ },
+ "nửa giờ": {
+  "vi": "nửa giờ",
+  "ko": "반 시간",
+  "fix": ""
+ },
+ "tới": {
+  "vi": "tới",
+  "ko": "도착하다",
+  "fix": ""
+ },
+ "trên tầng thượng": {
+  "vi": "trên tầng thượng",
+  "ko": "루프탑, 옥상위의",
+  "fix": ""
+ },
+ "nói thách": {
+  "vi": "nói thách",
+  "ko": "바가지 씌우다",
+  "fix": ""
+ },
+ "lịch học": {
+  "vi": "lịch học",
+  "ko": "학사일정",
+  "fix": ""
+ },
+ "nhận lời": {
+  "vi": "nhận lời",
+  "ko": "동의하다 / 받아들이다",
+  "fix": ""
+ },
+ "chuyện riêng tư": {
+  "vi": "chuyện riêng tư",
+  "ko": "개인의 일",
+  "fix": ""
+ },
+ "mắng chửi": {
+  "vi": "mắng chửi",
+  "ko": "심하게 꾸짖다",
+  "fix": ""
+ },
+ "vứt rác": {
+  "vi": "vứt rác",
+  "ko": "쓰레기를 버리다",
+  "fix": ""
+ },
+ "ăn xin": {
+  "vi": "ăn xin",
+  "ko": "구걸하다",
+  "fix": ""
+ },
+ "người ăn xin": {
+  "vi": "người ăn xin",
+  "ko": "거지",
+  "fix": ""
+ },
+ "rau bị hỏng": {
+  "vi": "rau bị hỏng",
+  "ko": "채소가 상하다",
+  "fix": ""
+ },
+ "phó viện trưởng": {
+  "vi": "phó viện trưởng",
+  "ko": "부원장",
+  "fix": ""
+ },
+ "thực hành": {
+  "vi": "thực hành",
+  "ko": "실행하다",
+  "fix": ""
+ },
+ "giáng sinh": {
+  "vi": "giáng sinh",
+  "ko": "크리스마스",
+  "fix": "Giáng Sinh"
+ },
+ "món": {
+  "vi": "món",
+  "ko": "요리",
+  "fix": ""
+ },
+ "tạnh": {
+  "vi": "tạnh",
+  "ko": "(비가)그치다",
+  "fix": ""
+ },
+ "mùa nào thức ấy": {
+  "vi": "mùa nào thức ấy",
+  "ko": "제철에 나는 것",
+  "fix": ""
+ },
+ "mình thích xoài": {
+  "vi": "mình thích xoài",
+  "ko": "나는 망고를 좋아한다",
+  "fix": ""
+ },
+ "bánh cuốn": {
+  "vi": "bánh cuốn",
+  "ko": "반꾸온 (쌀 롤 요리)",
+  "fix": ""
+ },
+ "vui đùa": {
+  "vi": "vui đùa",
+  "ko": "장난치다, 즐겁게 놀다",
+  "fix": ""
+ },
+ "đường phố": {
+  "vi": "đường phố",
+  "ko": "거리",
+  "fix": ""
+ },
+ "lần sau": {
+  "vi": "lần sau",
+  "ko": "다음에",
+  "fix": ""
+ },
+ "ảnh": {
+  "vi": "ảnh",
+  "ko": "사진",
+  "fix": ""
+ },
+ "đi vòng": {
+  "vi": "đi vòng",
+  "ko": "돌다",
+  "fix": ""
+ },
+ "thành phần": {
+  "vi": "thành phần",
+  "ko": "성분, 요소",
+  "fix": ""
+ },
+ "tới thăm": {
+  "vi": "tới thăm",
+  "ko": "방문하다",
+  "fix": ""
+ },
+ "tập tục": {
+  "vi": "tập tục",
+  "ko": "풍속, 습관",
+  "fix": ""
+ },
+ "trang nhã": {
+  "vi": "trang nhã",
+  "ko": "우아한, 세련된",
+  "fix": ""
+ },
+ "phải chăng": {
+  "vi": "phải chăng",
+  "ko": "타당한, 이유있는",
+  "fix": ""
+ },
+ "hấp": {
+  "vi": "hấp",
+  "ko": "찌다",
+  "fix": ""
+ },
+ "chả": {
+  "vi": "chả",
+  "ko": "하지 않다",
+  "fix": ""
+ },
+ "sự thật": {
+  "vi": "sự thật",
+  "ko": "사실,진실",
+  "fix": ""
+ },
+ "sưu tập ảnh": {
+  "vi": "sưu tập ảnh",
+  "ko": "사진을 수집하다",
+  "fix": ""
+ },
+ "tiền chẵn": {
+  "vi": "tiền chẵn",
+  "ko": "(큰돈)",
+  "fix": ""
+ },
+ "thường xuyên": {
+  "vi": "thường xuyên",
+  "ko": "자주, (*규칙적인 경우)",
+  "fix": ""
+ },
+ "khắp thế giởi": {
+  "vi": "khắp thế giởi",
+  "ko": "전세계",
+  "fix": "khắp thế giới"
+ },
+ "dủ": {
+  "vi": "dủ",
+  "ko": "충분하다, 다 채우다",
+  "fix": "đủ"
+ },
+ "chuẩn bị tài liệu": {
+  "vi": "chuẩn bị tài liệu",
+  "ko": "자료 준비",
+  "fix": ""
+ },
+ "sân": {
+  "vi": "sân",
+  "ko": "안마당, 안뜰",
+  "fix": ""
+ },
+ "nhà riêng": {
+  "vi": "nhà riêng",
+  "ko": "개인주택",
+  "fix": ""
+ },
+ "tiền điện": {
+  "vi": "tiền điện",
+  "ko": "전기요금",
+  "fix": ""
+ },
+ "tiền thuê nhà": {
+  "vi": "tiền thuê nhà",
+  "ko": "월세, 집세",
+  "fix": ""
+ },
+ "bụi bặm": {
+  "vi": "bụi bặm",
+  "ko": "먼지",
+  "fix": ""
+ },
+ "cứ": {
+  "vi": "cứ",
+  "ko": "계속하다",
+  "fix": ""
+ },
+ "campuchia": {
+  "vi": "Campuchia",
+  "ko": "캄보디아",
+  "fix": ""
+ },
+ "tiêu tiền": {
+  "vi": "tiêu tiền",
+  "ko": "돈을 쓰다",
+  "fix": ""
+ },
+ "thi trượt": {
+  "vi": "thi trượt",
+  "ko": "셤 낙방",
+  "fix": ""
+ },
+ "học thuộc": {
+  "vi": "học thuộc",
+  "ko": "암기",
+  "fix": ""
+ },
+ "cách dạy": {
+  "vi": "cách dạy",
+  "ko": "가르치는법,교습법",
+  "fix": ""
+ },
+ "người đông": {
+  "vi": "người đông",
+  "ko": "사람이 많다",
+  "fix": ""
+ },
+ "vệ sĩ": {
+  "vi": "vệ sĩ",
+  "ko": "경호원",
+  "fix": ""
+ },
+ "thường thức": {
+  "vi": "thường thức",
+  "ko": "맛보다 / 즐기다",
+  "fix": "?"
+ },
+ "đảo khỉ": {
+  "vi": "đảo khỉ",
+  "ko": "원숭이 섬",
+  "fix": ""
+ },
+ "chợ tình": {
+  "vi": "chợ tình",
+  "ko": "사랑 시장(전통 시장)",
+  "fix": ""
+ },
+ "chè": {
+  "vi": "chè",
+  "ko": "달달한 차(디저트용)",
+  "fix": ""
+ },
+ "thoát": {
+  "vi": "thoát",
+  "ko": "탈출하다, 벗어나다",
+  "fix": ""
+ },
+ "cũng được": {
+  "vi": "cũng được",
+  "ko": "괜찮아",
+  "fix": ""
+ },
+ "đành": {
+  "vi": "đành",
+  "ko": "어쩔 수 없이 / 마지못해",
+  "fix": ""
+ },
+ "vợ sắp cưới": {
+  "vi": "vợ sắp cưới",
+  "ko": "약혼녀",
+  "fix": ""
+ },
+ "bí mật": {
+  "vi": "bí mật",
+  "ko": "비밀",
+  "fix": ""
+ },
+ "châu âu": {
+  "vi": "châu Âu",
+  "ko": "유럽",
+  "fix": ""
+ },
+ "bạn thân": {
+  "vi": "bạn thân",
+  "ko": "(절친)",
+  "fix": ""
+ },
+ "chính": {
+  "vi": "chính",
+  "ko": "[바로(강조)]",
+  "fix": ""
+ },
+ "chắc là": {
+  "vi": "chắc là",
+  "ko": "(아마)",
+  "fix": ""
+ },
+ "tần số": {
+  "vi": "tần số",
+  "ko": "빈도",
+  "fix": ""
+ },
+ "có rồi": {
+  "vi": "có rồi",
+  "ko": "이미 있어",
+  "fix": ""
+ },
+ "viêm": {
+  "vi": "viêm",
+  "ko": "염증",
+  "fix": ""
+ },
+ "gãy": {
+  "vi": "gãy",
+  "ko": "골절(두동강)",
+  "fix": ""
+ },
+ "cảm cúm": {
+  "vi": "cảm cúm",
+  "ko": "독감",
+  "fix": ""
+ },
+ "hại phổi": {
+  "vi": "hại phổi",
+  "ko": "폐에 손상을 입다",
+  "fix": ""
+ },
+ "thấy thấy": {
+  "vi": "thấy thấy",
+  "ko": "(느끼다)",
+  "fix": "thấy"
+ },
+ "mỹ thuật": {
+  "vi": "mỹ thuật",
+  "ko": "미술",
+  "fix": ""
+ },
+ "công cộng": {
+  "vi": "công cộng",
+  "ko": "공공의",
+  "fix": ""
+ },
+ "riêng tư": {
+  "vi": "riêng tư",
+  "ko": "사적인",
+  "fix": ""
+ },
+ "tư hào": {
+  "vi": "tư hào",
+  "ko": "자부하다, 뽐내다",
+  "fix": "tự hào"
+ },
+ "hoà giải": {
+  "vi": "hoà giải",
+  "ko": "화해하다",
+  "fix": ""
+ },
+ "biển quảng cáo": {
+  "vi": "biển quảng cáo",
+  "ko": "광고판",
+  "fix": ""
+ },
+ "bốn nhân sáu": {
+  "vi": "bốn nhân sáu",
+  "ko": "4 곱하기 6",
+  "fix": ""
+ },
+ "sốc văn hóa": {
+  "vi": "sốc văn hóa",
+  "ko": "문화 충격",
+  "fix": ""
+ },
+ "xôi": {
+  "vi": "xôi",
+  "ko": "찹쌀밥",
+  "fix": ""
+ },
+ "để tôi nghe phổi": {
+  "vi": "để tôi nghe phổi",
+  "ko": "폐 소리를 들어볼게요",
+  "fix": ""
+ },
+ "bị ốm": {
+  "vi": "bị ốm",
+  "ko": "병에 걸리다(병을 앓다)",
+  "fix": ""
+ },
+ "mặt": {
+  "vi": "mặt",
+  "ko": "얼굴",
+  "fix": ""
+ },
+ "mặt vuông": {
+  "vi": "mặt vuông",
+  "ko": "(네모난 얼굴)",
+  "fix": ""
+ },
+ "mặt bạnh": {
+  "vi": "mặt bạnh",
+  "ko": "(넓적한 얼굴)",
+  "fix": ""
+ },
+ "mũi tẹt": {
+  "vi": "mũi tẹt",
+  "ko": "(납작코)",
+  "fix": ""
+ },
+ "phòng đơn": {
+  "vi": "phòng đơn",
+  "ko": "싱글룸, 1인실",
+  "fix": ""
+ },
+ "vali": {
+  "vi": "vali",
+  "ko": "여행가방",
+  "fix": ""
+ },
+ "khát": {
+  "vi": "khát",
+  "ko": "목마른",
+  "fix": ""
+ },
+ "kiêng": {
+  "vi": "kiêng",
+  "ko": "삼가다, 피하다(조심하다)",
+  "fix": ""
+ },
+ "khám chữa": {
+  "vi": "khám chữa",
+  "ko": "진료하다",
+  "fix": ""
+ },
+ "đỡ hơn": {
+  "vi": "đỡ hơn",
+  "ko": "더 나아지다",
+  "fix": ""
+ },
+ "đỡ rồi": {
+  "vi": "đỡ rồi",
+  "ko": "이제 나아졌다",
+  "fix": ""
+ },
+ "bình phục, hồi phục": {
+  "vi": "bình phục, hồi phục",
+  "ko": "회복하다",
+  "fix": ""
+ },
+ "tận dụng": {
+  "vi": "tận dụng",
+  "ko": "활용하다",
+  "fix": ""
+ },
+ "vùng lân cận": {
+  "vi": "vùng lân cận",
+  "ko": "인근지역",
+  "fix": ""
+ },
+ "biết ơn": {
+  "vi": "biết ơn",
+  "ko": "감사하다",
+  "fix": ""
+ },
+ "dễ gần": {
+  "vi": "dễ gần",
+  "ko": "다가가기 쉬운, 친근한",
+  "fix": ""
+ },
+ "dăm bảy": {
+  "vi": "dăm bảy",
+  "ko": "몇몇·일곱여덟",
+  "fix": ""
+ },
+ "ngăm đen": {
+  "vi": "ngăm đen",
+  "ko": "까무잡잡하다",
+  "fix": ""
+ },
+ "da dẻ": {
+  "vi": "da dẻ",
+  "ko": "피부색",
+  "fix": ""
+ },
+ "héo": {
+  "vi": "héo",
+  "ko": "시들다",
+  "fix": ""
+ },
+ "cặp nhiệt độ": {
+  "vi": "cặp nhiệt độ",
+  "ko": "체온을 재다 (겨드랑이로)",
+  "fix": ""
+ },
+ "triệu chứng": {
+  "vi": "triệu chứng",
+  "ko": "징후",
+  "fix": ""
+ },
+ "quầy": {
+  "vi": "quầy",
+  "ko": "계산대",
+  "fix": ""
+ },
+ "chăm sóc": {
+  "vi": "chăm sóc",
+  "ko": "돌보다",
+  "fix": ""
+ },
+ "thành phần chủ yếu": {
+  "vi": "thành phần chủ yếu",
+  "ko": "주요 성분, 주재료",
+  "fix": ""
+ },
+ "lên mạng": {
+  "vi": "lên mạng",
+  "ko": "인터넷에 접속하다",
+  "fix": ""
+ },
+ "cởi": {
+  "vi": "cởi",
+  "ko": "벗다",
+  "fix": ""
+ },
+ "aó sơ mi": {
+  "vi": "aó sơ mi",
+  "ko": "와이셔츠",
+  "fix": "áo sơ mi"
+ },
+ "aó cộc tay": {
+  "vi": "aó cộc tay",
+  "ko": "민소매 옷",
+  "fix": "áo cộc tay"
+ },
+ "dong dỏng": {
+  "vi": "dong dỏng",
+  "ko": "호리호리하다",
+  "fix": ""
+ },
+ "hình dáng": {
+  "vi": "hình dáng",
+  "ko": "모습, 외관, 형태",
+  "fix": ""
+ },
+ "ngoại hình": {
+  "vi": "ngoại hình",
+  "ko": "외모",
+  "fix": ""
+ },
+ "hơi đậm": {
+  "vi": "hơi đậm",
+  "ko": "살짝 통통한",
+  "fix": ""
+ },
+ "đệp lão": {
+  "vi": "đệp lão",
+  "ko": "중후한, 곱게 늙은",
+  "fix": "đẹp lão"
+ },
+ "nhất có thể": {
+  "vi": "nhất có thể",
+  "ko": "최대한",
+  "fix": ""
+ },
+ "vừa rồi": {
+  "vi": "vừa rồi",
+  "ko": "최근에, 방금 지난",
+  "fix": ""
+ },
+ "đắc lực": {
+  "vi": "đắc lực",
+  "ko": "유능한",
+  "fix": ""
+ },
+ "người mẫu": {
+  "vi": "người mẫu",
+  "ko": "모델",
+  "fix": ""
+ },
+ "cùng một lúc": {
+  "vi": "cùng một lúc",
+  "ko": "동시에",
+  "fix": ""
+ },
+ "cởi mở": {
+  "vi": "cởi mở",
+  "ko": "개방적인",
+  "fix": ""
+ },
+ "khéo léo": {
+  "vi": "khéo léo",
+  "ko": "능숙한",
+  "fix": ""
+ },
+ "sơn": {
+  "vi": "sơn",
+  "ko": "칠을 하다",
+  "fix": ""
+ },
+ "đồ trang sức": {
+  "vi": "đồ trang sức",
+  "ko": "장신구, 액세서리",
+  "fix": ""
+ },
+ "vội vàng": {
+  "vi": "vội vàng",
+  "ko": "서두르다, 급히",
+  "fix": ""
+ },
+ "lớp trẻ": {
+  "vi": "lớp trẻ",
+  "ko": "차세대",
+  "fix": ""
+ },
+ "sự trợ": {
+  "vi": "sự trợ",
+  "ko": "도움, 지원",
+  "fix": "?"
+ },
+ "tăng lương": {
+  "vi": "tăng lương",
+  "ko": "월급이 오르다",
+  "fix": ""
+ },
+ "cánh cửa": {
+  "vi": "cánh cửa",
+  "ko": "문",
+  "fix": ""
+ },
+ "ướp": {
+  "vi": "ướp",
+  "ko": "숙성하다",
+  "fix": ""
+ },
+ "người dân": {
+  "vi": "người dân",
+  "ko": "시민 주민",
+  "fix": ""
+ },
+ "bộ com-lê": {
+  "vi": "bộ com-lê",
+  "ko": "정장, 슈트",
+  "fix": ""
+ },
+ "quần lót": {
+  "vi": "quần lót",
+  "ko": "속옷",
+  "fix": ""
+ },
+ "bắt bẻ": {
+  "vi": "bắt bẻ",
+  "ko": "꼬투리 잡다, 트집 잡다",
+  "fix": ""
+ },
+ "gà nướng": {
+  "vi": "gà nướng",
+  "ko": "구운 치킨",
+  "fix": ""
+ },
+ "nhức đầu": {
+  "vi": "nhức đầu",
+  "ko": "두통",
+  "fix": ""
+ },
+ "hắt hơi": {
+  "vi": "hắt hơi",
+  "ko": "재채기하다",
+  "fix": ""
+ },
+ "uống thuốc": {
+  "vi": "uống thuốc",
+  "ko": "약을 먹다",
+  "fix": ""
+ },
+ "dị ứng": {
+  "vi": "dị ứng",
+  "ko": "알러지",
+  "fix": ""
+ },
+ "đau bụng": {
+  "vi": "đau bụng",
+  "ko": "복통",
+  "fix": ""
+ },
+ "đau râng": {
+  "vi": "đau râng",
+  "ko": "치통",
+  "fix": "đau răng"
+ },
+ "ngay cả": {
+  "vi": "ngay cả",
+  "ko": "심지어",
+  "fix": ""
+ },
+ "lứa tuổi": {
+  "vi": "lứa tuổi",
+  "ko": "연령층",
+  "fix": ""
+ },
+ "cao điểm": {
+  "vi": "cao điểm",
+  "ko": "러시아워",
+  "fix": ""
+ },
+ "thái độ phục vụ": {
+  "vi": "thái độ phục vụ",
+  "ko": "서비스 태도",
+  "fix": ""
+ },
+ "trường hợp": {
+  "vi": "trường hợp",
+  "ko": "상황, 경우",
+  "fix": ""
+ },
+ "trạm y tế": {
+  "vi": "trạm y tế",
+  "ko": "보건소",
+  "fix": ""
+ },
+ "bảo hiểm y tế": {
+  "vi": "bảo hiểm y tế",
+  "ko": "건강 보험",
+  "fix": ""
+ },
+ "bvđa khoa": {
+  "vi": "bVđa khoa",
+  "ko": "종합 병원",
+  "fix": "bệnh viện đa khoa"
+ },
+ "bvchuyên khoa": {
+  "vi": "bVchuyên khoa",
+  "ko": "전문 병원",
+  "fix": "bệnh viện chuyên khoa"
+ },
+ "bvđông y": {
+  "vi": "bVĐông y",
+  "ko": "전통 의학 병원",
+  "fix": "bệnh viện Đông y"
+ },
+ "hơn nữa": {
+  "vi": "hơn nữa",
+  "ko": "게다가·더구나",
+  "fix": ""
+ },
+ "đỡ ồn ào": {
+  "vi": "đỡ ồn ào",
+  "ko": "조용하다",
+  "fix": ""
+ },
+ "phong cảnh": {
+  "vi": "phong cảnh",
+  "ko": "풍경",
+  "fix": ""
+ },
+ "đầy": {
+  "vi": "đầy",
+  "ko": "가득찬",
+  "fix": ""
+ },
+ "đàn thập lục": {
+  "vi": "đàn thập lục",
+  "ko": "중국 가야금 (16현 )",
+  "fix": ""
+ },
+ "vịt": {
+  "vi": "vịt",
+  "ko": "오리",
+  "fix": ""
+ },
+ "nhận": {
+  "vi": "nhận",
+  "ko": "받다",
+  "fix": ""
+ },
+ "số đo": {
+  "vi": "số đo",
+  "ko": "치수, 사이즈",
+  "fix": ""
+ },
+ "đáng quý": {
+  "vi": "đáng quý",
+  "ko": "소중하다",
+  "fix": ""
+ },
+ "phó giám đốc": {
+  "vi": "phó giám đốc",
+  "ko": "부사장, 부국장",
+  "fix": ""
+ },
+ "điểm 10": {
+  "vi": "điểm 10",
+  "ko": "만점 (10점 만점 중 10점)",
+  "fix": ""
+ },
+ "đến chùa": {
+  "vi": "đến chùa",
+  "ko": "절에 가다",
+  "fix": ""
+ },
+ "hết bao nhiêu tiền": {
+  "vi": "hết bao nhiêu tiền",
+  "ko": "(전부 해서) 얼마인가요",
+  "fix": ""
+ },
+ "bảo vệ luận án": {
+  "vi": "bảo vệ luận án",
+  "ko": "논문 심사를 받다",
+  "fix": ""
+ },
+ "ra viện": {
+  "vi": "ra viện",
+  "ko": "퇴원하다",
+  "fix": ""
+ },
+ "mấy hôm nay": {
+  "vi": "mấy hôm nay",
+  "ko": "요즘, 최근",
+  "fix": ""
+ },
+ "mấy hôm trước": {
+  "vi": "mấy hôm trước",
+  "ko": "며칠 전",
+  "fix": ""
+ },
+ "lịch thi": {
+  "vi": "lịch thi",
+  "ko": "시험 스케줄",
+  "fix": ""
+ },
+ "chu đào": {
+  "vi": "chu đào",
+  "ko": "세심한, 사려깊은",
+  "fix": "chu đáo"
+ },
+ "chuyện không may": {
+  "vi": "chuyện không may",
+  "ko": "불행한 사건(일)",
+  "fix": ""
+ },
+ "bóng chuyền": {
+  "vi": "bóng chuyền",
+  "ko": "배구",
+  "fix": ""
+ },
+ "hiệu cầm đồ": {
+  "vi": "hiệu cầm đồ",
+  "ko": "전당포",
+  "fix": ""
+ },
+ "quyến rũ": {
+  "vi": "quyến rũ",
+  "ko": "매력적인, 유혹적인",
+  "fix": ""
+ },
+ "hiệu may": {
+  "vi": "hiệu may",
+  "ko": "옷가게",
+  "fix": ""
+ },
+ "hàng nội": {
+  "vi": "hàng nội",
+  "ko": "국산품",
+  "fix": ""
+ },
+ "vòng cổ": {
+  "vi": "vòng cổ",
+  "ko": "목걸이",
+  "fix": ""
+ },
+ "khuyến khích": {
+  "vi": "khuyến khích",
+  "ko": "권하다",
+  "fix": ""
+ },
+ "tăng cường": {
+  "vi": "tăng cường",
+  "ko": "증강하다",
+  "fix": ""
+ },
+ "sức hấp dẫn": {
+  "vi": "sức hấp dẫn",
+  "ko": "매력",
+  "fix": ""
+ },
+ "trận đấu": {
+  "vi": "trận đấu",
+  "ko": "시합, 경기",
+  "fix": ""
+ },
+ "đạilý": {
+  "vi": "đạilý",
+  "ko": "대표, 대리",
+  "fix": "đại lý"
+ },
+ "rách": {
+  "vi": "rách",
+  "ko": "찢어지다",
+  "fix": ""
+ },
+ "ngăn mát": {
+  "vi": "ngăn mát",
+  "ko": "냉장실",
+  "fix": ""
+ },
+ "quần sooc": {
+  "vi": "quần sooc",
+  "ko": "핫팬츠",
+  "fix": ""
+ },
+ "bộ complê": {
+  "vi": "bộ complê",
+  "ko": "정장",
+  "fix": ""
+ },
+ "cà vạt": {
+  "vi": "cà vạt",
+  "ko": "넥타이",
+  "fix": ""
+ },
+ "quay đầu lại": {
+  "vi": "quay đầu lại",
+  "ko": "유턴하다",
+  "fix": ""
+ },
+ "đi ngược chiều": {
+  "vi": "đi ngược chiều",
+  "ko": "역주행하다",
+  "fix": ""
+ },
+ "nhỡ": {
+  "vi": "nhỡ",
+  "ko": "버스를 놓치다",
+  "fix": ""
+ },
+ "cứu": {
+  "vi": "cứu",
+  "ko": "구조하다",
+  "fix": ""
+ },
+ "gợi ý": {
+  "vi": "gợi ý",
+  "ko": "제안하다",
+  "fix": ""
+ },
+ "dặn dò": {
+  "vi": "dặn dò",
+  "ko": "당부하다",
+  "fix": ""
+ },
+ "giới mày râu": {
+  "vi": "giới mày râu",
+  "ko": "남성",
+  "fix": "giới mày râu"
+ },
+ "nhấn mạnh cảm xúc": {
+  "vi": "nhấn mạnh cảm xúc",
+  "ko": "감정을 강조하다",
+  "fix": ""
+ },
+ "nhiều dầu mỡ": {
+  "vi": "nhiều dầu mỡ",
+  "ko": "기름진, 기름기가 많은",
+  "fix": ""
+ },
+ "phụ nữ": {
+  "vi": "phụ nữ",
+  "ko": "여성",
+  "fix": ""
+ },
+ "năng khiếu": {
+  "vi": "năng khiếu",
+  "ko": "소질, 재능",
+  "fix": ""
+ },
+ "bị ngã xuống hồ": {
+  "vi": "bị ngã xuống hồ",
+  "ko": "호수에 빠지게 되다",
+  "fix": ""
+ },
+ "đưa thư cho ~": {
+  "vi": "đưa thư cho ~",
+  "ko": "에게 편지를 전달하다",
+  "fix": ""
+ },
+ "bằng lái xe": {
+  "vi": "bằng lái xe",
+  "ko": "운전면허증",
+  "fix": ""
+ },
+ "cùng mục đích": {
+  "vi": "cùng mục đích",
+  "ko": "같은 목적",
+  "fix": ""
+ },
+ "cùng chúng tôi": {
+  "vi": "cùng chúng tôi",
+  "ko": "우리와 함께",
+  "fix": ""
+ },
+ "không còn chỗ": {
+  "vi": "không còn chỗ",
+  "ko": "더 이상 자리가(공간이) 없어",
+  "fix": ""
+ },
+ "tất nhiên rồi": {
+  "vi": "tất nhiên rồi",
+  "ko": "당연하지(물론이지)",
+  "fix": ""
+ },
+ "cùng với nhau": {
+  "vi": "cùng với nhau",
+  "ko": "함께",
+  "fix": ""
+ },
+ "cho em làm cùng": {
+  "vi": "cho em làm cùng",
+  "ko": "저도 같이 할게요",
+  "fix": ""
+ },
+ "lỗi chính tả": {
+  "vi": "lỗi chính tả",
+  "ko": "맞춤법 오류",
+  "fix": ""
+ },
+ "diều khiển": {
+  "vi": "diều khiển",
+  "ko": "지휘하다, 통제하다",
+  "fix": "điều khiển"
+ },
+ "chầu cà phê": {
+  "vi": "chầu cà phê",
+  "ko": "커피 내기",
+  "fix": ""
+ },
+ "khúc côn cầu": {
+  "vi": "khúc côn cầu",
+  "ko": "하키",
+  "fix": ""
+ },
+ "chùa chiền": {
+  "vi": "chùa chiền",
+  "ko": "사찰",
+  "fix": ""
+ },
+ "nghiêm khắc": {
+  "vi": "nghiêm khắc",
+  "ko": "엄격하다",
+  "fix": ""
+ },
+ "bán xỉ": {
+  "vi": "bán xỉ",
+  "ko": "도매",
+  "fix": "bán sỉ"
+ },
+ "chịu thôi": {
+  "vi": "chịu thôi",
+  "ko": "못하겠어",
+  "fix": ""
+ },
+ "gỉa dối": {
+  "vi": "gỉa dối",
+  "ko": "거짓된·위선적인",
+  "fix": "giả dối"
+ },
+ "vác": {
+  "vi": "vác",
+  "ko": "어깨에 지다",
+  "fix": ""
+ },
+ "một điếu": {
+  "vi": "một điếu",
+  "ko": "한 개비",
+  "fix": ""
+ },
+ "tấm ảnh": {
+  "vi": "tấm ảnh",
+  "ko": "사진",
+  "fix": ""
+ },
+ "giao thông": {
+  "vi": "giao thông",
+  "ko": "교통",
+  "fix": ""
+ },
+ "nhỡ xe buýt": {
+  "vi": "nhỡ xe buýt",
+  "ko": "버스를 놓치다",
+  "fix": ""
+ },
+ "đua xe": {
+  "vi": "đua xe",
+  "ko": "카레이싱",
+  "fix": ""
+ },
+ "khản": {
+  "vi": "khản",
+  "ko": "목이 쉬다",
+  "fix": ""
+ },
+ "hoạt bát": {
+  "vi": "hoạt bát",
+  "ko": "활발하다",
+  "fix": ""
+ },
+ "sổ hồng": {
+  "vi": "sổ hồng",
+  "ko": "부동산 등기 / 소유권 증서",
+  "fix": ""
+ },
+ "nội thất đầy đủ": {
+  "vi": "nội thất đầy đủ",
+  "ko": "풀옵션",
+  "fix": ""
+ },
+ "kệ bếp": {
+  "vi": "kệ bếp",
+  "ko": "주방 선반",
+  "fix": ""
+ },
+ "bồn rửa bát": {
+  "vi": "bồn rửa bát",
+  "ko": "싱크대",
+  "fix": ""
+ },
+ "tự do giờ giấc": {
+  "vi": "tự do giờ giấc",
+  "ko": "출입 시간 자유",
+  "fix": ""
+ },
+ "cửa khóa vân tay": {
+  "vi": "cửa khóa vân tay",
+  "ko": "지문 인식 도어락",
+  "fix": ""
+ },
+ "trải nghiệm": {
+  "vi": "trải nghiệm",
+  "ko": "경험하다",
+  "fix": ""
+ },
+ "tình nguyện": {
+  "vi": "tình nguyện",
+  "ko": "자원하다",
+  "fix": ""
+ },
+ "thanh niên": {
+  "vi": "thanh niên",
+  "ko": "젊은이, 청년",
+  "fix": ""
+ },
+ "theo phiên": {
+  "vi": "theo phiên",
+  "ko": "회기별로·순서대로",
+  "fix": ""
+ },
+ "giờ tan tầm": {
+  "vi": "giờ tan tầm",
+  "ko": "퇴근시간",
+  "fix": ""
+ },
+ "chính sách": {
+  "vi": "chính sách",
+  "ko": "정책",
+  "fix": ""
+ },
+ "đi chậm": {
+  "vi": "đi chậm",
+  "ko": "서행",
+  "fix": ""
+ },
+ "tạo": {
+  "vi": "tạo",
+  "ko": "만들다, 형성하다",
+  "fix": ""
+ },
+ "trường kinh tế": {
+  "vi": "trường kinh tế",
+  "ko": "경제 대학교",
+  "fix": ""
+ },
+ "cầu xin": {
+  "vi": "cầu xin",
+  "ko": "요청하다",
+  "fix": ""
+ },
+ "chờ mình với": {
+  "vi": "chờ mình với",
+  "ko": "나 좀 기다려",
+  "fix": ""
+ },
+ "cùng xe đấy": {
+  "vi": "cùng xe đấy",
+  "ko": "같은 차네요",
+  "fix": ""
+ },
+ "ấn tượng": {
+  "vi": "ấn tượng",
+  "ko": "인상깊다",
+  "fix": ""
+ },
+ "ầm ĩ": {
+  "vi": "ầm ĩ",
+  "ko": "시끄러운",
+  "fix": ""
+ },
+ "giờ làm việc": {
+  "vi": "giờ làm việc",
+  "ko": "근무시간",
+  "fix": ""
+ },
+ "thương đế": {
+  "vi": "thương đế",
+  "ko": "하나님·신",
+  "fix": "thượng đế"
+ },
+ "chân": {
+  "vi": "chân",
+  "ko": "(발)",
+  "fix": ""
+ },
+ "tháp": {
+  "vi": "tháp",
+  "ko": "탑",
+  "fix": ""
+ },
+ "đô thị hóa": {
+  "vi": "đô thị hóa",
+  "ko": "도시화하다",
+  "fix": ""
+ },
+ "quận": {
+  "vi": "quận",
+  "ko": "구 / 군 (행정구역)",
+  "fix": ""
+ },
+ "thưởng thức": {
+  "vi": "thưởng thức",
+  "ko": "즐기다",
+  "fix": ""
+ },
+ "dọn": {
+  "vi": "dọn",
+  "ko": "정리하다,치우다",
+  "fix": ""
+ },
+ "chính trị": {
+  "vi": "chính trị",
+  "ko": "정치",
+  "fix": ""
+ },
+ "hồi đó": {
+  "vi": "hồi đó",
+  "ko": "그 시절·그때",
+  "fix": ""
+ },
+ "trại trẻ mồ côi": {
+  "vi": "trại trẻ mồ côi",
+  "ko": "고아원",
+  "fix": ""
+ },
+ "tuyên bố": {
+  "vi": "tuyên bố",
+  "ko": "선언하다",
+  "fix": ""
+ },
+ "cụ thể": {
+  "vi": "cụ thể",
+  "ko": "구체적인",
+  "fix": ""
+ },
+ "nghiêm chỉnh": {
+  "vi": "nghiêm chỉnh",
+  "ko": "진지한, 엄정한",
+  "fix": ""
+ },
+ "đời đô": {
+  "vi": "đời đô",
+  "ko": "수도를 옮기다, 천도하다",
+  "fix": "dời đô"
+ },
+ "nhập gia tùy tục": {
+  "vi": "nhập gia tùy tục",
+  "ko": "어느 장소에 가면 그곳의 풍습을 따른다",
+  "fix": ""
+ },
+ "quen thuộc": {
+  "vi": "quen thuộc",
+  "ko": "익숙해지다",
+  "fix": ""
+ },
+ "để lại": {
+  "vi": "để lại",
+  "ko": "남기다",
+  "fix": ""
+ },
+ "di tích lịch sử": {
+  "vi": "di tích lịch sử",
+  "ko": "역사문화유산",
+  "fix": ""
+ },
+ "cùng chiều": {
+  "vi": "cùng chiều",
+  "ko": "같은 방향",
+  "fix": ""
+ },
+ "thực ra": {
+  "vi": "thực ra",
+  "ko": "사실은",
+  "fix": ""
+ },
+ "luật": {
+  "vi": "luật",
+  "ko": "법, 규칙",
+  "fix": ""
+ },
+ "vượt đèn đỏ": {
+  "vi": "vượt đèn đỏ",
+  "ko": "신호를 위반하다",
+  "fix": ""
+ },
+ "xuể": {
+  "vi": "xuể",
+  "ko": "감당하다 (주로 부정문에서 사용)",
+  "fix": ""
+ },
+ "thời gian rỗi": {
+  "vi": "thời gian rỗi",
+  "ko": "여가 시간, 자유 시간",
+  "fix": ""
+ },
+ "quốc gia": {
+  "vi": "quốc gia",
+  "ko": "국가",
+  "fix": ""
+ },
+ "ngày đó": {
+  "vi": "ngày đó",
+  "ko": "그 날",
+  "fix": ""
+ },
+ "giải tác": {
+  "vi": "giải tác",
+  "ko": "작품을 창작하다 / 저작물",
+  "fix": "?"
+ },
+ "người bản ngữ": {
+  "vi": "người bản ngữ",
+  "ko": "원어민",
+  "fix": ""
+ },
+ "tác động": {
+  "vi": "tác động",
+  "ko": "영향 / 임팩트",
+  "fix": ""
+ },
+ "mức độ": {
+  "vi": "mức độ",
+  "ko": "정도",
+  "fix": ""
+ },
+ "quyền hạn": {
+  "vi": "quyền hạn",
+  "ko": "권한",
+  "fix": ""
+ },
+ "tư duy": {
+  "vi": "tư duy",
+  "ko": "생각 / 사유",
+  "fix": ""
+ },
+ "lãnh đạo": {
+  "vi": "lãnh đạo",
+  "ko": "리더십",
+  "fix": ""
+ },
+ "linh hoạt": {
+  "vi": "linh hoạt",
+  "ko": "신축성있는",
+  "fix": ""
+ },
+ "liên minh": {
+  "vi": "liên minh",
+  "ko": "연합, 연맹",
+  "fix": ""
+ },
+ "khẩn cấp": {
+  "vi": "khẩn cấp",
+  "ko": "급한",
+  "fix": ""
+ },
+ "phong cách": {
+  "vi": "phong cách",
+  "ko": "스타일",
+  "fix": ""
+ },
+ "thuật ngữ": {
+  "vi": "thuật ngữ",
+  "ko": "용어",
+  "fix": ""
+ },
+ "mối quan hệ": {
+  "vi": "mối quan hệ",
+  "ko": "관계",
+  "fix": ""
+ },
+ "gia tăng": {
+  "vi": "gia tăng",
+  "ko": "증가하다",
+  "fix": ""
+ },
+ "phản ứng": {
+  "vi": "phản ứng",
+  "ko": "반응하다",
+  "fix": ""
+ },
+ "tiên đoán": {
+  "vi": "tiên đoán",
+  "ko": "예측하다",
+  "fix": ""
+ },
+ "dựa vào": {
+  "vi": "dựa vào",
+  "ko": "에 근거하다",
+  "fix": ""
+ },
+ "tiêu phí": {
+  "vi": "tiêu phí",
+  "ko": "낭비하다",
+  "fix": ""
+ },
+ "có tầm nhìn xa": {
+  "vi": "có tầm nhìn xa",
+  "ko": "장기 비전",
+  "fix": ""
+ },
+ "cứu chữa": {
+  "vi": "cứu chữa",
+  "ko": "응급처치하다, 구하다",
+  "fix": ""
+ },
+ "nghiện": {
+  "vi": "nghiện",
+  "ko": "중독되다",
+  "fix": ""
+ },
+ "đương nhiên": {
+  "vi": "đương nhiên",
+  "ko": "당연히, 물론",
+  "fix": ""
+ },
+ "vùng cấm": {
+  "vi": "vùng cấm",
+  "ko": "금지구역",
+  "fix": ""
+ },
+ "phong vị": {
+  "vi": "phong vị",
+  "ko": "운치가 있는, 운치",
+  "fix": ""
+ },
+ "trí tuệ": {
+  "vi": "trí tuệ",
+  "ko": "지혜 / 영리한, 지적인",
+  "fix": ""
+ },
+ "ký ức": {
+  "vi": "ký ức",
+  "ko": "기억 / 기억하다",
+  "fix": ""
+ },
+ "mau chóng": {
+  "vi": "mau chóng",
+  "ko": "신속한",
+  "fix": ""
+ },
+ "cơ thể": {
+  "vi": "cơ thể",
+  "ko": "신체, 몸",
+  "fix": ""
+ },
+ "tâm trạng": {
+  "vi": "tâm trạng",
+  "ko": "기분, 심정",
+  "fix": ""
+ },
+ "chịu đựng": {
+  "vi": "chịu đựng",
+  "ko": "참다, 견디다",
+  "fix": ""
+ },
+ "tập quán": {
+  "vi": "tập quán",
+  "ko": "습관, 관습",
+  "fix": ""
+ },
+ "kha khá": {
+  "vi": "kha khá",
+  "ko": "충분히",
+  "fix": ""
+ },
+ "đặt trước": {
+  "vi": "đặt trước",
+  "ko": "예약하다",
+  "fix": ""
+ },
+ "thạo": {
+  "vi": "thạo",
+  "ko": "능숙한",
+  "fix": ""
+ },
+ "trụ sở": {
+  "vi": "trụ sở",
+  "ko": "주소",
+  "fix": "địa chỉ"
+ },
+ "dược phẩm": {
+  "vi": "dược phẩm",
+  "ko": "약품",
+  "fix": ""
+ },
+ "giới": {
+  "vi": "giới",
+  "ko": "성별",
+  "fix": ""
+ },
+ "quý vị": {
+  "vi": "quý vị",
+  "ko": "여러분",
+  "fix": ""
+ },
+ "tựgiới thiệu": {
+  "vi": "tựgiới thiệu",
+  "ko": "아이디어",
+  "fix": "tự giới thiệu"
+ },
+ "đại diện văn phòng": {
+  "vi": "đại diện văn phòng",
+  "ko": "대표 사무실",
+  "fix": ""
+ },
+ "trụ sởchính": {
+  "vi": "trụ sởchính",
+  "ko": "본사",
+  "fix": "trụ sở chính"
+ },
+ "người sáng lập": {
+  "vi": "người sáng lập",
+  "ko": "창업자",
+  "fix": ""
+ },
+ "quản lí": {
+  "vi": "quản lí",
+  "ko": "매니징하다",
+  "fix": ""
+ },
+ "phí công": {
+  "vi": "phí công",
+  "ko": "헛수고하다",
+  "fix": ""
+ },
+ "sản phụ": {
+  "vi": "sản phụ",
+  "ko": "산모",
+  "fix": ""
+ },
+ "trẻ sơ sinh": {
+  "vi": "trẻ sơ sinh",
+  "ko": "신생아",
+  "fix": ""
+ },
+ "thướt tha": {
+  "vi": "thướt tha",
+  "ko": "치렁치렁한, 하늘하늘한",
+  "fix": ""
+ },
+ "cung điện": {
+  "vi": "cung điện",
+  "ko": "궁전",
+  "fix": ""
+ },
+ "thương nghiệp": {
+  "vi": "thương nghiệp",
+  "ko": "상업",
+  "fix": ""
+ },
+ "chép": {
+  "vi": "chép",
+  "ko": "베끼다, 복사하다",
+  "fix": ""
+ },
+ "dân gian": {
+  "vi": "dân gian",
+  "ko": "민간",
+  "fix": ""
+ },
+ "triều đại": {
+  "vi": "triều đại",
+  "ko": "왕조",
+  "fix": ""
+ },
+ "đứa trẻ": {
+  "vi": "đứa trẻ",
+  "ko": "아이·어린이",
+  "fix": ""
+ },
+ "bụ bẫm": {
+  "vi": "bụ bẫm",
+  "ko": "통통한, 토실한",
+  "fix": ""
+ },
+ "đậm nét": {
+  "vi": "đậm nét",
+  "ko": "짙은, 농후한",
+  "fix": ""
+ },
+ "cơ động": {
+  "vi": "cơ động",
+  "ko": "기동성 있는",
+  "fix": ""
+ },
+ "thảnh thơi": {
+  "vi": "thảnh thơi",
+  "ko": "홀가분한",
+  "fix": ""
+ },
+ "sử sách": {
+  "vi": "sử sách",
+  "ko": "역사책",
+  "fix": ""
+ },
+ "tình bạn": {
+  "vi": "tình bạn",
+  "ko": "우정",
+  "fix": ""
+ },
+ "đoi chút": {
+  "vi": "đoi chút",
+  "ko": "잠시",
+  "fix": "đôi chút"
+ },
+ "hai bên": {
+  "vi": "hai bên",
+  "ko": "양쪽",
+  "fix": ""
+ },
+ "cầm quyền": {
+  "vi": "cầm quyền",
+  "ko": "통치하다, 정권을 잡다",
+  "fix": ""
+ },
+ "thiên về": {
+  "vi": "thiên về",
+  "ko": "치우치다, 기울다",
+  "fix": ""
+ },
+ "mẫu câu": {
+  "vi": "mẫu câu",
+  "ko": "예문 / 문형",
+  "fix": ""
+ },
+ "tiếp khách": {
+  "vi": "tiếp khách",
+  "ko": "손님 응대",
+  "fix": ""
+ },
+ "nhà nước": {
+  "vi": "nhà nước",
+  "ko": "국가 / 정부",
+  "fix": ""
+ },
+ "tranh thủ": {
+  "vi": "tranh thủ",
+  "ko": "활용하다",
+  "fix": ""
+ },
+ "tinh tế": {
+  "vi": "tinh tế",
+  "ko": "섬세하다",
+  "fix": ""
+ },
+ "khắp đất nước": {
+  "vi": "khắp đất nước",
+  "ko": "전국 각지",
+  "fix": ""
+ },
+ "mụ đầu óc": {
+  "vi": "mụ đầu óc",
+  "ko": "머리가 멍해지다",
+  "fix": "mụ đầu óc"
+ },
+ "thuyết phục": {
+  "vi": "thuyết phục",
+  "ko": "설득하다",
+  "fix": ""
+ },
+ "gia phong": {
+  "vi": "gia phong",
+  "ko": "가풍",
+  "fix": ""
+ },
+ "khó thở": {
+  "vi": "khó thở",
+  "ko": "숨이막히다",
+  "fix": ""
+ },
+ "tác phẩm để đòi": {
+  "vi": "tác phẩm để đòi",
+  "ko": "불후의 명작",
+  "fix": "tác phẩm để đời"
+ },
+ "sáng tạo": {
+  "vi": "sáng tạo",
+  "ko": "창의적이다",
+  "fix": ""
+ },
+ "trò chuyện": {
+  "vi": "trò chuyện",
+  "ko": "이야기하다",
+  "fix": ""
+ },
+ "bầu không khí": {
+  "vi": "bầu không khí",
+  "ko": "분위기",
+  "fix": ""
+ },
+ "công ty thương mại": {
+  "vi": "công ty thương mại",
+  "ko": "무역회사",
+  "fix": ""
+ },
+ "công ty thực phẩm": {
+  "vi": "công ty thực phẩm",
+  "ko": "식품회사",
+  "fix": ""
+ },
+ "công ty chứng khoán": {
+  "vi": "công ty chứng khoán",
+  "ko": "증권사",
+  "fix": ""
+ },
+ "công ty dược phẩm": {
+  "vi": "công ty dược phẩm",
+  "ko": "제약회사",
+  "fix": ""
+ },
+ "công ty may mặc": {
+  "vi": "công ty may mặc",
+  "ko": "봉제회사",
+  "fix": ""
+ },
+ "được sinh ra": {
+  "vi": "được sinh ra",
+  "ko": "태어나다",
+  "fix": ""
+ },
+ "bảo thủ": {
+  "vi": "bảo thủ",
+  "ko": "보수적이다",
+  "fix": ""
+ },
+ "tấm gương": {
+  "vi": "tấm gương",
+  "ko": "거울",
+  "fix": ""
+ },
+ "noi theo": {
+  "vi": "noi theo",
+  "ko": "본받다",
+  "fix": ""
+ },
+ "bổ ích": {
+  "vi": "bổ ích",
+  "ko": "유익하다",
+  "fix": ""
+ },
+ "thời gian tan sở": {
+  "vi": "thời gian tan sở",
+  "ko": "퇴근시간",
+  "fix": ""
+ },
+ "khiêu gợi": {
+  "vi": "khiêu gợi",
+  "ko": "섹시하다",
+  "fix": "khiêu gợi"
+ },
+ "chợ quê": {
+  "vi": "chợ quê",
+  "ko": "전통시장",
+  "fix": ""
+ },
+ "nôn": {
+  "vi": "nôn",
+  "ko": "구토하다",
+  "fix": ""
+ },
+ "gãy chân": {
+  "vi": "gãy chân",
+  "ko": "발이 부러지다",
+  "fix": ""
+ },
+ "thể hình": {
+  "vi": "thể hình",
+  "ko": "보드빌더",
+  "fix": ""
+ },
+ "vòng xuyên": {
+  "vi": "vòng xuyên",
+  "ko": "로터리",
+  "fix": "vòng xoay"
+ },
+ "có dịp": {
+  "vi": "có dịp",
+  "ko": "기회가 생기다",
+  "fix": ""
+ },
+ "lý thuyết": {
+  "vi": "lý thuyết",
+  "ko": "이론, 학설",
+  "fix": ""
+ },
+ "gỗ tự nhiên": {
+  "vi": "gỗ tự nhiên",
+  "ko": "천연 목재",
+  "fix": ""
+ },
+ "quyết đoán": {
+  "vi": "quyết đoán",
+  "ko": "결단력이 있다",
+  "fix": ""
+ },
+ "phân phối": {
+  "vi": "phân phối",
+  "ko": "분배하다",
+  "fix": ""
+ },
+ "cấp dưới": {
+  "vi": "cấp dưới",
+  "ko": "부하, 아랫사람",
+  "fix": ""
+ },
+ "kính mời": {
+  "vi": "kính mời",
+  "ko": "공손히 초청하다",
+  "fix": ""
+ },
+ "cam kết": {
+  "vi": "cam kết",
+  "ko": "보증하다",
+  "fix": ""
+ },
+ "thỏa thuận": {
+  "vi": "thỏa thuận",
+  "ko": "합의하다",
+  "fix": ""
+ },
+ "giám sát": {
+  "vi": "giám sát",
+  "ko": "모니터하다 / 감시하다",
+  "fix": ""
+ },
+ "theo dõi": {
+  "vi": "theo dõi",
+  "ko": "따라가다",
+  "fix": ""
+ },
+ "công cụ để~": {
+  "vi": "công cụ để~",
+  "ko": "를 위한 수단",
+  "fix": ""
+ },
+ "mâu thuẫn": {
+  "vi": "mâu thuẫn",
+  "ko": "갈등, 모순",
+  "fix": ""
+ },
+ "kiểm sát": {
+  "vi": "kiểm sát",
+  "ko": "감찰하다",
+  "fix": ""
+ },
+ "cưỡng": {
+  "vi": "cưỡng",
+  "ko": "강요하다, 강제하다",
+  "fix": ""
+ },
+ "đơn vị": {
+  "vi": "đơn vị",
+  "ko": "단위",
+  "fix": ""
+ },
+ "thứ bậc": {
+  "vi": "thứ bậc",
+  "ko": "등급, 계급",
+  "fix": ""
+ },
+ "ngược": {
+  "vi": "ngược",
+  "ko": "반대",
+  "fix": ""
+ },
+ "siêng năng": {
+  "vi": "siêng năng",
+  "ko": "부지런한",
+  "fix": ""
+ },
+ "khơi dậy": {
+  "vi": "khơi dậy",
+  "ko": "유발하다, 불러일으키다",
+  "fix": ""
+ },
+ "thuyết": {
+  "vi": "thuyết",
+  "ko": "이론",
+  "fix": ""
+ },
+ "trọng yếu": {
+  "vi": "trọng yếu",
+  "ko": "중요한",
+  "fix": ""
+ },
+ "tập thể": {
+  "vi": "tập thể",
+  "ko": "집단, 단체",
+  "fix": ""
+ },
+ "tối ưu": {
+  "vi": "tối ưu",
+  "ko": "최고로 좋은",
+  "fix": ""
+ },
+ "chiếm": {
+  "vi": "chiếm",
+  "ko": "차지하다,점유하다",
+  "fix": ""
+ },
+ "cấp trên": {
+  "vi": "cấp trên",
+  "ko": "상사",
+  "fix": ""
+ },
+ "tuy": {
+  "vi": "tuy",
+  "ko": "비록 ~일지라도",
+  "fix": ""
+ },
+ "túy": {
+  "vi": "túy",
+  "ko": "취하다",
+  "fix": ""
+ },
+ "làm khách": {
+  "vi": "làm khách",
+  "ko": "손님처럼 행동하다",
+  "fix": ""
+ },
+ "phúc lợi": {
+  "vi": "phúc lợi",
+  "ko": "복지",
+  "fix": ""
+ },
+ "nhút nhát": {
+  "vi": "nhút nhát",
+  "ko": "소심한",
+  "fix": ""
+ },
+ "thiếu kiên nhẫn": {
+  "vi": "thiếu kiên nhẫn",
+  "ko": "참을성이 없는",
+  "fix": ""
+ },
+ "nuôi thú cưng": {
+  "vi": "nuôi thú cưng",
+  "ko": "애완동물을 기르다",
+  "fix": ""
+ },
+ "vẽ tranh": {
+  "vi": "vẽ tranh",
+  "ko": "그림을 그리다",
+  "fix": ""
+ },
+ "ngữ văn anh": {
+  "vi": "ngữ văn Anh",
+  "ko": "영문학",
+  "fix": ""
+ },
+ "tinh năng": {
+  "vi": "tinh năng",
+  "ko": "성능",
+  "fix": "tính năng"
+ },
+ "hậu quả": {
+  "vi": "hậu quả",
+  "ko": "결과·후과",
+  "fix": ""
+ },
+ "hữu ích": {
+  "vi": "hữu ích",
+  "ko": "효익",
+  "fix": ""
+ },
+ "chuyên biệt": {
+  "vi": "chuyên biệt",
+  "ko": "구체적인",
+  "fix": ""
+ },
+ "rễ cây": {
+  "vi": "rễ cây",
+  "ko": "뿌리",
+  "fix": ""
+ },
+ "chu trình": {
+  "vi": "chu trình",
+  "ko": "주기",
+  "fix": ""
+ },
+ "chỉ số": {
+  "vi": "chỉ số",
+  "ko": "지수 / 인덱스",
+  "fix": ""
+ },
+ "trật tự": {
+  "vi": "trật tự",
+  "ko": "순서 / 서열",
+  "fix": ""
+ },
+ "tác vụ": {
+  "vi": "tác vụ",
+  "ko": "임무",
+  "fix": ""
+ },
+ "thống kê": {
+  "vi": "thống kê",
+  "ko": "통계내다",
+  "fix": ""
+ },
+ "dung lượng lưu trữ": {
+  "vi": "dung lượng lưu trữ",
+  "ko": "저장용량",
+  "fix": ""
+ },
+ "minh hoạ": {
+  "vi": "minh hoạ",
+  "ko": "삽화",
+  "fix": "minh họa"
+ },
+ "hình tứ giác": {
+  "vi": "hình tứ giác",
+  "ko": "4각형",
+  "fix": ""
+ },
+ "bản thảo": {
+  "vi": "bản thảo",
+  "ko": "초안 / 드래프트",
+  "fix": ""
+ },
+ "gián tiếp": {
+  "vi": "gián tiếp",
+  "ko": "간접적",
+  "fix": ""
+ },
+ "song song": {
+  "vi": "song song",
+  "ko": "평행한",
+  "fix": ""
+ },
+ "dự trù": {
+  "vi": "dự trù",
+  "ko": "비축하다 / 갖추다",
+  "fix": ""
+ },
+ "nhóm lợi ích": {
+  "vi": "nhóm lợi ích",
+  "ko": "이익집단",
+  "fix": ""
+ },
+ "giải tỏa": {
+  "vi": "giải tỏa",
+  "ko": "해소하다",
+  "fix": ""
+ },
+ "ngưỡng mộ": {
+  "vi": "ngưỡng mộ",
+  "ko": "동경하다, 존경하다",
+  "fix": ""
+ },
+ "cần mẫn": {
+  "vi": "cần mẫn",
+  "ko": "근면하다",
+  "fix": ""
+ },
+ "quy mô": {
+  "vi": "quy mô",
+  "ko": "규모",
+  "fix": ""
+ },
+ "doanh số": {
+  "vi": "doanh số",
+  "ko": "매출",
+  "fix": ""
+ },
+ "bất đồng": {
+  "vi": "bất đồng",
+  "ko": "갈등",
+  "fix": ""
+ },
+ "phụ trách": {
+  "vi": "phụ trách",
+  "ko": "책임을 지다, 담당하다",
+  "fix": ""
+ },
+ "hồi hộp": {
+  "vi": "hồi hộp",
+  "ko": "긴장하다",
+  "fix": ""
+ },
+ "bỡ ngỡ": {
+  "vi": "bỡ ngỡ",
+  "ko": "낯설다",
+  "fix": ""
+ },
+ "lớn mạnh": {
+  "vi": "lớn mạnh",
+  "ko": "강성하다",
+  "fix": ""
+ },
+ "bất cứ - người": {
+  "vi": "bất cứ - người",
+  "ko": "누구든지",
+  "fix": "bất cứ người"
+ },
+ "nhâp khẩu": {
+  "vi": "nhâp khẩu",
+  "ko": "수입",
+  "fix": "nhập khẩu"
+ },
+ "thông tin": {
+  "vi": "thông tin",
+  "ko": "정보",
+  "fix": ""
+ },
+ "khai giảng": {
+  "vi": "khai giảng",
+  "ko": "개강식, 개학",
+  "fix": ""
+ },
+ "chiến lược": {
+  "vi": "chiến lược",
+  "ko": "전략",
+  "fix": ""
+ },
+ "hoà thuận": {
+  "vi": "hoà thuận",
+  "ko": "화합",
+  "fix": ""
+ },
+ "định cư": {
+  "vi": "định cư",
+  "ko": "정착",
+  "fix": ""
+ },
+ "thử sức": {
+  "vi": "thử sức",
+  "ko": "도전",
+  "fix": ""
+ },
+ "tầm nhình": {
+  "vi": "tầm nhình",
+  "ko": "비전",
+  "fix": "tầm nhìn"
+ },
+ "được mở rộng": {
+  "vi": "được mở rộng",
+  "ko": "확대되다",
+  "fix": ""
+ },
+ "bị thu hẹp": {
+  "vi": "bị thu hẹp",
+  "ko": "축소되다",
+  "fix": ""
+ },
+ "đắt đỏ": {
+  "vi": "đắt đỏ",
+  "ko": "비싸다·물가가 비싸다",
+  "fix": ""
+ },
+ "thưởng phạt": {
+  "vi": "thưởng phạt",
+  "ko": "상벌을 주다",
+  "fix": ""
+ },
+ "nguồn lực": {
+  "vi": "nguồn lực",
+  "ko": "자원",
+  "fix": ""
+ },
+ "hữu hạn": {
+  "vi": "hữu hạn",
+  "ko": "한정적",
+  "fix": ""
+ },
+ "ban bảo vệ": {
+  "vi": "ban bảo vệ",
+  "ko": "보안팀, 경비팀",
+  "fix": ""
+ },
+ "định kỳ": {
+  "vi": "định kỳ",
+  "ko": "정기적인",
+  "fix": ""
+ },
+ "quà lưu niệm": {
+  "vi": "quà lưu niệm",
+  "ko": "기념품, 기념 선물",
+  "fix": ""
+ },
+ "đi trễ": {
+  "vi": "đi trễ",
+  "ko": "지각하다, 늦게 가다",
+  "fix": ""
+ },
+ "kẹt xe": {
+  "vi": "kẹt xe",
+  "ko": "교통 체증, 차가 막히다",
+  "fix": ""
+ },
+ "đo lường": {
+  "vi": "đo lường",
+  "ko": "측정하다",
+  "fix": ""
+ },
+ "chấn chỉnh": {
+  "vi": "chấn chỉnh",
+  "ko": "시정하다, 바로잡다",
+  "fix": ""
+ },
+ "phát hiện": {
+  "vi": "phát hiện",
+  "ko": "발견하다, 찾아내다",
+  "fix": ""
+ },
+ "đối thủ cạnh tranh": {
+  "vi": "đối thủ cạnh tranh",
+  "ko": "경쟁자",
+  "fix": ""
+ },
+ "trì trệ": {
+  "vi": "trì trệ",
+  "ko": "정체되다, 지체되다",
+  "fix": ""
+ },
+ "tính cạnh tranh": {
+  "vi": "tính cạnh tranh",
+  "ko": "경쟁력",
+  "fix": ""
+ },
+ "cải tổ": {
+  "vi": "cải tổ",
+  "ko": "개편하다, 구조조정하다",
+  "fix": ""
+ },
+ "hợp nhất": {
+  "vi": "hợp nhất",
+  "ko": "합병하다, 통합하다",
+  "fix": ""
+ },
+ "mồm": {
+  "vi": "mồm",
+  "ko": "입",
+  "fix": ""
+ },
+ "tim": {
+  "vi": "tim",
+  "ko": "심장",
+  "fix": ""
+ },
+ "ngạt mũi": {
+  "vi": "ngạt mũi",
+  "ko": "코막힘",
+  "fix": ""
+ },
+ "cầu kỳ": {
+  "vi": "cầu kỳ",
+  "ko": "정교한 / 까다로운",
+  "fix": ""
+ },
+ "hành chính quản trị": {
+  "vi": "hành chính quản trị",
+  "ko": "행정관리",
+  "fix": ""
+ },
+ "thận phận xã hội": {
+  "vi": "thận phận xã hội",
+  "ko": "사회적 신분",
+  "fix": "thân phận xã hội"
+ },
+ "thể loại phim": {
+  "vi": "thể loại phim",
+  "ko": "영화 장르",
+  "fix": ""
+ },
+ "hệ thống âm thanh": {
+  "vi": "hệ thống âm thanh",
+  "ko": "사운드 시스템",
+  "fix": ""
+ },
+ "hòa đồng": {
+  "vi": "hòa đồng",
+  "ko": "어울리다",
+  "fix": ""
+ },
+ "vượt qua": {
+  "vi": "vượt qua",
+  "ko": "극복하다",
+  "fix": ""
+ },
+ "hoà hợp": {
+  "vi": "hoà hợp",
+  "ko": "화합하다",
+  "fix": ""
+ },
+ "rà soát": {
+  "vi": "rà soát",
+  "ko": "확인하다",
+  "fix": ""
+ },
+ "đồng cấp": {
+  "vi": "đồng cấp",
+  "ko": "동기",
+  "fix": ""
+ },
+ "tự tôn": {
+  "vi": "tự tôn",
+  "ko": "자존하는, 자존감",
+  "fix": ""
+ },
+ "nắm vững": {
+  "vi": "nắm vững",
+  "ko": "파악하다",
+  "fix": ""
+ },
+ "nghi ngờ": {
+  "vi": "nghi ngờ",
+  "ko": "의심하다, 불신하다",
+  "fix": ""
+ },
+ "phản kháng": {
+  "vi": "phản kháng",
+  "ko": "반항하다",
+  "fix": ""
+ },
+ "chỉ trích": {
+  "vi": "chỉ trích",
+  "ko": "비난하다",
+  "fix": ""
+ },
+ "miệt thị": {
+  "vi": "miệt thị",
+  "ko": "멸시하다",
+  "fix": ""
+ },
+ "khả thi": {
+  "vi": "khả thi",
+  "ko": "실행할 수 있는, 가능한",
+  "fix": ""
+ },
+ "đầu ngành": {
+  "vi": "đầu ngành",
+  "ko": "주된, 주요한",
+  "fix": ""
+ },
+ "bình đẳng": {
+  "vi": "bình đẳng",
+  "ko": "동등한, 평등한",
+  "fix": ""
+ },
+ "tiến triển": {
+  "vi": "tiến triển",
+  "ko": "전진하다, 발전하다",
+  "fix": ""
+ },
+ "gắn kết": {
+  "vi": "gắn kết",
+  "ko": "연결하다",
+  "fix": ""
+ },
+ "thành lập": {
+  "vi": "thành lập",
+  "ko": "설립하다",
+  "fix": ""
+ },
+ "vụ mất trộm": {
+  "vi": "vụ mất trộm",
+  "ko": "도난 사건",
+  "fix": ""
+ },
+ "tai nạn lao động": {
+  "vi": "tai nạn lao động",
+  "ko": "산업재해",
+  "fix": ""
+ },
+ "gay cấn": {
+  "vi": "gay cấn",
+  "ko": "스릴 있다",
+  "fix": ""
+ },
+ "quầy bán vé": {
+  "vi": "quầy bán vé",
+  "ko": "매표소",
+  "fix": ""
+ },
+ "đòi hỏi": {
+  "vi": "đòi hỏi",
+  "ko": "요구하다",
+  "fix": ""
+ },
+ "giây lát": {
+  "vi": "giây lát",
+  "ko": "잠깐, 순식간",
+  "fix": ""
+ },
+ "giờ hành chính": {
+  "vi": "giờ hành chính",
+  "ko": "행정 시간",
+  "fix": ""
+ },
+ "doanh nghiệp": {
+  "vi": "doanh nghiệp",
+  "ko": "기업",
+  "fix": ""
+ },
+ "sức khỏe tinh thần": {
+  "vi": "sức khỏe tinh thần",
+  "ko": "정신 건강",
+  "fix": ""
+ },
+ "sưc khỏe thể chất": {
+  "vi": "sưc khỏe thể chất",
+  "ko": "신체 건강",
+  "fix": "sức khỏe thể chất"
+ },
+ "bệnh viện đông y": {
+  "vi": "bệnh viện đông y",
+  "ko": "한방 병원",
+  "fix": "Bệnh viện Đông y"
+ },
+ "cổng trường": {
+  "vi": "cổng trường",
+  "ko": "학교 정문",
+  "fix": ""
+ },
+ "mong đợi": {
+  "vi": "mong đợi",
+  "ko": "기대하다",
+  "fix": ""
+ },
+ "óng ánh": {
+  "vi": "óng ánh",
+  "ko": "반짝이다",
+  "fix": ""
+ },
+ "thư thả": {
+  "vi": "thư thả",
+  "ko": "여유롭다",
+  "fix": ""
+ },
+ "ấm áp": {
+  "vi": "ấm áp",
+  "ko": "따뜻하다",
+  "fix": ""
+ },
+ "tươi ngon": {
+  "vi": "tươi ngon",
+  "ko": "싱싱하고 맛있다",
+  "fix": ""
+ },
+ "kỳ nghỉ": {
+  "vi": "kỳ nghỉ",
+  "ko": "휴가·방학",
+  "fix": ""
+ },
+ "chìm dần": {
+  "vi": "chìm dần",
+  "ko": "침전되다",
+  "fix": ""
+ },
+ "thi vị": {
+  "vi": "thi vị",
+  "ko": "시적이다",
+  "fix": ""
+ },
+ "dữ dội": {
+  "vi": "dữ dội",
+  "ko": "심하다",
+  "fix": ""
+ },
+ "lâu năm": {
+  "vi": "lâu năm",
+  "ko": "오래되다",
+  "fix": ""
+ },
+ "lý tưởng": {
+  "vi": "lý tưởng",
+  "ko": "이상적이다",
+  "fix": ""
+ },
+ "nhẹ nhành": {
+  "vi": "nhẹ nhành",
+  "ko": "가볍게, 사뿐사뿐",
+  "fix": "nhẹ nhàng"
+ },
+ "chỗ ngồi": {
+  "vi": "chỗ ngồi",
+  "ko": "좌석",
+  "fix": ""
+ },
+ "chế độ im lặng": {
+  "vi": "chế độ im lặng",
+  "ko": "무음 모드",
+  "fix": ""
+ },
+ "máy bán vé tựđộng": {
+  "vi": "máy bán vé tựđộng",
+  "ko": "키오스크",
+  "fix": "máy bán vé tự động"
+ },
+ "vai chính": {
+  "vi": "vai chính",
+  "ko": "주연",
+  "fix": ""
+ },
+ "tiến triển nhanh": {
+  "vi": "tiến triển nhanh",
+  "ko": "전개가 빠르다",
+  "fix": ""
+ },
+ "kỹ xảo tốt": {
+  "vi": "kỹ xảo tốt",
+  "ko": "영화 기법이 좋다",
+  "fix": ""
+ },
+ "mang tính giáo dục": {
+  "vi": "mang tính giáo dục",
+  "ko": "교육적이다",
+  "fix": ""
+ },
+ "gấp quần áo": {
+  "vi": "gấp quần áo",
+  "ko": "옷을 개다",
+  "fix": ""
+ },
+ "tưới nước": {
+  "vi": "tưới nước",
+  "ko": "(식물에)물을 주다 )",
+  "fix": ""
+ },
+ "hóa ra~": {
+  "vi": "hóa ra~",
+  "ko": "알고 보니",
+  "fix": ""
+ },
+ "nhà tuyển dụng": {
+  "vi": "nhà tuyển dụng",
+  "ko": "채용 담당자",
+  "fix": ""
+ },
+ "thư kí văn phòng": {
+  "vi": "thư kí văn phòng",
+  "ko": "사무 비서",
+  "fix": ""
+ },
+ "đại học": {
+  "vi": "đại học",
+  "ko": "대학교",
+  "fix": ""
+ },
+ "tin học văn phòng": {
+  "vi": "tin học văn phòng",
+  "ko": "사무 정보 기술",
+  "fix": ""
+ },
+ "đội bóng": {
+  "vi": "đội bóng",
+  "ko": "축구팀",
+  "fix": ""
+ },
+ "nhân viên bán hàng": {
+  "vi": "nhân viên bán hàng",
+  "ko": "판매 직원",
+  "fix": ""
+ },
+ "kế toán": {
+  "vi": "kế toán",
+  "ko": "회계",
+  "fix": ""
+ },
+ "trợ lí giám đốc": {
+  "vi": "trợ lí giám đốc",
+  "ko": "사장 보조",
+  "fix": ""
+ },
+ "thư kí giám đốc": {
+  "vi": "thư kí giám đốc",
+  "ko": "사장 비서",
+  "fix": ""
+ },
+ "phim kinh dị": {
+  "vi": "phim kinh dị",
+  "ko": "공포 영화",
+  "fix": ""
+ },
+ "chuyen môn": {
+  "vi": "chuyen môn",
+  "ko": "전공",
+  "fix": "chuyên môn"
+ },
+ "phó cíam đốc": {
+  "vi": "phó cíam đốc",
+  "ko": "부사장",
+  "fix": "phó giám đốc"
+ },
+ "nhận lương": {
+  "vi": "nhận lương",
+  "ko": "월급을 받다",
+  "fix": ""
+ },
+ "hành chính": {
+  "vi": "hành chính",
+  "ko": "행정",
+  "fix": ""
+ },
+ "tuyển thủ": {
+  "vi": "tuyển thủ",
+  "ko": "선수",
+  "fix": ""
+ },
+ "cổ vũ cuồng nghiệt": {
+  "vi": "cổ vũ cuồng nghiệt",
+  "ko": "열정적으로 응원하다",
+  "fix": "cổ vũ cuồng nhiệt"
+ },
+ "thi đấu hết mình": {
+  "vi": "thi đấu hết mình",
+  "ko": "최선을 다해 시합하다",
+  "fix": ""
+ },
+ "nguyên tắc": {
+  "vi": "nguyên tắc",
+  "ko": "원칙",
+  "fix": ""
+ },
+ "hoàn thiện": {
+  "vi": "hoàn thiện",
+  "ko": "완벽하다",
+  "fix": ""
+ },
+ "người gọi đến": {
+  "vi": "người gọi đến",
+  "ko": "전화 거는 사람",
+  "fix": ""
+ },
+ "ứng viên": {
+  "vi": "ứng viên",
+  "ko": "지원자",
+  "fix": ""
+ },
+ "thể loại": {
+  "vi": "thể loại",
+  "ko": "장르",
+  "fix": ""
+ },
+ "phim hoạt động": {
+  "vi": "phim hoạt động",
+  "ko": "액션 영화",
+  "fix": "phim hành động"
+ },
+ "phim lãng mạn": {
+  "vi": "phim lãng mạn",
+  "ko": "로맨스 영화",
+  "fix": ""
+ },
+ "đáng sợ": {
+  "vi": "đáng sợ",
+  "ko": "무시무시하다",
+  "fix": ""
+ },
+ "trưởng phòng nhân sự": {
+  "vi": "trưởng phòng nhân sự",
+  "ko": "인사부장",
+  "fix": ""
+ },
+ "thúc đẩy": {
+  "vi": "thúc đẩy",
+  "ko": "촉진하다, 추진하다",
+  "fix": ""
+ },
+ "vận dụng": {
+  "vi": "vận dụng",
+  "ko": "적용하다, 활용하다",
+  "fix": ""
+ },
+ "sáng bừng": {
+  "vi": "sáng bừng",
+  "ko": "환하다, 빛나다",
+  "fix": ""
+ },
+ "diễn ra": {
+  "vi": "diễn ra",
+  "ko": "일어나다, 개최되다",
+  "fix": ""
+ },
+ "người phỏng vấn": {
+  "vi": "người phỏng vấn",
+  "ko": "면접관",
+  "fix": ""
+ },
+ "vào loại ~": {
+  "vi": "vào loại ~",
+  "ko": "한 편이다",
+  "fix": ""
+ },
+ "tại chức": {
+  "vi": "tại chức",
+  "ko": "재직 중인, 현직의",
+  "fix": ""
+ },
+ "khả năng ngoại ngữ": {
+  "vi": "khả năng ngoại ngữ",
+  "ko": "외국어 능력",
+  "fix": ""
+ },
+ "phòng kế hoạch": {
+  "vi": "phòng kế hoạch",
+  "ko": "기획실",
+  "fix": ""
+ },
+ "đảm nhận chức": {
+  "vi": "đảm nhận chức",
+  "ko": "직책을 맡다, 담당하다",
+  "fix": ""
+ },
+ "hiện trạng": {
+  "vi": "hiện trạng",
+  "ko": "현상태, 현황",
+  "fix": ""
+ },
+ "xếp lịch công tác": {
+  "vi": "xếp lịch công tác",
+  "ko": "출장 편성, 업무 일정 조정",
+  "fix": ""
+ },
+ "trong vòng": {
+  "vi": "trong vòng",
+  "ko": "( / 시간) 동안",
+  "fix": ""
+ },
+ "thay mặt": {
+  "vi": "thay mặt",
+  "ko": "을 대신하여(대표로서)",
+  "fix": ""
+ },
+ "cán bộ": {
+  "vi": "cán bộ",
+  "ko": "간부, 공무원",
+  "fix": ""
+ },
+ "được đề bạt làm": {
+  "vi": "được đề bạt làm",
+  "ko": "로 승진되다, 추천되다",
+  "fix": ""
+ },
+ "được bổ nhiệm làm": {
+  "vi": "được bổ nhiệm làm",
+  "ko": "로 임명되다",
+  "fix": ""
+ },
+ "mức lương": {
+  "vi": "mức lương",
+  "ko": "급여, 월급",
+  "fix": ""
+ },
+ "thủ quỹ": {
+  "vi": "thủ quỹ",
+  "ko": "회계원",
+  "fix": ""
+ },
+ "tương ứng": {
+  "vi": "tương ứng",
+  "ko": "(대응하는, 상응하는)",
+  "fix": ""
+ },
+ "xếp lịch": {
+  "vi": "xếp lịch",
+  "ko": "(일정 잡다, 스케줄 조정)",
+  "fix": ""
+ },
+ "chỉ đạo": {
+  "vi": "chỉ đạo",
+  "ko": "(지시하다, 감독하다)",
+  "fix": ""
+ },
+ "cúp điện": {
+  "vi": "cúp điện",
+  "ko": "(정전 / 전화 끊다)",
+  "fix": ""
+ },
+ "thả": {
+  "vi": "thả",
+  "ko": "(놓다, 풀다)",
+  "fix": ""
+ },
+ "trốn": {
+  "vi": "trốn",
+  "ko": "(도망치다, 피하다)",
+  "fix": ""
+ },
+ "biện minh": {
+  "vi": "biện minh",
+  "ko": "(변명하다, 정당화하다)",
+  "fix": ""
+ },
+ "chiếu sáng": {
+  "vi": "chiếu sáng",
+  "ko": "(빛을 비추다)",
+  "fix": ""
+ },
+ "lương thực": {
+  "vi": "lương thực",
+  "ko": "식량",
+  "fix": ""
+ },
+ "đơn xin việc": {
+  "vi": "đơn xin việc",
+  "ko": "입사 지원서",
+  "fix": ""
+ },
+ "sơ yếu lý lịch": {
+  "vi": "sơ yếu lý lịch",
+  "ko": "이력서",
+  "fix": ""
+ },
+ "kỹ thuật viên": {
+  "vi": "kỹ thuật viên",
+  "ko": "기술자",
+  "fix": ""
+ },
+ "dịp hè": {
+  "vi": "dịp hè",
+  "ko": "여름철·여름 방학",
+  "fix": ""
+ },
+ "quản đốc": {
+  "vi": "quản đốc",
+  "ko": "관리자",
+  "fix": ""
+ },
+ "bộ quần áo ngủ": {
+  "vi": "bộ quần áo ngủ",
+  "ko": "잠옷 세트",
+  "fix": ""
+ },
+ "quần jean": {
+  "vi": "quần jean",
+  "ko": "청바지",
+  "fix": ""
+ },
+ "công thức": {
+  "vi": "công thức",
+  "ko": "레시피",
+  "fix": ""
+ },
+ "thánh danh": {
+  "vi": "thánh danh",
+  "ko": "이름이 알려지다",
+  "fix": "?"
+ },
+ "kỷ lục": {
+  "vi": "kỷ lục",
+  "ko": "기록",
+  "fix": ""
+ },
+ "điểm mạnh": {
+  "vi": "điểm mạnh",
+  "ko": "강점",
+  "fix": ""
+ },
+ "chất giọng": {
+  "vi": "chất giọng",
+  "ko": "목소리",
+  "fix": ""
+ },
+ "cảm xúc": {
+  "vi": "cảm xúc",
+  "ko": "감동하다 / 감성적인",
+  "fix": ""
+ },
+ "thuộc dòng": {
+  "vi": "thuộc dòng",
+  "ko": "에 속하다",
+  "fix": ""
+ },
+ "hoa mỹ": {
+  "vi": "hoa mỹ",
+  "ko": "화려한",
+  "fix": ""
+ },
+ "tiếp thêm sức mạnh": {
+  "vi": "tiếp thêm sức mạnh",
+  "ko": "힘을주다",
+  "fix": ""
+ },
+ "năng lượng": {
+  "vi": "năng lượng",
+  "ko": "에너지",
+  "fix": ""
+ },
+ "nước tương": {
+  "vi": "nước tương",
+  "ko": "간장",
+  "fix": ""
+ },
+ "gừng xay": {
+  "vi": "gừng xay",
+  "ko": "다진생강",
+  "fix": ""
+ },
+ "dầu mè": {
+  "vi": "dầu mè",
+  "ko": "참기름",
+  "fix": ""
+ },
+ "bảng khảo sát": {
+  "vi": "bảng khảo sát",
+  "ko": "설문조사",
+  "fix": ""
+ },
+ "chế độ rung": {
+  "vi": "chế độ rung",
+  "ko": "진동 모드",
+  "fix": ""
+ },
+ "thủ trưởng": {
+  "vi": "thủ trưởng",
+  "ko": "우두머리",
+  "fix": ""
+ },
+ "đứng máy": {
+  "vi": "đứng máy",
+  "ko": "기계가 멈추다, 작동이 중단되다",
+  "fix": ""
+ },
+ "hết mực": {
+  "vi": "hết mực",
+  "ko": "잉크(또는 토너)가 다 떨어지다",
+  "fix": ""
+ },
+ "dám": {
+  "vi": "dám",
+  "ko": "감히",
+  "fix": ""
+ },
+ "máy sưởi": {
+  "vi": "máy sưởi",
+  "ko": "히터",
+  "fix": ""
+ },
+ "cây nước nóng lạnh": {
+  "vi": "cây nước nóng lạnh",
+  "ko": "정수기",
+  "fix": ""
+ },
+ "máy pha cà phê": {
+  "vi": "máy pha cà phê",
+  "ko": "커피머신",
+  "fix": ""
+ },
+ "hết cỡ": {
+  "vi": "hết cỡ",
+  "ko": "한껏",
+  "fix": ""
+ },
+ "công đoàn": {
+  "vi": "công đoàn",
+  "ko": "노동조합",
+  "fix": ""
+ },
+ "gõ": {
+  "vi": "gõ",
+  "ko": "두드리다",
+  "fix": ""
+ },
+ "gõ bàn phím": {
+  "vi": "gõ bàn phím",
+  "ko": "타자를 치다",
+  "fix": ""
+ },
+ "tính tò mò": {
+  "vi": "tính tò mò",
+  "ko": "호기심",
+  "fix": ""
+ },
+ "mất tiếng": {
+  "vi": "mất tiếng",
+  "ko": "소리가 안나다",
+  "fix": ""
+ },
+ "phác thảo": {
+  "vi": "phác thảo",
+  "ko": "초안문",
+  "fix": ""
+ },
+ "nhạy cảm": {
+  "vi": "nhạy cảm",
+  "ko": "민감한",
+  "fix": ""
+ },
+ "mở đầu": {
+  "vi": "mở đầu",
+  "ko": "시작하다",
+  "fix": ""
+ },
+ "mất hình": {
+  "vi": "mất hình",
+  "ko": "블루스크린",
+  "fix": ""
+ },
+ "nhiễm vi rút": {
+  "vi": "nhiễm vi rút",
+  "ko": "바이러스에 걸리다",
+  "fix": ""
+ },
+ "kẹt giấy": {
+  "vi": "kẹt giấy",
+  "ko": "종이 / 용지 걸림",
+  "fix": ""
+ },
+ "hết giáy": {
+  "vi": "hết giáy",
+  "ko": "용지부족",
+  "fix": "hết giấy"
+ },
+ "mất mầu": {
+  "vi": "mất mầu",
+  "ko": "색상이 안나오다",
+  "fix": "mất màu"
+ },
+ "bấm số": {
+  "vi": "bấm số",
+  "ko": "번호 입력",
+  "fix": ""
+ },
+ "quét vi rut": {
+  "vi": "quét vi rut",
+  "ko": "바이러스 검사(스캔)",
+  "fix": "quét virus"
+ },
+ "mở máy": {
+  "vi": "mở máy",
+  "ko": "전원켜기",
+  "fix": ""
+ },
+ "sự giúp": {
+  "vi": "sự giúp",
+  "ko": "도움, 도움요청",
+  "fix": "sự giúp đỡ"
+ },
+ "độ pân giải": {
+  "vi": "độ pân giải",
+  "ko": "해상도",
+  "fix": "độ phân giải"
+ },
+ "bộ nhớ": {
+  "vi": "bộ nhớ",
+  "ko": "메모리, 기억장치",
+  "fix": ""
+ },
+ "giá tiền": {
+  "vi": "giá tiền",
+  "ko": "가격, 비용",
+  "fix": ""
+ },
+ "em đang gửi email": {
+  "vi": "em đang gửi email",
+  "ko": "이메일을 보내는 중입니다",
+  "fix": ""
+ },
+ "reo": {
+  "vi": "reo",
+  "ko": "울리다",
+  "fix": ""
+ },
+ "tài chính": {
+  "vi": "tài chính",
+  "ko": "재정, 금융",
+  "fix": ""
+ },
+ "mô hình": {
+  "vi": "mô hình",
+  "ko": "모델, 모형",
+  "fix": ""
+ },
+ "ứng dụng": {
+  "vi": "ứng dụng",
+  "ko": "응용, 적용 (",
+  "fix": ""
+ },
+ "kích thích": {
+  "vi": "kích thích",
+  "ko": "자극하다",
+  "fix": ""
+ },
+ "biểu hiện": {
+  "vi": "biểu hiện",
+  "ko": "표현하다, 묘사하다",
+  "fix": ""
+ },
+ "khẩu hiệu": {
+  "vi": "khẩu hiệu",
+  "ko": "표어, 슬로건, 주장",
+  "fix": ""
+ },
+ "cô lập": {
+  "vi": "cô lập",
+  "ko": "고립되다",
+  "fix": ""
+ },
+ "áp dụng": {
+  "vi": "áp dụng",
+  "ko": "적용하다, 운용하다",
+  "fix": ""
+ },
+ "trầm trọng": {
+  "vi": "trầm trọng",
+  "ko": "심각한",
+  "fix": ""
+ },
+ "độc đoán": {
+  "vi": "độc đoán",
+  "ko": "독단적인",
+  "fix": ""
+ },
+ "công bố": {
+  "vi": "công bố",
+  "ko": "공포하다",
+  "fix": ""
+ },
+ "da số": {
+  "vi": "da số",
+  "ko": "대다수",
+  "fix": "đa số"
+ },
+ "thiểu số": {
+  "vi": "thiểu số",
+  "ko": "소수",
+  "fix": ""
+ },
+ "đến nhau": {
+  "vi": "đến nhau",
+  "ko": "서로 다가가다",
+  "fix": "đến gần nhau"
+ },
+ "bờ biển": {
+  "vi": "bờ biển",
+  "ko": "해안선",
+  "fix": ""
+ },
+ "uốn cong": {
+  "vi": "uốn cong",
+  "ko": "구부리다, 휘게 하다",
+  "fix": ""
+ },
+ "lưu văn bản": {
+  "vi": "lưu văn bản",
+  "ko": "문서를 저장하다",
+  "fix": ""
+ },
+ "dạy này": {
+  "vi": "dạy này",
+  "ko": "요즘",
+  "fix": "dạo này"
+ },
+ "nhấc lên": {
+  "vi": "nhấc lên",
+  "ko": "들어 올리다",
+  "fix": ""
+ },
+ "không thấy ai cả": {
+  "vi": "không thấy ai cả",
+  "ko": "아무도 보이지 않는다",
+  "fix": ""
+ },
+ "chuyển sang": {
+  "vi": "chuyển sang",
+  "ko": "바꾸다",
+  "fix": ""
+ },
+ "giúp cho": {
+  "vi": "giúp cho",
+  "ko": "도와주다",
+  "fix": ""
+ },
+ "thấy nóng": {
+  "vi": "thấy nóng",
+  "ko": "덥다고 느끼다",
+  "fix": ""
+ },
+ "giùm": {
+  "vi": "giùm",
+  "ko": "돕다",
+  "fix": ""
+ },
+ "con chuột": {
+  "vi": "con chuột",
+  "ko": "쥐, 마우스(컴퓨터)",
+  "fix": ""
+ },
+ "máy in đen": {
+  "vi": "máy in đen",
+  "ko": "흑백 프린터",
+  "fix": "máy in đen trắng"
+ },
+ "máy in màu": {
+  "vi": "máy in màu",
+  "ko": "컬러 프린터",
+  "fix": ""
+ },
+ "xem xét": {
+  "vi": "xem xét",
+  "ko": "관찰하다",
+  "fix": ""
+ },
+ "phê duyệt": {
+  "vi": "phê duyệt",
+  "ko": "승인",
+  "fix": ""
+ },
+ "ngay khi": {
+  "vi": "ngay khi",
+  "ko": "하자마자",
+  "fix": ""
+ },
+ "vô cùng": {
+  "vi": "vô cùng",
+  "ko": "매우",
+  "fix": ""
+ },
+ "chấm hỏi": {
+  "vi": "chấm hỏi",
+  "ko": "물음표",
+  "fix": ""
+ },
+ "chấm": {
+  "vi": "chấm",
+  "ko": "마침표",
+  "fix": ""
+ },
+ "chấm than": {
+  "vi": "chấm than",
+  "ko": "느낌표",
+  "fix": ""
+ },
+ "chấm phẩy": {
+  "vi": "chấm phẩy",
+  "ko": "세미콜론",
+  "fix": ""
+ },
+ "nhân vật": {
+  "vi": "nhân vật",
+  "ko": "인물",
+  "fix": ""
+ },
+ "giây phút": {
+  "vi": "giây phút",
+  "ko": "순간(찰나)",
+  "fix": ""
+ },
+ "đi qua khỏi": {
+  "vi": "đi qua khỏi",
+  "ko": "지나가다",
+  "fix": ""
+ },
+ "mô tả chi tiết": {
+  "vi": "mô tả chi tiết",
+  "ko": "자세히 설명하다",
+  "fix": ""
+ },
+ "tình đồng đội": {
+  "vi": "tình đồng đội",
+  "ko": "팀워크",
+  "fix": ""
+ },
+ "xóa văn bản": {
+  "vi": "xóa văn bản",
+  "ko": "문서를 삭제하다",
+  "fix": ""
+ },
+ "quầy hướng dẫn": {
+  "vi": "quầy hướng dẫn",
+  "ko": "안내데스크",
+  "fix": ""
+ },
+ "máy chạy bộ": {
+  "vi": "máy chạy bộ",
+  "ko": "러닝머신",
+  "fix": ""
+ },
+ "phòng xông hơi": {
+  "vi": "phòng xông hơi",
+  "ko": "사우나",
+  "fix": ""
+ },
+ "cơ bắp": {
+  "vi": "cơ bắp",
+  "ko": "근육",
+  "fix": ""
+ },
+ "đùi": {
+  "vi": "đùi",
+  "ko": "허벅지",
+  "fix": ""
+ },
+ "săn chắc": {
+  "vi": "săn chắc",
+  "ko": "튼튼한, 다부진",
+  "fix": ""
+ },
+ "sảng khoái": {
+  "vi": "sảng khoái",
+  "ko": "상쾌한",
+  "fix": ""
+ },
+ "cột bóng rổ": {
+  "vi": "cột bóng rổ",
+  "ko": "농구대",
+  "fix": ""
+ },
+ "sàn": {
+  "vi": "sàn",
+  "ko": "바닥",
+  "fix": ""
+ },
+ "xi măng": {
+  "vi": "xi măng",
+  "ko": "시멘트",
+  "fix": ""
+ },
+ "ngày thường": {
+  "vi": "ngày thường",
+  "ko": "평일",
+  "fix": ""
+ },
+ "ngoài trời": {
+  "vi": "ngoài trời",
+  "ko": "실외, 야외",
+  "fix": ""
+ },
+ "thông quan nhập khẩu": {
+  "vi": "thông quan nhập khẩu",
+  "ko": "수입 통관",
+  "fix": ""
+ },
+ "sếp lý": {
+  "vi": "sếp lý",
+  "ko": "상사, 관리자",
+  "fix": "xếp lý"
+ },
+ "trả chậm": {
+  "vi": "trả chậm",
+  "ko": "외상",
+  "fix": ""
+ },
+ "bán chịu": {
+  "vi": "bán chịu",
+  "ko": "외상",
+  "fix": ""
+ },
+ "nợ": {
+  "vi": "nợ",
+  "ko": "빚지다",
+  "fix": ""
+ },
+ "thu thuế": {
+  "vi": "thu thuế",
+  "ko": "세금을 걷다",
+  "fix": ""
+ },
+ "trả giá": {
+  "vi": "trả giá",
+  "ko": "흥정하다",
+  "fix": ""
+ },
+ "cửa hàng trưởng": {
+  "vi": "cửa hàng trưởng",
+  "ko": "상점 관리인",
+  "fix": ""
+ },
+ "gia thân thương": {
+  "vi": "gia thân thương",
+  "ko": "친구가격",
+  "fix": "giá thân thương"
+ },
+ "chào hàng": {
+  "vi": "chào hàng",
+  "ko": "호객행위",
+  "fix": ""
+ },
+ "rộng bao nhiêu": {
+  "vi": "rộng bao nhiêu",
+  "ko": "얼마나 넓어요",
+  "fix": ""
+ },
+ "gía trị gia tăng": {
+  "vi": "gía trị gia tăng",
+  "ko": "부가가치",
+  "fix": "giá trị gia tăng"
+ },
+ "ế": {
+  "vi": "ế",
+  "ko": "팔리지 않는",
+  "fix": ""
+ },
+ "tích điểm": {
+  "vi": "tích điểm",
+  "ko": "포인트를 모으다",
+  "fix": ""
+ },
+ "kẹt tiền": {
+  "vi": "kẹt tiền",
+  "ko": "돈이 궁한",
+  "fix": ""
+ },
+ "ngâu phiếu": {
+  "vi": "ngâu phiếu",
+  "ko": "수표",
+  "fix": "ngân phiếu"
+ },
+ "séc": {
+  "vi": "séc",
+  "ko": "수표",
+  "fix": ""
+ },
+ "ngân phiếu": {
+  "vi": "ngân phiếu",
+  "ko": "어음",
+  "fix": ""
+ },
+ "phiếu": {
+  "vi": "phiếu",
+  "ko": "쿠폰, 상품권, 증서",
+  "fix": ""
+ },
+ "máy giặt": {
+  "vi": "máy giặt",
+  "ko": "세탁기",
+  "fix": ""
+ },
+ "bộ ly chén": {
+  "vi": "bộ ly chén",
+  "ko": "컵과 그릇 세트",
+  "fix": ""
+ },
+ "băng cát xét": {
+  "vi": "băng cát xét",
+  "ko": "카세트 테이프",
+  "fix": ""
+ },
+ "trình": {
+  "vi": "trình",
+  "ko": "제시하다, 제출하다",
+  "fix": ""
+ },
+ "nhận tiền mặt": {
+  "vi": "nhận tiền mặt",
+  "ko": "현금을 받다",
+  "fix": ""
+ },
+ "đỡ buồn": {
+  "vi": "đỡ buồn",
+  "ko": "덜 슬프다 / 기분이 나아지다",
+  "fix": ""
+ },
+ "màu xanh lá cây": {
+  "vi": "màu xanh lá cây",
+  "ko": "초록색",
+  "fix": ""
+ },
+ "màu xanh da trời": {
+  "vi": "màu xanh da trời",
+  "ko": "파란색",
+  "fix": ""
+ },
+ "da trời": {
+  "vi": "da trời",
+  "ko": "하늘색",
+  "fix": ""
+ },
+ "giao dịch": {
+  "vi": "giao dịch",
+  "ko": "거래, 교류",
+  "fix": ""
+ },
+ "quà tặng": {
+  "vi": "quà tặng",
+  "ko": "증정품",
+  "fix": ""
+ },
+ "sách": {
+  "vi": "sách",
+  "ko": "책",
+  "fix": ""
+ },
+ "năm sản xuất": {
+  "vi": "năm sản xuất",
+  "ko": "제조, 연도",
+  "fix": ""
+ },
+ "nước sản xuất": {
+  "vi": "nước sản xuất",
+  "ko": "제조국",
+  "fix": ""
+ },
+ "địa chỉ mua": {
+  "vi": "địa chỉ mua",
+  "ko": "구매처, 구매 주소",
+  "fix": ""
+ },
+ "chính gốc": {
+  "vi": "chính gốc",
+  "ko": "오리지널·본고장의",
+  "fix": ""
+ },
+ "tẩy trang": {
+  "vi": "tẩy trang",
+  "ko": "화장을 지우다",
+  "fix": ""
+ },
+ "thẻ căn cước": {
+  "vi": "thẻ căn cước",
+  "ko": "신분증",
+  "fix": ""
+ },
+ "cung hoàng đạo": {
+  "vi": "cung hoàng đạo",
+  "ko": "별자리",
+  "fix": ""
+ },
+ "đáng nhớ": {
+  "vi": "đáng nhớ",
+  "ko": "기억에 남을 가치가 있다",
+  "fix": ""
+ },
+ "nông": {
+  "vi": "nông",
+  "ko": "얕은",
+  "fix": ""
+ },
+ "tuyệt cảnh": {
+  "vi": "tuyệt cảnh",
+  "ko": "절경",
+  "fix": ""
+ },
+ "bán đảo": {
+  "vi": "bán đảo",
+  "ko": "반도",
+  "fix": ""
+ },
+ "hệ sinh thái": {
+  "vi": "hệ sinh thái",
+  "ko": "생태계",
+  "fix": ""
+ },
+ "sự độc đáo": {
+  "vi": "sự độc đáo",
+  "ko": "독특함",
+  "fix": ""
+ },
+ "mãn tính": {
+  "vi": "mãn tính",
+  "ko": "만성적",
+  "fix": ""
+ },
+ "lỡ hẹn": {
+  "vi": "lỡ hẹn",
+  "ko": "약속을 놓치다, 약속을 못 지키다",
+  "fix": ""
+ },
+ "lập trình": {
+  "vi": "lập trình",
+  "ko": "프로그래밍",
+  "fix": ""
+ },
+ "hóa đơn đỏ": {
+  "vi": "hóa đơn đỏ",
+  "ko": "세금계산서",
+  "fix": ""
+ },
+ "quanh năm": {
+  "vi": "quanh năm",
+  "ko": "일년 내내",
+  "fix": ""
+ },
+ "phiếu mua hàng": {
+  "vi": "phiếu mua hàng",
+  "ko": "상품권",
+  "fix": ""
+ },
+ "ống nhún": {
+  "vi": "ống nhún",
+  "ko": "서스펜션",
+  "fix": ""
+ },
+ "kiểu dáng": {
+  "vi": "kiểu dáng",
+  "ko": "디자인",
+  "fix": ""
+ },
+ "dài hạn": {
+  "vi": "dài hạn",
+  "ko": "장기적인",
+  "fix": ""
+ },
+ "thường dùng": {
+  "vi": "thường dùng",
+  "ko": "자주 쓰이는",
+  "fix": ""
+ },
+ "khổ vải": {
+  "vi": "khổ vải",
+  "ko": "원단의 너비",
+  "fix": ""
+ },
+ "giá mắc": {
+  "vi": "giá mắc",
+  "ko": "가격이 비싸다",
+  "fix": ""
+ },
+ "kiềm tra an ninh": {
+  "vi": "kiềm tra an ninh",
+  "ko": "보안검색",
+  "fix": "kiểm tra an ninh"
+ },
+ "lạnh lúng": {
+  "vi": "lạnh lúng",
+  "ko": "차갑다 (인칭형용사)",
+  "fix": "lạnh lùng"
+ },
+ "mất thời gian": {
+  "vi": "mất thời gian",
+  "ko": "시간이 많이 걸리다",
+  "fix": ""
+ },
+ "kềm tra xuất cảnh": {
+  "vi": "kềm tra xuất cảnh",
+  "ko": "출국심사",
+  "fix": "kiểm tra xuất cảnh"
+ },
+ "thương thảo": {
+  "vi": "thương thảo",
+  "ko": "협상하다",
+  "fix": ""
+ },
+ "staycarion": {
+  "vi": "staycarion",
+  "ko": "호캉스",
+  "fix": "staycation"
+ },
+ "bất cứ ở đâu": {
+  "vi": "bất cứ ở đâu",
+  "ko": "어디든",
+  "fix": ""
+ },
+ "ấp áp": {
+  "vi": "ấp áp",
+  "ko": "따뜻하다",
+  "fix": "ấm áp"
+ },
+ "nơi có thắng cảnh": {
+  "vi": "nơi có thắng cảnh",
+  "ko": "명소",
+  "fix": ""
+ },
+ "nhà thể thao": {
+  "vi": "nhà thể thao",
+  "ko": "체육관",
+  "fix": "nhà thi đấu"
+ },
+ "phiền phức": {
+  "vi": "phiền phức",
+  "ko": "귀찮다",
+  "fix": ""
+ },
+ "xóa": {
+  "vi": "xóa",
+  "ko": "삭제",
+  "fix": ""
+ },
+ "thời gian bảo hành": {
+  "vi": "thời gian bảo hành",
+  "ko": "보증 기간",
+  "fix": ""
+ },
+ "đại học tại chức": {
+  "vi": "đại học tại chức",
+  "ko": "야간대학",
+  "fix": ""
+ },
+ "gió biển": {
+  "vi": "gió biển",
+  "ko": "바닷바람",
+  "fix": ""
+ },
+ "thiên niên ban tặng": {
+  "vi": "thiên niên ban tặng",
+  "ko": "자연이 선물해주다",
+  "fix": "thiên nhiên ban tặng"
+ },
+ "vô sản": {
+  "vi": "vô sản",
+  "ko": "한 푼도 없다",
+  "fix": ""
+ },
+ "siết chặt": {
+  "vi": "siết chặt",
+  "ko": "조르다, 강화하다",
+  "fix": ""
+ },
+ "cấp visa": {
+  "vi": "cấp visa",
+  "ko": "비자를 발급하다",
+  "fix": ""
+ },
+ "món ăn tiêu biểu": {
+  "vi": "món ăn tiêu biểu",
+  "ko": "대표적인 음식",
+  "fix": ""
+ },
+ "du lịch trọn gói": {
+  "vi": "du lịch trọn gói",
+  "ko": "패키지 여행",
+  "fix": ""
+ },
+ "gọn": {
+  "vi": "gọn",
+  "ko": "컴팩트한, 단정한",
+  "fix": ""
+ },
+ "địa hình": {
+  "vi": "địa hình",
+  "ko": "지형",
+  "fix": ""
+ },
+ "vải gấm": {
+  "vi": "vải gấm",
+  "ko": "비단(고급천)",
+  "fix": ""
+ },
+ "chiết khấu": {
+  "vi": "chiết khấu",
+  "ko": "할인",
+  "fix": ""
+ },
+ "vĩnh viễn": {
+  "vi": "vĩnh viễn",
+  "ko": "영원히, 영구적인",
+  "fix": ""
+ },
+ "kiến thức": {
+  "vi": "kiến thức",
+  "ko": "지식",
+  "fix": ""
+ },
+ "người sành ăn": {
+  "vi": "người sành ăn",
+  "ko": "미식가",
+  "fix": ""
+ },
+ "tái tạo năng lượng": {
+  "vi": "tái tạo năng lượng",
+  "ko": "활력을 되찾다",
+  "fix": ""
+ },
+ "thư giãn đầu óc": {
+  "vi": "thư giãn đầu óc",
+  "ko": "머리를 식히다",
+  "fix": ""
+ },
+ "dẫn đến": {
+  "vi": "dẫn đến",
+  "ko": "일으키다",
+  "fix": ""
+ },
+ "bất kể": {
+  "vi": "bất kể",
+  "ko": "에 상관없이 불문하다",
+  "fix": ""
+ },
+ "nghiên cứu khoa học": {
+  "vi": "nghiên cứu khoa học",
+  "ko": "과학연구",
+  "fix": ""
+ },
+ "tốn nhiều tiền": {
+  "vi": "tốn nhiều tiền",
+  "ko": "돈이 많이 들다",
+  "fix": ""
+ },
+ "công nợ": {
+  "vi": "công nợ",
+  "ko": "채무 / 미수금",
+  "fix": ""
+ },
+ "kế hoạch sản xuất": {
+  "vi": "kế hoạch sản xuất",
+  "ko": "생산 계획",
+  "fix": ""
+ },
+ "hàng tồn kho": {
+  "vi": "hàng tồn kho",
+  "ko": "재고",
+  "fix": ""
+ },
+ "kiểm soát chất lượng": {
+  "vi": "kiểm soát chất lượng",
+  "ko": "품질 관리",
+  "fix": ""
+ },
+ "năng suất": {
+  "vi": "năng suất",
+  "ko": "생산성",
+  "fix": ""
+ },
+ "hợp đồng lao động": {
+  "vi": "hợp đồng lao động",
+  "ko": "근로 계약서",
+  "fix": ""
+ },
+ "chấm công": {
+  "vi": "chấm công",
+  "ko": "근태 / 출근 기록",
+  "fix": ""
+ },
+ "báo giá": {
+  "vi": "báo giá",
+  "ko": "견적",
+  "fix": ""
+ },
+ "đơn hàng": {
+  "vi": "đơn hàng",
+  "ko": "주문서",
+  "fix": ""
+ },
+ "nguồn nhân lực": {
+  "vi": "nguồn nhân lực",
+  "ko": "인적 자원",
+  "fix": ""
+ },
+ "nhìn chung": {
+  "vi": "nhìn chung",
+  "ko": "종합해 보면·일반적으로",
+  "fix": ""
+ },
+ "chầu": {
+  "vi": "chầu",
+  "ko": "한턱 내다 / 대접하다",
+  "fix": ""
+ },
+ "trốn thuế": {
+  "vi": "trốn thuế",
+  "ko": "탈세하다",
+  "fix": ""
+ },
+ "thư giãn": {
+  "vi": "thư giãn",
+  "ko": "휴식을 취하다, 힐링하다",
+  "fix": ""
+ },
+ "hoản hảo": {
+  "vi": "hoản hảo",
+  "ko": "완벽하다",
+  "fix": "hoàn hảo"
+ },
+ "háo hức": {
+  "vi": "háo hức",
+  "ko": "설레다, 기대되는",
+  "fix": ""
+ },
+ "sườn": {
+  "vi": "sườn",
+  "ko": "갈 비",
+  "fix": ""
+ },
+ "khả năng sáng tạo": {
+  "vi": "khả năng sáng tạo",
+  "ko": "창의력",
+  "fix": ""
+ },
+ "xuất khẩu": {
+  "vi": "xuất khẩu",
+  "ko": "수출하다",
+  "fix": ""
+ },
+ "máy móc": {
+  "vi": "máy móc",
+  "ko": "기계",
+  "fix": ""
+ },
+ "ghé thăm": {
+  "vi": "ghé thăm",
+  "ko": "방문하다",
+  "fix": ""
+ },
+ "xuống còn": {
+  "vi": "xuống còn",
+  "ko": "까지 낮추다",
+  "fix": ""
+ },
+ "mắc hơn": {
+  "vi": "mắc hơn",
+  "ko": "보다 비싸다(*남부식)",
+  "fix": ""
+ },
+ "tùy vào": {
+  "vi": "tùy vào",
+  "ko": "에 따라",
+  "fix": ""
+ },
+ "tổng số": {
+  "vi": "tổng số",
+  "ko": "총수, 총합",
+  "fix": ""
+ },
+ "10 ngàn cây": {
+  "vi": "10 ngàn cây",
+  "ko": "만 킬로미터",
+  "fix": ""
+ },
+ "vô thời hạn": {
+  "vi": "vô thời hạn",
+  "ko": "무기한",
+  "fix": ""
+ },
+ "bảo hành dài hạn": {
+  "vi": "bảo hành dài hạn",
+  "ko": "장기 보증",
+  "fix": ""
+ },
+ "hàng dỏm": {
+  "vi": "hàng dỏm",
+  "ko": "불량품",
+  "fix": ""
+ },
+ "hộp thư rác": {
+  "vi": "hộp thư rác",
+  "ko": "스팸메일함",
+  "fix": ""
+ },
+ "ầm": {
+  "vi": "ầm",
+  "ko": "시끄러운 (소리)",
+  "fix": ""
+ },
+ "tắm biển": {
+  "vi": "tắm biển",
+  "ko": "해수욕하다",
+  "fix": ""
+ },
+ "thẻ điện thoại": {
+  "vi": "thẻ điện thoại",
+  "ko": "전화카드",
+  "fix": ""
+ },
+ "ông nhún": {
+  "vi": "ông nhún",
+  "ko": "고무인형(자동차 인형)",
+  "fix": "đồ nhún"
+ },
+ "xe đạp thể thao": {
+  "vi": "xe đạp thể thao",
+  "ko": "스포츠 자전거",
+  "fix": ""
+ },
+ "kỳ khị": {
+  "vi": "kỳ khị",
+  "ko": "까다로운",
+  "fix": "kỳ thị"
+ },
+ "giữ gìn": {
+  "vi": "giữ gìn",
+  "ko": "보존하다, 지키다",
+  "fix": ""
+ },
+ "cây số": {
+  "vi": "cây số",
+  "ko": "킬로미터",
+  "fix": ""
+ },
+ "mua hàng": {
+  "vi": "mua hàng",
+  "ko": "구매",
+  "fix": ""
+ },
+ "máy in": {
+  "vi": "máy in",
+  "ko": "인쇄기, 프린터",
+  "fix": ""
+ },
+ "chức năng": {
+  "vi": "chức năng",
+  "ko": "기능",
+  "fix": ""
+ },
+ "bạn thên": {
+  "vi": "bạn thên",
+  "ko": "친한친구",
+  "fix": "bạn thân"
+ },
+ "đần": {
+  "vi": "đần",
+  "ko": "점차,점점",
+  "fix": "dần"
+ },
+ "món tráng miệng": {
+  "vi": "món tráng miệng",
+  "ko": "디저트",
+  "fix": ""
+ },
+ "đột nhiên": {
+  "vi": "đột nhiên",
+  "ko": "갑자기",
+  "fix": ""
+ },
+ "đi muộn": {
+  "vi": "đi muộn",
+  "ko": "지각",
+  "fix": ""
+ },
+ "bị mất trí": {
+  "vi": "bị mất trí",
+  "ko": "이성을 잃어버리다",
+  "fix": ""
+ },
+ "thiếu nước": {
+  "vi": "thiếu nước",
+  "ko": "물부족",
+  "fix": ""
+ },
+ "lá héo": {
+  "vi": "lá héo",
+  "ko": "잎이 시들다",
+  "fix": ""
+ },
+ "nát": {
+  "vi": "nát",
+  "ko": "구겨진",
+  "fix": ""
+ },
+ "nếp": {
+  "vi": "nếp",
+  "ko": "루틴",
+  "fix": "?"
+ },
+ "cho đến nay": {
+  "vi": "cho đến nay",
+  "ko": "이제까지",
+  "fix": ""
+ },
+ "vào học": {
+  "vi": "vào học",
+  "ko": "취학하다",
+  "fix": ""
+ },
+ "dân ca": {
+  "vi": "dân ca",
+  "ko": "민요",
+  "fix": ""
+ },
+ "aó rét": {
+  "vi": "aó rét",
+  "ko": "겨울",
+  "fix": "áo rét"
+ },
+ "vi nhựa": {
+  "vi": "vi nhựa",
+  "ko": "마이크로 플라스틱",
+  "fix": ""
+ },
+ "sinh động": {
+  "vi": "sinh động",
+  "ko": "생동감 넘치는",
+  "fix": ""
+ },
+ "sấu": {
+  "vi": "sấu",
+  "ko": "벌레",
+  "fix": "sâu"
+ },
+ "thuế": {
+  "vi": "thuế",
+  "ko": "세금",
+  "fix": ""
+ },
+ "tiền thuê hàng tháng": {
+  "vi": "tiền thuê hàng tháng",
+  "ko": "월세",
+  "fix": ""
+ },
+ "tiện ích": {
+  "vi": "tiện ích",
+  "ko": "편의시설",
+  "fix": ""
+ },
+ "bút cảm ứng": {
+  "vi": "bút cảm ứng",
+  "ko": "터치팬",
+  "fix": ""
+ },
+ "đèn phía sau": {
+  "vi": "đèn phía sau",
+  "ko": "후미등",
+  "fix": ""
+ },
+ "trả góp": {
+  "vi": "trả góp",
+  "ko": "할부로 지불하다",
+  "fix": ""
+ },
+ "vốn": {
+  "vi": "vốn",
+  "ko": "자본",
+  "fix": ""
+ },
+ "tư vấn": {
+  "vi": "tư vấn",
+  "ko": "상담하다",
+  "fix": ""
+ },
+ "tính toán": {
+  "vi": "tính toán",
+  "ko": "예습 / 계산",
+  "fix": "tính toán (계산의 의미만 맞음, 예습은 'chuẩn bị bài')"
+ },
+ "sổ sách": {
+  "vi": "sổ sách",
+  "ko": "장부",
+  "fix": ""
+ },
+ "hẹn gặp": {
+  "vi": "hẹn gặp",
+  "ko": "약속",
+  "fix": ""
+ },
+ "nổi bật": {
+  "vi": "nổi bật",
+  "ko": "눈에 띄다, 두드러지다",
+  "fix": ""
+ },
+ "xà phòng": {
+  "vi": "xà phòng",
+  "ko": "비누",
+  "fix": ""
+ },
+ "dầu gội đầu": {
+  "vi": "dầu gội đầu",
+  "ko": "샴푸",
+  "fix": ""
+ },
+ "kích cỡ": {
+  "vi": "kích cỡ",
+  "ko": "크기, 사이즈",
+  "fix": ""
+ },
+ "hình thức": {
+  "vi": "hình thức",
+  "ko": "외형, 디자인, 형태, 방식",
+  "fix": ""
+ },
+ "bưởi": {
+  "vi": "bưởi",
+  "ko": "자몽",
+  "fix": ""
+ },
+ "sả": {
+  "vi": "sả",
+  "ko": "레몬그라스",
+  "fix": ""
+ },
+ "sữa rửa mặt": {
+  "vi": "sữa rửa mặt",
+  "ko": "세안제, 클렌징폼",
+  "fix": ""
+ },
+ "kem chống nắng": {
+  "vi": "kem chống nắng",
+  "ko": "자외선 차단제",
+  "fix": ""
+ },
+ "mua số lượng lớn": {
+  "vi": "mua số lượng lớn",
+  "ko": "대량 구매하다",
+  "fix": ""
+ },
+ "giá khởi điểm": {
+  "vi": "giá khởi điểm",
+  "ko": "시작 가격",
+  "fix": ""
+ },
+ "màu xanh dương": {
+  "vi": "màu xanh dương",
+  "ko": "파란색",
+  "fix": ""
+ },
+ "cầm nắm": {
+  "vi": "cầm nắm",
+  "ko": "들다, 쥐다",
+  "fix": ""
+ },
+ "tiền lời": {
+  "vi": "tiền lời",
+  "ko": "이윤",
+  "fix": ""
+ },
+ "tổng chi phí": {
+  "vi": "tổng chi phí",
+  "ko": "총지출, 총비용",
+  "fix": ""
+ },
+ "chi phí quảng cáo": {
+  "vi": "chi phí quảng cáo",
+  "ko": "광고비",
+  "fix": ""
+ },
+ "chợ nổi": {
+  "vi": "chợ nổi",
+  "ko": "수상시장",
+  "fix": ""
+ },
+ "khác hẳn": {
+  "vi": "khác hẳn",
+  "ko": "완전히 다르다",
+  "fix": ""
+ },
+ "lặn biển": {
+  "vi": "lặn biển",
+  "ko": "스노쿨링, 잠수하다",
+  "fix": ""
+ },
+ "di chuyển": {
+  "vi": "di chuyển",
+  "ko": "이동하다",
+  "fix": ""
+ },
+ "tôi muốn biết giá": {
+  "vi": "tôi muốn biết giá",
+  "ko": "가격을 알고 싶습니다",
+  "fix": ""
+ },
+ "về nhà": {
+  "vi": "về nhà",
+  "ko": "퇴근",
+  "fix": ""
+ },
+ "xác nhận": {
+  "vi": "xác nhận",
+  "ko": "확인하다",
+  "fix": ""
+ },
+ "trễ": {
+  "vi": "trễ",
+  "ko": "늦다",
+  "fix": ""
+ },
+ "đóng thuế": {
+  "vi": "đóng thuế",
+  "ko": "세금을 내다",
+  "fix": ""
+ },
+ "dự toán": {
+  "vi": "dự toán",
+  "ko": "예산",
+  "fix": ""
+ },
+ "chi phí bún đổi": {
+  "vi": "chi phí bún đổi",
+  "ko": "변동비",
+  "fix": "chi phí biến đổi"
+ },
+ "chi phí hỗn hợp": {
+  "vi": "chi phí hỗn hợp",
+  "ko": "혼합비",
+  "fix": ""
+ },
+ "thuế xuất khẩu": {
+  "vi": "thuế xuất khẩu",
+  "ko": "수출세",
+  "fix": ""
+ },
+ "thuế nhập khẩu": {
+  "vi": "thuế nhập khẩu",
+  "ko": "수입세",
+  "fix": ""
+ },
+ "góp vốn": {
+  "vi": "góp vốn",
+  "ko": "자본을 모으다",
+  "fix": ""
+ },
+ "tiền công, tiền lương": {
+  "vi": "tiền công, tiền lương",
+  "ko": "인건비",
+  "fix": ""
+ },
+ "buổi họp cuối năm": {
+  "vi": "buổi họp cuối năm",
+  "ko": "송년 모임",
+  "fix": ""
+ },
+ "thành thật": {
+  "vi": "thành thật",
+  "ko": "솔직한",
+  "fix": ""
+ },
+ "tăng gấp đôi": {
+  "vi": "tăng gấp đôi",
+  "ko": "두배 오르다",
+  "fix": ""
+ },
+ "giảm một nửa": {
+  "vi": "giảm một nửa",
+  "ko": "절반 감소하다",
+  "fix": ""
+ },
+ "chở xăng dầu": {
+  "vi": "chở xăng dầu",
+  "ko": "휘발유, 석유를 운송하다",
+  "fix": ""
+ },
+ "doanh thu, tiền hàng": {
+  "vi": "doanh thu, tiền hàng",
+  "ko": "수입",
+  "fix": ""
+ },
+ "hòa vốn": {
+  "vi": "hòa vốn",
+  "ko": "본전",
+  "fix": ""
+ },
+ "chi phí vận chuyển": {
+  "vi": "chi phí vận chuyển",
+  "ko": "물류비용",
+  "fix": ""
+ },
+ "dịch vụ hậu mãi": {
+  "vi": "dịch vụ hậu mãi",
+  "ko": "사후 서비스",
+  "fix": ""
+ },
+ "lơi nhuận": {
+  "vi": "lơi nhuận",
+  "ko": "이익",
+  "fix": "lợi nhuận"
+ },
+ "tiền hàng": {
+  "vi": "tiền hàng",
+  "ko": "상품값",
+  "fix": ""
+ },
+ "lương nhân viên": {
+  "vi": "lương nhân viên",
+  "ko": "직원 급여",
+  "fix": ""
+ },
+ "gấp đôi": {
+  "vi": "gấp đôi",
+  "ko": "두 배",
+  "fix": ""
+ },
+ "một nửa": {
+  "vi": "một nửa",
+  "ko": "절반",
+  "fix": ""
+ },
+ "ta bàn": {
+  "vi": "ta bàn",
+  "ko": "논의하다",
+  "fix": "trao đổi"
+ },
+ "chỉnh sửa": {
+  "vi": "chỉnh sửa",
+  "ko": "수정하다",
+  "fix": ""
+ },
+ "tệp": {
+  "vi": "tệp",
+  "ko": "파일",
+  "fix": ""
+ },
+ "chỉ thị": {
+  "vi": "chỉ thị",
+  "ko": "지시",
+  "fix": ""
+ },
+ "biển báo hình vuông": {
+  "vi": "biển báo hình vuông",
+  "ko": "안내 표지판",
+  "fix": ""
+ },
+ "cấm xe công nông": {
+  "vi": "cấm xe công nông",
+  "ko": "농업용 차량 금지",
+  "fix": ""
+ },
+ "cấm người đi bộ": {
+  "vi": "cấm người đi bộ",
+  "ko": "보행자 금지",
+  "fix": ""
+ },
+ "cấm xe mô tô": {
+  "vi": "cấm xe mô tô",
+  "ko": "오토바이 금지",
+  "fix": ""
+ },
+ "cấm rẽ phải": {
+  "vi": "cấm rẽ phải",
+  "ko": "우회전 금지",
+  "fix": ""
+ },
+ "trạm dừng nghỉ": {
+  "vi": "trạm dừng nghỉ",
+  "ko": "휴게소",
+  "fix": ""
+ },
+ "lối sang đường": {
+  "vi": "lối sang đường",
+  "ko": "횡단보도",
+  "fix": ""
+ },
+ "thương hiệu nổi tiếng": {
+  "vi": "thương hiệu nổi tiếng",
+  "ko": "유명 브랜드",
+  "fix": ""
+ },
+ "khuyến mãi": {
+  "vi": "khuyến mãi",
+  "ko": "할인 행사",
+  "fix": ""
+ },
+ "lựa chọn tối ưu": {
+  "vi": "lựa chọn tối ưu",
+  "ko": "최적의 선택",
+  "fix": ""
+ },
+ "phản hồi tích cực": {
+  "vi": "phản hồi tích cực",
+  "ko": "긍정적인 피드백",
+  "fix": ""
+ },
+ "điều kiện sử dụng": {
+  "vi": "điều kiện sử dụng",
+  "ko": "사용 조건",
+  "fix": ""
+ },
+ "thời hạn sử dụng": {
+  "vi": "thời hạn sử dụng",
+  "ko": "사용 기간",
+  "fix": ""
+ },
+ "dung lượng": {
+  "vi": "dung lượng",
+  "ko": "용량",
+  "fix": ""
+ },
+ "hiệu suất hoạt động": {
+  "vi": "hiệu suất hoạt động",
+  "ko": "성능, 작동 효율",
+  "fix": ""
+ },
+ "chen nhau": {
+  "vi": "chen nhau",
+  "ko": "붐비다",
+  "fix": ""
+ },
+ "san vật": {
+  "vi": "san vật",
+  "ko": "특산물",
+  "fix": "sản vật"
+ },
+ "rồng": {
+  "vi": "rồng",
+  "ko": "용",
+  "fix": ""
+ },
+ "tẩy chay": {
+  "vi": "tẩy chay",
+  "ko": "배척하다, 보이콧하다",
+  "fix": ""
+ },
+ "số chẵn": {
+  "vi": "số chẵn",
+  "ko": "짝수",
+  "fix": ""
+ },
+ "số lẻ": {
+  "vi": "số lẻ",
+  "ko": "홀수",
+  "fix": ""
+ },
+ "bồn phun nước": {
+  "vi": "bồn phun nước",
+  "ko": "분수대",
+  "fix": ""
+ },
+ "người ngoài hành tinh": {
+  "vi": "người ngoài hành tinh",
+  "ko": "외계인",
+  "fix": ""
+ },
+ "vũ trụ": {
+  "vi": "vũ trụ",
+  "ko": "우주",
+  "fix": ""
+ },
+ "bao la": {
+  "vi": "bao la",
+  "ko": "광대한, 거대한",
+  "fix": ""
+ },
+ "tâm linh": {
+  "vi": "tâm linh",
+  "ko": "심령",
+  "fix": ""
+ },
+ "thật ra thì ~": {
+  "vi": "thật ra thì ~",
+  "ko": "사실은",
+  "fix": ""
+ },
+ "kiểm tra xếp lớp": {
+  "vi": "kiểm tra xếp lớp",
+  "ko": "레벨테스트",
+  "fix": ""
+ },
+ "món chay": {
+  "vi": "món chay",
+  "ko": "채식 요리",
+  "fix": ""
+ },
+ "phí đỗ xe": {
+  "vi": "phí đỗ xe",
+  "ko": "주차 요금",
+  "fix": ""
+ },
+ "tầng hầm": {
+  "vi": "tầng hầm",
+  "ko": "지하",
+  "fix": ""
+ },
+ "hạn mức": {
+  "vi": "hạn mức",
+  "ko": "한도",
+  "fix": ""
+ },
+ "kịp thời": {
+  "vi": "kịp thời",
+  "ko": "적시인, 때에 맞는",
+  "fix": ""
+ },
+ "đau họng": {
+  "vi": "đau họng",
+  "ko": "목이 아프다",
+  "fix": ""
+ },
+ "say xe": {
+  "vi": "say xe",
+  "ko": "멀미",
+  "fix": ""
+ },
+ "cảm sổ mũi": {
+  "vi": "cảm sổ mũi",
+  "ko": "코감기",
+  "fix": ""
+ },
+ "vết thương": {
+  "vi": "vết thương",
+  "ko": "상처",
+  "fix": ""
+ },
+ "thuốc tiêu hóa": {
+  "vi": "thuốc tiêu hóa",
+  "ko": "소화제",
+  "fix": ""
+ },
+ "cày": {
+  "vi": "cày",
+  "ko": "쟁기",
+  "fix": ""
+ },
+ "pháp nhân": {
+  "vi": "pháp nhân",
+  "ko": "법인",
+  "fix": ""
+ },
+ "bán dẫn": {
+  "vi": "bán dẫn",
+  "ko": "반도체",
+  "fix": ""
+ },
+ "tiếp tân": {
+  "vi": "tiếp tân",
+  "ko": "(호텔) 리셉셔니스트",
+  "fix": ""
+ },
+ "mất trộm": {
+  "vi": "mất trộm",
+  "ko": "도둑맞다",
+  "fix": ""
+ },
+ "mắc nợ": {
+  "vi": "mắc nợ",
+  "ko": "빚지다",
+  "fix": ""
+ },
+ "hội chợ": {
+  "vi": "hội chợ",
+  "ko": "박람회",
+  "fix": ""
+ },
+ "đăng tải": {
+  "vi": "đăng tải",
+  "ko": "업로드하다",
+  "fix": ""
+ },
+ "cá nhân": {
+  "vi": "cá nhân",
+  "ko": "개인",
+  "fix": ""
+ },
+ "mở rộng kinh doanh": {
+  "vi": "mở rộng kinh doanh",
+  "ko": "사업을 확장하다",
+  "fix": ""
+ },
+ "chứng minh pháp nhân": {
+  "vi": "chứng minh pháp nhân",
+  "ko": "법인임을 증명하다",
+  "fix": ""
+ },
+ "thế chấp": {
+  "vi": "thế chấp",
+  "ko": "담보",
+  "fix": ""
+ },
+ "lãi suất": {
+  "vi": "lãi suất",
+  "ko": "이자율",
+  "fix": ""
+ },
+ "mua đô la": {
+  "vi": "mua đô la",
+  "ko": "달러를 사다",
+  "fix": ""
+ },
+ "tín dụng": {
+  "vi": "tín dụng",
+  "ko": "신용카드",
+  "fix": "thẻ tín dụng"
+ },
+ "mở tài khoản": {
+  "vi": "mở tài khoản",
+  "ko": "계좌를 개설하다",
+  "fix": ""
+ },
+ "đóng tài khoản": {
+  "vi": "đóng tài khoản",
+  "ko": "계좌를 해지하다",
+  "fix": ""
+ },
+ "thu chi": {
+  "vi": "thu chi",
+  "ko": "수익, 수입과 지출, 수지",
+  "fix": ""
+ },
+ "bền vững": {
+  "vi": "bền vững",
+  "ko": "지속 가능한, 지탱하다, 오래가다",
+  "fix": ""
+ },
+ "bước": {
+  "vi": "bước",
+  "ko": "단계, 한 걸음, 걷다",
+  "fix": ""
+ },
+ "chỉ tiêu": {
+  "vi": "chỉ tiêu",
+  "ko": "기준, 목표, 지표",
+  "fix": ""
+ },
+ "con số": {
+  "vi": "con số",
+  "ko": "숫자, 지수",
+  "fix": ""
+ },
+ "giữ chân": {
+  "vi": "giữ chân",
+  "ko": "유지하다, 붙잡다(인재 등을)",
+  "fix": ""
+ },
+ "khả quan": {
+  "vi": "khả quan",
+  "ko": "좋은, 흡족한, 전망이 밝은",
+  "fix": ""
+ },
+ "khoản chi": {
+  "vi": "khoản chi",
+  "ko": "지출, 지출 항목",
+  "fix": ""
+ },
+ "lịch sử chuyển tiền": {
+  "vi": "lịch sử chuyển tiền",
+  "ko": "송금 내역",
+  "fix": ""
+ },
+ "phòng ban": {
+  "vi": "phòng ban",
+  "ko": "과, 파트, 부서, 부처",
+  "fix": ""
+ },
+ "tổng kết": {
+  "vi": "tổng kết",
+  "ko": "총정리, 종합, 총괄하다, 요약하다",
+  "fix": ""
+ },
+ "từ đó": {
+  "vi": "từ đó",
+  "ko": "그 때부터, 그 이후로, 그로부터",
+  "fix": ""
+ },
+ "tự động hóa": {
+  "vi": "tự động hóa",
+  "ko": "자동화",
+  "fix": ""
+ },
+ "xử lí": {
+  "vi": "xử lí",
+  "ko": "다루다, 처리하다",
+  "fix": "xử lý"
+ },
+ "hướng dẫn sử dụng": {
+  "vi": "hướng dẫn sử dụng",
+  "ko": "사용 설명서",
+  "fix": ""
+ },
+ "chống thấm nước": {
+  "vi": "chống thấm nước",
+  "ko": "방수",
+  "fix": ""
+ },
+ "từ chỉnh sáng": {
+  "vi": "từ chỉnh sáng",
+  "ko": "밝기를 자동 조절하다",
+  "fix": "tự chỉnh sáng"
+ },
+ "thật ra": {
+  "vi": "thật ra",
+  "ko": "사실은",
+  "fix": ""
+ },
+ "ánh sáng": {
+  "vi": "ánh sáng",
+  "ko": "빛, 광선",
+  "fix": ""
+ },
+ "bỏng ngô": {
+  "vi": "bỏng ngô",
+  "ko": "팝콘",
+  "fix": ""
+ },
+ "phiếu giảm giá": {
+  "vi": "phiếu giảm giá",
+  "ko": "할인쿠폰",
+  "fix": ""
+ },
+ "thông tin đặt vé": {
+  "vi": "thông tin đặt vé",
+  "ko": "예약정보",
+  "fix": ""
+ },
+ "sai sót": {
+  "vi": "sai sót",
+  "ko": "실수, 오차, 불찰",
+  "fix": ""
+ },
+ "tầng lầu": {
+  "vi": "tầng lầu",
+  "ko": "2층 이상 지상층",
+  "fix": ""
+ },
+ "việc quan trọng": {
+  "vi": "việc quan trọng",
+  "ko": "중요한 일",
+  "fix": ""
+ },
+ "việc chạy xe": {
+  "vi": "việc chạy xe",
+  "ko": "달리는 것",
+  "fix": ""
+ },
+ "việc dừng xe": {
+  "vi": "việc dừng xe",
+  "ko": "멈추는 것",
+  "fix": ""
+ },
+ "việc kiếm tiền": {
+  "vi": "việc kiếm tiền",
+  "ko": "돈을 버는 것",
+  "fix": ""
+ },
+ "việc sử dụng tiền": {
+  "vi": "việc sử dụng tiền",
+  "ko": "돈을 사용하는 것",
+  "fix": ""
+ },
+ "việc làm việc": {
+  "vi": "việc làm việc",
+  "ko": "일하는 것",
+  "fix": ""
+ },
+ "việc nghỉ ngơi": {
+  "vi": "việc nghỉ ngơi",
+  "ko": "쉬는 것",
+  "fix": ""
+ },
+ "đã vất vả": {
+  "vi": "đã vất vả",
+  "ko": "수고하셨습니다 (과거형)",
+  "fix": ""
+ },
+ "bình an": {
+  "vi": "bình an",
+  "ko": "평안한, 안전",
+  "fix": ""
+ },
+ "trong thời gian qua": {
+  "vi": "trong thời gian qua",
+  "ko": "지난 시간동안",
+  "fix": ""
+ },
+ "chi phí mặt bằng": {
+  "vi": "chi phí mặt bằng",
+  "ko": "부지 대여료, 사무실 대여료",
+  "fix": ""
+ },
+ "tầng trệt": {
+  "vi": "tầng trệt",
+  "ko": "1층",
+  "fix": ""
+ },
+ "cực kỳ": {
+  "vi": "cực kỳ",
+  "ko": "극히",
+  "fix": ""
+ },
+ "đời mới": {
+  "vi": "đời mới",
+  "ko": "신형",
+  "fix": ""
+ },
+ "đội ngũ": {
+  "vi": "đội ngũ",
+  "ko": "팀 · 팀원",
+  "fix": ""
+ },
+ "nhã nhặn": {
+  "vi": "nhã nhặn",
+  "ko": "예의바른",
+  "fix": ""
+ },
+ "trùng lặp": {
+  "vi": "trùng lặp",
+  "ko": "중복되는",
+  "fix": ""
+ },
+ "tuyển dụng lao động": {
+  "vi": "tuyển dụng lao động",
+  "ko": "인력 채용, 헤드 헌팅",
+  "fix": ""
+ },
+ "bốc phét": {
+  "vi": "bốc phét",
+  "ko": "허풍떨다, 거짓말하다",
+  "fix": ""
+ },
+ "hàng khuyến mãi": {
+  "vi": "hàng khuyến mãi",
+  "ko": "판촉물",
+  "fix": ""
+ },
+ "xin nghỉ phép": {
+  "vi": "xin nghỉ phép",
+  "ko": "휴가를 내다",
+  "fix": ""
+ },
+ "bất khả kháng": {
+  "vi": "bất khả kháng",
+  "ko": "불가항력",
+  "fix": ""
+ },
+ "bước tiến": {
+  "vi": "bước tiến",
+  "ko": "발전 단계 / 진보",
+  "fix": ""
+ },
+ "cơ sở": {
+  "vi": "cơ sở",
+  "ko": "기초",
+  "fix": ""
+ },
+ "mở cửa": {
+  "vi": "mở cửa",
+  "ko": "문을 열다",
+  "fix": ""
+ },
+ "barang konsumsi": {
+  "vi": "barang konsumsi",
+  "ko": "소비재",
+  "fix": "hàng tiêu dùng"
+ },
+ "ungkapkan": {
+  "vi": "ungkapkan",
+  "ko": "표현하다",
+  "fix": "diễn đạt"
+ },
+ "ragu-ragu": {
+  "vi": "ragu-ragu",
+  "ko": "망설이는",
+  "fix": ""
+ },
+ "sahabat": {
+  "vi": "sahabat",
+  "ko": "절친한 친구",
+  "fix": ""
+ },
+ "tanaman": {
+  "vi": "tanaman",
+  "ko": "식물, 작물",
+  "fix": ""
+ },
+ "menetap": {
+  "vi": "menetap",
+  "ko": "정착하다",
+  "fix": ""
+ },
+ "ilmu hitam": {
+  "vi": "ilmu hitam",
+  "ko": "마법",
+  "fix": ""
+ },
+ "turut": {
+  "vi": "turut",
+  "ko": "따르다",
+  "fix": ""
+ },
+ "malaikat": {
+  "vi": "malaikat",
+  "ko": "천사",
+  "fix": ""
+ },
+ "keharuan": {
+  "vi": "keharuan",
+  "ko": "감동",
+  "fix": ""
+ },
+ "memperhatikan": {
+  "vi": "memperhatikan",
+  "ko": "주의를 기울이다, 관심을 두다",
+  "fix": ""
+ },
+ "garasi": {
+  "vi": "garasi",
+  "ko": "차고",
+  "fix": ""
+ },
+ "atap": {
+  "vi": "atap",
+  "ko": "지붕",
+  "fix": ""
+ },
+ "perhiasan": {
+  "vi": "perhiasan",
+  "ko": "보석",
+  "fix": ""
+ },
+ "kegiatan": {
+  "vi": "kegiatan",
+  "ko": "활동",
+  "fix": ""
+ },
+ "lekat": {
+  "vi": "lekat",
+  "ko": "달라붙은",
+  "fix": ""
+ },
+ "tambang": {
+  "vi": "tambang",
+  "ko": "말뚝, 밧줄",
+  "fix": ""
+ },
+ "damai": {
+  "vi": "damai",
+  "ko": "평화, 화해",
+  "fix": ""
+ },
+ "penasaran": {
+  "vi": "penasaran",
+  "ko": "궁금하다",
+  "fix": ""
+ },
+ "devisa negara": {
+  "vi": "devisa negara",
+  "ko": "외환 보유고",
+  "fix": ""
+ },
+ "logam mulia": {
+  "vi": "logam mulia",
+  "ko": "귀금속",
+  "fix": ""
+ },
+ "korban": {
+  "vi": "korban",
+  "ko": "희생자, 피해자",
+  "fix": ""
+ },
+ "kenangan": {
+  "vi": "kenangan",
+  "ko": "추억",
+  "fix": "?"
+ },
+ "permintaan": {
+  "vi": "permintaan",
+  "ko": "수요, 요청",
+  "fix": "?"
+ },
+ "sumbangan": {
+  "vi": "sumbangan",
+  "ko": "기부, 원조",
+  "fix": "?"
+ },
+ "kebiri": {
+  "vi": "kebiri",
+  "ko": "거세된, 거세당한",
+  "fix": "?"
+ },
+ "sama sekali": {
+  "vi": "sama sekali",
+  "ko": "전혀",
+  "fix": "?"
+ },
+ "harum": {
+  "vi": "harum",
+  "ko": "향기로운, 유명한",
+  "fix": "?"
+ },
+ "maling": {
+  "vi": "maling",
+  "ko": "도둑",
+  "fix": "?"
+ },
+ "sambangan": {
+  "vi": "sambangan",
+  "ko": "방문",
+  "fix": "?"
+ },
+ "bahan penolong": {
+  "vi": "bahan penolong",
+  "ko": "중간재",
+  "fix": "?"
+ },
+ "pandangan": {
+  "vi": "pandangan",
+  "ko": "관점",
+  "fix": "?"
+ },
+ "kesuksesan": {
+  "vi": "kesuksesan",
+  "ko": "성공",
+  "fix": "?"
+ },
+ "industri pengolahan": {
+  "vi": "industri pengolahan",
+  "ko": "제조업",
+  "fix": "?"
+ },
+ "seni": {
+  "vi": "seni",
+  "ko": "예술",
+  "fix": "?"
+ },
+ "balai-balai": {
+  "vi": "balai-balai",
+  "ko": "작은 평상",
+  "fix": "?"
+ },
+ "mula-mula": {
+  "vi": "mula-mula",
+  "ko": "사전에, 처음에, / 부터",
+  "fix": "?"
+ },
+ "menerapkan": {
+  "vi": "menerapkan",
+  "ko": "적용하다",
+  "fix": "?"
+ },
+ "seragam": {
+  "vi": "seragam",
+  "ko": "교복",
+  "fix": "?"
+ },
+ "memprediksi": {
+  "vi": "memprediksi",
+  "ko": "예측하다",
+  "fix": "?"
+ },
+ "bertahan": {
+  "vi": "bertahan",
+  "ko": "견디다, 버티다",
+  "fix": "?"
+ },
+ "pembuangan": {
+  "vi": "pembuangan",
+  "ko": "폐기, 버림",
+  "fix": "?"
+ },
+ "boyongan": {
+  "vi": "boyongan",
+  "ko": "이사",
+  "fix": "?"
+ },
+ "lelaki": {
+  "vi": "lelaki",
+  "ko": "남자",
+  "fix": "?"
+ },
+ "mengendap-endap": {
+  "vi": "mengendap-endap",
+  "ko": "숨다, 몰래 기어가다",
+  "fix": "?"
+ },
+ "bahan baku": {
+  "vi": "bahan baku",
+  "ko": "원자재",
+  "fix": ""
+ },
+ "hẳn": {
+  "vi": "hẳn",
+  "ko": "(확실히)",
+  "fix": ""
+ },
+ "mặt bằng": {
+  "vi": "mặt bằng",
+  "ko": "부지 · 평면도",
+  "fix": ""
+ },
+ "văn phòng đại diên": {
+  "vi": "văn phòng đại diên",
+  "ko": "대표 사무소",
+  "fix": "văn phòng đại diện"
+ },
+ "giặt hấp": {
+  "vi": "giặt hấp",
+  "ko": "드라이클리닝",
+  "fix": ""
+ },
+ "ngắn hạn": {
+  "vi": "ngắn hạn",
+  "ko": "단기",
+  "fix": ""
+ },
+ "ngờ": {
+  "vi": "ngờ",
+  "ko": "의심하다·의외이다",
+  "fix": ""
+ },
+ "area": {
+  "vi": "area",
+  "ko": "구역·지역",
+  "fix": "?"
+ },
+ "lợi nhuận, tiền lời": {
+  "vi": "lợi nhuận, tiền lời",
+  "ko": "수익, 이자, 이득",
+  "fix": ""
+ },
+ "*chữa xe máy": {
+  "vi": "*chữa xe máy",
+  "ko": "오토바이를 수리하다",
+  "fix": "sửa xe máy"
+ },
+ "tạm tạm": {
+  "vi": "tạm tạm",
+  "ko": "보통이야",
+  "fix": ""
+ },
+ "bến xe buýt": {
+  "vi": "bến xe buýt",
+  "ko": "버스정류장",
+  "fix": ""
+ },
+ "quạt máy": {
+  "vi": "quạt máy",
+  "ko": "선풍기",
+  "fix": ""
+ },
+ "nhìn": {
+  "vi": "nhìn",
+  "ko": "보다",
+  "fix": ""
+ },
+ "nông thôn": {
+  "vi": "nông thôn",
+  "ko": "농촌",
+  "fix": ""
+ },
+ "đi thuyền": {
+  "vi": "đi thuyền",
+  "ko": "배를 타다",
+  "fix": ""
+ },
+ "đón bạn": {
+  "vi": "đón bạn",
+  "ko": "친구를 마중나가다",
+  "fix": ""
+ },
+ "a lô": {
+  "vi": "a lô",
+  "ko": "여보세요",
+  "fix": ""
+ },
+ "màu đen": {
+  "vi": "màu đen",
+  "ko": "검은색",
+  "fix": ""
+ },
+ "quả nhiên": {
+  "vi": "quả nhiên",
+  "ko": "물론, 역시",
+  "fix": ""
+ },
+ "màu trắng": {
+  "vi": "màu trắng",
+  "ko": "흰색",
+  "fix": ""
+ },
+ "màu đỏ": {
+  "vi": "màu đỏ",
+  "ko": "빨간색",
+  "fix": ""
+ },
+ "màu vàng": {
+  "vi": "màu vàng",
+  "ko": "노란색",
+  "fix": ""
+ },
+ "màu nâu": {
+  "vi": "màu nâu",
+  "ko": "갈색",
+  "fix": ""
+ },
+ "màu xám": {
+  "vi": "màu xám",
+  "ko": "회색",
+  "fix": ""
+ },
+ "về việc": {
+  "vi": "về việc",
+  "ko": "에 대한",
+  "fix": ""
+ },
+ "màu tím": {
+  "vi": "màu tím",
+  "ko": "보라색",
+  "fix": ""
+ },
+ "giặt quần áo": {
+  "vi": "giặt quần áo",
+  "ko": "옷을 빨다",
+  "fix": ""
+ },
+ "màu hồng": {
+  "vi": "màu hồng",
+  "ko": "분홍색",
+  "fix": ""
+ },
+ "gần gũi": {
+  "vi": "gần gũi",
+  "ko": "친한",
+  "fix": ""
+ },
+ "hàng phẩm": {
+  "vi": "hàng phẩm",
+  "ko": "제품",
+  "fix": ""
+ },
+ "đồ chơi": {
+  "vi": "đồ chơi",
+  "ko": "장난감",
+  "fix": ""
+ },
+ "cắt tóc": {
+  "vi": "cắt tóc",
+  "ko": "머리를 자르다",
+  "fix": ""
+ },
+ "ngủ say": {
+  "vi": "ngủ say",
+  "ko": "깊은 잠",
+  "fix": ""
+ },
+ "im ắng": {
+  "vi": "im ắng",
+  "ko": "조용하다",
+  "fix": ""
+ },
+ "sinh": {
+  "vi": "sinh",
+  "ko": "태어나다",
+  "fix": ""
+ },
+ "khoa": {
+  "vi": "khoa",
+  "ko": "학과",
+  "fix": ""
+ },
+ "nào cả": {
+  "vi": "nào cả",
+  "ko": "전혀 / 없다",
+  "fix": ""
+ },
+ "xã, thôn": {
+  "vi": "xã, thôn",
+  "ko": "마을, 촌",
+  "fix": ""
+ },
+ "s+mới mới+v": {
+  "vi": "s+mới mới+V",
+  "ko": "방금 ~했다",
+  "fix": "vừa mới V"
+ },
+ "kiến trúc sư": {
+  "vi": "kiến trúc sư",
+  "ko": "(건축가)",
+  "fix": ""
+ },
+ "rượu thuốc": {
+  "vi": "rượu thuốc",
+  "ko": "(약주)",
+  "fix": ""
+ },
+ "gia vị": {
+  "vi": "gia vị",
+  "ko": "(양념)",
+  "fix": ""
+ },
+ "chơi trống": {
+  "vi": "chơi trống",
+  "ko": "드럼을 치다",
+  "fix": ""
+ },
+ "bóng râm": {
+  "vi": "bóng râm",
+  "ko": "그늘",
+  "fix": ""
+ },
+ "ai cập": {
+  "vi": "Ai Cập",
+  "ko": "이집트",
+  "fix": ""
+ },
+ "an sinh xã hội": {
+  "vi": "an sinh xã hội",
+  "ko": "사회 보장",
+  "fix": ""
+ },
+ "áo ấm": {
+  "vi": "áo ấm",
+  "ko": "따뜻한 옷 (방한복)",
+  "fix": ""
+ },
+ "bài hát": {
+  "vi": "bài hát",
+  "ko": "노래",
+  "fix": ""
+ },
+ "bãi cát": {
+  "vi": "bãi cát",
+  "ko": "모래사장",
+  "fix": ""
+ },
+ "ban nhạc": {
+  "vi": "ban nhạc",
+  "ko": "밴드 / 악단",
+  "fix": ""
+ },
+ "bánh cốm": {
+  "vi": "bánh cốm",
+  "ko": "반꼼 (베트남 떡)",
+  "fix": ""
+ },
+ "bánh dày": {
+  "vi": "bánh dày",
+  "ko": "반야이 (베트남 떡)",
+  "fix": ""
+ },
+ "bạo dạn": {
+  "vi": "bạo dạn",
+  "ko": "대담한 / 용기 있는",
+  "fix": ""
+ },
+ "bệnh nhân": {
+  "vi": "bệnh nhân",
+  "ko": "환자",
+  "fix": ""
+ },
+ "bệnh sốt rét": {
+  "vi": "bệnh sốt rét",
+  "ko": "말라리아 (학질)",
+  "fix": ""
+ },
+ "bệnh tả": {
+  "vi": "bệnh tả",
+  "ko": "콜레라",
+  "fix": ""
+ },
+ "bệnh tật": {
+  "vi": "bệnh tật",
+  "ko": "질병 / 병",
+  "fix": ""
+ },
+ "biến cải": {
+  "vi": "biến cải",
+  "ko": "개조하다 / 변화시키다",
+  "fix": ""
+ },
+ "biến thành": {
+  "vi": "biến thành",
+  "ko": "로 변하다",
+  "fix": ""
+ },
+ "biểu diễn": {
+  "vi": "biểu diễn",
+  "ko": "공연하다 / 연주하다",
+  "fix": ""
+ },
+ "bó hẹp": {
+  "vi": "bó hẹp",
+  "ko": "좁은 / 한정된",
+  "fix": ""
+ },
+ "bơ": {
+  "vi": "bơ",
+  "ko": "버터 / 아보카도",
+  "fix": ""
+ },
+ "bày tỏ": {
+  "vi": "bày tỏ",
+  "ko": "표명하다, 나타내다",
+  "fix": ""
+ },
+ "bất hạnh": {
+  "vi": "bất hạnh",
+  "ko": "불행한",
+  "fix": ""
+ },
+ "bầu": {
+  "vi": "bầu",
+  "ko": "선출하다, 투표하다",
+  "fix": ""
+ },
+ "bồi dưỡng": {
+  "vi": "bồi dưỡng",
+  "ko": "배양하다, 보충하다",
+  "fix": ""
+ },
+ "bông sen": {
+  "vi": "bông sen",
+  "ko": "연꽃",
+  "fix": ""
+ },
+ "buộc": {
+  "vi": "buộc",
+  "ko": "묶다, 강제하다",
+  "fix": ""
+ },
+ "buồng": {
+  "vi": "buồng",
+  "ko": "방·실",
+  "fix": ""
+ },
+ "bưng": {
+  "vi": "bưng",
+  "ko": "(손으로) 들다, 나르다",
+  "fix": ""
+ },
+ "bưu thiếp": {
+  "vi": "bưu thiếp",
+  "ko": "엽서",
+  "fix": ""
+ },
+ "cách tân": {
+  "vi": "cách tân",
+  "ko": "혁신, 쇄신",
+  "fix": ""
+ },
+ "cam lòng": {
+  "vi": "cam lòng",
+  "ko": "감수하다, 체념하다",
+  "fix": ""
+ },
+ "cảnh báo": {
+  "vi": "cảnh báo",
+  "ko": "경고하다",
+  "fix": ""
+ },
+ "cao nguyên": {
+  "vi": "cao nguyên",
+  "ko": "고원",
+  "fix": ""
+ },
+ "cát": {
+  "vi": "cát",
+  "ko": "모래",
+  "fix": ""
+ },
+ "cắn": {
+  "vi": "cắn",
+  "ko": "물다",
+  "fix": ""
+ },
+ "cắp": {
+  "vi": "cắp",
+  "ko": "끼다 / 훔치다",
+  "fix": ""
+ },
+ "cầm": {
+  "vi": "cầm",
+  "ko": "잡다, 들다",
+  "fix": ""
+ },
+ "chịu": {
+  "vi": "chịu",
+  "ko": "견디다, 감당하다",
+  "fix": ""
+ },
+ "chịu ơn": {
+  "vi": "chịu ơn",
+  "ko": "은혜를 입다",
+  "fix": ""
+ },
+ "chóng vánh": {
+  "vi": "chóng vánh",
+  "ko": "순식간의, 덧없는",
+  "fix": ""
+ },
+ "chợ cóc": {
+  "vi": "chợ cóc",
+  "ko": "노점 시장 (무허가 소시장)",
+  "fix": ""
+ },
+ "chủ tịch": {
+  "vi": "chủ tịch",
+  "ko": "주석, 회장",
+  "fix": ""
+ },
+ "chuẩn": {
+  "vi": "chuẩn",
+  "ko": "표준, 정확한",
+  "fix": ""
+ },
+ "chuyên nghiệp": {
+  "vi": "chuyên nghiệp",
+  "ko": "전문적인, 프로의",
+  "fix": ""
+ },
+ "cất": {
+  "vi": "cất",
+  "ko": "보관하다, 치우다",
+  "fix": ""
+ },
+ "cầu nguyện": {
+  "vi": "cầu nguyện",
+  "ko": "기도하다",
+  "fix": ""
+ },
+ "cấu trúc": {
+  "vi": "cấu trúc",
+  "ko": "구조",
+  "fix": ""
+ },
+ "chàng trai": {
+  "vi": "chàng trai",
+  "ko": "청년, 소년",
+  "fix": ""
+ },
+ "chanh đá": {
+  "vi": "chanh đá",
+  "ko": "아이스 레몬차",
+  "fix": ""
+ },
+ "che khuất": {
+  "vi": "che khuất",
+  "ko": "가리다, 무색하게 하다",
+  "fix": ""
+ },
+ "chen": {
+  "vi": "chen",
+  "ko": "밀치다, 끼어들다",
+  "fix": ""
+ },
+ "chi phối": {
+  "vi": "chi phối",
+  "ko": "지배하다, 조종하다",
+  "fix": ""
+ },
+ "chiến thắng": {
+  "vi": "chiến thắng",
+  "ko": "승리하다",
+  "fix": ""
+ },
+ "chín chắn": {
+  "vi": "chín chắn",
+  "ko": "성숙한, 신중한",
+  "fix": ""
+ },
+ "chính quy": {
+  "vi": "chính quy",
+  "ko": "정규",
+  "fix": ""
+ },
+ "chuyển đổi": {
+  "vi": "chuyển đổi",
+  "ko": "전환하다, 바꾸다",
+  "fix": ""
+ },
+ "chuyển tải": {
+  "vi": "chuyển tải",
+  "ko": "전달하다, 운송하다",
+  "fix": ""
+ },
+ "chữ tượng hình": {
+  "vi": "chữ tượng hình",
+  "ko": "상형문자",
+  "fix": ""
+ },
+ "chứa": {
+  "vi": "chứa",
+  "ko": "담다, 포함하다",
+  "fix": ""
+ },
+ "con đầu lòng": {
+  "vi": "con đầu lòng",
+  "ko": "첫째 아이",
+  "fix": ""
+ },
+ "con đẻ": {
+  "vi": "con đẻ",
+  "ko": "친자식",
+  "fix": ""
+ },
+ "con nuôi": {
+  "vi": "con nuôi",
+  "ko": "양자",
+  "fix": ""
+ },
+ "cố đô": {
+  "vi": "cố đô",
+  "ko": "옛 수도",
+  "fix": ""
+ },
+ "công nghệ": {
+  "vi": "công nghệ",
+  "ko": "기술 (테크놀로지)",
+  "fix": ""
+ },
+ "công trình": {
+  "vi": "công trình",
+  "ko": "공사, 건축물, 작품",
+  "fix": ""
+ },
+ "cột đá": {
+  "vi": "cột đá",
+  "ko": "석주 (돌기둥)",
+  "fix": ""
+ },
+ "cúi": {
+  "vi": "cúi",
+  "ko": "숙이다",
+  "fix": ""
+ },
+ "củng cố": {
+  "vi": "củng cố",
+  "ko": "강화하다, 공고히 하다",
+  "fix": ""
+ },
+ "cuộc thi": {
+  "vi": "cuộc thi",
+  "ko": "대회, 경기",
+  "fix": ""
+ },
+ "cuốn hút": {
+  "vi": "cuốn hút",
+  "ko": "매혹시키다",
+  "fix": ""
+ },
+ "cử": {
+  "vi": "cử",
+  "ko": "선출하다, 임명하다",
+  "fix": ""
+ },
+ "chính quyền": {
+  "vi": "chính quyền",
+  "ko": "정권, 정부",
+  "fix": ""
+ },
+ "cử chỉ": {
+  "vi": "cử chỉ",
+  "ko": "몸짓, 손짓, 거동",
+  "fix": ""
+ },
+ "cướp": {
+  "vi": "cướp",
+  "ko": "강탈하다, 빼앗다",
+  "fix": ""
+ },
+ "dã ngoại": {
+  "vi": "dã ngoại",
+  "ko": "야외 활동 (소풍)",
+  "fix": ""
+ },
+ "danh hiệu": {
+  "vi": "danh hiệu",
+  "ko": "칭호, 명칭",
+  "fix": ""
+ },
+ "danh tiếng": {
+  "vi": "danh tiếng",
+  "ko": "명성, 평판",
+  "fix": ""
+ },
+ "dân tộc học": {
+  "vi": "dân tộc học",
+  "ko": "민족학",
+  "fix": ""
+ },
+ "dân trí": {
+  "vi": "dân trí",
+  "ko": "민지 (백성의 지식 수준)",
+  "fix": ""
+ },
+ "dầu": {
+  "vi": "dầu",
+  "ko": "기름, 오일",
+  "fix": ""
+ },
+ "dịch thuật": {
+  "vi": "dịch thuật",
+  "ko": "번역, 통역",
+  "fix": ""
+ },
+ "diện": {
+  "vi": "diện",
+  "ko": "차려입다, 말쑥한",
+  "fix": ""
+ },
+ "diễn tả": {
+  "vi": "diễn tả",
+  "ko": "묘사하다, 표현하다",
+  "fix": ""
+ },
+ "dinh": {
+  "vi": "dinh",
+  "ko": "관저, 궁전",
+  "fix": ""
+ },
+ "doanh nhân": {
+  "vi": "doanh nhân",
+  "ko": "기업가",
+  "fix": ""
+ },
+ "đa số": {
+  "vi": "đa số",
+  "ko": "다수",
+  "fix": ""
+ },
+ "đá vôi": {
+  "vi": "đá vôi",
+  "ko": "석회암",
+  "fix": ""
+ },
+ "đáng ra": {
+  "vi": "đáng ra",
+  "ko": "마땅히, 원래는",
+  "fix": ""
+ },
+ "đáng thương": {
+  "vi": "đáng thương",
+  "ko": "가련한, 불쌍한",
+  "fix": ""
+ },
+ "điều tra": {
+  "vi": "điều tra",
+  "ko": "조사하다",
+  "fix": ""
+ },
+ "đỉnh núi": {
+  "vi": "đỉnh núi",
+  "ko": "산봉우리",
+  "fix": ""
+ },
+ "đò": {
+  "vi": "đò",
+  "ko": "나룻배",
+  "fix": ""
+ },
+ "đón tiếp": {
+  "vi": "đón tiếp",
+  "ko": "영접하다, 맞이하다",
+  "fix": ""
+ },
+ "đáp": {
+  "vi": "đáp",
+  "ko": "답하다",
+  "fix": ""
+ },
+ "đau khổ": {
+  "vi": "đau khổ",
+  "ko": "고통스러운, 괴로움",
+  "fix": ""
+ },
+ "đau lưng": {
+  "vi": "đau lưng",
+  "ko": "요통 (허리 통증)",
+  "fix": ""
+ },
+ "đau vai": {
+  "vi": "đau vai",
+  "ko": "어깨 통증",
+  "fix": ""
+ },
+ "đáy giếng": {
+  "vi": "đáy giếng",
+  "ko": "우물 바닥",
+  "fix": ""
+ },
+ "đặc sắc": {
+  "vi": "đặc sắc",
+  "ko": "특색 있는",
+  "fix": ""
+ },
+ "đắp": {
+  "vi": "đắp",
+  "ko": "덮다, (약을) 바르다",
+  "fix": ""
+ },
+ "đầu não": {
+  "vi": "đầu não",
+  "ko": "두뇌, 본부, 핵심",
+  "fix": ""
+ },
+ "đấu tranh": {
+  "vi": "đấu tranh",
+  "ko": "투쟁하다",
+  "fix": ""
+ },
+ "đe dọa": {
+  "vi": "đe dọa",
+  "ko": "위협하다, 협박하다",
+  "fix": ""
+ },
+ "đèn lồng": {
+  "vi": "đèn lồng",
+  "ko": "초롱, 등불",
+  "fix": ""
+ },
+ "đề cập": {
+  "vi": "đề cập",
+  "ko": "언급하다",
+  "fix": ""
+ },
+ "để dành tiền": {
+  "vi": "để dành tiền",
+  "ko": "돈을 저축하다",
+  "fix": ""
+ },
+ "để đời": {
+  "vi": "để đời",
+  "ko": "불후의, 후세에 남길",
+  "fix": ""
+ },
+ "đề kháng": {
+  "vi": "đề kháng",
+  "ko": "저항(력), 면역",
+  "fix": ""
+ },
+ "đề thi": {
+  "vi": "đề thi",
+  "ko": "시험 문제",
+  "fix": ""
+ },
+ "đệm ghi ta": {
+  "vi": "đệm ghi ta",
+  "ko": "기타 반주를 하다",
+  "fix": ""
+ },
+ "đi ngoài": {
+  "vi": "đi ngoài",
+  "ko": "배설하다 (설사하다)",
+  "fix": ""
+ },
+ "đọng": {
+  "vi": "đọng",
+  "ko": "고이다, 정체되다",
+  "fix": ""
+ },
+ "đô": {
+  "vi": "đô",
+  "ko": "수도, 도시",
+  "fix": ""
+ },
+ "hòa nhạc": {
+  "vi": "hòa nhạc",
+  "ko": "음악회 (콘서트)",
+  "fix": ""
+ },
+ "hóa thành": {
+  "vi": "hóa thành",
+  "ko": "로 변하다",
+  "fix": ""
+ },
+ "hoàng gia": {
+  "vi": "hoàng gia",
+  "ko": "왕실, 로열",
+  "fix": ""
+ },
+ "hóc búa": {
+  "vi": "hóc búa",
+  "ko": "(문제가) 까다로운",
+  "fix": ""
+ },
+ "hành lang": {
+  "vi": "hành lang",
+  "ko": "복도, 로비",
+  "fix": ""
+ },
+ "hiếm có": {
+  "vi": "hiếm có",
+  "ko": "드문, 희귀한",
+  "fix": ""
+ },
+ "hiếm hoi": {
+  "vi": "hiếm hoi",
+  "ko": "드문, 극히 적은",
+  "fix": ""
+ },
+ "hiển nhiên": {
+  "vi": "hiển nhiên",
+  "ko": "당연한, 명백히",
+  "fix": ""
+ },
+ "hiện diện": {
+  "vi": "hiện diện",
+  "ko": "나타나다, 존재(임석)",
+  "fix": ""
+ },
+ "hít thở": {
+  "vi": "hít thở",
+  "ko": "호흡하다",
+  "fix": ""
+ },
+ "hòn ngọc": {
+  "vi": "hòn ngọc",
+  "ko": "진주, 보석",
+  "fix": ""
+ },
+ "hồi phục": {
+  "vi": "hồi phục",
+  "ko": "회복하다",
+  "fix": ""
+ },
+ "hối hận": {
+  "vi": "hối hận",
+  "ko": "후회하다",
+  "fix": ""
+ },
+ "hội đồng": {
+  "vi": "hội đồng",
+  "ko": "위원회, 의회",
+  "fix": ""
+ },
+ "hội lim": {
+  "vi": "hội Lim",
+  "ko": "림 축제",
+  "fix": ""
+ },
+ "hội nhập": {
+  "vi": "hội nhập",
+  "ko": "통합하다, 합류하다",
+  "fix": ""
+ },
+ "hùng biện": {
+  "vi": "hùng biện",
+  "ko": "웅변, 웅변하다",
+  "fix": ""
+ },
+ "hưởng ứng": {
+  "vi": "hưởng ứng",
+  "ko": "호응하다",
+  "fix": ""
+ },
+ "hy sinh": {
+  "vi": "hy sinh",
+  "ko": "희생하다",
+  "fix": ""
+ },
+ "ích lợi": {
+  "vi": "ích lợi",
+  "ko": "이익, 유익함",
+  "fix": ""
+ },
+ "kẻ trộm": {
+  "vi": "kẻ trộm",
+  "ko": "도둑",
+  "fix": ""
+ },
+ "khàn giọng": {
+  "vi": "khàn giọng",
+  "ko": "목이 쉰",
+  "fix": ""
+ },
+ "khan hiếm": {
+  "vi": "khan hiếm",
+  "ko": "부족한, 드문",
+  "fix": ""
+ },
+ "khắc nghiệt": {
+  "vi": "khắc nghiệt",
+  "ko": "혹독한, 가혹한",
+  "fix": ""
+ },
+ "khớp nhạc": {
+  "vi": "khớp nhạc",
+  "ko": "음악에 맞추다",
+  "fix": ""
+ },
+ "khu rừng": {
+  "vi": "khu rừng",
+  "ko": "숲 지역",
+  "fix": ""
+ },
+ "khủng khiếp": {
+  "vi": "khủng khiếp",
+  "ko": "끔찍한, 무서운",
+  "fix": ""
+ },
+ "kịch": {
+  "vi": "kịch",
+  "ko": "연극, 드라마",
+  "fix": ""
+ },
+ "kiếm lời": {
+  "vi": "kiếm lời",
+  "ko": "이익을 얻다",
+  "fix": ""
+ },
+ "kiên quyết": {
+  "vi": "kiên quyết",
+  "ko": "단호한, 결연한",
+  "fix": ""
+ },
+ "kiên trung": {
+  "vi": "kiên trung",
+  "ko": "충성스러운, 절개 있는",
+  "fix": ""
+ },
+ "khẩn": {
+  "vi": "khẩn",
+  "ko": "긴급한",
+  "fix": ""
+ },
+ "khẽ": {
+  "vi": "khẽ",
+  "ko": "살며시, 조용히",
+  "fix": ""
+ },
+ "khêu gợi": {
+  "vi": "khêu gợi",
+  "ko": "유혹적인, 섹시한",
+  "fix": ""
+ },
+ "khôn": {
+  "vi": "khôn",
+  "ko": "영리한, 지혜로운",
+  "fix": ""
+ },
+ "khởi đầu": {
+  "vi": "khởi đầu",
+  "ko": "시작하다, 시작",
+  "fix": ""
+ },
+ "khơi gợi": {
+  "vi": "khơi gợi",
+  "ko": "불러일으키다, 환기시키다",
+  "fix": ""
+ },
+ "kim tự tháp": {
+  "vi": "kim tự tháp",
+  "ko": "피라미드",
+  "fix": ""
+ },
+ "kỳ quặc": {
+  "vi": "kỳ quặc",
+  "ko": "기괴한, 이상한",
+  "fix": ""
+ },
+ "kỳ thú": {
+  "vi": "kỳ thú",
+  "ko": "흥미진진한",
+  "fix": ""
+ },
+ "lạ lùng": {
+  "vi": "lạ lùng",
+  "ko": "이상한, 기묘한",
+  "fix": ""
+ },
+ "lạnh giá": {
+  "vi": "lạnh giá",
+  "ko": "매우 추운",
+  "fix": ""
+ },
+ "lập": {
+  "vi": "lập",
+  "ko": "세우다, 설립하다",
+  "fix": ""
+ },
+ "lẽ ra": {
+  "vi": "lẽ ra",
+  "ko": "마땅히 / 했어야 했다",
+  "fix": ""
+ },
+ "len": {
+  "vi": "len",
+  "ko": "울, 양모",
+  "fix": ""
+ },
+ "leo": {
+  "vi": "leo",
+  "ko": "오르다",
+  "fix": ""
+ },
+ "linh mục": {
+  "vi": "linh mục",
+  "ko": "신부 (가톨릭)",
+  "fix": ""
+ },
+ "loét": {
+  "vi": "loét",
+  "ko": "궤양, 헐다",
+  "fix": ""
+ },
+ "lộc": {
+  "vi": "lộc",
+  "ko": "복, 이익",
+  "fix": ""
+ },
+ "lợ": {
+  "vi": "lợ",
+  "ko": "(맛이) 싱겁고 비린, 간이 덜 된",
+  "fix": "lợ"
+ },
+ "lợi": {
+  "vi": "lợi",
+  "ko": "이익, 잇몸",
+  "fix": ""
+ },
+ "lợi tức": {
+  "vi": "lợi tức",
+  "ko": "수익, 이자",
+  "fix": ""
+ },
+ "lũ": {
+  "vi": "lũ",
+  "ko": "홍수",
+  "fix": ""
+ },
+ "lúa": {
+  "vi": "lúa",
+  "ko": "벼, 쌀",
+  "fix": ""
+ },
+ "luận văn": {
+  "vi": "luận văn",
+  "ko": "논문",
+  "fix": ""
+ },
+ "mạch lạc": {
+  "vi": "mạch lạc",
+  "ko": "일관성 있는, 조리 있는",
+  "fix": ""
+ },
+ "mai một": {
+  "vi": "mai một",
+  "ko": "잊혀지다, 소멸되다",
+  "fix": ""
+ },
+ "màn": {
+  "vi": "màn",
+  "ko": "화면, 커튼, 모기장",
+  "fix": ""
+ },
+ "mạnh": {
+  "vi": "mạnh",
+  "ko": "강한",
+  "fix": ""
+ },
+ "mạnh mẽ": {
+  "vi": "mạnh mẽ",
+  "ko": "강렬한, 힘찬",
+  "fix": ""
+ },
+ "mất sạch": {
+  "vi": "mất sạch",
+  "ko": "전부 잃다",
+  "fix": ""
+ },
+ "mất tích": {
+  "vi": "mất tích",
+  "ko": "행방불명되다",
+  "fix": ""
+ },
+ "mẫu giấy": {
+  "vi": "mẫu giấy",
+  "ko": "종이 조각, 쪽지",
+  "fix": "mẩu giấy"
+ },
+ "miễn nhiệm": {
+  "vi": "miễn nhiệm",
+  "ko": "면직시키다, 해임하다",
+  "fix": ""
+ },
+ "mô phỏng": {
+  "vi": "mô phỏng",
+  "ko": "모사하다, 시뮬레이션하다",
+  "fix": ""
+ },
+ "mơ ước": {
+  "vi": "mơ ước",
+  "ko": "꿈꾸다, 갈망",
+  "fix": ""
+ },
+ "mốt": {
+  "vi": "mốt",
+  "ko": "유행하는, 패션",
+  "fix": ""
+ },
+ "một phần": {
+  "vi": "một phần",
+  "ko": "일부분",
+  "fix": ""
+ },
+ "mừng": {
+  "vi": "mừng",
+  "ko": "기쁜, 축하하다",
+  "fix": ""
+ },
+ "mừng thọ": {
+  "vi": "mừng thọ",
+  "ko": "장수를 축하하다",
+  "fix": ""
+ },
+ "muối": {
+  "vi": "muối",
+  "ko": "소금",
+  "fix": ""
+ },
+ "mứt": {
+  "vi": "mứt",
+  "ko": "잼·절임과자",
+  "fix": ""
+ },
+ "não": {
+  "vi": "não",
+  "ko": "뇌",
+  "fix": ""
+ },
+ "ngay lập tức": {
+  "vi": "ngay lập tức",
+  "ko": "즉시",
+  "fix": ""
+ },
+ "ngày nhà giáo việt nam": {
+  "vi": "ngày Nhà giáo Việt Nam",
+  "ko": "스승의 날",
+  "fix": ""
+ },
+ "nhà cao tầng": {
+  "vi": "nhà cao tầng",
+  "ko": "고층 건물",
+  "fix": ""
+ },
+ "nhà vua": {
+  "vi": "nhà vua",
+  "ko": "왕",
+  "fix": ""
+ },
+ "nhai": {
+  "vi": "nhai",
+  "ko": "씹다",
+  "fix": ""
+ },
+ "nhanh chóng": {
+  "vi": "nhanh chóng",
+  "ko": "신속히",
+  "fix": ""
+ },
+ "nhân công": {
+  "vi": "nhân công",
+  "ko": "인건비, 노동력",
+  "fix": ""
+ },
+ "nhân tố": {
+  "vi": "nhân tố",
+  "ko": "요소, 요인",
+  "fix": ""
+ },
+ "ngất ngưởng": {
+  "vi": "ngất ngưởng",
+  "ko": "비틀거리는, 불안정한",
+  "fix": ""
+ },
+ "nghệ nhân": {
+  "vi": "nghệ nhân",
+  "ko": "예술가, 장인",
+  "fix": ""
+ },
+ "nghỉ mát": {
+  "vi": "nghỉ mát",
+  "ko": "피서를 가다",
+  "fix": ""
+ },
+ "nghĩa địa": {
+  "vi": "nghĩa địa",
+  "ko": "공동묘지",
+  "fix": ""
+ },
+ "nghiêng": {
+  "vi": "nghiêng",
+  "ko": "기울어진, 기울이다",
+  "fix": ""
+ },
+ "ngoảnh lại": {
+  "vi": "ngoảnh lại",
+  "ko": "뒤돌아보다",
+  "fix": ""
+ },
+ "ngót": {
+  "vi": "ngót",
+  "ko": "거의, 채 안 되는",
+  "fix": ""
+ },
+ "ngộ độc": {
+  "vi": "ngộ độc",
+  "ko": "중독",
+  "fix": ""
+ },
+ "ngủ gật": {
+  "vi": "ngủ gật",
+  "ko": "꾸벅꾸벅 졸다",
+  "fix": ""
+ },
+ "nguồn lợi": {
+  "vi": "nguồn lợi",
+  "ko": "이익의 원천, 혜택",
+  "fix": ""
+ },
+ "ngứa": {
+  "vi": "ngứa",
+  "ko": "가려운",
+  "fix": ""
+ },
+ "người hâm mộ": {
+  "vi": "người hâm mộ",
+  "ko": "팬",
+  "fix": ""
+ },
+ "người hùng": {
+  "vi": "người hùng",
+  "ko": "영웅",
+  "fix": ""
+ },
+ "nguy kịch": {
+  "vi": "nguy kịch",
+  "ko": "위독한, 위태로운",
+  "fix": ""
+ },
+ "nguyên sinh": {
+  "vi": "nguyên sinh",
+  "ko": "원생",
+  "fix": ""
+ },
+ "nhận xét": {
+  "vi": "nhận xét",
+  "ko": "평가하다, 언급하다",
+  "fix": ""
+ },
+ "nhập cuộc": {
+  "vi": "nhập cuộc",
+  "ko": "참여하다, 끼어들다",
+  "fix": ""
+ },
+ "nhất là": {
+  "vi": "nhất là",
+  "ko": "특히",
+  "fix": ""
+ },
+ "nhiệt đới": {
+  "vi": "nhiệt đới",
+  "ko": "열대",
+  "fix": ""
+ },
+ "nhịn ăn": {
+  "vi": "nhịn ăn",
+  "ko": "금식하다, 굶다",
+  "fix": ""
+ },
+ "nhũ đá": {
+  "vi": "nhũ đá",
+  "ko": "종유석",
+  "fix": ""
+ },
+ "niềm vui": {
+  "vi": "niềm vui",
+  "ko": "기쁨",
+  "fix": ""
+ },
+ "nóng bức": {
+  "vi": "nóng bức",
+  "ko": "무더운",
+  "fix": ""
+ },
+ "nước lũ": {
+  "vi": "nước lũ",
+  "ko": "홍수, 불어난 물",
+  "fix": ""
+ },
+ "nước thải": {
+  "vi": "nước thải",
+  "ko": "폐수, 하수",
+  "fix": ""
+ },
+ "phải chi": {
+  "vi": "phải chi",
+  "ko": "라면 좋을 텐데",
+  "fix": ""
+ },
+ "phái đoàn": {
+  "vi": "phái đoàn",
+  "ko": "대표단, 사절단",
+  "fix": ""
+ },
+ "phạm": {
+  "vi": "phạm",
+  "ko": "범하다, 어기다",
+  "fix": ""
+ },
+ "phạm vi": {
+  "vi": "phạm vi",
+  "ko": "범위",
+  "fix": ""
+ },
+ "phì cười": {
+  "vi": "phì cười",
+  "ko": "웃음이 터지다",
+  "fix": ""
+ },
+ "phong kiến": {
+  "vi": "phong kiến",
+  "ko": "봉건주의",
+  "fix": ""
+ },
+ "phong trào": {
+  "vi": "phong trào",
+  "ko": "운동, 캠페인",
+  "fix": ""
+ },
+ "phòng cấp cứu": {
+  "vi": "phòng cấp cứu",
+  "ko": "응급실",
+  "fix": ""
+ },
+ "phóng": {
+  "vi": "phóng",
+  "ko": "석방하다, 쏘다",
+  "fix": ""
+ },
+ "phân bổ": {
+  "vi": "phân bổ",
+  "ko": "분포하다, 배분하다",
+  "fix": ""
+ },
+ "phù sa": {
+  "vi": "phù sa",
+  "ko": "충적토 (강물의 침전물)",
+  "fix": ""
+ },
+ "phụ huynh": {
+  "vi": "phụ huynh",
+  "ko": "학부형, 보호자",
+  "fix": ""
+ },
+ "phượng": {
+  "vi": "phượng",
+  "ko": "봉황, 불꽃나무",
+  "fix": ""
+ },
+ "phường rối": {
+  "vi": "phường rối",
+  "ko": "인형극단",
+  "fix": "phường rối"
+ },
+ "phương thức": {
+  "vi": "phương thức",
+  "ko": "방식, 방법",
+  "fix": ""
+ },
+ "quan điểm": {
+  "vi": "quan điểm",
+  "ko": "관점",
+  "fix": ""
+ },
+ "quân sự": {
+  "vi": "quân sự",
+  "ko": "군사",
+  "fix": ""
+ },
+ "quần áo": {
+  "vi": "quần áo",
+  "ko": "옷 (의복)",
+  "fix": ""
+ },
+ "quần jin": {
+  "vi": "quần jin",
+  "ko": "청바지",
+  "fix": "quần jean"
+ },
+ "quỳ": {
+  "vi": "quỳ",
+  "ko": "무릎을 꿇다",
+  "fix": ""
+ },
+ "quyền": {
+  "vi": "quyền",
+  "ko": "권리, 권한",
+  "fix": ""
+ },
+ "quyết tâm": {
+  "vi": "quyết tâm",
+  "ko": "결심, 결심하다",
+  "fix": ""
+ },
+ "rằm": {
+  "vi": "rằm",
+  "ko": "보름 (음력 15일)",
+  "fix": ""
+ },
+ "rèn luyện": {
+  "vi": "rèn luyện",
+  "ko": "단련하다, 연마하다",
+  "fix": ""
+ },
+ "rời": {
+  "vi": "rời",
+  "ko": "떠나다, 분리되다",
+  "fix": ""
+ },
+ "rời bỏ": {
+  "vi": "rời bỏ",
+  "ko": "떠나다, 포기하고 떠나다",
+  "fix": ""
+ },
+ "run người": {
+  "vi": "run người",
+  "ko": "몸을 떨다",
+  "fix": ""
+ },
+ "sa mạc": {
+  "vi": "sa mạc",
+  "ko": "사막",
+  "fix": ""
+ },
+ "sách tham khảo": {
+  "vi": "sách tham khảo",
+  "ko": "참고서",
+  "fix": ""
+ },
+ "sai lầm": {
+  "vi": "sai lầm",
+  "ko": "실수, 잘못된",
+  "fix": ""
+ },
+ "xổ số": {
+  "vi": "xổ số",
+  "ko": "복권",
+  "fix": ""
+ },
+ "sống động": {
+  "vi": "sống động",
+  "ko": "생생한, 역동적인",
+  "fix": ""
+ },
+ "say nắng": {
+  "vi": "say nắng",
+  "ko": "일사병에 걸리다, (비유) 첫눈에 반하다",
+  "fix": ""
+ },
+ "say rượu": {
+  "vi": "say rượu",
+  "ko": "술에 취하다",
+  "fix": ""
+ },
+ "say sóng": {
+  "vi": "say sóng",
+  "ko": "배멀미를 하다",
+  "fix": ""
+ },
+ "sứ mệnh": {
+  "vi": "sứ mệnh",
+  "ko": "사명",
+  "fix": ""
+ },
+ "sự nghiệp": {
+  "vi": "sự nghiệp",
+  "ko": "사업, 업무, 커리어",
+  "fix": ""
+ },
+ "sự tích": {
+  "vi": "sự tích",
+  "ko": "설화, 전설, 사적",
+  "fix": ""
+ },
+ "sức lực": {
+  "vi": "sức lực",
+  "ko": "힘, 체력",
+  "fix": ""
+ },
+ "sung sướng": {
+  "vi": "sung sướng",
+  "ko": "행복한, 즐거운",
+  "fix": ""
+ },
+ "suốt đời": {
+  "vi": "suốt đời",
+  "ko": "평생 동안",
+  "fix": ""
+ },
+ "suốt năm": {
+  "vi": "suốt năm",
+  "ko": "일 년 내내",
+  "fix": ""
+ },
+ "suy nghĩ": {
+  "vi": "suy nghĩ",
+  "ko": "생각(하다)",
+  "fix": ""
+ },
+ "suy xét": {
+  "vi": "suy xét",
+  "ko": "심사숙고하다, 고찰하다",
+  "fix": ""
+ },
+ "tài trợ": {
+  "vi": "tài trợ",
+  "ko": "후원하다, 협찬하다",
+  "fix": ""
+ },
+ "tài": {
+  "vi": "tài",
+  "ko": "재능 있는, 재주",
+  "fix": ""
+ },
+ "tàn tật": {
+  "vi": "tàn tật",
+  "ko": "장애가 있는, 불구의",
+  "fix": ""
+ },
+ "tang": {
+  "vi": "tang",
+  "ko": "장례",
+  "fix": ""
+ },
+ "tát": {
+  "vi": "tát",
+  "ko": "뺨을 때리다",
+  "fix": ""
+ },
+ "tàu hỏa": {
+  "vi": "tàu hỏa",
+  "ko": "기차",
+  "fix": ""
+ },
+ "tăng lên": {
+  "vi": "tăng lên",
+  "ko": "오르다, 증가하다",
+  "fix": ""
+ },
+ "tâm lí": {
+  "vi": "tâm lí",
+  "ko": "심리",
+  "fix": "tâm lý"
+ },
+ "tấn": {
+  "vi": "tấn",
+  "ko": "톤(t)",
+  "fix": ""
+ },
+ "tập luyện": {
+  "vi": "tập luyện",
+  "ko": "연습하다, 훈련하다",
+  "fix": ""
+ },
+ "tiêm": {
+  "vi": "tiêm",
+  "ko": "주사를 놓다",
+  "fix": ""
+ },
+ "tiện": {
+  "vi": "tiện",
+  "ko": "편리한",
+  "fix": ""
+ },
+ "tiết mục": {
+  "vi": "tiết mục",
+  "ko": "종목, 프로그램, 레퍼토리",
+  "fix": ""
+ },
+ "tìm kiếm": {
+  "vi": "tìm kiếm",
+  "ko": "찾다, 수색하다",
+  "fix": ""
+ },
+ "tín hiệu": {
+  "vi": "tín hiệu",
+  "ko": "신호",
+  "fix": ""
+ },
+ "tật": {
+  "vi": "tật",
+  "ko": "병, 장애, 결함",
+  "fix": ""
+ },
+ "tất bật": {
+  "vi": "tất bật",
+  "ko": "분주한, 몹시 바쁜",
+  "fix": ""
+ },
+ "tệ nạn": {
+  "vi": "tệ nạn",
+  "ko": "폐해, 악순환",
+  "fix": ""
+ },
+ "thành đạt": {
+  "vi": "thành đạt",
+  "ko": "성달하다, 성공하다",
+  "fix": ""
+ },
+ "thành tích": {
+  "vi": "thành tích",
+  "ko": "성적, 업적",
+  "fix": ""
+ },
+ "thắp": {
+  "vi": "thắp",
+  "ko": "(불을) 켜다",
+  "fix": ""
+ },
+ "thân mến": {
+  "vi": "thân mến",
+  "ko": "친애하는, 정다운",
+  "fix": ""
+ },
+ "thập phương": {
+  "vi": "thập phương",
+  "ko": "시방, 사방팔방",
+  "fix": ""
+ },
+ "thèm": {
+  "vi": "thèm",
+  "ko": "갈망하다, 몹시 먹고 싶다",
+  "fix": ""
+ },
+ "theo": {
+  "vi": "theo",
+  "ko": "따르다, / 에 따라",
+  "fix": ""
+ },
+ "theo đuổi": {
+  "vi": "theo đuổi",
+  "ko": "추구하다, 뒤쫓다",
+  "fix": ""
+ },
+ "thiếp": {
+  "vi": "thiếp",
+  "ko": "카드, 초대장",
+  "fix": ""
+ },
+ "tình thế": {
+  "vi": "tình thế",
+  "ko": "정세, 상황",
+  "fix": ""
+ },
+ "tỏ tình": {
+  "vi": "tỏ tình",
+  "ko": "사랑을 고백하다",
+  "fix": ""
+ },
+ "toàn bộ": {
+  "vi": "toàn bộ",
+  "ko": "전부, 전체",
+  "fix": ""
+ },
+ "tồi tệ": {
+  "vi": "tồi tệ",
+  "ko": "형편없다, 매우 나쁘다",
+  "fix": ""
+ },
+ "tôn giáo": {
+  "vi": "tôn giáo",
+  "ko": "종교",
+  "fix": ""
+ },
+ "tôn vinh": {
+  "vi": "tôn vinh",
+  "ko": "추대하다, 영예롭게 하다",
+  "fix": ""
+ },
+ "tốt lành": {
+  "vi": "tốt lành",
+  "ko": "좋은, 상서로운",
+  "fix": ""
+ },
+ "tràn": {
+  "vi": "tràn",
+  "ko": "넘치다, 범람하다",
+  "fix": ""
+ },
+ "trang phục": {
+  "vi": "trang phục",
+  "ko": "의복, 복장",
+  "fix": ""
+ },
+ "tranh ấn tượng": {
+  "vi": "tranh ấn tượng",
+  "ko": "인상주의 그림",
+  "fix": ""
+ },
+ "tranh biếm họa": {
+  "vi": "tranh biếm họa",
+  "ko": "풍자화, 카툰",
+  "fix": ""
+ },
+ "trầm cảm": {
+  "vi": "trầm cảm",
+  "ko": "우울증",
+  "fix": ""
+ },
+ "trấn tĩnh": {
+  "vi": "trấn tĩnh",
+  "ko": "진정하다, 평정심을 찾다",
+  "fix": ""
+ },
+ "trâu": {
+  "vi": "trâu",
+  "ko": "물소",
+  "fix": ""
+ },
+ "trí não": {
+  "vi": "trí não",
+  "ko": "두뇌",
+  "fix": ""
+ },
+ "trí tưởng tượng": {
+  "vi": "trí tưởng tượng",
+  "ko": "상상력",
+  "fix": ""
+ },
+ "thiết thực": {
+  "vi": "thiết thực",
+  "ko": "실질적인, 현실적인",
+  "fix": ""
+ },
+ "thông thạo": {
+  "vi": "thông thạo",
+  "ko": "정통하다, 능숙하다",
+  "fix": ""
+ },
+ "thời": {
+  "vi": "thời",
+  "ko": "때, 시기",
+  "fix": ""
+ },
+ "thu phục": {
+  "vi": "thu phục",
+  "ko": "수복하다, 마음을 사로잡다",
+  "fix": ""
+ },
+ "thuần thục": {
+  "vi": "thuần thục",
+  "ko": "능숙한, 익숙한",
+  "fix": ""
+ },
+ "thuốc giảm sốt": {
+  "vi": "thuốc giảm sốt",
+  "ko": "해열제",
+  "fix": ""
+ },
+ "thuyết trình": {
+  "vi": "thuyết trình",
+  "ko": "발표하다, 설명하다",
+  "fix": ""
+ },
+ "thử nghiệm": {
+  "vi": "thử nghiệm",
+  "ko": "시험하다, 테스트",
+  "fix": ""
+ },
+ "thương mại hóa": {
+  "vi": "thương mại hóa",
+  "ko": "상업화하다",
+  "fix": ""
+ },
+ "thường dân": {
+  "vi": "thường dân",
+  "ko": "상민, 평민",
+  "fix": ""
+ },
+ "trọng tâm": {
+  "vi": "trọng tâm",
+  "ko": "중심, 중점",
+  "fix": ""
+ },
+ "trồng": {
+  "vi": "trồng",
+  "ko": "심다, 재배하다",
+  "fix": ""
+ },
+ "trúng sổ số": {
+  "vi": "trúng sổ số",
+  "ko": "복권에 당첨되다",
+  "fix": "trúng xổ số"
+ },
+ "truyền": {
+  "vi": "truyền",
+  "ko": "전하다, 전파하다",
+  "fix": ""
+ },
+ "túng thiếu": {
+  "vi": "túng thiếu",
+  "ko": "궁핍한, 부족한",
+  "fix": ""
+ },
+ "tử tế": {
+  "vi": "tử tế",
+  "ko": "친절한, 제대로 된",
+  "fix": ""
+ },
+ "tuổi thọ": {
+  "vi": "tuổi thọ",
+  "ko": "수명",
+  "fix": ""
+ },
+ "tuyệt": {
+  "vi": "tuyệt",
+  "ko": "훌륭한, 멋진",
+  "fix": ""
+ },
+ "ủy viên": {
+  "vi": "ủy viên",
+  "ko": "위원",
+  "fix": ""
+ },
+ "ước gì": {
+  "vi": "ước gì",
+  "ko": "라면 얼마나 좋을까",
+  "fix": ""
+ },
+ "ước tính": {
+  "vi": "ước tính",
+  "ko": "추산하다, 어림잡다",
+  "fix": ""
+ },
+ "văn hóa dân gian": {
+  "vi": "văn hóa dân gian",
+  "ko": "민속 문화",
+  "fix": ""
+ },
+ "văn minh": {
+  "vi": "văn minh",
+  "ko": "문명",
+  "fix": ""
+ },
+ "vận động viên": {
+  "vi": "vận động viên",
+  "ko": "운동선수",
+  "fix": ""
+ },
+ "vận tải": {
+  "vi": "vận tải",
+  "ko": "운송, 운반",
+  "fix": ""
+ },
+ "vật cảnh": {
+  "vi": "vật cảnh",
+  "ko": "애완동물, 관상용 동물",
+  "fix": ""
+ },
+ "vật dụng": {
+  "vi": "vật dụng",
+  "ko": "물품, 용구",
+  "fix": ""
+ },
+ "viêm ruột thừa": {
+  "vi": "viêm ruột thừa",
+  "ko": "맹장염",
+  "fix": ""
+ },
+ "viễn đông": {
+  "vi": "viễn đông",
+  "ko": "극동",
+  "fix": "Viễn Đông"
+ },
+ "vòng eo": {
+  "vi": "vòng eo",
+  "ko": "허리 둘레",
+  "fix": ""
+ },
+ "vở chèo": {
+  "vi": "vở chèo",
+  "ko": "체오(베트남 전통극)",
+  "fix": ""
+ },
+ "vụ mùa": {
+  "vi": "vụ mùa",
+  "ko": "수확기, 농사철",
+  "fix": ""
+ },
+ "vừa lòng": {
+  "vi": "vừa lòng",
+  "ko": "만족스러운, 마음에 드는",
+  "fix": ""
+ },
+ "vừa vặn": {
+  "vi": "vừa vặn",
+  "ko": "(크기가) 딱 맞는",
+  "fix": ""
+ },
+ "vươn lên": {
+  "vi": "vươn lên",
+  "ko": "위로 뻗다, 향상하다",
+  "fix": ""
+ },
+ "xoay sở": {
+  "vi": "xoay sở",
+  "ko": "그럭저럭 꾸려가다, 해결하려 애쓰다",
+  "fix": "xoay xở"
+ },
+ "xộc xệch": {
+  "vi": "xộc xệch",
+  "ko": "흐트러진, 무질서한",
+  "fix": ""
+ },
+ "xỏ": {
+  "vi": "xỏ",
+  "ko": "(신발, 장갑 등을) 신다, 끼다",
+  "fix": ""
+ },
+ "yêu thích": {
+  "vi": "yêu thích",
+  "ko": "좋아하다, 선호하다",
+  "fix": ""
+ },
+ "violon": {
+  "vi": "violon",
+  "ko": "바이올린",
+  "fix": ""
+ },
+ "chút": {
+  "vi": "chút",
+  "ko": "조금",
+  "fix": ""
+ },
+ "thêm từ": {
+  "vi": "thêm từ",
+  "ko": "단어 추가",
+  "fix": ""
+ },
+ "điệu": {
+  "vi": "điệu",
+  "ko": "춤 / 동작",
+  "fix": ""
+ },
+ "bài nào": {
+  "vi": "bài nào",
+  "ko": "어떤 글·어떤 곡",
+  "fix": ""
+ },
+ "đồ chơi việt nam": {
+  "vi": "đồ chơi Việt Nam",
+  "ko": "베트남 장난감",
+  "fix": ""
+ },
+ "bánh gatô": {
+  "vi": "bánh gatô",
+  "ko": "케이크",
+  "fix": "bánh ga-tô"
+ },
+ "từ~đến": {
+  "vi": "từ~đến",
+  "ko": "부터 / 까지(시간)",
+  "fix": ""
+ },
+ "tiếng khmer": {
+  "vi": "tiếng Khmer",
+  "ko": "캄보디아어",
+  "fix": ""
+ },
+ "cái gương": {
+  "vi": "cái gương",
+  "ko": "거울",
+  "fix": ""
+ },
+ "cái giường": {
+  "vi": "cái giường",
+  "ko": "침대",
+  "fix": ""
+ },
+ "cây phả hệ": {
+  "vi": "cây phả hệ",
+  "ko": "가계도",
+  "fix": ""
+ },
+ "oi bức": {
+  "vi": "oi bức",
+  "ko": "덥고 습하다",
+  "fix": ""
+ },
+ "trời oi bức": {
+  "vi": "trời oi bức",
+  "ko": "무덥다, 후텁지근하다",
+  "fix": ""
+ },
+ "điểm tốt": {
+  "vi": "điểm tốt",
+  "ko": "좋은 점수",
+  "fix": ""
+ },
+ "tiết kiệm tiền": {
+  "vi": "tiết kiệm tiền",
+  "ko": "돈을 모으다",
+  "fix": ""
+ },
+ "giá đắt lên": {
+  "vi": "giá đắt lên",
+  "ko": "가격이 오르다",
+  "fix": ""
+ },
+ "phía tây bắc bộ": {
+  "vi": "phía Tây Bắc Bộ",
+  "ko": "베트남 서북부 지역",
+  "fix": ""
+ },
+ "phía nam trung bộ": {
+  "vi": "phía Nam Trung Bộ",
+  "ko": "베트남 남중부 지역",
+  "fix": ""
+ },
+ "chuyến bay thắng": {
+  "vi": "chuyến bay thắng",
+  "ko": "직항편",
+  "fix": "chuyến bay thẳng"
+ },
+ "bắt tắc xi": {
+  "vi": "bắt tắc xi",
+  "ko": "택시를 잡다",
+  "fix": ""
+ },
+ "việc giảng dạy": {
+  "vi": "việc giảng dạy",
+  "ko": "가르치는 일(강의, 교습, 교육)",
+  "fix": ""
+ },
+ "đáp ứng yêu cầu": {
+  "vi": "đáp ứng yêu cầu",
+  "ko": "요구를 충족하다",
+  "fix": ""
+ },
+ "khắp thế giới": {
+  "vi": "khắp thế giới",
+  "ko": "전세계",
+  "fix": ""
+ },
+ "đưa thư cho": {
+  "vi": "đưa thư cho",
+  "ko": "에게 편지를 전달하다",
+  "fix": ""
+ },
+ "bài phát biểu": {
+  "vi": "bài phát biểu",
+  "ko": "연설",
+  "fix": ""
+ },
+ "hình khối": {
+  "vi": "hình khối",
+  "ko": "큐브, 입체 도형",
+  "fix": ""
+ },
+ "tránh khỏi": {
+  "vi": "tránh khỏi",
+  "ko": "피하다, 벗어나다",
+  "fix": ""
+ },
+ "phương tiện chuyển tải": {
+  "vi": "phương tiện chuyển tải",
+  "ko": "전달 수단",
+  "fix": ""
+ },
+ "tiếng mẹđẻ": {
+  "vi": "tiếng mẹđẻ",
+  "ko": "모국어",
+  "fix": "tiếng mẹ đẻ"
+ },
+ "trụ sở chính": {
+  "vi": "trụ sở chính",
+  "ko": "본사",
+  "fix": ""
+ },
+ "đôi chút": {
+  "vi": "đôi chút",
+  "ko": "잠시",
+  "fix": ""
+ },
+ "vòng xoay": {
+  "vi": "vòng xoay",
+  "ko": "로터리",
+  "fix": ""
+ },
+ "công cụ để": {
+  "vi": "công cụ để",
+  "ko": "를 위한 수단",
+  "fix": ""
+ },
+ "minh họa": {
+  "vi": "minh họa",
+  "ko": "삽화",
+  "fix": ""
+ },
+ "cổ vũ cuồng nhiệt": {
+  "vi": "cổ vũ cuồng nhiệt",
+  "ko": "열정적으로 응원하다",
+  "fix": ""
+ },
+ "vào loại": {
+  "vi": "vào loại",
+  "ko": "한 편이다",
+  "fix": ""
+ },
+ "người hương nội": {
+  "vi": "người hương nội",
+  "ko": "내향적인 사람",
+  "fix": "người hướng nội"
+ },
+ "người hương ngoại": {
+  "vi": "người hương ngoại",
+  "ko": "외향적인 사람",
+  "fix": "người hướng ngoại"
+ },
+ "tìng trạng": {
+  "vi": "tìng trạng",
+  "ko": "상태, 상황",
+  "fix": "tình trạng"
+ },
+ "dự dịnh": {
+  "vi": "dự dịnh",
+  "ko": "예정, 계획",
+  "fix": "dự định"
+ },
+ "kiểu thiết kế": {
+  "vi": "kiểu thiết kế",
+  "ko": "디자인",
+  "fix": ""
+ },
+ "linh kiện máy": {
+  "vi": "linh kiện máy",
+  "ko": "기계 부품",
+  "fix": ""
+ },
+ "khăng khăng": {
+  "vi": "khăng khăng",
+  "ko": "고집하다, 우기다",
+  "fix": ""
+ },
+ "khu cắm trại": {
+  "vi": "khu cắm trại",
+  "ko": "(캠핑장)",
+  "fix": ""
+ },
+ "mất màu": {
+  "vi": "mất màu",
+  "ko": "색상이 안나오다",
+  "fix": ""
+ },
+ "quét virus": {
+  "vi": "quét virus",
+  "ko": "바이러스 검사(스캔)",
+  "fix": ""
+ },
+ "sự giúp đỡ": {
+  "vi": "sự giúp đỡ",
+  "ko": "도움, 도움요청",
+  "fix": ""
+ },
+ "đến gần nhau": {
+  "vi": "đến gần nhau",
+  "ko": "서로 다가가다",
+  "fix": ""
+ },
+ "máy in đen trắng": {
+  "vi": "máy in đen trắng",
+  "ko": "흑백 프린터",
+  "fix": ""
+ },
+ "xếp lý": {
+  "vi": "xếp lý",
+  "ko": "상사, 관리자",
+  "fix": "quản lý"
+ },
+ "kiểm tra xuất cảnh": {
+  "vi": "kiểm tra xuất cảnh",
+  "ko": "출국심사",
+  "fix": ""
+ },
+ "thiên nhiên ban tặng": {
+  "vi": "thiên nhiên ban tặng",
+  "ko": "자연이 선물해주다",
+  "fix": ""
+ },
+ "đồ nhún": {
+  "vi": "đồ nhún",
+  "ko": "고무인형(자동차 인형)",
+  "fix": ""
+ },
+ "phù hợp nhu cầu": {
+  "vi": "phù hợp nhu cầu",
+  "ko": "필요에 맞다",
+  "fix": ""
+ },
+ "độ phân giải cao": {
+  "vi": "độ phân giải cao",
+  "ko": "고해상도",
+  "fix": ""
+ },
+ "thiết kế đơn giản": {
+  "vi": "thiết kế đơn giản",
+  "ko": "심플한 디자인",
+  "fix": ""
+ },
+ "thật ra thì": {
+  "vi": "thật ra thì",
+  "ko": "사실은",
+  "fix": ""
+ },
+ "thẻ tín dụng": {
+  "vi": "thẻ tín dụng",
+  "ko": "신용카드",
+  "fix": ""
+ },
+ "tự chỉnh sáng": {
+  "vi": "tự chỉnh sáng",
+  "ko": "밝기를 자동 조절하다",
+  "fix": ""
+ },
+ "giấc chiêm bao": {
+  "vi": "giấc chiêm bao",
+  "ko": "꿈",
+  "fix": ""
+ },
+ "giải nobel": {
+  "vi": "giải Nobel",
+  "ko": "노벨상",
+  "fix": ""
+ },
+ "hàng giả": {
+  "vi": "hàng giả",
+  "ko": "가짜 상품",
+  "fix": ""
+ },
+ "trúng xổ số": {
+  "vi": "trúng xổ số",
+  "ko": "복권에 당첨되다",
+  "fix": ""
+ },
+ "xoay xở": {
+  "vi": "xoay xở",
+  "ko": "그럭저럭 꾸려가다, 해결하려 애쓰다",
+  "fix": ""
+ },
+ "bánh ga-tô": {
+  "vi": "bánh ga-tô",
+  "ko": "케이크",
+  "fix": ""
+ }
+}

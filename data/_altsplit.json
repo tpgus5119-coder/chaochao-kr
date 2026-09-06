@@ -1,0 +1,1707 @@
+{
+ "khó|khó khăn": {
+  "ka": "(문제가) 어려운",
+  "kb": "곤란한, 어려움",
+  "same": false
+ },
+ "ngại|lo": {
+  "ka": "쑥스러운, 꺼리는",
+  "kb": "걱정하는",
+  "same": false
+ },
+ "môi trường|hoàn cảnh": {
+  "ka": "(자연) 환경",
+  "kb": "처지, 상황",
+  "same": false
+ },
+ "giá cả|giá": {
+  "ka": "물가, 가격 체계",
+  "kb": "값, 가격",
+  "same": false
+ },
+ "tăng|gia tăng": {
+  "ka": "(양·수가) 늘다",
+  "kb": "(강도·규모가) 증대하다",
+  "same": false
+ },
+ "quyết định|định": {
+  "ka": "결단하다",
+  "kb": "정하다, 계획하다",
+  "same": false
+ },
+ "cơ hội|cơ": {
+  "ka": "기회",
+  "kb": "계기, 기회(일부 합성어)",
+  "same": false
+ },
+ "dịch vụ|tặng kèm": {
+  "ka": "서비스(업)",
+  "kb": "덤으로 주다",
+  "same": false
+ },
+ "cải thiện|cải tiến": {
+  "ka": "개선하다(상태)",
+  "kb": "개량하다(기술·기구)",
+  "same": false
+ },
+ "liên lạc|liên hệ": {
+  "ka": "소식을 주고받다",
+  "kb": "관계를 맺다",
+  "same": false
+ },
+ "nghèo nàn|nghèo": {
+  "ka": "빈약한, 부족한",
+  "kb": "가난한",
+  "same": false
+ },
+ "sản phẩm|hàng phẩm": {
+  "ka": "제품, 생산물",
+  "kb": "",
+  "same": false
+ },
+ "vùng|khu vực": {
+  "ka": "특정 지역·지대",
+  "kb": "구획된 지역·구역",
+  "same": false
+ },
+ "vùng|địa phương": {
+  "ka": "특정 지역·지대",
+  "kb": "지방·현지",
+  "same": false
+ },
+ "tài liệu|dữ liệu": {
+  "ka": "문서·서류·자료",
+  "kb": "데이터·정보",
+  "same": false
+ },
+ "có vẻ|trông": {
+  "ka": "~해 보이다",
+  "kb": "겉모습이 ~하다",
+  "same": false
+ },
+ "tiến bộ|phát triển": {
+  "ka": "진보하다·향상하다",
+  "kb": "발전하다·성장하다",
+  "same": false
+ },
+ "lông mày|mắt": {
+  "ka": "눈썹",
+  "kb": "눈",
+  "same": false
+ },
+ "bán sỉ|bán buôn": {
+  "ka": "(동) 도매하다",
+  "kb": "(동) 도매하다",
+  "same": true
+ },
+ "tự nhiên|thiên nhiên": {
+  "ka": "자연스러운",
+  "kb": "대자연",
+  "same": false
+ },
+ "bí quyết|bí mật": {
+  "ka": "비결·노하우",
+  "kb": "비밀",
+  "same": false
+ },
+ "mối liên hệ|quan hệ": {
+  "ka": "연결 고리·연관성",
+  "kb": "관계·관련",
+  "same": false
+ },
+ "mối liên hệ|mối quan hệ": {
+  "ka": "연결 고리·연관성",
+  "kb": "인간관계·사이",
+  "same": false
+ },
+ "mất cắp|mất trộm": {
+  "ka": "(동) 물건을 도둑맞다",
+  "kb": "(동) 물건을 도둑맞다",
+  "same": true
+ },
+ "quần đùi|quần soóc": {
+  "ka": "반바지(명사)",
+  "kb": "반바지(명사)",
+  "same": true
+ },
+ "tiêu thụ|tiêu dùng": {
+  "ka": "판매·소비하다(동사)",
+  "kb": "사용·소비하다(동사)",
+  "same": false
+ },
+ "tiêu thụ|tiêu": {
+  "ka": "판매·소비하다(동사)",
+  "kb": "쓰다·지출하다(동사)",
+  "same": false
+ },
+ "hang đá|động": {
+  "ka": "바위 동굴(명사)",
+  "kb": "큰 천연 동굴(명사)",
+  "same": false
+ },
+ "hang đá|hang": {
+  "ka": "바위 동굴(명사)",
+  "kb": "굴·동굴(명사)",
+  "same": false
+ },
+ "thủ đô|kinh đô": {
+  "ka": "수도(명사)",
+  "kb": "옛 왕의 수도(명사)",
+  "same": false
+ },
+ "món ăn|ẩm thực": {
+  "ka": "요리(명사)",
+  "kb": "음식 문화(명사)",
+  "same": false
+ },
+ "được|thành": {
+  "ka": "얻다·이루다(동사)",
+  "kb": "~이 되다·완성하다(동사)",
+  "same": false
+ },
+ "thạo|khéo léo": {
+  "ka": "능숙한(형용사)",
+  "kb": "솜씨 좋은(형용사)",
+  "same": false
+ },
+ "thạo|khéo": {
+  "ka": "능숙한(형용사)",
+  "kb": "재주 있는(형용사)",
+  "same": false
+ },
+ "bên trái|trái": {
+  "ka": "왼쪽 편(명사)",
+  "kb": "왼쪽(형용사)",
+  "same": false
+ },
+ "ồn ào|ầm ĩ": {
+  "ka": "북적이는(형용사)",
+  "kb": "시끄러운(형용사)",
+  "same": false
+ },
+ "thuê|mượn": {
+  "ka": "돈을 내고 빌리다",
+  "kb": "무상으로 빌리다",
+  "same": false
+ },
+ "tiện nghi|tiện ích": {
+  "ka": "편리한 시설·환경",
+  "kb": "유용한 기능·혜택",
+  "same": false
+ },
+ "thích nghi|thích ứng": {
+  "ka": "환경에 적응하다",
+  "kb": "상황에 맞게 대응하다",
+  "same": false
+ },
+ "đầy đủ|kha khá": {
+  "ka": "부족함 없이 충분한",
+  "kb": "꽤 넉넉한",
+  "same": false
+ },
+ "đa phần|phần lớn": {
+  "ka": "대다수의 부분",
+  "kb": "전체의 큰 부분",
+  "same": true
+ },
+ "chung kết|trận chung kết": {
+  "ka": "결승(경기·단계)",
+  "kb": "결승전(경기)",
+  "same": false
+ },
+ "thu thập|sưu tầm": {
+  "ka": "자료 등을 모으다",
+  "kb": "취미로 수집하다",
+  "same": false
+ },
+ "ngay cả|thậm chí": {
+  "ka": "~조차도",
+  "kb": "심지어 ~까지도",
+  "same": false
+ },
+ "thực hiện|thực hành": {
+  "ka": "일을 수행하다",
+  "kb": "이론을 실천하다",
+  "same": false
+ },
+ "lời|lợi ích": {
+  "ka": "금전적 이익",
+  "kb": "전반적인 유익함",
+  "same": false
+ },
+ "di sản|tài sản": {
+  "ka": "물려받은 유산",
+  "kb": "개인의 자산",
+  "same": false
+ },
+ "xa lạ|lạ": {
+  "ka": "생소하고 낯선",
+  "kb": "신기하거나 낯선",
+  "same": false
+ },
+ "chùa chiền|chùa": {
+  "ka": "사찰들(집합적)",
+  "kb": "사찰(개별)",
+  "same": false
+ },
+ "đều|tất cả": {
+  "ka": "똑같이·모두",
+  "kb": "전체·모든 것",
+  "same": false
+ },
+ "bảo tàng|viện bảo tàng": {
+  "ka": "박물관",
+  "kb": "박물관(기관)",
+  "same": true
+ },
+ "giảng|giải thích": {
+  "ka": "강의·해설하다",
+  "kb": "설명·해명하다",
+  "same": false
+ },
+ "mặc cả|trả giá": {
+  "ka": "값을 깎다",
+  "kb": "값을 부르다·흥정하다",
+  "same": false
+ },
+ "nhắn tin|tin nhắn": {
+  "ka": "메시지를 보내다",
+  "kb": "메시지",
+  "same": false
+ },
+ "cố|cố gắng": {
+  "ka": "애써·억지로",
+  "kb": "노력하다",
+  "same": false
+ },
+ "luận án|luận văn": {
+  "ka": "학위 논문",
+  "kb": "졸업·학술 논문",
+  "same": false
+ },
+ "thị trường|chợ": {
+  "ka": "시장(경제)",
+  "kb": "재래시장",
+  "same": false
+ },
+ "thu hút|mồi chài": {
+  "ka": "끌어당기다·매료하다",
+  "kb": "유혹·꾀어내다",
+  "same": false
+ },
+ "cúm|cảm cúm": {
+  "ka": "인플루엔자(독감)",
+  "kb": "감기·독감",
+  "same": false
+ },
+ "dự thi|làm bài kiểm tra": {
+  "ka": "응시하다",
+  "kb": "시험을 치르다",
+  "same": false
+ },
+ "đô thị|thành phố": {
+  "ka": "도시 구역",
+  "kb": "행정 구역상 도시",
+  "same": false
+ },
+ "đô thị|thành thị": {
+  "ka": "도시(계획·구조)",
+  "kb": "도시(시가지)",
+  "same": false
+ },
+ "từng|đã từng": {
+  "ka": "과거에 ~한 적 있다",
+  "kb": "강조된 과거의 경험",
+  "same": false
+ },
+ "ước mơ|giấc chiêm bao": {
+  "ka": "꿈(희망)",
+  "kb": "잠잘 때 꾸는 꿈",
+  "same": false
+ },
+ "vua|nhà vua": {
+  "ka": "왕(호칭)",
+  "kb": "왕(존칭)",
+  "same": false
+ },
+ "nâng cấp|nâng cao": {
+  "ka": "등급·사양을 높이다",
+  "kb": "수준·질을 향상시키다",
+  "same": false
+ },
+ "bình phục|hồi phục": {
+  "ka": "병에서 회복되다",
+  "kb": "원래 상태로 복구되다",
+  "same": false
+ },
+ "quy hoạch|dự định": {
+  "ka": "도시·토지를 계획하다",
+  "kb": "의도·생각을 계획하다",
+  "same": false
+ },
+ "bến xe|bến xe buýt": {
+  "ka": "시외버스 터미널",
+  "kb": "버스 정류장",
+  "same": false
+ },
+ "đến thăm|thăm": {
+  "ka": "방문하러 가다",
+  "kb": "방문하다",
+  "same": false
+ },
+ "đến thăm|đi thăm": {
+  "ka": "방문하러 가다",
+  "kb": "길을 나서서 방문하다",
+  "same": false
+ },
+ "đến thăm|ghé thăm": {
+  "ka": "방문하러 가다",
+  "kb": "들러서 방문하다",
+  "same": false
+ },
+ "đến thăm|tới thăm": {
+  "ka": "찾아가다",
+  "kb": "방문하다",
+  "same": false
+ },
+ "hè|mùa hè": {
+  "ka": "여름(구어)",
+  "kb": "여름(표준)",
+  "same": false
+ },
+ "hè|mùa hạ": {
+  "ka": "여름(구어)",
+  "kb": "여름(문어)",
+  "same": false
+ },
+ "trời|thời tiết": {
+  "ka": "하늘·날씨",
+  "kb": "기상 상태",
+  "same": false
+ },
+ "họ hàng|người thân": {
+  "ka": "일가친척",
+  "kb": "가까운 친지",
+  "same": false
+ },
+ "bắt đầu|mở đầu": {
+  "ka": "시작하다",
+  "kb": "개시·서막을 열다",
+  "same": false
+ },
+ "cưới|kết hôn": {
+  "ka": "결혼식을 올리다",
+  "kb": "법적으로 혼인하다",
+  "same": false
+ },
+ "cưới|lấy nhau": {
+  "ka": "결혼식을 올리다",
+  "kb": "서로 부부가 되다",
+  "same": false
+ },
+ "gần|gần như": {
+  "ka": "가까운",
+  "kb": "거의·대략",
+  "same": false
+ },
+ "vườn|khu vườn": {
+  "ka": "밭·정원",
+  "kb": "정원 구역",
+  "same": false
+ },
+ "tận dụng|tranh thủ": {
+  "ka": "잘 활용하다",
+  "kb": "틈을 내어 하다",
+  "same": false
+ },
+ "chung cư|căn hộ chung cư": {
+  "ka": "아파트 단지",
+  "kb": "아파트 한 채",
+  "same": false
+ },
+ "giới mày râu|nam giới": {
+  "ka": "남성(수염 난 사내들)",
+  "kb": "남성(생물학적 성별)",
+  "same": false
+ },
+ "giới mày râu|nam": {
+  "ka": "남성(수염 난 사내들)",
+  "kb": "남성, 남자",
+  "same": false
+ },
+ "thực trạng|tình huống": {
+  "ka": "실태, 실제 상황",
+  "kb": "경우, 처한 상황",
+  "same": false
+ },
+ "chữa trị|điều trị": {
+  "ka": "치료·처방하다",
+  "kb": "의학적 치료를 하다",
+  "same": false
+ },
+ "mong|mong đợi": {
+  "ka": "바라다",
+  "kb": "기다리며 기대하다",
+  "same": false
+ },
+ "bụi|bụi bặm": {
+  "ka": "먼지",
+  "kb": "먼지투성이의",
+  "same": false
+ },
+ "séc|tờ séc": {
+  "ka": "수표",
+  "kb": "수표 한 장",
+  "same": false
+ },
+ "xem|hơn": {
+  "ka": "보다(관람·주의)",
+  "kb": "더(비교)",
+  "same": false
+ },
+ "xem|nhìn": {
+  "ka": "보다(관람·주의)",
+  "kb": "보다(시선을 두다)",
+  "same": false
+ },
+ "tay|bàn tay": {
+  "ka": "손, 팔",
+  "kb": "손바닥(손 전체)",
+  "same": false
+ },
+ "buồn|buồn rầu": {
+  "ka": "슬픈, 우울한",
+  "kb": "수심에 잠긴",
+  "same": false
+ },
+ "điền|điền vào": {
+  "ka": "기입하다",
+  "kb": "(칸을) 채워 넣다",
+  "same": false
+ },
+ "kể cả|bao gồm": {
+  "ka": "~조차, ~까지 포함하여",
+  "kb": "포함하다, 망라하다",
+  "same": false
+ },
+ "điều hòa nhiệt độ|máy lạnh": {
+  "ka": "에어컨(정식 명칭)",
+  "kb": "에어컨(구어체)",
+  "same": false
+ },
+ "điều hòa nhiệt độ|điều hòa": {
+  "ka": "에어컨(정식 명칭)",
+  "kb": "에어컨(줄임말)",
+  "same": false
+ },
+ "tả|miêu tả": {
+  "ka": "묘사하다(구어적)",
+  "kb": "묘사하다(문어적)",
+  "same": false
+ },
+ "bữa tiệc|tiệc": {
+  "ka": "(한 끼의) 파티",
+  "kb": "파티, 연회(일반)",
+  "same": false
+ },
+ "ít khi|hiếm khi": {
+  "ka": "가끔, 어쩌다 한번",
+  "kb": "드물게, 거의 안 하는",
+  "same": false
+ },
+ "thắc mắc|tò mò": {
+  "ka": "의문을 갖다",
+  "kb": "호기심 많은",
+  "same": false
+ },
+ "với|cùng với nhau": {
+  "ka": "~와 함께",
+  "kb": "서로 함께",
+  "same": false
+ },
+ "vịnh|mười nghìn": {
+  "ka": "만(bay)",
+  "kb": "만(10,000)",
+  "same": false
+ },
+ "sáng sủa|rạng rỡ": {
+  "ka": "(분위기) 밝은",
+  "kb": "(표정) 환한, 빛나는",
+  "same": false
+ },
+ "xám|màu xám": {
+  "ka": "회색의",
+  "kb": "회색",
+  "same": false
+ },
+ "mức|hạn mức": {
+  "ka": "수준, 정도",
+  "kb": "한도, 제한선",
+  "same": false
+ },
+ "trèo|trèo lên": {
+  "ka": "(무언가를 잡고) 기어오르다",
+  "kb": "위로 올라가다",
+  "same": false
+ },
+ "hẹn|hứa": {
+  "ka": "(시간/장소를) 약속하다",
+  "kb": "(상대에게) 맹세·확언하다",
+  "same": false
+ },
+ "mùa đông|áo rét": {
+  "ka": "겨울(계절)",
+  "kb": "겨울용 외투",
+  "same": false
+ },
+ "căng thẳng|hồi hộp": {
+  "ka": "(상황이) 긴장된·팽팽한",
+  "kb": "(마음이) 조마조마한",
+  "same": false
+ },
+ "nghỉ hưu|về hưu": {
+  "ka": "정년퇴직하다",
+  "kb": "은퇴하여 집으로 가다",
+  "same": true
+ },
+ "vận động|tập thể dục": {
+  "ka": "(전신을) 움직여 운동하다",
+  "kb": "(건강을 위해) 체조·단련하다",
+  "same": false
+ },
+ "tức giận|giận": {
+  "ka": "격분한·화가 치민",
+  "kb": "(속으로) 노여워하는",
+  "same": false
+ },
+ "nhức đầu|đau đầu": {
+  "ka": "머리가 욱신거리다",
+  "kb": "머리가 아프다",
+  "same": false
+ },
+ "bảo|kể": {
+  "ka": "(지시·명령조로) 말하다",
+  "kb": "(이야기를) 들려주다",
+  "same": false
+ },
+ "bảo|nói": {
+  "ka": "(지시·명령조로) 말하다",
+  "kb": "(일반적으로) 말하다",
+  "same": false
+ },
+ "hợp|thích hợp": {
+  "ka": "잘 맞다·일치하다",
+  "kb": "상황에 적절하다",
+  "same": false
+ },
+ "hợp|hợp với": {
+  "ka": "잘 맞다·일치하다",
+  "kb": "~와 궁합이 맞다",
+  "same": false
+ },
+ "đá quý|trang sức": {
+  "ka": "귀중한 보석",
+  "kb": "장신구·액세서리",
+  "same": false
+ },
+ "chân|bàn chân": {
+  "ka": "다리(신체부위)",
+  "kb": "발(발바닥 부분)",
+  "same": false
+ },
+ "gương|tấm gương": {
+  "ka": "거울(일반)",
+  "kb": "거울(개체 지칭)",
+  "same": false
+ },
+ "kính râm|cái kính râm": {
+  "ka": "선글라스",
+  "kb": "선글라스(개체)",
+  "same": true
+ },
+ "dự đoán|tiên đoán": {
+  "ka": "추측하다·예상하다",
+  "kb": "예언하다·점치다",
+  "same": false
+ },
+ "đặt trước|đặt": {
+  "ka": "예약하다·선주문",
+  "kb": "놓다·두다·배치하다",
+  "same": false
+ },
+ "tua trọn gói|du lịch trọn gói": {
+  "ka": "패키지 투어",
+  "kb": "패키지 여행",
+  "same": true
+ },
+ "đòi hỏi|đòi": {
+  "ka": "요구하다·필요로 하다",
+  "kb": "요구하다(달라고 하다)",
+  "same": false
+ },
+ "bể bơi|hồ bơi": {
+  "ka": "수영장(수조 중심)",
+  "kb": "수영장(호수 중심)",
+  "same": true
+ },
+ "tiếp tục|tiếp": {
+  "ka": "지속하다·이어서 하다",
+  "kb": "잇다·계승하다",
+  "same": false
+ },
+ "tiếp tục|cứ": {
+  "ka": "지속하다",
+  "kb": "계속해서(계속 ~하다)",
+  "same": false
+ },
+ "chiều|buổi chiều": {
+  "ka": "오후(시간대)",
+  "kb": "오후(시점)",
+  "same": true
+ },
+ "gấp|khẩn cấp": {
+  "ka": "급한, 접는",
+  "kb": "긴급한",
+  "same": false
+ },
+ "nâng|nâng lên": {
+  "ka": "들어 올리다",
+  "kb": "위로 들어 올리다",
+  "same": false
+ },
+ "rau mùi|ngò": {
+  "ka": "고수(채소)",
+  "kb": "고수(남부 방언)",
+  "same": true
+ },
+ "ra ngoài|ra khỏi": {
+  "ka": "밖으로 나가다",
+  "kb": "~에서 벗어나다",
+  "same": false
+ },
+ "ra ngoài|đi ra": {
+  "ka": "밖으로 나가다",
+  "kb": "나가다(이동)",
+  "same": false
+ },
+ "cân|kilôgam": {
+  "ka": "무게/무게 재다",
+  "kb": "킬로그램(단위)",
+  "same": false
+ },
+ "chân dung|bức chân dung": {
+  "ka": "인물상, 초상",
+  "kb": "초상화(작품)",
+  "same": false
+ },
+ "bên phải|phải": {
+  "ka": "오른쪽",
+  "kb": "오른쪽의",
+  "same": false
+ },
+ "ly hôn|ly dị": {
+  "ka": "이혼하다(법적)",
+  "kb": "이혼하다(관습적)",
+  "same": true
+ },
+ "xe lửa|tàu hỏa": {
+  "ka": "기차",
+  "kb": "기차(열차)",
+  "same": true
+ },
+ "cây|kilômét": {
+  "ka": "나무",
+  "kb": "킬로미터",
+  "same": false
+ },
+ "cây|cây số": {
+  "ka": "나무",
+  "kb": "킬로미터(거리)",
+  "same": false
+ },
+ "cách|phương pháp": {
+  "ka": "방식·방법(명사)",
+  "kb": "체계적 방법(명사)",
+  "same": false
+ },
+ "sang năm|năm sau": {
+  "ka": "내년(부사적)",
+  "kb": "다음 해(명사적)",
+  "same": false
+ },
+ "tạnh mưa|tạnh": {
+  "ka": "비가 그치다(동사구)",
+  "kb": "그치다·멎다(동사)",
+  "same": false
+ },
+ "suốt ngày|cả ngày": {
+  "ka": "하루 내내(강조)",
+  "kb": "하루 종일(전체)",
+  "same": false
+ },
+ "kết thúc|xong": {
+  "ka": "마치다·종결하다(동사)",
+  "kb": "다 되다·완료되다(형용사)",
+  "same": false
+ },
+ "đắng|viết": {
+  "ka": "쓰다(맛·형용사)",
+  "kb": "쓰다(글자·동사)",
+  "same": false
+ },
+ "đồ tráng miệng|tráng miệng": {
+  "ka": "후식거리(명사)",
+  "kb": "후식하다(동사)",
+  "same": false
+ },
+ "đồ tráng miệng|món tráng miệng": {
+  "ka": "후식거리(명사)",
+  "kb": "후식 메뉴(명사)",
+  "same": true
+ },
+ "bật|bật đèn lên": {
+  "ka": "켜다·작동시키다(동사)",
+  "kb": "불을 켜다(동사구)",
+  "same": false
+ },
+ "bật|thắp": {
+  "ka": "켜다(전자기기 등)",
+  "kb": "불을 붙이다(점화)",
+  "same": false
+ },
+ "nỗ lực|công sức": {
+  "ka": "노력(명사/동사)",
+  "kb": "공력·수고(명사)",
+  "same": false
+ },
+ "khuyến khích|khuyên": {
+  "ka": "격려하다·장려하다",
+  "kb": "충고하다·권하다",
+  "same": false
+ },
+ "trận động đất|động đất": {
+  "ka": "명.지진(사건)",
+  "kb": "동/명.지진(현상)",
+  "same": false
+ },
+ "phụ nữ|nữ": {
+  "ka": "명.성인 여성",
+  "kb": "명/형.여성(성별)",
+  "same": false
+ },
+ "một chút|ít": {
+  "ka": "부/명.약간의(양)",
+  "kb": "형/부.적은(수량)",
+  "same": false
+ },
+ "một chút|một ít": {
+  "ka": "부.조금, 약간",
+  "kb": "부.약간의 양",
+  "same": true
+ },
+ "người già|lão": {
+  "ka": "명.노인(사람)",
+  "kb": "명.늙은이(격식/비하)",
+  "same": false
+ },
+ "quần bò|quần jean": {
+  "ka": "명.청바지",
+  "kb": "명.청바지",
+  "same": true
+ },
+ "cam kết|cam đoan": {
+  "ka": "동/명.약속·확약",
+  "kb": "동.장담·보증하다",
+  "same": false
+ },
+ "cơ sở|căn bản": {
+  "ka": "명.시설·기반",
+  "kb": "명/형.기초·근본",
+  "same": false
+ },
+ "phòng học|lớp học": {
+  "ka": "명.학습하는 방",
+  "kb": "명.수업 공간·학급",
+  "same": false
+ },
+ "Nga|nước Nga": {
+  "ka": "명.러시아(국가명)",
+  "kb": "명.러시아 국가",
+  "same": true
+ },
+ "đen|màu đen": {
+  "ka": "형.검은",
+  "kb": "명.검은색",
+  "same": false
+ },
+ "lười biếng|lười": {
+  "ka": "형.나태한",
+  "kb": "형.게으른",
+  "same": false
+ },
+ "loại|chủng loại": {
+  "ka": "분류하다/종류",
+  "kb": "유형·부류",
+  "same": false
+ },
+ "lần đầu tiên|đầu tiên": {
+  "ka": "맨 처음으로",
+  "kb": "첫 번째의",
+  "same": false
+ },
+ "quốc khánh|ngày quốc khánh": {
+  "ka": "건국 기념일",
+  "kb": "국경절 날짜",
+  "same": false
+ },
+ "đèn giao thông|đèn tín hiệu": {
+  "ka": "도로 신호등",
+  "kb": "모든 신호등",
+  "same": false
+ },
+ "mặc dù|dù": {
+  "ka": "비록 ~일지라도",
+  "kb": "~든 아니든",
+  "same": false
+ },
+ "sứ quán|đại sứ quán": {
+  "ka": "외교 사절단 사무소",
+  "kb": "대사관",
+  "same": false
+ },
+ "nối|gắn kết": {
+  "ka": "잇다·연결하다",
+  "kb": "결속하다·유대하다",
+  "same": false
+ },
+ "hãng hàng không|hàng không": {
+  "ka": "항공사(회사)",
+  "kb": "항공(분야)",
+  "same": false
+ },
+ "giới tính|giới": {
+  "ka": "생물학적 성별",
+  "kb": "성별·계층·분야",
+  "same": false
+ },
+ "liên|ngay lập tức": {
+  "ka": "",
+  "kb": "즉시",
+  "same": false
+ },
+ "đôi khi|thỉnh thoảng": {
+  "ka": "가끔(일시적)",
+  "kb": "가끔(주기적)",
+  "same": false
+ },
+ "cụ thể|chuyên biệt": {
+  "ka": "구체적인",
+  "kb": "특화된·전문의",
+  "same": false
+ },
+ "con rồng|rồng": {
+  "ka": "용(동물)",
+  "kb": "용(상상 속의 동물)",
+  "same": true
+ },
+ "phân cấp|phân phối": {
+  "ka": "등급을 나누다",
+  "kb": "분배·배급하다",
+  "same": false
+ },
+ "thương nghiệp|thương mại": {
+  "ka": "상업",
+  "kb": "무역",
+  "same": false
+ },
+ "kiểm tra|xác nhận": {
+  "ka": "검사·점검하다",
+  "kb": "확인·승인하다",
+  "same": false
+ },
+ "kiểm tra|rà soát": {
+  "ka": "검사·점검하다",
+  "kb": "재검토·훑다",
+  "same": false
+ },
+ "màu xanh lá cây|xanh lá cây": {
+  "ka": "초록색",
+  "kb": "초록색의",
+  "same": true
+ },
+ "màu xanh da trời|màu xanh dương": {
+  "ka": "하늘색",
+  "kb": "파란색",
+  "same": false
+ },
+ "rất|lắm": {
+  "ka": "매우(형용사 앞)",
+  "kb": "매우(형용사 뒤)",
+  "same": false
+ },
+ "rất|thật là": {
+  "ka": "매우",
+  "kb": "정말로",
+  "same": false
+ },
+ "rất|rất là": {
+  "ka": "매우",
+  "kb": "매우(강조)",
+  "same": true
+ },
+ "rất|vô cùng": {
+  "ka": "매우",
+  "kb": "지극히·무척",
+  "same": false
+ },
+ "bác sỹ|bác sĩ": {
+  "ka": "(명) 의사",
+  "kb": "(명) 의사",
+  "same": true
+ },
+ "kỹ sư|kỹ thuật viên": {
+  "ka": "엔지니어(공학사)",
+  "kb": "기술자(기능인)",
+  "same": false
+ },
+ "làm|làm việc": {
+  "ka": "하다, 만들다",
+  "kb": "(직장에서) 일하다",
+  "same": false
+ },
+ "phim|điện ảnh": {
+  "ka": "(개별) 영화 작품",
+  "kb": "영화 산업·영화 예술",
+  "same": false
+ },
+ "cái mũ|mũ": {
+  "ka": "모자(개별 사물)",
+  "kb": "모자(개념적 통칭)",
+  "same": true
+ },
+ "cái cốc|cốc": {
+  "ka": "컵(개별 사물)",
+  "kb": "컵(개념적 통칭)",
+  "same": true
+ },
+ "cái xe đạp|xe đạp": {
+  "ka": "자전거(개별 사물)",
+  "kb": "자전거(개념적 통칭)",
+  "same": true
+ },
+ "tờ báo|báo": {
+  "ka": "신문 한 부",
+  "kb": "신문(매체 통칭)",
+  "same": false
+ },
+ "quả trứng|trứng gà": {
+  "ka": "알(일반적)",
+  "kb": "닭알(계란)",
+  "same": false
+ },
+ "máy vi tính|máy tính": {
+  "ka": "개인용 컴퓨터",
+  "kb": "컴퓨터·계산기",
+  "same": false
+ },
+ "đùa|nói đùa": {
+  "ka": "장난치다",
+  "kb": "농담(말)을 하다",
+  "same": false
+ },
+ "thanh bình|hòa bình": {
+  "ka": "평온하고 고요한",
+  "kb": "전쟁 없는 평화",
+  "same": false
+ },
+ "đường phố|phố": {
+  "ka": "길과 거리",
+  "kb": "시가지·번화가",
+  "same": false
+ },
+ "đường phố|khoảng cách": {
+  "ka": "거리, 시가지",
+  "kb": "간격, 거리",
+  "same": false
+ },
+ "giúp|giùm": {
+  "ka": "돕다",
+  "kb": "대신 돕다/해주다",
+  "same": false
+ },
+ "biển báo|biển": {
+  "ka": "교통 표지판",
+  "kb": "바다/간판/표지",
+  "same": false
+ },
+ "nhiệm vụ|tác vụ": {
+  "ka": "임무, 과업",
+  "kb": "작업, 태스크(컴퓨터)",
+  "same": false
+ },
+ "quanh năm|suốt năm": {
+  "ka": "연중 내내",
+  "kb": "일 년 통틀어",
+  "same": false
+ },
+ "thời gian bảo hành|thời hạn bảo hành": {
+  "ka": "보증 소요 기간",
+  "kb": "보증 유효 기한",
+  "same": false
+ },
+ "lịch sự|nhã nhặn": {
+  "ka": "예의 바른",
+  "kb": "온화하고 정중한",
+  "same": false
+ },
+ "phương hướng|hướng": {
+  "ka": "나아갈 방향",
+  "kb": "쪽, 방위",
+  "same": false
+ },
+ "trắng|màu trắng": {
+  "ka": "하얀",
+  "kb": "흰색",
+  "same": false
+ },
+ "cuốn tiểu thuyết|tiểu thuyết": {
+  "ka": "소설책 한 권",
+  "kb": "소설(문학)",
+  "same": false
+ },
+ "hàng ngày|mỗi ngày": {
+  "ka": "날마다, 일상적인",
+  "kb": "매일(각각의 날)",
+  "same": false
+ },
+ "đỏ|màu đỏ": {
+  "ka": "빨간",
+  "kb": "빨간색",
+  "same": false
+ },
+ "nâu|màu nâu": {
+  "ka": "갈색(형용사)",
+  "kb": "갈색(명사)",
+  "same": false
+ },
+ "tím|màu tím": {
+  "ka": "보라색(형용사)",
+  "kb": "보라색(명사)",
+  "same": false
+ },
+ "hàng chục nghìn|hàng vạn": {
+  "ka": "수만(십 단위)",
+  "kb": "수만(만 단위)",
+  "same": false
+ },
+ "nghịch|phản kháng": {
+  "ka": "장난치다",
+  "kb": "저항하다",
+  "same": false
+ },
+ "tắc xi|xe taxi": {
+  "ka": "택시",
+  "kb": "택시(차량)",
+  "same": true
+ },
+ "tiệm cắt tóc|hiệu cắt tóc": {
+  "ka": "이발소(가게)",
+  "kb": "이발소(업소)",
+  "same": true
+ },
+ "nhà hát|quán karaoke": {
+  "ka": "극장",
+  "kb": "노래방",
+  "same": false
+ },
+ "ngựa|con ngựa": {
+  "ka": "말(동물)",
+  "kb": "말 한 마리",
+  "same": false
+ },
+ "ngày Tết|Tết Nguyên Đán": {
+  "ka": "설날(기간)",
+  "kb": "음력 설날",
+  "same": false
+ },
+ "chúc mừng|chúc": {
+  "ka": "축하하다",
+  "kb": "기원하다",
+  "same": false
+ },
+ "phó viện trưởng|viện phó": {
+  "ka": "부원장(직함)",
+  "kb": "부원장(약칭)",
+  "same": true
+ },
+ "cước|cước phí": {
+  "ka": "운임·요금",
+  "kb": "요금·수수료",
+  "same": false
+ },
+ "ảnh|tấm ảnh": {
+  "ka": "사진(일반적)",
+  "kb": "사진 한 장",
+  "same": false
+ },
+ "kính|thủy tinh": {
+  "ka": "안경·유리 재질",
+  "kb": "유리(물질)",
+  "same": false
+ },
+ "dấu phẩy|phẩy": {
+  "ka": "쉼표(문장 부호)",
+  "kb": "콤마(기호)",
+  "same": false
+ },
+ "xào|rang": {
+  "ka": "채소 등을 볶다",
+  "kb": "곡물·견과를 볶다",
+  "same": false
+ },
+ "quan trọng|trọng yếu": {
+  "ka": "중요한",
+  "kb": "핵심적으로 중요한",
+  "same": false
+ },
+ "ngoài|ngoài ra": {
+  "ka": "~밖에",
+  "kb": "그 외에·게다가",
+  "same": false
+ },
+ "sử dụng|dùng": {
+  "ka": "(격식) 사용하다",
+  "kb": "(일상) 쓰다·사용하다",
+  "same": false
+ },
+ "vịt|con vịt": {
+  "ka": "오리(동물)",
+  "kb": "오리 한 마리",
+  "same": false
+ },
+ "đồ gốm sứ|gốm": {
+  "ka": "도자기류",
+  "kb": "도기(재질)",
+  "same": false
+ },
+ "chuyên ngành|chuyên môn": {
+  "ka": "학문적 전공",
+  "kb": "전문 분야",
+  "same": false
+ },
+ "lí do|lý do": {
+  "ka": "(명) 이유",
+  "kb": "(명) 이유",
+  "same": true
+ },
+ "miệng|mồm": {
+  "ka": "입(정중한 표현)",
+  "kb": "입(구어적 표현)",
+  "same": false
+ },
+ "khỏe mạnh|khỏe": {
+  "ka": "건강한 상태인",
+  "kb": "튼튼한, 기운찬",
+  "same": false
+ },
+ "hi sinh|hy sinh": {
+  "ka": "희생하다 (고어)",
+  "kb": "희생하다 (표준)",
+  "same": true
+ },
+ "kiểu thiết kế|kiểu dáng": {
+  "ka": "설계 방식",
+  "kb": "제품의 외형·디자인",
+  "same": false
+ },
+ "du khách|khách du lịch": {
+  "ka": "여행 중인 사람",
+  "kb": "관광을 목적으로 온 사람",
+  "same": false
+ },
+ "voi|con voi": {
+  "ka": "코끼리 (동물)",
+  "kb": "코끼리 (개체)",
+  "same": false
+ },
+ "cắc cớ|kỳ thị": {
+  "ka": "까다롭고 골치 아픈",
+  "kb": "차별하다",
+  "same": false
+ },
+ "đi đò|đi thuyền": {
+  "ka": "나룻배를 타다",
+  "kb": "배를 타다 (일반)",
+  "same": false
+ },
+ "biến thành|hóa thành": {
+  "ka": "(모습이) 변해 바뀌다",
+  "kb": "(본질이) 변해 되다",
+  "same": false
+ },
+ "chủ đề|đề tài": {
+  "ka": "대화·글의 중심 내용",
+  "kb": "연구·창작의 소재",
+  "same": false
+ },
+ "chủ đề|chủ thể": {
+  "ka": "중심 내용",
+  "kb": "주체·당사자",
+  "same": false
+ },
+ "hối hận|tiếc": {
+  "ka": "잘못을 뉘우치다",
+  "kb": "아쉽게/안타깝게 여기다",
+  "same": false
+ },
+ "suy nghĩ|nghĩ": {
+  "ka": "깊은 생각(하다)",
+  "kb": "단순한 생각(하다)",
+  "same": false
+ },
+ "tranh biếm họa|biếm họa": {
+  "ka": "명) 풍자 만화",
+  "kb": "동) 풍자하다",
+  "same": false
+ },
+ "đồ lót|quần lót": {
+  "ka": "명) 속옷류 전체",
+  "kb": "명) 팬티",
+  "same": false
+ },
+ "Việt Nam|Việt": {
+  "ka": "명) 베트남 국가",
+  "kb": "명) 베트족/베트남의",
+  "same": false
+ },
+ "quả dưa chuột|dưa chuột": {
+  "ka": "명) 오이(열매)",
+  "kb": "명) 오이(채소)",
+  "same": true
+ },
+ "con tôm|tôm": {
+  "ka": "명) 새우(개체)",
+  "kb": "명) 새우(식재료)",
+  "same": true
+ },
+ "keo kiệt|hà tiện": {
+  "ka": "형) 쩨쩨한",
+  "kb": "형) 절약하는/인색한",
+  "same": false
+ },
+ "khoanh tròn|khoanh trò": {
+  "ka": "동) 동그라미 치다",
+  "kb": "",
+  "same": false
+ },
+ "chẵn|số chẵn": {
+  "ka": "형) 짝수의",
+  "kb": "명) 짝수",
+  "same": false
+ },
+ "ôn tập|ôn": {
+  "ka": "동) 복습하다",
+  "kb": "동) (짧게) 복습하다",
+  "same": false
+ },
+ "theo ý|tùy vào": {
+  "ka": "관용) 의도대로",
+  "kb": "관용) ~에 따라",
+  "same": false
+ },
+ "động cơ|đồng cấp": {
+  "ka": "명) 엔진/동기",
+  "kb": "형) 동급의",
+  "same": false
+ },
+ "ngữ văn Anh|văn học Anh": {
+  "ka": "명) 영어 영문학",
+  "kb": "명) 영국 문학",
+  "same": false
+ },
+ "trễ|muộn": {
+  "ka": "(시간) 늦다",
+  "kb": "(시기) 늦다/밤 깊다",
+  "same": false
+ },
+ "máy|máy quạt": {
+  "ka": "기계/기기",
+  "kb": "선풍기",
+  "same": false
+ },
+ "máy|quạt máy": {
+  "ka": "기계/기기",
+  "kb": "선풍기",
+  "same": false
+ },
+ "nơi đỗ xe|bãi đỗ xe": {
+  "ka": "주차하는 곳",
+  "kb": "주차장(넓은 구역)",
+  "same": false
+ },
+ "đỡ ồn ào|im ắng": {
+  "ka": "덜 시끄러운",
+  "kb": "정적·고요한",
+  "same": false
+ },
+ "nhỡ|nhỡ xe buýt": {
+  "ka": "(기회·차) 놓치다",
+  "kb": "동사구: 버스를 놓치다",
+  "same": false
+ },
+ "thực ra|thật ra thì ~": {
+  "ka": "사실은(문장 전체)",
+  "kb": "부사구: 사실 ~하자면",
+  "same": false
+ },
+ "thực ra|thật ra": {
+  "ka": "사실은(상태)",
+  "kb": "실은(진실)",
+  "same": false
+ },
+ "xung đột|bất đồng": {
+  "ka": "충돌·대립",
+  "kb": "의견 차이",
+  "same": false
+ },
+ "được sinh ra|sinh": {
+  "ka": "동사구: 태어나게 되다",
+  "kb": "낳다/태어나다",
+  "same": false
+ },
+ "bấm|nhấn": {
+  "ka": "(단추를) 누르다",
+  "kb": "(강하게) 꾹 누르다",
+  "same": false
+ },
+ "trả chậm|bán chịu": {
+  "ka": "동사구: 대금을 늦게 치르다",
+  "kb": "동사구: 외상으로 팔다",
+  "same": false
+ },
+ "nợ|mắc nợ": {
+  "ka": "빚지다",
+  "kb": "부채를 지다",
+  "same": false
+ },
+ "chào|tạm biệt": {
+  "ka": "인사하다(안녕)",
+  "kb": "작별 인사하다",
+  "same": false
+ },
+ "check lại|xem lại": {
+  "ka": "재점검하다(외래어)",
+  "kb": "다시 살펴보다",
+  "same": false
+ },
+ "label|tem nhãn": {
+  "ka": "라벨(상표)",
+  "kb": "스티커식 라벨",
+  "same": false
+ },
+ "hàng lỗi|NG": {
+  "ka": "불량품",
+  "kb": "불합격품(약어)",
+  "same": false
+ },
+ "linh kiện|bộ phận": {
+  "ka": "개별 부품·소자",
+  "kb": "구성 부분·부품",
+  "same": false
+ },
+ "nguyên liệu thô|nguyên vật liệu": {
+  "ka": "가공 전 원료",
+  "kb": "제조용 원자재",
+  "same": false
+ },
+ "hàng tồn kho|tồn kho": {
+  "ka": "재고품",
+  "kb": "재고(상태)",
+  "same": false
+ },
+ "kho|kho hàng": {
+  "ka": "창고·저장소",
+  "kb": "물류 창고",
+  "same": false
+ },
+ "vật tư phụ|phụ liệu": {
+  "ka": "보조 자재",
+  "kb": "부속 재료",
+  "same": false
+ },
+ "máy móc|máy": {
+  "ka": "기계류(총칭)",
+  "kb": "개별 기계·장치",
+  "same": false
+ },
+ "bảo trì phòng ngừa|bảo trì": {
+  "ka": "예방 보전",
+  "kb": "유지 보수",
+  "same": false
+ },
+ "phụ tùng dự phòng|phụ tùng": {
+  "ka": "예비 부품",
+  "kb": "부속품",
+  "same": false
+ },
+ "trạm y tế|trạm y thế": {
+  "ka": "보건소",
+  "kb": "",
+  "same": false
+ },
+ "găng|găng tay": {
+  "ka": "장갑(줄임말)",
+  "kb": "장갑",
+  "same": false
+ },
+ "kiểm tra sức khoẻ|khám sức khỏe": {
+  "ka": "건강 상태 점검",
+  "kb": "건강 검진",
+  "same": false
+ },
+ "đề bạt|lên chức": {
+  "ka": "승진시키다",
+  "kb": "승진하다",
+  "same": false
+ },
+ "giờ tan tầm|thời gian tan sở": {
+  "ka": "퇴근 시간대",
+  "kb": "퇴근 시각",
+  "same": false
+ },
+ "cấp trên|sếp": {
+  "ka": "직속 상사",
+  "kb": "사장·상사",
+  "same": false
+ },
+ "sơ yếu lý lịch|bản lý lịch": {
+  "ka": "이력서(상세)",
+  "kb": "이력서",
+  "same": false
+ },
+ "ngân sách|dự toán": {
+  "ka": "예산(공공)",
+  "kb": "추정 예산",
+  "same": false
+ },
+ "ngân sách|túi tiền": {
+  "ka": "예산",
+  "kb": "지갑·자금",
+  "same": false
+ },
+ "đề nghị|đề xuất": {
+  "ka": "요구하다",
+  "kb": "제안하다",
+  "same": false
+ },
+ "đề nghị|gợi ý": {
+  "ka": "요구하다",
+  "kb": "넌지시 권하다",
+  "same": false
+ },
+ "hồ sơ|giấy tờ": {
+  "ka": "서류·파일",
+  "kb": "문서·증빙서류",
+  "same": false
+ },
+ "doanh thu|doanh số": {
+  "ka": "매출액(금액)",
+  "kb": "판매량·매출 실적",
+  "same": false
+ },
+ "ký tên|ký": {
+  "ka": "이름을 서명하다",
+  "kb": "서명·사인하다",
+  "same": false
+ },
+ "ký tên|chữ": {
+  "ka": "서명하다",
+  "kb": "글자·문자",
+  "same": false
+ },
+ "quét|quét mã": {
+  "ka": "쓸다·스캔하다",
+  "kb": "(QR 등) 코드를 찍다",
+  "same": false
+ },
+ "bán dẫn|chất bán dẫn": {
+  "ka": "반도체의",
+  "kb": "반도체 물질",
+  "same": false
+ },
+ "mạch điện|mạch": {
+  "ka": "전기 회로",
+  "kb": "회로·맥락·혈관",
+  "same": false
+ },
+ "vi mạch|mạch tích hợp": {
+  "ka": "마이크로칩",
+  "kb": "집적회로(IC)",
+  "same": false
+ },
+ "dây dẫn|dây điện": {
+  "ka": "도선·전선",
+  "kb": "전력선",
+  "same": false
+ },
+ "hàn thiếc|hàn": {
+  "ka": "납땜하다",
+  "kb": "용접·접합하다",
+  "same": false
+ },
+ "băng tải|băng chuyền": {
+  "ka": "(물류) 컨베이어",
+  "kb": "(생산) 컨베이어",
+  "same": true
+ },
+ "phím bấm|nút": {
+  "ka": "(키보드) 키",
+  "kb": "(기기) 버튼",
+  "same": false
+ },
+ "bàn thao tác|bàn": {
+  "ka": "작업용 테이블",
+  "kb": "일반적인 책상·탁자",
+  "same": false
+ },
+ "nguồn điện|nguồn": {
+  "ka": "전력 공급원",
+  "kb": "근원·출처",
+  "same": false
+ },
+ "nhấn|bấm": {
+  "ka": "꾹 누르다",
+  "kb": "짧게 누르다·찍다",
+  "same": false
+ },
+ "lật|lộn": {
+  "ka": "뒤집어 넘기다",
+  "kb": "안팎을 뒤집다",
+  "same": false
+ },
+ "cong|cong vênh": {
+  "ka": "휘어진",
+  "kb": "뒤틀려 휜",
+  "same": false
+ },
+ "giày|giày da": {
+  "ka": "신발",
+  "kb": "가죽 구두",
+  "same": false
+ },
+ "cái ví|ví": {
+  "ka": "지갑(통칭)",
+  "kb": "지갑(축약형)",
+  "same": true
+ },
+ "ngang vai|rộng vai": {
+  "ka": "어깨 너비",
+  "kb": "어깨가 넓은",
+  "same": false
+ },
+ "Đường sườn|đường may sườn": {
+  "ka": "옆선",
+  "kb": "옆솔기 봉제선",
+  "same": false
+ },
+ "hai cơi|túi 2 viền": {
+  "ka": "쌍 입술(봉제)",
+  "kb": "쌍 입술 주머니",
+  "same": true
+ },
+ "ủi|bàn ủi": {
+  "ka": "다림질하다",
+  "kb": "다리미",
+  "same": false
+ },
+ "nẹp áo|nẹp trên": {
+  "ka": "옷의 덧단",
+  "kb": "상단 덧단",
+  "same": false
+ },
+ "vết dơ|ô nhiễm": {
+  "ka": "얼룩·오점",
+  "kb": "오염시키다",
+  "same": false
+ },
+ "vết dơ|bẩn": {
+  "ka": "얼룩·오점",
+  "kb": "더러운",
+  "same": false
+ },
+ "mũi may|may diễu": {
+  "ka": "바늘땀·봉제",
+  "kb": "겉에서 눌러 박기",
+  "same": false
+ },
+ "quay lộn|may lộn": {
+  "ka": "뒤집어 돌리기",
+  "kb": "뒤집어 박기",
+  "same": false
+ },
+ "rộng nách|rung lắc": {
+  "ka": "진동 둘레가 넓은",
+  "kb": "흔들림·진동",
+  "same": false
+ },
+ "xử lý nhiệt|nhiệt luyện": {
+  "ka": "일반적인 열처리",
+  "kb": "금속 열처리",
+  "same": false
+ },
+ "ép nhựa|ép phun": {
+  "ka": "플라스틱 압축",
+  "kb": "사출 성형",
+  "same": false
+ },
+ "nhập khẩu|doanh thu, tiền hàng": {
+  "ka": "수입하다",
+  "kb": "매출·수입금",
+  "same": false
+ },
+ "a lô|alô": {
+  "ka": "(감) 여보세요(전화)",
+  "kb": "(감) 여보세요(전화)",
+  "same": true
+ },
+ "pa lét|pallet": {
+  "ka": "(명) 팔레트",
+  "kb": "(명) 팔레트",
+  "same": true
+ },
+ "xây|xây dựng": {
+  "ka": "짓다·쌓다",
+  "kb": "건설하다·구축하다",
+  "same": false
+ },
+ "đường ống|đường ống dẫn": {
+  "ka": "파이프·관",
+  "kb": "도관·수송관",
+  "same": false
+ },
+ "vệ sinh thực phẩm|vệ sinh an toàn thực phẩm": {
+  "ka": "식품 위생(관리)",
+  "kb": "식품 안전 위생",
+  "same": false
+ },
+ "quầy|quầy thu ngân": {
+  "ka": "판매대(명사)",
+  "kb": "계산대(명사)",
+  "same": false
+ },
+ "nhà bếp|phòng bếp": {
+  "ka": "부엌(공간)",
+  "kb": "주방(실내 공간)",
+  "same": false
+ },
+ "nhà hàng|phòng ăn": {
+  "ka": "음식점(업장)",
+  "kb": "식당(식사 공간)",
+  "same": false
+ },
+ "hóa đơn đỏ|hoá đơn đỏ": {
+  "ka": "세금계산서",
+  "kb": "세금계산서",
+  "same": true
+ }
+}

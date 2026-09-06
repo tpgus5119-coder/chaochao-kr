@@ -1,0 +1,325 @@
+{
+ "note": "무역 낱말. 원본 표에 베트남어가 없어 하나씩 확인해 붙였다.",
+ "words": [
+  {
+   "vi": "hoá đơn chiếu lệ",
+   "ko": "견적송장 (PI)",
+   "kr": "호아 던 찌에우 레",
+   "krs": "호아 던 찌에우 레",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "đơn đặt hàng",
+   "ko": "주문서 (PO)",
+   "kr": "던 닷 항",
+   "krs": "던 닷 항",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "hợp đồng",
+   "ko": "계약서",
+   "kr": "헙 동",
+   "krs": "헙 동",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "hoá đơn thương mại",
+   "ko": "상업송장",
+   "kr": "호아 던 트엉 마이",
+   "krs": "호아 던 트엉 마이",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "vận đơn",
+   "ko": "선하증권 (B/L)",
+   "kr": "번 던",
+   "krs": "연 던",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "vận đơn hàng không",
+   "ko": "항공화물운송장 (AWB)",
+   "kr": "번 던 항 콩",
+   "krs": "연 던 항 콩",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "giấy chứng nhận xuất xứ",
+   "ko": "원산지증명서 (C/O)",
+   "kr": "저이 쯩 년 쑤엇 쓰",
+   "krs": "여이 쯩 년 쑤엇 쓰",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "giấy chứng nhận bảo hiểm",
+   "ko": "보험증명서",
+   "kr": "저이 쯩 년 바오 히엠",
+   "krs": "여이 쯩 년 바오 히엠",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "giấy chứng nhận kiểm định",
+   "ko": "검사증명서",
+   "kr": "저이 쯩 년 끼엠 딘",
+   "krs": "여이 쯩 년 끼엠 딘",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "thư tín dụng",
+   "ko": "신용장 (L/C)",
+   "kr": "트 띤 중",
+   "krs": "트 띤 융",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "thư bảo lãnh",
+   "ko": "보증서 (L/G)",
+   "kr": "트 바오 라인",
+   "krs": "트 바오 라인",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "chuyển tiền bằng điện",
+   "ko": "전신환송금 (T/T)",
+   "kr": "쭈옌 띠엔 방 디엔",
+   "krs": "쭈옌 띠엔 방 디엔",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "thanh toán khi giao hàng",
+   "ko": "현금결제 (COD)",
+   "kr": "타인 또안 키 자오 항",
+   "krs": "타인 또안 키 야오 항",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "hải quan",
+   "ko": "세관",
+   "kr": "하이 꽌",
+   "krs": "하이 꽌",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "thông quan",
+   "ko": "통관",
+   "kr": "통 꽌",
+   "krs": "통 꽌",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "tờ khai hải quan",
+   "ko": "통관 신고서",
+   "kr": "떠 카이 하이 꽌",
+   "krs": "떠 카이 하이 꽌",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "thuế nhập khẩu",
+   "ko": "수입 관세",
+   "kr": "투에 녑 커우",
+   "krs": "투에 녑 커우",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "thuế xuất khẩu",
+   "ko": "수출 관세",
+   "kr": "투에 쑤엇 커우",
+   "krs": "투에 쑤엇 커우",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "khu phi thuế quan",
+   "ko": "보세구역",
+   "kr": "쿠 피 투에 꽌",
+   "krs": "쿠 피 투에 꽌",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "kho ngoại quan",
+   "ko": "보세창고",
+   "kr": "코 응오아이 꽌",
+   "krs": "코 응오아이 꽌",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "chuyển tải",
+   "ko": "환적",
+   "kr": "쭈옌 따이",
+   "krs": "쭈옌 따이",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "người nhận hàng",
+   "ko": "화주·수하인 (Consignee)",
+   "kr": "응으어이 년 항",
+   "krs": "응으어이 년 항",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "bên được thông báo",
+   "ko": "화물도착통지처",
+   "kr": "벤 드억 통 바오",
+   "krs": "벤 드억 통 바오",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "cước vận chuyển",
+   "ko": "운임",
+   "kr": "끄억 번 쭈옌",
+   "krs": "끄억 연 쭈옌",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "cước trả trước",
+   "ko": "운임 선지급",
+   "kr": "끄억 짜 쯔억",
+   "krs": "끄억 짜 쯔억",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "cước trả sau",
+   "ko": "운임 도착지불",
+   "kr": "끄억 짜 싸우",
+   "krs": "끄억 짜 사우",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "hàng nguyên container",
+   "ko": "컨테이너 만재화물 (FCL)",
+   "kr": "항 응우옌 꼬",
+   "krs": "항 응우옌 꼬",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "hàng lẻ",
+   "ko": "컨테이너 미달화물 (LCL)",
+   "kr": "항 래",
+   "krs": "항 래",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "mét khối",
+   "ko": "입방미터 (CBM)",
+   "kr": "맷 코이",
+   "krs": "맷 코이",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "mã HS",
+   "ko": "HS 코드 (품목분류)",
+   "kr": "마",
+   "krs": "마",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "cấm vận",
+   "ko": "수출입 금지",
+   "kr": "껌 번",
+   "krs": "껌 연",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "ngày dự kiến khởi hành",
+   "ko": "출항 예정일 (ETD)",
+   "kr": "응아이 즈 끼엔 커이 하인",
+   "krs": "응아이 으 끼엔 커이 하인",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "ngày dự kiến đến",
+   "ko": "도착 예정일 (ETA)",
+   "kr": "응아이 즈 끼엔 덴",
+   "krs": "응아이 으 끼엔 덴",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "sản xuất theo đơn đặt hàng",
+   "ko": "주문자상표부착생산 (OEM)",
+   "kr": "싼 쑤엇 태오 던 닷 항",
+   "krs": "산 쑤엇 태오 던 닷 항",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "báo cáo nhận hàng",
+   "ko": "수취보고서",
+   "kr": "바오 까오 년 항",
+   "krs": "바오 까오 년 항",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "bốc hàng lên tàu",
+   "ko": "선적하다",
+   "kr": "복 항 렌 따우",
+   "krs": "복 항 렌 따우",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "dỡ hàng",
+   "ko": "하역하다",
+   "kr": "저 항",
+   "krs": "여 항",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "người xuất khẩu",
+   "ko": "수출자",
+   "kr": "응으어이 쑤엇 커우",
+   "krs": "응으어이 쑤엇 커우",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "người nhập khẩu",
+   "ko": "수입자",
+   "kr": "응으어이 녑 커우",
+   "krs": "응으어이 녑 커우",
+   "track": "공통",
+   "trade": 1
+  },
+  {
+   "vi": "hãng tàu",
+   "ko": "선사",
+   "kr": "항 따우",
+   "krs": "항 따우",
+   "track": "공통",
+   "trade": 1
+  }
+ ]
+}

@@ -1,0 +1,233 @@
+<!doctype html><html lang="ko"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>짜오짜오 개발 현황판</title>
+<style>
+/* 개발자(대표님)용 화면 — 앱과 달리 처음부터 끝까지 한국어다.
+   숫자를 손으로 적지 않는다. 데이터 파일을 그 자리에서 읽어 세므로
+   콘텐츠를 늘리면 이 화면이 저절로 따라온다(적어 둔 숫자는 반드시 낡는다). */
+:root{ --bg:#f0f2f5; --card:#fff; --fg:#050505; --dim:#65676b; --line:#dadde1;
+  --accent:#1877f2; --ok:#1e8e3e; --bad:#d93025; --warn:#b8860b; }
+@media (prefers-color-scheme:dark){ :root{
+  --bg:#18191a; --card:#242526; --fg:#e4e6e9; --dim:#b0b3b8; --line:#3e4042;
+  --accent:#2374e1; --ok:#45bd62; --bad:#f02849; --warn:#e3b341; } }
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);line-height:1.65;
+  font-family:-apple-system,'Apple SD Gothic Neo','Segoe UI',Roboto,sans-serif;
+  font-size:15px; padding:0 0 60px}
+.wrap{max-width:820px;margin:0 auto;padding:0 16px}
+header{padding:28px 0 18px;border-bottom:1px solid var(--line);margin-bottom:22px}
+h1{margin:0 0 6px;font-size:24px;font-weight:900}
+.sub{margin:0;color:var(--dim);font-size:14px}
+h2{font-size:17px;margin:30px 0 12px;font-weight:800}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px}
+.stat b{display:block;font-size:26px;font-weight:900;color:var(--accent);line-height:1.1;
+  font-variant-numeric:tabular-nums}
+.stat span{font-size:12.5px;color:var(--dim)}
+.rows{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.row{display:flex;gap:12px;align-items:center;padding:12px 14px;border-top:1px solid var(--line)}
+.row:first-child{border-top:0}
+.row .k{flex:1;min-width:0}
+.row .k b{display:block;font-size:14.5px}
+.row .k span{font-size:12.5px;color:var(--dim)}
+.row .v{font-weight:800;font-variant-numeric:tabular-nums;white-space:nowrap}
+.tag{font-size:11.5px;font-weight:700;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.tag.ok{background:color-mix(in srgb,var(--ok) 16%,transparent);color:var(--ok)}
+.tag.bad{background:color-mix(in srgb,var(--bad) 16%,transparent);color:var(--bad)}
+.tag.warn{background:color-mix(in srgb,var(--warn) 18%,transparent);color:var(--warn)}
+.note{color:var(--dim);font-size:13px;margin:10px 2px}
+ul.todo{background:var(--card);border:1px solid var(--line);border-radius:14px;
+  margin:0;padding:14px 14px 14px 32px}
+ul.todo li{margin:7px 0}
+ul.todo li b{color:var(--fg)}
+.go{display:inline-block;margin:6px 6px 0 0;padding:11px 18px;border-radius:12px;
+  background:var(--accent);color:#fff;text-decoration:none;font-weight:800;font-size:14px}
+.go.ghost{background:var(--card);color:var(--fg);border:1px solid var(--line)}
+footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
+  color:var(--dim);font-size:12.5px}
+</style></head><body>
+<div class="wrap">
+<header>
+  <h1>짜오짜오 개발 현황판</h1>
+  <p class="sub">베트남 사람을 위한 한국어 과정 + 한국 사람을 위한 베트남어 과정.
+     이 화면은 <b>개발용</b>이라 처음부터 끝까지 한국어입니다.</p>
+</header>
+
+<div id="body"><p class="note">자료를 읽는 중…</p></div>
+
+<footer id="foot"></footer>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const el = (t, c, h) => { const n = document.createElement(t);
+  if (c) n.className = c; if (h != null) n.innerHTML = h; return n; };
+const get = p => fetch(p + '?t=' + Date.now(), { cache: 'no-store' })
+  .then(r => r.ok ? r.json() : null).catch(() => null);
+
+/* 있는지 없는지를 실제로 두드려 본다 — 색인에 이름만 있고 파일이 없는 일이 실제로 있었다 */
+const head = p => fetch(p, { method: 'HEAD' }).then(r => r.ok).catch(() => false);
+
+function stat(n, k) { const d = el('div', 'stat'); d.append(el('b', null, String(n)), el('span', null, k)); return d; }
+function row(title, sub, val, tag) {
+  const r = el('div', 'row');
+  const k = el('div', 'k'); k.append(el('b', null, title)); if (sub) k.append(el('span', null, sub));
+  r.append(k);
+  if (val != null) r.append(el('div', 'v', String(val)));
+  if (tag) r.append(el('span', 'tag ' + tag[1], tag[0]));
+  return r;
+}
+
+(async function () {
+  const B = $('#body'); B.textContent = '';
+  const [gram, basics, cult, days, exams, koIdx, viDays, viIdx] = await Promise.all([
+    get('data/ko_grammar.json'), get('data/ko_basics.json'), get('data/ko_culture.json'),
+    get('data/ko_days.json'), get('data/ko_exams.json'), get('data/ko_audio_index.json'),
+    get('data/days.json'), get('data/audio_index.json'),
+  ]);
+  const have = t => !!(koIdx && koIdx[t]);
+
+  /* ── 한눈에 ── */
+  B.append(el('h2', null, '한눈에'));
+  const g1 = el('div', 'grid');
+  const nGram = gram ? gram.items.length : 0;
+  const nDays = days ? days.days.length : 0;
+  const nQ = exams ? exams.exams.reduce((a, e) => a + e.questions.length, 0) : 0;
+  const nViWords = viDays ? viDays.days.reduce((a, d) => a + (d.words || []).length, 0) : 0;
+  g1.append(stat(nGram, '한국어 문법'), stat(nDays + '일', '날마다 배우기'),
+            stat(nQ, '모의고사 문항'), stat(basics ? basics.items.length : 0, '기본기'),
+            stat(cult ? cult.items.length : 0, '한국 문화'),
+            stat(koIdx ? Object.keys(koIdx).length : 0, '한국어 음원'),
+            stat(nViWords, '베트남어 단어'),
+            stat(viIdx ? Object.keys(viIdx).length : 0, '베트남어 음원'));
+  B.append(g1);
+
+  /* ── 한국어 과정 ── */
+  B.append(el('h2', null, '한국어 과정 (베트남 사람용)'));
+  const r1 = el('div', 'rows');
+  if (gram) {
+    const by = {};
+    gram.items.forEach(x => by[x.level] = (by[x.level] || 0) + 1);
+    const miss = gram.items.filter(x => !have(x.title_ko)).length
+               + gram.items.reduce((a, x) => a + x.examples.filter(e => !have(e.ko)).length, 0);
+    r1.append(row('기초 문법', Object.entries(by).map(([k, v]) => k + ' ' + v).join(' · '),
+                  gram.items.length + '개',
+                  miss ? ['음원 ' + miss + '개 빠짐', 'bad'] : ['음원 다 있음', 'ok']));
+  }
+  if (days) {
+    const w = days.days.reduce((a, d) => a + d.words.length, 0);
+    const l = days.days.reduce((a, d) => a + d.dialog.lines.length, 0);
+    const brk = gram ? days.days.filter(d => !gram.items.some(g => g.pattern === d.grammar)).length : 0;
+    // 어느 단계까지 왔는지는 문법 자료에서 세어 적는다 — 손으로 적으면 늘 옛말이 된다
+    const lv = gram ? [...new Set(days.days.map(d =>
+      (gram.items.find(g => g.pattern === d.grammar) || {}).level).filter(Boolean))] : [];
+    r1.append(row('날마다 배우기', '단어 ' + w + ' · 대화 ' + l + '줄'
+                  + (lv.length ? ' · ' + lv.join('·') : ''),
+                  days.days.length + '일',
+                  brk ? ['문법 연결 ' + brk + '건 끊김', 'bad'] : ['문법 연결 정상', 'ok']));
+  }
+  if (basics) {
+    const rows = basics.items.reduce((a, x) => a + x.table.length, 0);
+    const miss = basics.items.reduce((a, x) => a + x.table.filter(t => !have(t.say || t.ko)).length, 0);
+    r1.append(row('기본기', '모음·자음·받침·숫자·시간·돈·인사·호칭 · 표 ' + rows + '줄',
+                  basics.items.length + '개',
+                  miss ? ['음원 ' + miss + '개 빠짐', 'bad'] : ['음원 다 있음', 'ok']));
+  }
+  if (cult) {
+    const rows = cult.items.reduce((a, x) => a + x.table.length, 0);
+    const miss = cult.items.reduce((a, x) => a + x.table.filter(t => !have(t.ko)).length, 0);
+    r1.append(row('한국 문화', '직장·교통·병원·명절·분리배출·위급전화·은행·체류 · 표 ' + rows + '줄',
+                  cult.items.length + '개',
+                  miss ? ['음원 ' + miss + '개 빠짐', 'bad'] : ['음원 다 있음', 'ok']));
+  }
+  B.append(r1);
+
+  /* ── 모의고사 ── */
+  B.append(el('h2', null, '모의고사'));
+  const r2 = el('div', 'rows');
+  if (exams) {
+    const byId = {};
+    exams.exams.forEach(e => (byId[e.id] = byId[e.id] || []).push(e));
+    let audioMiss = 0, imgMiss = [], noWhy = 0;
+    exams.exams.forEach(e => e.questions.forEach(q => {
+      (q.audio || []).forEach(a => { if (!have(typeof a === 'string' ? a : a.t)) audioMiss++; });
+      if (q.img) imgMiss.push('img/' + q.img);
+      // 해설은 보기마다 한 줄씩 붙는다(q.exp). 넷이 다 차 있어야 '붙었다'고 친다.
+      if (!(q.exp && q.exp.length === 4 && q.exp.every(Boolean))) noWhy++;
+    }));
+    Object.values(byId).forEach(list => {
+      const e = list[0];
+      r2.append(row(e.name, e.desc, list.length + '회차 · ' + e.total + '문항 · ' + e.minutes + '분'));
+    });
+    r2.append(row('말하기 · 쓰기 (AI 채점)', 'KIIP 구술·작문 형식',
+                  exams.extra.speak.length + '세트 · ' + exams.extra.write.length + '제목'));
+    r2.append(row('듣기 음원', '없으면 그 문항은 아예 못 푼다', '',
+                  audioMiss ? [audioMiss + '개 빠짐', 'bad'] : ['전부 소리 남', 'ok']));
+    r2.append(row('오답 해설', '정답이 왜 맞는지 + 오답 셋이 각각 왜 틀렸는지',
+                  noWhy ? noWhy + '문항 없음' : '전 문항',
+                  noWhy ? ['아직 없음', 'warn'] : ['다 붙음', 'ok']));
+    // 그림은 실제로 두드려 본다
+    const uniq = [...new Set(imgMiss)];
+    const okList = await Promise.all(uniq.map(head));
+    const gone = uniq.filter((_, i) => !okList[i]).length;
+    r2.append(row('문항 그림', uniq.length + '장 참조', '',
+                  gone ? [gone + '장 없음', 'bad'] : ['다 있음', 'ok']));
+  }
+  B.append(r2);
+
+  /* ── 베트남어 과정 ── */
+  B.append(el('h2', null, '베트남어 과정 (한국 사람용)'));
+  const r3 = el('div', 'rows');
+  if (viDays) {
+    const w = viDays.days.reduce((a, d) => a + (d.words || []).length, 0);
+    const noAudio = viIdx ? viDays.days.reduce((a, d) =>
+      a + (d.words || []).filter(x => !viIdx[x.vi]).length, 0) : 0;
+    const imgs = [...new Set(viDays.days.flatMap(d => (d.words || []).map(x => x.img)).filter(Boolean))];
+    r3.append(row('날마다 배우기', '단어 ' + w + '개', viDays.days.length + '일',
+                  noAudio ? ['음원 ' + noAudio + '개 빠짐', 'bad'] : ['음원 다 있음', 'ok']));
+    r3.append(row('그림 카드', '단어에 붙은 그림', imgs.length + '장'));
+  }
+  const news = await get('data/news_days.json');
+  if (news) {
+    const nw = news.days.reduce((a, d) => a + (d.words || []).length, 0);
+    const ni = [...new Set(news.days.flatMap(d => (d.words || []).map(x => x.img)).filter(Boolean))];
+    const okN = await Promise.all(ni.map(x => head('img/' + x)));
+    const goneN = ni.filter((_, i) => !okN[i]).length;
+    r3.append(row('오늘의 베트남 소식', '매일 새벽 로봇이 기사 5개로 만든다 · 단어 ' + nw + '개',
+                  news.days.length + '세트',
+                  goneN ? ['그림 ' + goneN + '장 없음', 'warn'] : ['그림 다 있음', 'ok']));
+  }
+  B.append(r3);
+
+  /* ── 아직 없는 것 ── */
+  B.append(el('h2', null, '아직 없는 것 (알고 있는 구멍)'));
+  const todo = el('ul', 'todo');
+  [
+    ['워커 재배포', '동아리 순위·담벼락 사진·기출 복원 창구·설문 지방 집계가 서버를 기다리고 있다. 앱은 옛 서버에서도 돌지만 그 넷만 안 뜬다.'],
+    ['한자 다리 확인', '두 곳이 맞은 21개만 넣었다. 나머지 1,138개는 사람이 봐야 한다 — 기계로 넣으면 계단(階段)=giai đoạn 같은 가짜 친구가 섞인다. tools/hanviet_review.json 에 기출 빈도순으로 정렬해 뒀다.'],
+    ['EPS 직무 어휘 뜻풀이', '공개 직무문항에서 뽑은 낱말 중 뜻이 확인된 것만 썼다(업종마다 7~35개). 용접·주조 같은 현장어는 아직 사전에 없어 금속 업종은 아예 빠져 있다.'],
+    ['TOPIK II 듣기 3회분', '2회분 100문항은 냈다. 한 회 더 내려면 중급 대사를 50개 더 써야 한다.'],
+    ['설문 다시 받기', '지방 문항은 넣었다. 다만 그 전에 받은 답에는 지방이 없어, 지금 쌓인 표는 갈라 볼 수 없다.'],
+  ].forEach(([t, d]) => todo.append(el('li', null, '<b>' + t + '</b> — ' + d)));
+  B.append(todo);
+
+  /* ── 열어 보기 ── */
+  B.append(el('h2', null, '앱 열어 보기'));
+  const go = el('div');
+  const mk = (href, label, ghost) => {
+    const a = el('a', 'go' + (ghost ? ' ghost' : ''), label); a.href = href; return a;
+  };
+  go.append(mk('index.html', '앱 열기'),
+            mk('voice-vi.html', '목소리 설문 (베트남어)', 1),
+            mk('voice-ko.html', '목소리 설문 (한국어)', 1));
+  B.append(go);
+  B.append(el('p', 'note',
+    '앱을 연 뒤 <b>내 정보 → 화면 언어</b>에서 “한국어”를 고르면 베트남인용 과정도 한글로 볼 수 있습니다. ' +
+    '“나란히”를 고르면 베트남어 뒤에 한글 원문이 ⟨ ⟩ 로 같이 나옵니다 — 번역이 빠진 곳을 찾을 때 씁니다.'));
+
+  $('#foot').innerHTML = '이 화면의 숫자는 <b>손으로 적은 것이 아니라</b> 자료 파일을 지금 읽어 센 것입니다. ' +
+    '콘텐츠를 늘리면 이 화면도 저절로 따라옵니다. · 연 시각 ' + new Date().toLocaleString('ko-KR');
+})();
+</script>
+</body></html>

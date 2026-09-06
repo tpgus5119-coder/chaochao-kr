@@ -1,0 +1,390 @@
+{
+ "note": "선배 시험지에 섞여 있던 예문. 낱말 예문으로 쓴다.",
+ "sents": [
+  {
+   "vi": "Trên đường có bao nhiêu cái xe máy?",
+   "ko": "도로위에 오토바이는 얼마나 있나요?",
+   "gi": "17"
+  },
+  {
+   "vi": "Mẹ tôi đã kết thúc công việc vào tuần trước.",
+   "ko": "우리 어머니는 지난주에 회사를 그만두었습니다.",
+   "gi": "17"
+  },
+  {
+   "vi": "Trong phòng ngủ có một cái giường và một cái tủ gương.",
+   "ko": "침실에는 침대 한개와 거울옷장 한개가 있습니다.",
+   "gi": "17"
+  },
+  {
+   "vi": "Chủ nhật, cả gia đình đi chơi công viên.",
+   "ko": "주말에, 모든 가족들은 공원에 놀러갔습니다.",
+   "gi": "17"
+  },
+  {
+   "vi": "Mẹ không uống rượu cũng không uống côca.",
+   "ko": "어머니는 술도 안마시고 콜라도 안마십니다.",
+   "gi": "17"
+  },
+  {
+   "vi": "Nếu tôi đi du lịch thì tôi sẽ đi bằng ô tô.",
+   "ko": "만약 내가 여행을 간다면 나는 차를 타고 갈겁니다.",
+   "gi": "17"
+  },
+  {
+   "vi": "Anh ấy mua báo hai lần một tuần.",
+   "ko": "그는 일주일에 두번 신문을 삽니다.",
+   "gi": "17"
+  },
+  {
+   "vi": "Mặc dù trời mưa to, nhưng anh ấy vẫn đi làm.",
+   "ko": "비록 비가 많이 올지라도, 그는 여전히 출근을 합니다.",
+   "gi": "17"
+  },
+  {
+   "vi": "Bóng đá là môn thể thao phổ biến nhất ở Hàn Quốc,",
+   "ko": "축구는 한국에서 가장 대중적인 스포츠 입니다.",
+   "gi": "17"
+  },
+  {
+   "vi": "Người đẹp à",
+   "ko": "예쁜아~",
+   "gi": "17"
+  },
+  {
+   "vi": "Thành phố cảng",
+   "ko": "항구도시",
+   "gi": "17"
+  },
+  {
+   "vi": "Thành phố trực thộc trường ương",
+   "ko": "중앙직할시",
+   "gi": "17"
+  },
+  {
+   "vi": "Ở cùng gia đình VN",
+   "ko": "베트남 가정에서 지내다",
+   "gi": "18"
+  },
+  {
+   "vi": "Môi giới bất động sản",
+   "ko": "부동산 중개인",
+   "gi": "18"
+  },
+  {
+   "vi": "Hợp đồng thuê nhà",
+   "ko": "집 임대 계약서",
+   "gi": "18"
+  },
+  {
+   "vi": "Bố đơn thân",
+   "ko": "싱글대디",
+   "gi": "18"
+  },
+  {
+   "vi": "Có gì đâu",
+   "ko": "(윗사람이 아랫사람에게) 별거 아니야~, 괜찮아",
+   "gi": "18"
+  },
+  {
+   "vi": "A + chứ không + B",
+   "ko": "A하지만 B는 아니다",
+   "gi": "18"
+  },
+  {
+   "vi": "Tổng vệ sinh",
+   "ko": "집 청소",
+   "gi": "18"
+  },
+  {
+   "vi": "Chị ấy là giáo viên",
+   "ko": "đấy(강조).",
+   "gi": "18"
+  },
+  {
+   "vi": "Cặp nhiệt độ",
+   "ko": "체온을 재다 (겨드랑이로)",
+   "gi": "18"
+  },
+  {
+   "vi": "Vào viện / Nằm viện",
+   "ko": "입원하다",
+   "gi": "18"
+  },
+  {
+   "vi": "Ý hay đấy!",
+   "ko": "좋은 생각이야!",
+   "gi": "18"
+  },
+  {
+   "vi": "Hễ có tiền thì ông ta đi đánh bạc",
+   "ko": "돈만 생기면 그는 도박을 하러 간다.",
+   "gi": "18"
+  },
+  {
+   "vi": "Đối với worldcup đến các nhà hàng sôi động hẳn",
+   "ko": "월드컵이 되면 식당들이 훨씬 더 활기차진다.",
+   "gi": "18"
+  },
+  {
+   "vi": "Hiện nay đời sống kinh tế của người dân được cải thiện",
+   "ko": "요즘 국민들의 경제 생활이 개선되고 있다.",
+   "gi": "18"
+  },
+  {
+   "vi": "Vào viện Nằm viện",
+   "ko": "입원하다",
+   "gi": "18"
+  },
+  {
+   "vi": "Chúng ta luôn cố lên nhé! ^^*",
+   "ko": "이름 :",
+   "gi": "19"
+  },
+  {
+   "vi": "Chúc mọi người một ngày hạnh phúc.",
+   "ko": "이름 :",
+   "gi": "19"
+  },
+  {
+   "vi": "Trứng ốp la",
+   "ko": "계란 후라이",
+   "gi": "19"
+  },
+  {
+   "vi": "Thứ tự Nội dung công việc",
+   "ko": "“작업 내용 순서” 또는 “작업 절차”",
+   "gi": "19"
+  },
+  {
+   "vi": "Quá trình bắt vít",
+   "ko": "나사 체결 과정",
+   "gi": "19"
+  },
+  {
+   "vi": "bóc tách theo ƯI: 75 độ C...",
+   "ko": "75℃ 조건에서 10분 이내 분리 작업",
+   "gi": "19"
+  },
+  {
+   "vi": "Thực tế Form ghi...",
+   "ko": "실제 기록된 양식에는 73~80℃",
+   "gi": "19"
+  },
+  {
+   "vi": "Nguyên nhân phát sinh vấn đề",
+   "ko": "문제 발생 원인",
+   "gi": "19"
+  },
+  {
+   "vi": "Do line ca đêm",
+   "ko": "야간 근무 라인에서",
+   "gi": "19"
+  },
+  {
+   "vi": "Đối sách lâu dài",
+   "ko": "장기 대책",
+   "gi": "19"
+  },
+  {
+   "vi": "Leader line kiểm tra lại sổ kiểm tra laser",
+   "ko": "라인 리더가 레이저 점검표 재확인",
+   "gi": "19"
+  },
+  {
+   "vi": "LD (Leader): Thỏa đã xác nhận",
+   "ko": "리더 Thỏa가 확인 완료",
+   "gi": "19"
+  },
+  {
+   "vi": "Hạng mục kiểm tra",
+   "ko": "검사 항목",
+   "gi": "19"
+  },
+  {
+   "vi": "Loại hình lỗi",
+   "ko": "불량 유형",
+   "gi": "19"
+  },
+  {
+   "vi": "Dị vật deco",
+   "ko": "디코 부위 이물",
+   "gi": "19"
+  },
+  {
+   "vi": "Sản lượng thực tế",
+   "ko": "실제 생산량",
+   "gi": "19"
+  },
+  {
+   "vi": "Kế hoạch (Plan)",
+   "ko": "계획 수량",
+   "gi": "19"
+  },
+  {
+   "vi": "Kiểm tra OQC",
+   "ko": "출하검사",
+   "gi": "19"
+  },
+  {
+   "vi": "Đang chờ QC (Wait)",
+   "ko": "QC 대기",
+   "gi": "19"
+  },
+  {
+   "vi": "Lệnh xuất kho",
+   "ko": "창고 출고 명령서",
+   "gi": "19"
+  },
+  {
+   "vi": "Yêu cầu số lượng",
+   "ko": "요청 수량",
+   "gi": "19"
+  },
+  {
+   "vi": "Số lượng xuất",
+   "ko": "출고 수량",
+   "gi": "19"
+  },
+  {
+   "vi": "Hoàng up / SM – Bảo",
+   "ko": "담당자 이름",
+   "gi": "19"
+  },
+  {
+   "vi": "Line inspection 01",
+   "ko": "검사 라인 01",
+   "gi": "19"
+  },
+  {
+   "vi": "Công việc phụ trợ ngoài công tác vận hành sản xuất",
+   "ko": "생산운영 외의 부수 업무",
+   "gi": "19"
+  },
+  {
+   "vi": "Khó khăn do công việc phụ trợ",
+   "ko": "부수 업무로 인한 어려움",
+   "gi": "19"
+  },
+  {
+   "vi": "Biến động nhiều của nhân công thời vụ",
+   "ko": "단기공 인력 변동이 많음",
+   "gi": "19"
+  },
+  {
+   "vi": "Gặp khó khăn trong quản lý nhân viên kiểm tra tại dây chuyền",
+   "ko": "라인 내 검사자 관리 어려움",
+   "gi": "19"
+  },
+  {
+   "vi": "Sự thiếu hiệu quả trong quản lý line sản xuất",
+   "ko": "생산라인 관리 비효율",
+   "gi": "19"
+  },
+  {
+   "vi": "Khó khăn trong việc đảm bảo nhân lực",
+   "ko": "인력 확보의 어려움",
+   "gi": "19"
+  },
+  {
+   "vi": "Không có người muốn đảm nhận vị trí Tổ trưởng",
+   "ko": "셀리더(조장) 희망자 없음",
+   "gi": "19"
+  },
+  {
+   "vi": "Thiếu hụt nhân sự",
+   "ko": "인력 부족",
+   "gi": "19"
+  },
+  {
+   "vi": "Nhân viên nghỉ việc vì đãi ngộ không tương xứng",
+   "ko": "처우 불만으로 인한 퇴사",
+   "gi": "19"
+  },
+  {
+   "vi": "Đãi ngộ không tương xứng",
+   "ko": "업무 대비 보상 미흡",
+   "gi": "19"
+  },
+  {
+   "vi": "Mục tiêu: 1 Cell Leader = 1 line chuyên trách",
+   "ko": "목표 : 1셀리더 1라인 전담 체계",
+   "gi": "19"
+  },
+  {
+   "vi": "Thêm Cell Leader thêm thoải mái cho tất cả",
+   "ko": "셀리더 확충 모두의 여유",
+   "gi": "19"
+  },
+  {
+   "vi": "Ủng hộ và đồng hành",
+   "ko": "지원과 동참",
+   "gi": "19"
+  },
+  {
+   "vi": "Để xây dựng được cơ cấu này",
+   "ko": "이 구조를 만들기 위해서는",
+   "gi": "19"
+  },
+  {
+   "vi": "Tăng mức phụ cấp Relief",
+   "ko": "리리프 수당 인상",
+   "gi": "19"
+  },
+  {
+   "vi": "Tuyển dụng và phát triển nhân tài",
+   "ko": "인재 모집 및 육성",
+   "gi": "19"
+  },
+  {
+   "vi": "Đảm nhận vai trò Cell Leader trong tương lai",
+   "ko": "향후 셀리더 역할을 맡을 인재",
+   "gi": "19"
+  },
+  {
+   "vi": "Sự ủng hộ và đồng hành của các bạn",
+   "ko": "여러분의 지지와 협력",
+   "gi": "19"
+  },
+  {
+   "vi": "Quản lý line sản xuất",
+   "ko": "생산라인 관리",
+   "gi": "19"
+  },
+  {
+   "vi": "Phụ cấp Relief",
+   "ko": "리리프 수당 (교대보조 수당)",
+   "gi": "19"
+  },
+  {
+   "vi": "Thiếu nhân lực Relief",
+   "ko": "리리프 인력 부족",
+   "gi": "19"
+  },
+  {
+   "vi": "Đào tạo liên tục",
+   "ko": "지속 교육",
+   "gi": "19"
+  },
+  {
+   "vi": "Cơ cấu tổ chức",
+   "ko": "조직 구조",
+   "gi": "19"
+  },
+  {
+   "vi": "BV chuyên khoa",
+   "ko": "전문 병원",
+   "gi": "20"
+  },
+  {
+   "vi": "BV đa khoa",
+   "ko": "종합 병원",
+   "gi": "20"
+  },
+  {
+   "vi": "BV Đông y",
+   "ko": "한방 병원",
+   "gi": "20"
+  }
+ ]
+}

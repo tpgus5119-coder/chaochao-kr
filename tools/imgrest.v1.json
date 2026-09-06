@@ -1,0 +1,2248 @@
+{
+ "xin chào": {
+  "vi": "xin chào",
+  "k": "form",
+  "f": "인사말",
+  "e": "xin chào = 안녕하세요"
+ },
+ "tôi": {
+  "vi": "tôi",
+  "k": "draw",
+  "p": "a person pointing at their own chest, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ạ": {
+  "vi": "ạ",
+  "k": "form",
+  "f": "문장 끝 공손함 추가",
+  "e": "vâng ạ = 네(공손)"
+ },
+ "vâng": {
+  "vi": "vâng",
+  "k": "form",
+  "f": "긍정의 대답",
+  "e": "vâng = 네"
+ },
+ "tên": {
+  "vi": "tên",
+  "k": "draw",
+  "p": "a name tag with a blank space, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "gì": {
+  "vi": "gì",
+  "k": "form",
+  "f": "의문사 무엇",
+  "e": "tên gì = 무엇 이름"
+ },
+ "là": {
+  "vi": "là",
+  "k": "form",
+  "f": "A là B = A는 B이다",
+  "e": "tôi là Nam = 나는 남이다"
+ },
+ "của": {
+  "vi": "của",
+  "k": "form",
+  "f": "A của B = B의 A",
+  "e": "tên của tôi = 내 이름"
+ },
+ "không": {
+  "vi": "không",
+  "k": "form",
+  "f": "A không B = A는 B가 아니다",
+  "e": "không phải = 아니다"
+ },
+ "có": {
+  "vi": "có",
+  "k": "draw",
+  "p": "a person holding a gift box, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "rất": {
+  "vi": "rất",
+  "k": "form",
+  "f": "rất + 형용사 = 아주 ~",
+  "e": "rất tốt = 아주 좋다"
+ },
+ "nào": {
+  "vi": "nào",
+  "k": "form",
+  "f": "명사 + nào = 어느 명사",
+  "e": "người nào = 어느 사람"
+ },
+ "ở": {
+  "vi": "ở",
+  "k": "form",
+  "f": "ở + 장소 = ~에 있다",
+  "e": "ở nhà = 집에 있다"
+ },
+ "đâu": {
+  "vi": "đâu",
+  "k": "form",
+  "f": "장소 의문사 어디",
+  "e": "ở đâu = 어디에"
+ },
+ "kia": {
+  "vi": "kia",
+  "k": "draw",
+  "p": "a finger pointing at a distant mountain, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "và": {
+  "vi": "và",
+  "k": "form",
+  "f": "A và B = A 그리고 B",
+  "e": "anh và tôi = 형 그리고 나"
+ },
+ "được": {
+  "vi": "được",
+  "k": "form",
+  "f": "동사 + được = ~할 수 있다",
+  "e": "làm được = 할 수 있다"
+ },
+ "thế nào": {
+  "vi": "thế nào",
+  "k": "form",
+  "f": "상태 의문사 어떻다",
+  "e": "bạn thế nào = 너는 어때"
+ },
+ "lắm": {
+  "vi": "lắm",
+  "k": "form",
+  "f": "형용사 + lắm = 아주 ~",
+  "e": "đẹp lắm = 아주 예쁘다"
+ },
+ "cũng": {
+  "vi": "cũng",
+  "k": "form",
+  "f": "A cũng B = A도 B하다",
+  "e": "tôi cũng vậy = 나도 그래"
+ },
+ "bình thường": {
+  "vi": "bình thường",
+  "k": "draw",
+  "p": "a calm person standing still, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "biết": {
+  "vi": "biết",
+  "k": "draw",
+  "p": "a lightbulb glowing above a head, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chậm": {
+  "vi": "chậm",
+  "k": "draw",
+  "p": "a snail moving slowly, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "một chút": {
+  "vi": "một chút",
+  "k": "draw",
+  "p": "a small pinch gesture, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hẹn gặp lại": {
+  "vi": "hẹn gặp lại",
+  "k": "draw",
+  "p": "two people waving goodbye, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nhé": {
+  "vi": "nhé",
+  "k": "form",
+  "f": "문장 끝 부드러운 권유",
+  "e": "đi nhé = 가자"
+ },
+ "sau": {
+  "vi": "sau",
+  "k": "draw",
+  "p": "a person walking behind another, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "trước": {
+  "vi": "trước",
+  "k": "draw",
+  "p": "a person walking in front of another, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "rồi": {
+  "vi": "rồi",
+  "k": "form",
+  "f": "동사 + rồi = 이미 ~했다",
+  "e": "ăn rồi = 이미 먹었다"
+ },
+ "làm việc": {
+  "vi": "làm việc",
+  "k": "draw",
+  "p": "a person sitting at a desk with a laptop, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mấy": {
+  "vi": "mấy",
+  "k": "form",
+  "f": "mấy + 명사 = 몇 개의 ~",
+  "e": "mấy người = 몇 사람"
+ },
+ "bao nhiêu": {
+  "vi": "bao nhiêu",
+  "k": "form",
+  "f": "bao nhiêu = 얼마나/몇(큰 수)",
+  "e": "bao nhiêu tiền = 얼마인가요"
+ },
+ "tất cả": {
+  "vi": "tất cả",
+  "k": "draw",
+  "p": "a large pile of various objects grouped together, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "còn": {
+  "vi": "còn",
+  "k": "form",
+  "f": "còn + A = 아직 A가 남았다",
+  "e": "còn một cái = 하나 남았다"
+ },
+ "thiếu": {
+  "vi": "thiếu",
+  "k": "draw",
+  "p": "a glass filled only halfway with water, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mươi": {
+  "vi": "mươi",
+  "k": "form",
+  "f": "số + mươi = 십 단위 숫자",
+  "e": "hai mươi = 20"
+ },
+ "lúc": {
+  "vi": "lúc",
+  "k": "form",
+  "f": "lúc + 시간 = ~할 때",
+  "e": "lúc ba giờ = 3시에"
+ },
+ "thứ ba": {
+  "vi": "thứ ba",
+  "k": "draw",
+  "p": "a calendar page with the third day highlighted, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thứ tư": {
+  "vi": "thứ tư",
+  "k": "draw",
+  "p": "a calendar page with the fourth day highlighted, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thứ năm": {
+  "vi": "thứ năm",
+  "k": "draw",
+  "p": "a calendar page with the fifth day highlighted, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thứ sáu": {
+  "vi": "thứ sáu",
+  "k": "draw",
+  "p": "a calendar page with the sixth day highlighted, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thứ bảy": {
+  "vi": "thứ bảy",
+  "k": "draw",
+  "p": "a calendar page with the seventh day highlighted, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ngày": {
+  "vi": "ngày",
+  "k": "draw",
+  "p": "a sun rising over a horizon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "sớm": {
+  "vi": "sớm",
+  "k": "draw",
+  "p": "an alarm clock showing early morning time, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mỗi": {
+  "vi": "mỗi",
+  "k": "form",
+  "f": "mỗi + 명사 = 매 ~",
+  "e": "mỗi ngày = 매일"
+ },
+ "thường": {
+  "vi": "thường",
+  "k": "form",
+  "f": "thường + 동사 = 보통 ~한다",
+  "e": "thường đi học = 보통 학교에 간다"
+ },
+ "này": {
+  "vi": "này",
+  "k": "form",
+  "f": "A + này = 이 A",
+  "e": "cái này = 이것"
+ },
+ "cho": {
+  "vi": "cho",
+  "k": "form",
+  "f": "cho + 대상 = ~에게 주다",
+  "e": "cho tôi = 나에게 주다"
+ },
+ "xin": {
+  "vi": "xin",
+  "k": "form",
+  "f": "xin + 동사 = ~해 주세요",
+  "e": "xin chào = 안녕하세요"
+ },
+ "anh trai": {
+  "vi": "anh trai",
+  "k": "draw",
+  "p": "a young man standing smiling, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chị gái": {
+  "vi": "chị gái",
+  "k": "draw",
+  "p": "a young woman standing smiling, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "em trai": {
+  "vi": "em trai",
+  "k": "draw",
+  "p": "a little boy standing smiling, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bụng": {
+  "vi": "bụng",
+  "k": "draw",
+  "p": "a human torso focusing on the stomach area, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "làm ơn": {
+  "vi": "làm ơn",
+  "k": "form",
+  "f": "làm ơn + 동사 = 부디 ~해주세요",
+  "e": "làm ơn giúp tôi = 부디 도와주세요"
+ },
+ "cần": {
+  "vi": "cần",
+  "k": "draw",
+  "p": "a person looking at a shopping list, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "được không": {
+  "vi": "được không",
+  "k": "form",
+  "f": "동사 + được không? = ~할 수 있나요?",
+  "e": "đi được không? = 갈 수 있나요?"
+ },
+ "hãy": {
+  "vi": "hãy",
+  "k": "form",
+  "f": "hãy + 동사 = ~하세요(명령)",
+  "e": "hãy ăn đi = 드세요"
+ },
+ "đã": {
+  "vi": "đã",
+  "k": "form",
+  "f": "đã + 동사 = 이미 ~했다",
+  "e": "đã ăn = 이미 먹었다"
+ },
+ "đang": {
+  "vi": "đang",
+  "k": "form",
+  "f": "đang + 동사 = ~하는 중이다",
+  "e": "đang học = 공부하는 중"
+ },
+ "sẽ": {
+  "vi": "sẽ",
+  "k": "form",
+  "f": "sẽ + 동사 = ~할 것이다",
+  "e": "sẽ đi = 갈 것이다"
+ },
+ "với": {
+  "vi": "với",
+  "k": "form",
+  "f": "A với B = A와 함께 B",
+  "e": "đi với tôi = 나와 함께 가다"
+ },
+ "hôm kia": {
+  "vi": "hôm kia",
+  "k": "draw",
+  "p": "A calendar page showing the day before yesterday marked with a red circle, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bao giờ": {
+  "vi": "bao giờ",
+  "k": "form",
+  "f": "bao giờ + 동사 = 언제 ~합니까?",
+  "e": "bao giờ đi = 언제 갑니까?"
+ },
+ "sao": {
+  "vi": "sao",
+  "k": "form",
+  "f": "sao = 왜 또는 어떻게",
+  "e": "sao thế = 왜 그래?"
+ },
+ "hẹn": {
+  "vi": "hẹn",
+  "k": "draw",
+  "p": "Two people standing and talking with a calendar icon floating above them, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ai": {
+  "vi": "ai",
+  "k": "form",
+  "f": "ai = 누구",
+  "e": "ai đó = 누구입니까?"
+ },
+ "gì nữa": {
+  "vi": "gì nữa",
+  "k": "form",
+  "f": "A gì nữa = 또 무엇을 A합니까?",
+  "e": "muốn gì nữa = 또 무엇을 원합니까?"
+ },
+ "thôi": {
+  "vi": "thôi",
+  "k": "form",
+  "f": "동사 + thôi = ~만 하다",
+  "e": "xem thôi = 보기만 하다"
+ },
+ "nữa": {
+  "vi": "nữa",
+  "k": "form",
+  "f": "A nữa = 더 A하다",
+  "e": "ăn nữa = 더 먹다"
+ },
+ "chuyền": {
+  "vi": "chuyền",
+  "k": "draw",
+  "p": "A factory conveyor belt with products moving along, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ca": {
+  "vi": "ca",
+  "k": "draw",
+  "p": "A clock showing a shift change time, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tăng ca": {
+  "vi": "tăng ca",
+  "k": "draw",
+  "p": "A person working at a desk late at night under a lamp, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "số lượng": {
+  "vi": "số lượng",
+  "k": "draw",
+  "p": "A pile of many identical boxes stacked together, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tổng": {
+  "vi": "tổng",
+  "k": "form",
+  "f": "tổng A = A의 총합",
+  "e": "tổng tiền = 총 금액"
+ },
+ "nhận": {
+  "vi": "nhận",
+  "k": "draw",
+  "p": "A person receiving a gift box, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "gửi": {
+  "vi": "gửi",
+  "k": "draw",
+  "p": "A person dropping a letter into a mailbox, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hết": {
+  "vi": "hết",
+  "k": "draw",
+  "p": "An empty glass bowl, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đủ": {
+  "vi": "đủ",
+  "k": "draw",
+  "p": "A scale showing a balanced weight, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thêm": {
+  "vi": "thêm",
+  "k": "form",
+  "f": "thêm + A = A를 더하다",
+  "e": "thêm nước = 물을 더하다"
+ },
+ "kịp": {
+  "vi": "kịp",
+  "k": "draw",
+  "p": "A person running and catching a bus just in time, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "an toàn": {
+  "vi": "an toàn",
+  "k": "draw",
+  "p": "A shield icon protecting a person, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nguy hiểm": {
+  "vi": "nguy hiểm",
+  "k": "draw",
+  "p": "A warning sign with a skull icon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cẩn thận": {
+  "vi": "cẩn thận",
+  "k": "draw",
+  "p": "A person walking slowly and carefully on a narrow path, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cấm": {
+  "vi": "cấm",
+  "k": "draw",
+  "p": "A red circle with a diagonal line through it, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chú ý": {
+  "vi": "chú ý",
+  "k": "draw",
+  "p": "A large exclamation mark icon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "phải": {
+  "vi": "phải",
+  "k": "form",
+  "f": "phải + 동사 = ~해야 한다",
+  "e": "phải đi = 가야 한다"
+ },
+ "nhanh": {
+  "vi": "nhanh",
+  "k": "draw",
+  "p": "A cheetah running very fast, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đúng": {
+  "vi": "đúng",
+  "k": "draw",
+  "p": "A large green checkmark, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "sai": {
+  "vi": "sai",
+  "k": "draw",
+  "p": "A large red cross mark, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "giống": {
+  "vi": "giống",
+  "k": "draw",
+  "p": "Two identical apples side by side, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "khác": {
+  "vi": "khác",
+  "k": "draw",
+  "p": "two different colored apples, one red and one green, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "xem": {
+  "vi": "xem",
+  "k": "draw",
+  "p": "a person looking at a television screen, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chỗ": {
+  "vi": "chỗ",
+  "k": "draw",
+  "p": "an empty chair at a desk, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thế này": {
+  "vi": "thế này",
+  "k": "form",
+  "f": "thế này = 이렇게",
+  "e": "làm thế này = 이렇게 하다"
+ },
+ "cái này": {
+  "vi": "cái này",
+  "k": "draw",
+  "p": "a person pointing at an object close by, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cái kia": {
+  "vi": "cái kia",
+  "k": "draw",
+  "p": "a person pointing at an object far away, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "máy": {
+  "vi": "máy",
+  "k": "draw",
+  "p": "a generic industrial machine with gears, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "điện": {
+  "vi": "điện",
+  "k": "draw",
+  "p": "a glowing light bulb, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "báo cáo": {
+  "vi": "báo cáo",
+  "k": "draw",
+  "p": "a document with a bar chart on it, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đến": {
+  "vi": "đến",
+  "k": "draw",
+  "p": "a train arriving at a station platform, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "xin phép": {
+  "vi": "xin phép",
+  "k": "draw",
+  "p": "a person bowing slightly to ask for permission, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đúng giờ": {
+  "vi": "đúng giờ",
+  "k": "draw",
+  "p": "a clock showing exactly twelve o'clock, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "vắng": {
+  "vi": "vắng",
+  "k": "draw",
+  "p": "an empty office chair with no one sitting, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cố gắng": {
+  "vi": "cố gắng",
+  "k": "draw",
+  "p": "a person running a race with sweat drops, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bảng": {
+  "vi": "bảng",
+  "k": "draw",
+  "p": "a large whiteboard on a wall, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "số": {
+  "vi": "số",
+  "k": "draw",
+  "p": "a large number seven written on a card, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đơn": {
+  "vi": "đơn",
+  "k": "draw",
+  "p": "a paper form with check boxes, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nghỉ trưa": {
+  "vi": "nghỉ trưa",
+  "k": "draw",
+  "p": "a person sleeping at a desk during noon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "phòng": {
+  "vi": "phòng",
+  "k": "draw",
+  "p": "an empty square room with a door, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tầng": {
+  "vi": "tầng",
+  "k": "draw",
+  "p": "a multi-story building showing the second floor, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tháng": {
+  "vi": "tháng",
+  "k": "draw",
+  "p": "a calendar page showing a full month, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thưởng": {
+  "vi": "thưởng",
+  "k": "draw",
+  "p": "a golden envelope with a ribbon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tăng": {
+  "vi": "tăng",
+  "k": "draw",
+  "p": "an arrow pointing diagonally upward, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "giảm": {
+  "vi": "giảm",
+  "k": "draw",
+  "p": "an arrow pointing diagonally downward, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "phần trăm": {
+  "vi": "phần trăm",
+  "k": "draw",
+  "p": "a percent symbol on a sign, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bảo hiểm": {
+  "vi": "bảo hiểm",
+  "k": "draw",
+  "p": "a shield protecting a house, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thuế": {
+  "vi": "thuế",
+  "k": "draw",
+  "p": "a stack of coins with a tax stamp, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "khu": {
+  "vi": "khu",
+  "k": "draw",
+  "p": "a fenced area on a map, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thẳng": {
+  "vi": "thẳng",
+  "k": "draw",
+  "p": "a straight arrow pointing forward, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "quay lại": {
+  "vi": "quay lại",
+  "k": "draw",
+  "p": "a u-turn arrow sign, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "số điện thoại": {
+  "vi": "số điện thoại",
+  "k": "draw",
+  "p": "a smartphone screen displaying a list of numbers, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "alô": {
+  "vi": "alô",
+  "k": "form",
+  "f": "전화 받을 때 쓰는 인사말",
+  "e": "alô = 여보세요"
+ },
+ "bận": {
+  "vi": "bận",
+  "k": "draw",
+  "p": "a person surrounded by many stacks of paper and files, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "rảnh": {
+  "vi": "rảnh",
+  "k": "draw",
+  "p": "a person relaxing on a comfortable chair, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "liên lạc": {
+  "vi": "liên lạc",
+  "k": "draw",
+  "p": "two people talking on their respective phones, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "khuy": {
+  "vi": "khuy",
+  "k": "draw",
+  "p": "a buttonhole on a piece of fabric, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mẫu": {
+  "vi": "mẫu",
+  "k": "draw",
+  "p": "a small fabric swatch with a tag, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "gấu": {
+  "vi": "gấu",
+  "k": "draw",
+  "p": "the folded bottom hem of a pair of pants, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thân trước": {
+  "vi": "thân trước",
+  "k": "draw",
+  "p": "the front panel of a shirt laid flat, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thân sau": {
+  "vi": "thân sau",
+  "k": "draw",
+  "p": "the back panel of a shirt laid flat, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cỡ": {
+  "vi": "cỡ",
+  "k": "draw",
+  "p": "a clothing size label showing a large letter, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "vắt sổ": {
+  "vi": "vắt sổ",
+  "k": "draw",
+  "p": "an overlock sewing machine stitch on fabric edge, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tháo": {
+  "vi": "tháo",
+  "k": "draw",
+  "p": "a seam ripper removing stitches from fabric, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nhặt chỉ": {
+  "vi": "nhặt chỉ",
+  "k": "draw",
+  "p": "loose threads being pulled off a garment, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lỗi": {
+  "vi": "lỗi",
+  "k": "draw",
+  "p": "a garment with a visible tear or defect, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chất lượng": {
+  "vi": "chất lượng",
+  "k": "draw",
+  "p": "a gold star badge representing high quality, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "sản phẩm": {
+  "vi": "sản phẩm",
+  "k": "draw",
+  "p": "a neatly folded shirt on a table, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đạt": {
+  "vi": "đạt",
+  "k": "draw",
+  "p": "a green checkmark on a product tag, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "làm lại": {
+  "vi": "làm lại",
+  "k": "draw",
+  "p": "a person sewing the same seam again, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bẩn": {
+  "vi": "bẩn",
+  "k": "draw",
+  "p": "a white shirt with a dark stain, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lại mũi": {
+  "vi": "lại mũi",
+  "k": "draw",
+  "p": "a close up of reinforced backstitching on fabric, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bỏ mũi": {
+  "vi": "bỏ mũi",
+  "k": "draw",
+  "p": "a sewing line with a missing stitch gap, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "căng chỉ": {
+  "vi": "căng chỉ",
+  "k": "draw",
+  "p": "a sewing machine tension dial with a thread, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chỉnh": {
+  "vi": "chỉnh",
+  "k": "draw",
+  "p": "a hand turning a dial on a machine, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đều": {
+  "vi": "đều",
+  "k": "draw",
+  "p": "perfectly aligned and uniform stitches, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bàn cắt": {
+  "vi": "bàn cắt",
+  "k": "draw",
+  "p": "a large flat table with a cutting mat, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lớp": {
+  "vi": "lớp",
+  "k": "draw",
+  "p": "multiple layers of fabric stacked together, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lót": {
+  "vi": "lót",
+  "k": "draw",
+  "p": "the silky inner lining of a jacket, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mex": {
+  "vi": "mex",
+  "k": "draw",
+  "p": "a piece of fusible interfacing fabric, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bọ": {
+  "vi": "bọ",
+  "k": "draw",
+  "p": "a small reinforced bar tack stitch on a pocket corner, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "phụ liệu": {
+  "vi": "phụ liệu",
+  "k": "draw",
+  "p": "a pile of various sewing accessories like buttons and ribbons, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "sót": {
+  "vi": "sót",
+  "k": "draw",
+  "p": "a checklist with one empty un-ticked box, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đổi": {
+  "vi": "đổi",
+  "k": "draw",
+  "p": "two different colored items being swapped in position, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "loại": {
+  "vi": "loại",
+  "k": "draw",
+  "p": "a group of items sorted into different categories, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hoàn thành": {
+  "vi": "hoàn thành",
+  "k": "draw",
+  "p": "a completed puzzle with the last piece placed, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "dán": {
+  "vi": "dán",
+  "k": "draw",
+  "p": "a sticker being applied onto a flat surface, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "sạch": {
+  "vi": "sạch",
+  "k": "draw",
+  "p": "a sparkling clean floor with a reflection, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mùa": {
+  "vi": "mùa",
+  "k": "draw",
+  "p": "a tree showing four distinct seasonal changes, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ướt": {
+  "vi": "ướt",
+  "k": "draw",
+  "p": "a shirt with dark water stains, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "xe": {
+  "vi": "xe",
+  "k": "draw",
+  "p": "a simple car icon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "xanh": {
+  "vi": "xanh",
+  "k": "draw",
+  "p": "a solid blue square, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đậm": {
+  "vi": "đậm",
+  "k": "draw",
+  "p": "a very dark thick brush stroke, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nhạt": {
+  "vi": "nhạt",
+  "k": "draw",
+  "p": "a very light thin brush stroke, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lo": {
+  "vi": "lo",
+  "k": "draw",
+  "p": "a person with a worried facial expression, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chán": {
+  "vi": "chán",
+  "k": "draw",
+  "p": "a person sitting slumped with a bored expression, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thoải mái": {
+  "vi": "thoải mái",
+  "k": "draw",
+  "p": "a person relaxing on a comfortable sofa, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "căng thẳng": {
+  "vi": "căng thẳng",
+  "k": "draw",
+  "p": "a person with a stressed face and a lightning bolt symbol above, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nhớ nhà": {
+  "vi": "nhớ nhà",
+  "k": "draw",
+  "p": "a person looking at a photo of a house with a sad expression, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chơi": {
+  "vi": "chơi",
+  "k": "draw",
+  "p": "two people playing with a ball, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thể thao": {
+  "vi": "thể thao",
+  "k": "draw",
+  "p": "a collection of sports equipment like a ball and racket, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "dọn": {
+  "vi": "dọn",
+  "k": "draw",
+  "p": "a broom cleaning a messy room, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "họng": {
+  "vi": "họng",
+  "k": "draw",
+  "p": "an anatomical illustration of a human throat, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cùng nhau": {
+  "vi": "cùng nhau",
+  "k": "form",
+  "f": "A cùng nhau B = A와 B가 함께",
+  "e": "chúng tôi cùng nhau đi = 우리는 함께 간다"
+ },
+ "mời": {
+  "vi": "mời",
+  "k": "draw",
+  "p": "a person gesturing an invitation to a dinner table, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "khách": {
+  "vi": "khách",
+  "k": "draw",
+  "p": "a person standing at a door as a visitor, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "vui vẻ": {
+  "vi": "vui vẻ",
+  "k": "draw",
+  "p": "a person with a big happy smile, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "năm mới": {
+  "vi": "năm mới",
+  "k": "draw",
+  "p": "a calendar page showing the start of a new year, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hạnh phúc": {
+  "vi": "hạnh phúc",
+  "k": "draw",
+  "p": "a heart symbol representing happiness, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "sức khỏe": {
+  "vi": "sức khỏe",
+  "k": "draw",
+  "p": "a strong muscular arm icon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nước ngoài": {
+  "vi": "nước ngoài",
+  "k": "draw",
+  "p": "a globe showing a distant country, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "visa": {
+  "vi": "visa",
+  "k": "draw",
+  "p": "a passport with a colorful stamp inside, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thuê": {
+  "vi": "thuê",
+  "k": "draw",
+  "p": "a person standing in front of a house with a for rent sign, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "văn hóa": {
+  "vi": "văn hóa",
+  "k": "draw",
+  "p": "a traditional festival scene with colorful lanterns and decorations, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thói quen": {
+  "vi": "thói quen",
+  "k": "draw",
+  "p": "a person brushing teeth in front of a mirror, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cố lên": {
+  "vi": "cố lên",
+  "k": "form",
+  "f": "상대 응원할 때 쓰는 말",
+  "e": "cố lên! = 힘내세요!"
+ },
+ "cảm biến": {
+  "vi": "cảm biến",
+  "k": "draw",
+  "p": "a small electronic device detecting motion, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chạy thử": {
+  "vi": "chạy thử",
+  "k": "draw",
+  "p": "a car driving on a test track, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tĩnh điện": {
+  "vi": "tĩnh điện",
+  "k": "draw",
+  "p": "a small spark jumping between two fingers, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "khô": {
+  "vi": "khô",
+  "k": "draw",
+  "p": "a desert landscape with cracked dry ground, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ẩm": {
+  "vi": "ẩm",
+  "k": "draw",
+  "p": "a rainy day with water droplets on a window, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chuẩn": {
+  "vi": "chuẩn",
+  "k": "draw",
+  "p": "a ruler measuring a perfect square, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "sai số": {
+  "vi": "sai số",
+  "k": "draw",
+  "p": "a target with an arrow slightly off the center, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "dùng": {
+  "vi": "dùng",
+  "k": "draw",
+  "p": "a person holding a pen to write on paper, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mờ": {
+  "vi": "mờ",
+  "k": "draw",
+  "p": "a blurry mountain landscape in the fog, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "rõ": {
+  "vi": "rõ",
+  "k": "draw",
+  "p": "a sharp clear view of a mountain landscape, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tốc độ": {
+  "vi": "tốc độ",
+  "k": "draw",
+  "p": "a speedometer needle pointing to high speed, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mục tiêu": {
+  "vi": "mục tiêu",
+  "k": "draw",
+  "p": "a dart hitting the bullseye of a target, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "sản lượng": {
+  "vi": "sản lượng",
+  "k": "draw",
+  "p": "a factory conveyor belt with many products, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tiếp tục": {
+  "vi": "tiếp tục",
+  "k": "draw",
+  "p": "a person walking forward on a long path, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "kế hoạch": {
+  "vi": "kế hoạch",
+  "k": "draw",
+  "p": "a calendar with marked dates and notes, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "báo": {
+  "vi": "báo",
+  "k": "draw",
+  "p": "a person speaking into a megaphone, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tài liệu": {
+  "vi": "tài liệu",
+  "k": "draw",
+  "p": "a stack of papers and documents on a desk, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chữ": {
+  "vi": "chữ",
+  "k": "draw",
+  "p": "a single character written on a clean page, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đặt": {
+  "vi": "đặt",
+  "k": "draw",
+  "p": "a person clicking a button on a laptop to order food, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "dịch": {
+  "vi": "dịch",
+  "k": "draw",
+  "p": "a person using a dictionary to translate a book, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tiếng Anh": {
+  "vi": "tiếng Anh",
+  "k": "draw",
+  "p": "a flag of the United Kingdom, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nghĩa": {
+  "vi": "nghĩa",
+  "k": "draw",
+  "p": "a lightbulb icon representing a sudden realization of meaning, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "từ": {
+  "vi": "từ",
+  "k": "draw",
+  "p": "a single word written on a blackboard, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "câu": {
+  "vi": "câu",
+  "k": "draw",
+  "p": "a full sentence written on a piece of paper, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "giải thích": {
+  "vi": "giải thích",
+  "k": "draw",
+  "p": "a teacher pointing at a diagram on a board, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hiểu nhầm": {
+  "vi": "hiểu nhầm",
+  "k": "draw",
+  "p": "A person with a confused expression looking at a misinterpreted sign, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chính xác": {
+  "vi": "chính xác",
+  "k": "draw",
+  "p": "A target with an arrow hitting the bullseye, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ví dụ": {
+  "vi": "ví dụ",
+  "k": "draw",
+  "p": "A blackboard showing a simple apple icon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nhắc lại": {
+  "vi": "nhắc lại",
+  "k": "draw",
+  "p": "A person speaking into a megaphone again, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cuộc hẹn": {
+  "vi": "cuộc hẹn",
+  "k": "draw",
+  "p": "A calendar page with a red circle on a specific date, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "công tác": {
+  "vi": "công tác",
+  "k": "draw",
+  "p": "A person carrying a briefcase walking towards an airplane, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đặt phòng": {
+  "vi": "đặt phòng",
+  "k": "draw",
+  "p": "A hotel key card placed on a bed, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hoãn": {
+  "vi": "hoãn",
+  "k": "draw",
+  "p": "A clock with its hands pushed back, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hơn": {
+  "vi": "hơn",
+  "k": "form",
+  "f": "A + hơn + B = A가 B보다 더하다",
+  "e": "lớn hơn tôi = 나보다 크다"
+ },
+ "chuyến": {
+  "vi": "chuyến",
+  "k": "draw",
+  "p": "A bus icon representing a single trip, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tài khoản": {
+  "vi": "tài khoản",
+  "k": "draw",
+  "p": "A bank book with a credit card, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tỷ giá": {
+  "vi": "tỷ giá",
+  "k": "draw",
+  "p": "A graph showing currency exchange rates, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "phí": {
+  "vi": "phí",
+  "k": "draw",
+  "p": "A coin falling into a piggy bank, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đăng ký": {
+  "vi": "đăng ký",
+  "k": "draw",
+  "p": "A pen checking a box on a form, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chăm chỉ": {
+  "vi": "chăm chỉ",
+  "k": "draw",
+  "p": "A person sitting at a desk with many books, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nội quy": {
+  "vi": "nội quy",
+  "k": "draw",
+  "p": "A document with a red stamp of approval, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "giữ": {
+  "vi": "giữ",
+  "k": "draw",
+  "p": "A person holding a fragile glass vase carefully, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "gọn gàng": {
+  "vi": "gọn gàng",
+  "k": "draw",
+  "p": "A neatly organized bookshelf, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thái độ": {
+  "vi": "thái độ",
+  "k": "draw",
+  "p": "A face showing a polite and respectful expression, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nghiêm túc": {
+  "vi": "nghiêm túc",
+  "k": "draw",
+  "p": "A person wearing a suit with a serious face, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nhờ": {
+  "vi": "nhờ",
+  "k": "draw",
+  "p": "A person bowing slightly to ask for help, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tôn trọng": {
+  "vi": "tôn trọng",
+  "k": "draw",
+  "p": "Two people bowing to each other, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hỏi thăm": {
+  "vi": "hỏi thăm",
+  "k": "draw",
+  "p": "A person talking to a friend with a smile, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chê": {
+  "vi": "chê",
+  "k": "draw",
+  "p": "A person pointing a thumb down at an object, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đùa": {
+  "vi": "đùa",
+  "k": "draw",
+  "p": "A person laughing while telling a joke, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thân": {
+  "vi": "thân",
+  "k": "draw",
+  "p": "Two people walking side by side closely, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chúc": {
+  "vi": "chúc",
+  "k": "draw",
+  "p": "A gift box with a ribbon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ép": {
+  "vi": "ép",
+  "k": "draw",
+  "p": "A person being pushed forward by an invisible force, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tăng hai": {
+  "vi": "tăng hai",
+  "k": "draw",
+  "p": "A sign showing the number two at a bar, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bữa": {
+  "vi": "bữa",
+  "k": "draw",
+  "p": "A bowl of rice and chopsticks on a table, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "quá": {
+  "vi": "quá",
+  "k": "form",
+  "f": "tính từ + quá = 너무 ~하다",
+  "e": "đẹp quá = 너무 예쁘다"
+ },
+ "xin nghỉ": {
+  "vi": "xin nghỉ",
+  "k": "draw",
+  "p": "a person holding a leave request form, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "phép năm": {
+  "vi": "phép năm",
+  "k": "draw",
+  "p": "a calendar with a marked vacation day, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lý do": {
+  "vi": "lý do",
+  "k": "draw",
+  "p": "a question mark inside a thought bubble, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "việc gấp": {
+  "vi": "việc gấp",
+  "k": "draw",
+  "p": "a running clock icon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đổi lịch": {
+  "vi": "đổi lịch",
+  "k": "draw",
+  "p": "two arrows pointing between two calendar dates, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "sắp": {
+  "vi": "sắp",
+  "k": "form",
+  "f": "sắp + 동사 = 곧 ~하려 한다",
+  "e": "sắp đi = 곧 가다"
+ },
+ "nhắc": {
+  "vi": "nhắc",
+  "k": "draw",
+  "p": "a person pointing at a sticky note on a wall, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nhầm": {
+  "vi": "nhầm",
+  "k": "draw",
+  "p": "a person looking confused at two different objects, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lỡ": {
+  "vi": "lỡ",
+  "k": "form",
+  "f": "lỡ + 동사 = 그만 ~해 버리다",
+  "e": "lỡ quên = 그만 잊어버리다"
+ },
+ "cố ý": {
+  "vi": "cố ý",
+  "k": "draw",
+  "p": "a person aiming a target with focus, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "vô ý": {
+  "vi": "vô ý",
+  "k": "draw",
+  "p": "a person accidentally dropping a glass, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tha lỗi": {
+  "vi": "tha lỗi",
+  "k": "draw",
+  "p": "two people shaking hands in reconciliation, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lần": {
+  "vi": "lần",
+  "k": "form",
+  "f": "số đếm + lần = ~번",
+  "e": "hai lần = 두 번"
+ },
+ "sửa sai": {
+  "vi": "sửa sai",
+  "k": "draw",
+  "p": "a person using an eraser on a paper, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "kinh nghiệm": {
+  "vi": "kinh nghiệm",
+  "k": "draw",
+  "p": "a person with a lightbulb icon above head, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bỏ qua": {
+  "vi": "bỏ qua",
+  "k": "draw",
+  "p": "a person waving hand to dismiss something, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thật": {
+  "vi": "thật",
+  "k": "form",
+  "f": "thật + tính từ = 정말로 ~한",
+  "e": "thật tốt = 정말 좋다"
+ },
+ "thử việc": {
+  "vi": "thử việc",
+  "k": "draw",
+  "p": "a person wearing a trainee badge, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chính thức": {
+  "vi": "chính thức",
+  "k": "draw",
+  "p": "a person wearing a formal suit, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lương cơ bản": {
+  "vi": "lương cơ bản",
+  "k": "draw",
+  "p": "a stack of coins representing base salary, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thời hạn": {
+  "vi": "thời hạn",
+  "k": "draw",
+  "p": "an hourglass running out of sand, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "gia hạn": {
+  "vi": "gia hạn",
+  "k": "draw",
+  "p": "a person extending a line on a paper, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "điều khoản": {
+  "vi": "điều khoản",
+  "k": "draw",
+  "p": "a document with numbered list items, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "quyền lợi": {
+  "vi": "quyền lợi",
+  "k": "draw",
+  "p": "a person holding a gift box, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nghĩa vụ": {
+  "vi": "nghĩa vụ",
+  "k": "draw",
+  "p": "a person carrying a heavy backpack, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "kỹ": {
+  "vi": "kỹ",
+  "k": "form",
+  "f": "động từ + kỹ = 꼼꼼히 ~하다",
+  "e": "xem kỹ = 꼼꼼히 보다"
+ },
+ "phụ cấp": {
+  "vi": "phụ cấp",
+  "k": "draw",
+  "p": "an envelope with extra money, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ngày công": {
+  "vi": "ngày công",
+  "k": "draw",
+  "p": "a calendar with checkmarks on work days, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tổng cộng": {
+  "vi": "tổng cộng",
+  "k": "draw",
+  "p": "a calculator showing a total sum, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thắc mắc": {
+  "vi": "thắc mắc",
+  "k": "draw",
+  "p": "a person with a large question mark bubble above their head, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lao động": {
+  "vi": "lao động",
+  "k": "draw",
+  "p": "a person working with tools in a factory, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lãnh sự quán": {
+  "vi": "lãnh sự quán",
+  "k": "draw",
+  "p": "a building with a national flag flying in front, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hạn": {
+  "vi": "hạn",
+  "k": "draw",
+  "p": "a calendar with a red circle on a specific date, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "quá hạn": {
+  "vi": "quá hạn",
+  "k": "draw",
+  "p": "a calendar with a date crossed out in red, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "y tế": {
+  "vi": "y tế",
+  "k": "draw",
+  "p": "a medical cross symbol on a white wall, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cấp cứu": {
+  "vi": "cấp cứu",
+  "k": "draw",
+  "p": "an ambulance with flashing lights, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "khỏi": {
+  "vi": "khỏi",
+  "k": "draw",
+  "p": "a person feeling healthy and energetic, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thấy": {
+  "vi": "thấy",
+  "k": "draw",
+  "p": "a person looking through a magnifying glass at an object, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "báo mất": {
+  "vi": "báo mất",
+  "k": "draw",
+  "p": "a person standing at a police desk reporting a lost item, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bình tĩnh": {
+  "vi": "bình tĩnh",
+  "k": "draw",
+  "p": "a person meditating peacefully, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tỉnh": {
+  "vi": "tỉnh",
+  "k": "draw",
+  "p": "a map showing a specific administrative region, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "miền": {
+  "vi": "miền",
+  "k": "draw",
+  "p": "a map divided into different geographic zones, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "miền Bắc": {
+  "vi": "miền Bắc",
+  "k": "draw",
+  "p": "a map highlighting the northern part of a country, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "miền Nam": {
+  "vi": "miền Nam",
+  "k": "draw",
+  "p": "a map highlighting the southern part of a country, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "sinh năm": {
+  "vi": "sinh năm",
+  "k": "form",
+  "f": "sinh năm + 숫자 = ~년생",
+  "e": "sinh năm 1995 = 95년생"
+ },
+ "độc thân": {
+  "vi": "độc thân",
+  "k": "draw",
+  "p": "a single person standing alone happily, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "khoe": {
+  "vi": "khoe",
+  "k": "draw",
+  "p": "a person showing off a new watch on their wrist, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "dễ thương": {
+  "vi": "dễ thương",
+  "k": "draw",
+  "p": "a cute puppy sitting on the floor, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thông minh": {
+  "vi": "thông minh",
+  "k": "draw",
+  "p": "a person with a glowing lightbulb above their head, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "xinh": {
+  "vi": "xinh",
+  "k": "draw",
+  "p": "a beautiful person smiling, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "trông": {
+  "vi": "trông",
+  "k": "form",
+  "f": "trông + 형용사 = ~해 보이다",
+  "e": "trông đẹp = 예뻐 보인다"
+ },
+ "trận": {
+  "vi": "trận",
+  "k": "draw",
+  "p": "a soccer ball on a green field, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hòa": {
+  "vi": "hòa",
+  "k": "draw",
+  "p": "two teams shaking hands after a game, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tỷ số": {
+  "vi": "tỷ số",
+  "k": "draw",
+  "p": "a scoreboard showing a tied score, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cuối": {
+  "vi": "cuối",
+  "k": "draw",
+  "p": "a finish line on a running track, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cuối tuần": {
+  "vi": "cuối tuần",
+  "k": "draw",
+  "p": "a calendar showing Saturday and Sunday highlighted, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "kể": {
+  "vi": "kể",
+  "k": "draw",
+  "p": "a person speaking to a group of listeners, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đi chơi": {
+  "vi": "đi chơi",
+  "k": "draw",
+  "p": "a person walking with a backpack towards a park, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "giỏi": {
+  "vi": "giỏi",
+  "k": "draw",
+  "p": "a person holding a gold trophy, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tuyệt vời": {
+  "vi": "tuyệt vời",
+  "k": "draw",
+  "p": "a person with a big smile giving a thumbs up, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "khéo": {
+  "vi": "khéo",
+  "k": "draw",
+  "p": "a person skillfully sewing a piece of cloth, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "dở": {
+  "vi": "dở",
+  "k": "draw",
+  "p": "a person looking confused at a broken wooden chair, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "à": {
+  "vi": "à",
+  "k": "form",
+  "f": "문장 끝 à = ~예요? (놀람/확인)",
+  "e": "anh đi à? = 가세요?"
+ },
+ "ừ": {
+  "vi": "ừ",
+  "k": "form",
+  "f": "문장 앞뒤 ừ = 응 (반말)",
+  "e": "ừ, tôi đi = 응, 가"
+ },
+ "nhỉ": {
+  "vi": "nhỉ",
+  "k": "form",
+  "f": "문장 끝 nhỉ = ~네요/그렇죠",
+  "e": "đẹp nhỉ = 예쁘네요"
+ },
+ "ghê": {
+  "vi": "ghê",
+  "k": "form",
+  "f": "형용사 + ghê = 엄청 ~하다",
+  "e": "đắt ghê = 엄청 비싸다"
+ },
+ "quen": {
+  "vi": "quen",
+  "k": "draw",
+  "p": "two people waving at each other in recognition, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ngọt": {
+  "vi": "ngọt",
+  "k": "draw",
+  "p": "a piece of cake with a sugar cube, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đắng": {
+  "vi": "đắng",
+  "k": "draw",
+  "p": "a cup of black coffee with a bitter expression icon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tái": {
+  "vi": "tái",
+  "k": "draw",
+  "p": "a piece of rare red beef steak, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thơm": {
+  "vi": "thơm",
+  "k": "draw",
+  "p": "a steaming bowl of soup with aromatic steam rising, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mạng": {
+  "vi": "mạng",
+  "k": "draw",
+  "p": "a wifi signal icon floating in the air, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cước": {
+  "vi": "cước",
+  "k": "draw",
+  "p": "a paper bill with a dollar sign, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "gói cước": {
+  "vi": "gói cước",
+  "k": "draw",
+  "p": "a mobile phone screen showing a data plan menu, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nạp tiền": {
+  "vi": "nạp tiền",
+  "k": "draw",
+  "p": "a person inserting a coin into a phone, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "miễn phí": {
+  "vi": "miễn phí",
+  "k": "draw",
+  "p": "a gift box with a zero price tag, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mã": {
+  "vi": "mã",
+  "k": "draw",
+  "p": "a barcode on a product label, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tiệm": {
+  "vi": "tiệm",
+  "k": "draw",
+  "p": "a small storefront with a sign, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lấy": {
+  "vi": "lấy",
+  "k": "draw",
+  "p": "a person picking up a package from a counter, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "địa chỉ": {
+  "vi": "địa chỉ",
+  "k": "draw",
+  "p": "a map pin icon on a paper map, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "số nhà": {
+  "vi": "số nhà",
+  "k": "draw",
+  "p": "a house door with a number plate, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nơi": {
+  "vi": "nơi",
+  "k": "draw",
+  "p": "a scenic landscape location marker, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đến nơi": {
+  "vi": "đến nơi",
+  "k": "draw",
+  "p": "a car parked in front of a house, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thử": {
+  "vi": "thử",
+  "k": "draw",
+  "p": "a person tasting a small spoonful of food, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "trước hết": {
+  "vi": "trước hết",
+  "k": "form",
+  "f": "trước hết + 문장 = 우선 ~하다",
+  "e": "trước hết, ăn đi = 우선 먹어"
+ },
+ "đó": {
+  "vi": "đó",
+  "k": "form",
+  "f": "명사 + đó = 그 명사",
+  "e": "người đó = 그 사람"
+ },
+ "sau đó": {
+  "vi": "sau đó",
+  "k": "form",
+  "f": "sau đó + 문장 = 그 다음에 ~하다",
+  "e": "sau đó, đi ngủ = 그 다음에 자다"
+ },
+ "từng": {
+  "vi": "từng",
+  "k": "form",
+  "f": "từng + 명사 = 각각의 명사",
+  "e": "từng người = 각각의 사람"
+ },
+ "theo": {
+  "vi": "theo",
+  "k": "form",
+  "f": "theo + 명사 = ~에 따라",
+  "e": "theo tôi = 나를 따라"
+ },
+ "cách": {
+  "vi": "cách",
+  "k": "draw",
+  "p": "A person holding a manual book showing a clear step-by-step guide, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đúng cách": {
+  "vi": "đúng cách",
+  "k": "draw",
+  "p": "A person successfully assembling a puzzle piece correctly, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "rõ ràng": {
+  "vi": "rõ ràng",
+  "k": "draw",
+  "p": "A clear glass window showing a sharp landscape view, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tiến độ": {
+  "vi": "tiến độ",
+  "k": "draw",
+  "p": "A progress bar filled halfway, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lâu": {
+  "vi": "lâu",
+  "k": "draw",
+  "p": "An hourglass with sand slowly falling, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bao lâu": {
+  "vi": "bao lâu",
+  "k": "form",
+  "f": "bao lâu = 얼마나 오래",
+  "e": "bao lâu rồi = 얼마나 됐나요"
+ },
+ "còn lại": {
+  "vi": "còn lại",
+  "k": "draw",
+  "p": "A single apple left on a wooden table, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "vấn đề": {
+  "vi": "vấn đề",
+  "k": "draw",
+  "p": "A large red question mark symbol, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "giải quyết": {
+  "vi": "giải quyết",
+  "k": "draw",
+  "p": "A person connecting two puzzle pieces together, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ngay": {
+  "vi": "ngay",
+  "k": "draw",
+  "p": "A lightning bolt icon representing speed, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "báo ngay": {
+  "vi": "báo ngay",
+  "k": "draw",
+  "p": "A person pointing at a ringing alarm bell, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ổn": {
+  "vi": "ổn",
+  "k": "draw",
+  "p": "A person giving a thumbs up gesture, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tạm": {
+  "vi": "tạm",
+  "k": "form",
+  "f": "tạm + 동사 = 일단 ~하다",
+  "e": "tạm dừng = 일단 멈추다"
+ },
+ "góp ý": {
+  "vi": "góp ý",
+  "k": "draw",
+  "p": "A person handing a speech bubble icon to another, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nhẹ nhàng": {
+  "vi": "nhẹ nhàng",
+  "k": "draw",
+  "p": "A soft feather floating in the air, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "riêng": {
+  "vi": "riêng",
+  "k": "draw",
+  "p": "A single person standing apart from a group, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "trước mặt": {
+  "vi": "trước mặt",
+  "k": "draw",
+  "p": "Two people standing face to face, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mất mặt": {
+  "vi": "mất mặt",
+  "k": "draw",
+  "p": "A person covering their face with hands in embarrassment, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ý": {
+  "vi": "ý",
+  "k": "draw",
+  "p": "A lightbulb glowing above a head, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hiểu ý": {
+  "vi": "hiểu ý",
+  "k": "draw",
+  "p": "Two people nodding in mutual understanding, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tin tưởng": {
+  "vi": "tin tưởng",
+  "k": "draw",
+  "p": "Two people shaking hands firmly, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tự hào": {
+  "vi": "tự hào",
+  "k": "draw",
+  "p": "A person standing tall with a gold medal, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tiến bộ": {
+  "vi": "tiến bộ",
+  "k": "draw",
+  "p": "A staircase leading upwards, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "xuất sắc": {
+  "vi": "xuất sắc",
+  "k": "draw",
+  "p": "A shining star icon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cả nhóm": {
+  "vi": "cả nhóm",
+  "k": "draw",
+  "p": "A group of people standing together in a circle, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nhờ có": {
+  "vi": "nhờ có",
+  "k": "form",
+  "f": "nhờ có A = A 덕분에",
+  "e": "nhờ có bạn = 너 덕분에"
+ },
+ "phát huy": {
+  "vi": "phát huy",
+  "k": "draw",
+  "p": "A person watering a plant to make it grow, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chương trình": {
+  "vi": "chương trình",
+  "k": "draw",
+  "p": "A list of events on a paper schedule, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "ý kiến": {
+  "vi": "ý kiến",
+  "k": "draw",
+  "p": "A person raising a hand to speak, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đồng ý": {
+  "vi": "đồng ý",
+  "k": "draw",
+  "p": "A large green checkmark symbol, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "quyết định": {
+  "vi": "quyết định",
+  "k": "draw",
+  "p": "a person pointing at a target on a wall, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "kết luận": {
+  "vi": "kết luận",
+  "k": "draw",
+  "p": "a person holding a finished puzzle piece, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "còi": {
+  "vi": "còi",
+  "k": "draw",
+  "p": "a car horn icon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tránh xa": {
+  "vi": "tránh xa",
+  "k": "draw",
+  "p": "a person walking away from a dangerous sign, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "khu vực": {
+  "vi": "khu vực",
+  "k": "draw",
+  "p": "a fenced area on a map, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nhập": {
+  "vi": "nhập",
+  "k": "draw",
+  "p": "a box being moved into a warehouse, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "phiếu": {
+  "vi": "phiếu",
+  "k": "draw",
+  "p": "a small paper ticket, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tồn kho": {
+  "vi": "tồn kho",
+  "k": "draw",
+  "p": "a stack of boxes in a storage room, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "vị trí": {
+  "vi": "vị trí",
+  "k": "draw",
+  "p": "a red pin on a map, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chênh lệch": {
+  "vi": "chênh lệch",
+  "k": "draw",
+  "p": "two different heights of bars on a graph, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thừa": {
+  "vi": "thừa",
+  "k": "draw",
+  "p": "a basket overflowing with apples, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thực tế": {
+  "vi": "thực tế",
+  "k": "draw",
+  "p": "a magnifying glass looking at a real object, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thiết bị": {
+  "vi": "thiết bị",
+  "k": "draw",
+  "p": "a mechanical machine tool, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mượn": {
+  "vi": "mượn",
+  "k": "draw",
+  "p": "a person taking a book from a shelf, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "trả": {
+  "vi": "trả",
+  "k": "draw",
+  "p": "a person putting a book back on a shelf, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "kín": {
+  "vi": "kín",
+  "k": "draw",
+  "p": "a tightly sealed jar, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "biên bản": {
+  "vi": "biên bản",
+  "k": "draw",
+  "p": "a document with a stamp on it, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đúng hẹn": {
+  "vi": "đúng hẹn",
+  "k": "draw",
+  "p": "a person looking at a clock on time, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hư": {
+  "vi": "hư",
+  "k": "draw",
+  "p": "a broken lightbulb, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đền": {
+  "vi": "đền",
+  "k": "draw",
+  "p": "a person handing over money for damage, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "khiếu nại": {
+  "vi": "khiếu nại",
+  "k": "draw",
+  "p": "a person pointing at a broken item with a frown, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "công đoạn": {
+  "vi": "công đoạn",
+  "k": "draw",
+  "p": "one step on a factory assembly line, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "quy trình": {
+  "vi": "quy trình",
+  "k": "draw",
+  "p": "a flow chart with arrows, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đầu tiên": {
+  "vi": "đầu tiên",
+  "k": "form",
+  "f": "đầu tiên = 맨 처음에",
+  "e": "đầu tiên là tôi = 첫 번째는 나"
+ },
+ "tiếp theo": {
+  "vi": "tiếp theo",
+  "k": "form",
+  "f": "tiếp theo = 그 다음에",
+  "e": "tiếp theo là bạn = 다음은 너"
+ },
+ "cuối cùng": {
+  "vi": "cuối cùng",
+  "k": "form",
+  "f": "cuối cùng = 마지막으로",
+  "e": "cuối cùng là xong = 마지막으로 끝"
+ },
+ "chuyển sang": {
+  "vi": "chuyển sang",
+  "k": "form",
+  "f": "chuyển sang A = A로 넘어가다",
+  "e": "chuyển sang bài mới = 새 과로 넘어가다"
+ },
+ "yêu cầu": {
+  "vi": "yêu cầu",
+  "k": "draw",
+  "p": "a person holding a sign asking for help, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "quy cách": {
+  "vi": "quy cách",
+  "k": "draw",
+  "p": "a ruler measuring a box size, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "thông số": {
+  "vi": "thông số",
+  "k": "draw",
+  "p": "a digital screen showing numbers, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "phân": {
+  "vi": "phân",
+  "k": "form",
+  "f": "A phân B = B의 A분(단위)",
+  "e": "một phân = 1푼"
+ },
+ "đều nhau": {
+  "vi": "đều nhau",
+  "k": "draw",
+  "p": "several identical wooden blocks lined up in a row, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "dư": {
+  "vi": "dư",
+  "k": "draw",
+  "p": "a pile of extra apples sitting next to a basket, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chừa": {
+  "vi": "chừa",
+  "k": "draw",
+  "p": "a piece of cake left on a plate, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tiêu chuẩn": {
+  "vi": "tiêu chuẩn",
+  "k": "form",
+  "f": "tiêu chuẩn = 기준, 표준",
+  "e": "đạt tiêu chuẩn = 기준을 달성하다"
+ },
+ "tách": {
+  "vi": "tách",
+  "k": "draw",
+  "p": "two magnets being pulled apart, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tách riêng": {
+  "vi": "tách riêng",
+  "k": "draw",
+  "p": "a red ball separated from a group of blue balls, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "dấu": {
+  "vi": "dấu",
+  "k": "draw",
+  "p": "a red checkmark symbol on a white paper, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lần cuối": {
+  "vi": "lần cuối",
+  "k": "form",
+  "f": "lần cuối = 마지막 번",
+  "e": "lần cuối cùng = 마지막으로"
+ },
+ "nguyên": {
+  "vi": "nguyên",
+  "k": "form",
+  "f": "nguyên = 원래의, 그대로의",
+  "e": "giữ nguyên = 그대로 유지하다"
+ },
+ "giữ nguyên": {
+  "vi": "giữ nguyên",
+  "k": "draw",
+  "p": "a statue standing still in its original position, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "như mới": {
+  "vi": "như mới",
+  "k": "draw",
+  "p": "a shiny clean car looking brand new, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hướng dẫn": {
+  "vi": "hướng dẫn",
+  "k": "draw",
+  "p": "a person holding a map showing the way, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chú thích": {
+  "vi": "chú thích",
+  "k": "draw",
+  "p": "a book page with a small note written in the margin, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "trang": {
+  "vi": "trang",
+  "k": "draw",
+  "p": "an open book showing a single page, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "dòng": {
+  "vi": "dòng",
+  "k": "draw",
+  "p": "a single horizontal line on a notebook paper, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mục": {
+  "vi": "mục",
+  "k": "draw",
+  "p": "a bulleted list item on a document, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "tìm hiểu": {
+  "vi": "tìm hiểu",
+  "k": "draw",
+  "p": "a magnifying glass looking at a book, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cập nhật": {
+  "vi": "cập nhật",
+  "k": "draw",
+  "p": "a circular arrow icon representing a system update, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "phiên bản": {
+  "vi": "phiên bản",
+  "k": "form",
+  "f": "phiên bản = 버전",
+  "e": "phiên bản mới = 새 버전"
+ },
+ "chảy": {
+  "vi": "chảy",
+  "k": "draw",
+  "p": "a candle melting with wax dripping down, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nóng chảy": {
+  "vi": "nóng chảy",
+  "k": "draw",
+  "p": "an ice cube melting into a puddle of water, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "bo": {
+  "vi": "bo",
+  "k": "draw",
+  "p": "a green computer circuit board, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hiển thị": {
+  "vi": "hiển thị",
+  "k": "draw",
+  "p": "a computer monitor showing a bright icon, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "phần mềm": {
+  "vi": "phần mềm",
+  "k": "form",
+  "f": "phần mềm = 소프트웨어",
+  "e": "cài phần mềm = 소프트웨어를 설치하다"
+ },
+ "mềm": {
+  "vi": "mềm",
+  "k": "draw",
+  "p": "a soft fluffy pillow, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cài đặt": {
+  "vi": "cài đặt",
+  "k": "draw",
+  "p": "a gear icon representing settings or installation, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "dữ liệu": {
+  "vi": "dữ liệu",
+  "k": "draw",
+  "p": "a digital cloud icon representing data storage, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "lưu": {
+  "vi": "lưu",
+  "k": "draw",
+  "p": "a floppy disk icon representing save, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "khởi động lại": {
+  "vi": "khởi động lại",
+  "k": "draw",
+  "p": "a power button icon with a circular arrow, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "mã lỗi": {
+  "vi": "mã lỗi",
+  "k": "draw",
+  "p": "A digital screen displaying a red error code on a black background, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "điểm": {
+  "vi": "điểm",
+  "k": "draw",
+  "p": "A scoreboard showing a high score number, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "hở": {
+  "vi": "hở",
+  "k": "draw",
+  "p": "Two wooden boards with a visible gap between them, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "kêu": {
+  "vi": "kêu",
+  "k": "draw",
+  "p": "A ringing bell with sound waves radiating from it, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nối đất": {
+  "vi": "nối đất",
+  "k": "draw",
+  "p": "A copper wire connecting an electrical device to the ground, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "nhiệt": {
+  "vi": "nhiệt",
+  "k": "draw",
+  "p": "A thermometer showing a high temperature level, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "độ ẩm": {
+  "vi": "độ ẩm",
+  "k": "draw",
+  "p": "A water droplet icon representing humidity levels, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "cách điện": {
+  "vi": "cách điện",
+  "k": "draw",
+  "p": "An electrical wire covered with thick rubber insulation, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "kiện": {
+  "vi": "kiện",
+  "k": "draw",
+  "p": "A neatly stacked cardboard box ready for shipping, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đối chiếu": {
+  "vi": "đối chiếu",
+  "k": "draw",
+  "p": "Two documents placed side by side for comparison, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "chống": {
+  "vi": "chống",
+  "k": "form",
+  "f": "chống + 명사 = ~을 막다",
+  "e": "chống cháy = 불을 막다"
+ },
+ "chống ẩm": {
+  "vi": "chống ẩm",
+  "k": "draw",
+  "p": "A silica gel packet inside a box to prevent moisture, simple flat illustration, soft pastel colors, thick outlines, plain white background, hands not visible, absolutely no text, no letters, no numbers, no logo"
+ },
+ "đủ số": {
+  "vi": "đủ số",
+  "k": "form",
+  "f": "đủ + 명사 = ~가 충분하다",
+  "e": "đủ số lượng = 수량이 충분하다"
+ }
+}

@@ -1,0 +1,2462 @@
+[
+ {
+  "text": "ơn",
+  "heard": "ơm",
+  "h": "b313e8d8d181",
+  "tokens": 1
+ },
+ {
+  "text": "vui",
+  "heard": "bây giờ tạm biệt",
+  "h": "66c4d61876eb",
+  "tokens": 1
+ },
+ {
+  "text": "từ",
+  "heard": "thu",
+  "h": "c826c3782dcc",
+  "tokens": 1
+ },
+ {
+  "text": "má",
+  "heard": "bye",
+  "h": "143cd9524a4d",
+  "tokens": 1
+ },
+ {
+  "text": "mả",
+  "heard": "mẹ",
+  "h": "5400590b83c8",
+  "tokens": 1
+ },
+ {
+  "text": "thùng",
+  "heard": "bùm",
+  "h": "1a1a6c6106bb",
+  "tokens": 1
+ },
+ {
+  "text": "ban",
+  "heard": "bye",
+  "h": "2580d49ff406",
+  "tokens": 1
+ },
+ {
+  "text": "la",
+  "heard": "làm",
+  "h": "3efd4c0fe185",
+  "tokens": 1
+ },
+ {
+  "text": "tơ",
+  "heard": "thơ",
+  "h": "7e782a3c1733",
+  "tokens": 1
+ },
+ {
+  "text": "mê",
+  "heard": "bay",
+  "h": "5a367317b623",
+  "tokens": 1
+ },
+ {
+  "text": "lan",
+  "heard": "lạnh",
+  "h": "3ed79aa6d5c3",
+  "tokens": 1
+ },
+ {
+  "text": "người tốt",
+  "heard": "vì đó",
+  "h": "c0419a1a65fc",
+  "tokens": 2
+ },
+ {
+  "text": "hộp này",
+  "heard": "hãy subscribe cho kênh la la school để không bỏ lỡ những video hấp dẫn",
+  "h": "55b2c8c7fb89",
+  "tokens": 2
+ },
+ {
+  "text": "ba con",
+  "heard": "back on",
+  "h": "c9a73ec2e546",
+  "tokens": 2
+ },
+ {
+  "text": "Em chào anh.",
+  "heard": "hẹn chào anh",
+  "h": "9a71ce2103de",
+  "tokens": 3
+ },
+ {
+  "text": "vâng",
+  "heard": "ben",
+  "h": "ae735d9c8e42",
+  "tokens": 1
+ },
+ {
+  "text": "tên",
+  "heard": "tạm biệt",
+  "h": "8ed3345dc82a",
+  "tokens": 1
+ },
+ {
+  "text": "của",
+  "heard": "qua",
+  "h": "d6098aa0189b",
+  "tokens": 1
+ },
+ {
+  "text": "người",
+  "heard": "",
+  "h": "0021a30f3e06",
+  "tokens": 1
+ },
+ {
+  "text": "rất",
+  "heard": "sự",
+  "h": "d9ff3cfd8135",
+  "tokens": 1
+ },
+ {
+  "text": "sống",
+  "heard": "chào mừng",
+  "h": "d9c66b9c0423",
+  "tokens": 1
+ },
+ {
+  "text": "Thành phố nào?",
+  "heard": "hạnh phúc nào",
+  "h": "e8a29f97f170",
+  "tokens": 3
+ },
+ {
+  "text": "được",
+  "heard": "đừng",
+  "h": "4c144474b595",
+  "tokens": 1
+ },
+ {
+  "text": "mệt",
+  "heard": "bẹp",
+  "h": "5fcc77522b3f",
+  "tokens": 1
+ },
+ {
+  "text": "thế nào",
+  "heard": "hãy nào",
+  "h": "5f51d63cf566",
+  "tokens": 2
+ },
+ {
+  "text": "bình thường",
+  "heard": "bên khuân",
+  "h": "d45f4d1f6110",
+  "tokens": 2
+ },
+ {
+  "text": "Tôi khỏe lắm.",
+  "heard": "tôi quen lắm",
+  "h": "c083e023af1f",
+  "tokens": 3
+ },
+ {
+  "text": "biết",
+  "heard": "nhi",
+  "h": "fd533efc31dc",
+  "tokens": 1
+ },
+ {
+  "text": "lại",
+  "heard": "like",
+  "h": "6bc63b6dd7cb",
+  "tokens": 1
+ },
+ {
+  "text": "Vâng. Anh biết tiếng Việt không?",
+  "heard": "vâng anh biết tiếng thiệt không",
+  "h": "c3a2a2b5b8c5",
+  "tokens": 6
+ },
+ {
+  "text": "Tôi không nghe được.",
+  "heard": "tôi không hề được",
+  "h": "d0ef28e00774",
+  "tokens": 4
+ },
+ {
+  "text": "Nói chậm được không?",
+  "heard": "nó chạm được không",
+  "h": "a66f2c45876e",
+  "tokens": 4
+ },
+ {
+  "text": "rồi",
+  "heard": "vậy",
+  "h": "081cfe9299d6",
+  "tokens": 1
+ },
+ {
+  "text": "Tôi về rồi.",
+  "heard": "tuyệt vời",
+  "h": "86b1fc2d0651",
+  "tokens": 3
+ },
+ {
+  "text": "hai",
+  "heard": "hãy subscribe cho kênh la la school để không bỏ lỡ những video hấp dẫn",
+  "h": "8d813378c294",
+  "tokens": 1
+ },
+ {
+  "text": "mấy",
+  "heard": "bye",
+  "h": "75bb42e564b4",
+  "tokens": 1
+ },
+ {
+  "text": "bao nhiêu",
+  "heard": "tạm biệt",
+  "h": "415a7b69fa7b",
+  "tokens": 2
+ },
+ {
+  "text": "Ba con.",
+  "heard": "bạc ơn",
+  "h": "2abaa5617b71",
+  "tokens": 2
+ },
+ {
+  "text": "thứ hai",
+  "heard": "cứ hay",
+  "h": "ec3a34402fab",
+  "tokens": 2
+ },
+ {
+  "text": "thứ ba",
+  "heard": "xin chào tạm biệt",
+  "h": "5c9fa2536c51",
+  "tokens": 2
+ },
+ {
+  "text": "thứ tư",
+  "heard": "tìm tìm",
+  "h": "26f54e7acaff",
+  "tokens": 2
+ },
+ {
+  "text": "Hôm nay là thứ mấy? Hôm qua là thứ hai không?",
+  "heard": "ông này là thứ mỹ hôm qua là thứ hai công",
+  "h": "9426157b0342",
+  "tokens": 11
+ },
+ {
+  "text": "kết thúc",
+  "heard": "ký pô",
+  "h": "413798f87529",
+  "tokens": 2
+ },
+ {
+  "text": "mỗi",
+  "heard": "boi",
+  "h": "6c17945c7ed8",
+  "tokens": 1
+ },
+ {
+  "text": "Mỗi ngày anh dậy lúc mấy giờ? Mấy giờ bắt đầu làm việc?",
+  "heard": "mỗi ngày anh dậy lúc mấy chờ mấy chờ mấy chờ đặc biệt",
+  "h": "102cbc47d691",
+  "tokens": 13
+ },
+ {
+  "text": "Tôi dậy muộn.",
+  "heard": "hãy subscribe cho kênh ghiền mùm video hấp dẫn",
+  "h": "0d135976290f",
+  "tokens": 3
+ },
+ {
+  "text": "muốn",
+  "heard": "bông",
+  "h": "a8fe4f692fe7",
+  "tokens": 1
+ },
+ {
+  "text": "Cơm có ngon không?",
+  "heard": "trên có ngọt không",
+  "h": "c6c92574b74a",
+  "tokens": 4
+ },
+ {
+  "text": "trong",
+  "heard": "tạm",
+  "h": "9e9103c7c69a",
+  "tokens": 1
+ },
+ {
+  "text": "bên cạnh",
+  "heard": "bên kênh",
+  "h": "c86418654c18",
+  "tokens": 2
+ },
+ {
+  "text": "nhà vệ sinh",
+  "heard": "nhiệp đề sinh",
+  "h": "0e4948092600",
+  "tokens": 3
+ },
+ {
+  "text": "Xin lỗi, nhà vệ sinh ở đâu? Có gần đây không?",
+  "heard": "cái việc tệ sinh ở đâu có còn đây không",
+  "h": "3fef599285ae",
+  "tokens": 11
+ },
+ {
+  "text": "Ở trong hộp.",
+  "heard": "ài chăm hộp",
+  "h": "1de5f9d4b700",
+  "tokens": 3
+ },
+ {
+  "text": "Đi ngoài đường.",
+  "heard": "linh ngoài đường",
+  "h": "0e48aad6779b",
+  "tokens": 3
+ },
+ {
+  "text": "Chợ có xa không?",
+  "heard": "trời có xa không",
+  "h": "0c93e0f1c17b",
+  "tokens": 4
+ },
+ {
+  "text": "mẹ",
+  "heard": "bây",
+  "h": "3eadab9b57f3",
+  "tokens": 1
+ },
+ {
+  "text": "Có bố mẹ, vợ và hai con trai. Tôi có một em gái.",
+  "heard": "có 4 mẹ vợ và 2 con trai tôi có một em gái",
+  "h": "8a009072d8d5",
+  "tokens": 13
+ },
+ {
+  "text": "Tôi có anh trai.",
+  "heard": "tụi bàn chai",
+  "h": "42503157b9b8",
+  "tokens": 4
+ },
+ {
+  "text": "Chồng chị làm gì?",
+  "heard": "trong chỉ làm gì",
+  "h": "0a034d90c08e",
+  "tokens": 4
+ },
+ {
+  "text": "Anh có bị ốm không? Anh bị đau ở đâu?",
+  "heard": "anh có bị úm không anh bị đau ở đâu",
+  "h": "4c35fb886d21",
+  "tokens": 10
+ },
+ {
+  "text": "Tay tôi bị đau.",
+  "heard": "tại tôi bị đau",
+  "h": "371f22c718f0",
+  "tokens": 4
+ },
+ {
+  "text": "Bệnh viện ở đâu?",
+  "heard": "bên tiền ở đâu",
+  "h": "e5f8aa57f491",
+  "tokens": 4
+ },
+ {
+  "text": "hãy",
+  "heard": "hãy subscribe cho kênh la la school để không bỏ lỡ những video hấp dẫn",
+  "h": "dfac7c950b84",
+  "tokens": 1
+ },
+ {
+  "text": "Hãy mở hộp này.",
+  "heard": "hãy mở khộp này",
+  "h": "92bdb5cc2cdd",
+  "tokens": 4
+ },
+ {
+  "text": "Tôi cần giúp.",
+  "heard": "tụi kênh đi",
+  "h": "942d94e47e58",
+  "tokens": 3
+ },
+ {
+  "text": "hay",
+  "heard": "hai",
+  "h": "ebddd6b268d9",
+  "tokens": 1
+ },
+ {
+  "text": "bao giờ",
+  "heard": "bác giờ",
+  "h": "b9a4163c4cd8",
+  "tokens": 2
+ },
+ {
+  "text": "Anh đã ăn cơm chưa? Bao giờ anh sẽ về?",
+  "heard": "anh đã ăn cơm chưa bây giờ anh sẽ vịt",
+  "h": "1db1e02bc3ee",
+  "tokens": 10
+ },
+ {
+  "text": "Sao anh muộn?",
+  "heard": "chào anh buông",
+  "h": "cf39169bc44b",
+  "tokens": 3
+ },
+ {
+  "text": "quên",
+  "heard": "quên tạm biệt",
+  "h": "834ba616add1",
+  "tokens": 1
+ },
+ {
+  "text": "chắc chắn",
+  "heard": "chá chắn",
+  "h": "b6d0d398126f",
+  "tokens": 2
+ },
+ {
+  "text": "Mai gặp lại nhé. Đừng quên, việc này quan trọng!",
+  "heard": "này gặp lại nhé đừng quên việc này quan trọng",
+  "h": "6c69bba8eaca",
+  "tokens": 10
+ },
+ {
+  "text": "Thôi, xong rồi.",
+  "heard": "thôi xam rồi",
+  "h": "d7e7745e0e57",
+  "tokens": 3
+ },
+ {
+  "text": "Tôi nhớ anh.",
+  "heard": "tôi giỡ anh",
+  "h": "972b17c94765",
+  "tokens": 3
+ },
+ {
+  "text": "nhà máy",
+  "heard": "dạ mấy",
+  "h": "f9ea2d37946a",
+  "tokens": 2
+ },
+ {
+  "text": "tăng ca",
+  "heard": "tạm biệt",
+  "h": "756c1501886f",
+  "tokens": 2
+ },
+ {
+  "text": "nhận",
+  "heard": "nhanh",
+  "h": "852d35870807",
+  "tokens": 1
+ },
+ {
+  "text": "Hôm nay giao bao nhiêu hàng?",
+  "heard": "hôm nay đi chạy bằng nhiều hàng",
+  "h": "503c2a7e37ab",
+  "tokens": 6
+ },
+ {
+  "text": "Hộp hết rồi, cho thêm nhé.",
+  "heard": "hộp hết rồi chào thêm nhé",
+  "h": "899110addaa8",
+  "tokens": 6
+ },
+ {
+  "text": "Gửi hàng cho quản lý nhé.",
+  "heard": "với hàng cho quản đi nhé",
+  "h": "b9352a06c6e2",
+  "tokens": 6
+ },
+ {
+  "text": "nguy hiểm",
+  "heard": "hãy subscribe cho kênh ghiền mì gõ để không bỏ lỡ những video hấp dẫn",
+  "h": "501a1ed8866b",
+  "tokens": 2
+ },
+ {
+  "text": "cẩn thận",
+  "heard": "cơm cơm",
+  "h": "9f0997dd853f",
+  "tokens": 2
+ },
+ {
+  "text": "tai nạn",
+  "heard": "tài năng",
+  "h": "9429476f0be3",
+  "tokens": 2
+ },
+ {
+  "text": "bảo hộ",
+  "heard": "bảo vụ",
+  "h": "f3823c5ccb4b",
+  "tokens": 2
+ },
+ {
+  "text": "khẩu trang",
+  "heard": "hổ dân",
+  "h": "096807e87773",
+  "tokens": 2
+ },
+ {
+  "text": "phải",
+  "heard": "hãy subscribe cho kênh la la school để không bỏ lỡ những video hấp dẫn",
+  "h": "a9f07e949600",
+  "tokens": 1
+ },
+ {
+  "text": "Phải cẩn thận. Phải có găng tay.",
+  "heard": "phải cẩn thận phải có càng tay",
+  "h": "e7ae4e0ea891",
+  "tokens": 7
+ },
+ {
+  "text": "Đây là bảo hộ. An toàn trước!",
+  "heard": "đây là bảo hồ ăn còn trước",
+  "h": "2fb0a61fbde0",
+  "tokens": 7
+ },
+ {
+  "text": "giống",
+  "heard": "giấm",
+  "h": "7137403dfd91",
+  "tokens": 1
+ },
+ {
+  "text": "Cái này khác cái kia.",
+  "heard": "đấy này khác kì kia",
+  "h": "4bfbf93eceaf",
+  "tokens": 5
+ },
+ {
+  "text": "Chỗ này sai rồi.",
+  "heard": "chứ này sai rồi",
+  "h": "0a6d4db1b696",
+  "tokens": 4
+ },
+ {
+  "text": "Làm nhanh được không?",
+  "heard": "làm danh được không",
+  "h": "1a95983158fc",
+  "tokens": 4
+ },
+ {
+  "text": "dụng cụ",
+  "heard": "diệm bộ",
+  "h": "0bea3f3fe646",
+  "tokens": 2
+ },
+ {
+  "text": "đi làm",
+  "heard": "đi đoàn",
+  "h": "87e0a8814b36",
+  "tokens": 2
+ },
+ {
+  "text": "vắng",
+  "heard": "tân",
+  "h": "67bfe3845e13",
+  "tokens": 1
+ },
+ {
+  "text": "Vâng. Nhớ báo cáo tổ trưởng nhé.",
+  "heard": "vâng như báo cáo tổ trường nhé",
+  "h": "5b47d6ac3d40",
+  "tokens": 7
+ },
+ {
+  "text": "Mai tôi đi làm sớm.",
+  "heard": "mày tôi đi làm sớm",
+  "h": "731ff40e0443",
+  "tokens": 5
+ },
+ {
+  "text": "Mấy giờ họp? Ai vắng?",
+  "heard": "bấy gì hợp ai bắn",
+  "h": "30dcf47f6dc9",
+  "tokens": 5
+ },
+ {
+  "text": "Hôm nay có lương! Cố gắng nhé!",
+  "heard": "hôm nay có lương cố gặn nhé",
+  "h": "369ae693234b",
+  "tokens": 7
+ },
+ {
+  "text": "Cân thùng này trước.",
+  "heard": "công thúc ngày trước",
+  "h": "d29b9e763936",
+  "tokens": 4
+ },
+ {
+  "text": "Thẻ của tôi ở nhà!",
+  "heard": "hẹn gặp lại ở nhà",
+  "h": "70a5b6426bc8",
+  "tokens": 5
+ },
+ {
+  "text": "cơm trưa",
+  "heard": "câm chưa",
+  "h": "62a8b7621ebd",
+  "tokens": 2
+ },
+ {
+  "text": "ký túc xá",
+  "heard": "để tục xác",
+  "h": "589ed152d19e",
+  "tokens": 3
+ },
+ {
+  "text": "Cơm trưa hôm nay ngon lắm!",
+  "heard": "cơm chư hôm nay ngon lắm",
+  "h": "3aecdee0b5a0",
+  "tokens": 6
+ },
+ {
+  "text": "Ký túc xá có thang máy không?",
+  "heard": "kỳ túc giá có thằng máy không",
+  "h": "7861c340a412",
+  "tokens": 7
+ },
+ {
+  "text": "phần trăm",
+  "heard": "phần chân",
+  "h": "1b10c24fccde",
+  "tokens": 2
+ },
+ {
+  "text": "bảo hiểm",
+  "heard": "bấm nhé",
+  "h": "c234ff74e54f",
+  "tokens": 2
+ },
+ {
+  "text": "Một tháng lương bao nhiêu?",
+  "heard": "bộ khán người bao nhiêu",
+  "h": "87a88a6b285e",
+  "tokens": 5
+ },
+ {
+  "text": "Có thuế và bảo hiểm.",
+  "heard": "cô thủy và bảo hiểm",
+  "h": "3a7d2b3bdc86",
+  "tokens": 5
+ },
+ {
+  "text": "Tháng này số lượng giảm rồi.",
+  "heard": "hắn này số lượng giảm rồi",
+  "h": "a42c0ea689d0",
+  "tokens": 6
+ },
+ {
+  "text": "lối đi",
+  "heard": "lỡ đi",
+  "h": "e81e0cdc49e6",
+  "tokens": 2
+ },
+ {
+  "text": "bên phải",
+  "heard": "bye bye",
+  "h": "40ce2c8c1884",
+  "tokens": 2
+ },
+ {
+  "text": "bên trái",
+  "heard": "bên cháy",
+  "h": "2ec42063b8b1",
+  "tokens": 2
+ },
+ {
+  "text": "lên",
+  "heard": "linh",
+  "h": "9d5d0457554a",
+  "tokens": 1
+ },
+ {
+  "text": "Đi thẳng, kho ở bên phải.",
+  "heard": "vì thẳng họ ở bên phải",
+  "h": "34fa21a026e5",
+  "tokens": 6
+ },
+ {
+  "text": "Lối đi ở đây, cửa ở kia.",
+  "heard": "rồi đi ở đây cửa kia",
+  "h": "2e04a5e5e8fe",
+  "tokens": 7
+ },
+ {
+  "text": "Đừng đợi ở lối đi nhé.",
+  "heard": "đừng đợi ở lỗ đi nhé",
+  "h": "2bab9099324f",
+  "tokens": 6
+ },
+ {
+  "text": "gọi điện",
+  "heard": "mở đình",
+  "h": "bdeded6595cc",
+  "tokens": 2
+ },
+ {
+  "text": "số điện thoại",
+  "heard": "shui linh thầy",
+  "h": "dd6c7eb9c179",
+  "tokens": 3
+ },
+ {
+  "text": "alô",
+  "heard": "i know",
+  "h": "a2ae6d0bc679",
+  "tokens": 1
+ },
+ {
+  "text": "Alô? Anh rảnh không ạ?",
+  "heard": "ano anh đánh không à",
+  "h": "5298b0a5bb29",
+  "tokens": 5
+ },
+ {
+  "text": "Tôi bận. Chờ chút, tôi gọi điện lại nhé.",
+  "heard": "tôi bận chơi chúc tôi gọi điện lại nhé",
+  "h": "1883bdf00664",
+  "tokens": 9
+ },
+ {
+  "text": "Số điện thoại của anh là gì?",
+  "heard": "xóa điện thoại của anh này gì",
+  "h": "8b1f74129f61",
+  "tokens": 7
+ },
+ {
+  "text": "vải",
+  "heard": "bye",
+  "h": "e911c3c56c67",
+  "tokens": 1
+ },
+ {
+  "text": "máy may",
+  "heard": "bye bye",
+  "h": "f358f6f6fc44",
+  "tokens": 2
+ },
+ {
+  "text": "màu",
+  "heard": "mà u",
+  "h": "6ba425176cb4",
+  "tokens": 1
+ },
+ {
+  "text": "Mẫu này màu đẹp lắm.",
+  "heard": "mỗi ngày màu đẹp lắm",
+  "h": "462ac48e6306",
+  "tokens": 5
+ },
+ {
+  "text": "thân trước",
+  "heard": "tạm chức",
+  "h": "adcf610830ab",
+  "tokens": 2
+ },
+ {
+  "text": "đường may",
+  "heard": "được mây",
+  "h": "ecbaf238b9de",
+  "tokens": 2
+ },
+ {
+  "text": "may",
+  "heard": "bye",
+  "h": "f458ef050c0c",
+  "tokens": 1
+ },
+ {
+  "text": "ủi",
+  "heard": "úy",
+  "h": "1133817c9820",
+  "tokens": 1
+ },
+ {
+  "text": "gấp",
+  "heard": "dạ",
+  "h": "84ecf62c3ea0",
+  "tokens": 1
+ },
+ {
+  "text": "đóng gói",
+  "heard": "đấm gọi",
+  "h": "0bd988fe03b8",
+  "tokens": 2
+ },
+ {
+  "text": "Hôm nay em cắt hay may?",
+  "heard": "hôm nay em tắt thầy bay",
+  "h": "2234b9b72a23",
+  "tokens": 6
+ },
+ {
+  "text": "Tháo chỉ này được không?",
+  "heard": "thở chỉ này được không",
+  "h": "0c4a9ee8adbb",
+  "tokens": 5
+ },
+ {
+  "text": "hỏng",
+  "heard": "không",
+  "h": "fe8f45d5bbab",
+  "tokens": 1
+ },
+ {
+  "text": "chất lượng",
+  "heard": "chắc lắm",
+  "h": "a9aefe6108f0",
+  "tokens": 2
+ },
+ {
+  "text": "sản phẩm",
+  "heard": "chạm tâm",
+  "h": "4e46ed6845d1",
+  "tokens": 2
+ },
+ {
+  "text": "Đường may bẩn. Làm lại nhé.",
+  "heard": "đưa may bẩn làm lại nhé",
+  "h": "abd2799daeb7",
+  "tokens": 6
+ },
+ {
+  "text": "Máy may bị hỏng, sửa được không?",
+  "heard": "máy này bị hổng sưa được không",
+  "h": "f51fbfbf7788",
+  "tokens": 7
+ },
+ {
+  "text": "mũi may",
+  "heard": "mỗi ngày",
+  "h": "668f37d7e973",
+  "tokens": 2
+ },
+ {
+  "text": "lại mũi",
+  "heard": "lẹm buổi",
+  "h": "d24b77dad184",
+  "tokens": 2
+ },
+ {
+  "text": "bỏ mũi",
+  "heard": "bấm ủy",
+  "h": "8913f3ffddd1",
+  "tokens": 2
+ },
+ {
+  "text": "Mũi may không đều, sao thế?",
+  "heard": "bụi may không đều sao thế",
+  "h": "a3490d23fe0f",
+  "tokens": 6
+ },
+ {
+  "text": "Lại mũi ở đây nhé.",
+  "heard": "lại mũi ở đây nhất",
+  "h": "6d7d514b9d7d",
+  "tokens": 5
+ },
+ {
+  "text": "bàn cắt",
+  "heard": "ban kết",
+  "h": "2f6e02a77739",
+  "tokens": 2
+ },
+ {
+  "text": "phấn",
+  "heard": "thân",
+  "h": "0d955d1e4fbb",
+  "tokens": 1
+ },
+ {
+  "text": "máy cắt",
+  "heard": "bay cát",
+  "h": "2d3b04b2d935",
+  "tokens": 2
+ },
+ {
+  "text": "Trải vải bao nhiêu lớp?",
+  "heard": "cái vậy bao nhiêu lớp",
+  "h": "d7836285a068",
+  "tokens": 5
+ },
+ {
+  "text": "nhãn",
+  "heard": "nhanh",
+  "h": "f58421f19a32",
+  "tokens": 1
+ },
+ {
+  "text": "thủng",
+  "heard": "phùng",
+  "h": "90f816d2e647",
+  "tokens": 1
+ },
+ {
+  "text": "hủy",
+  "heard": "vì",
+  "h": "3470bf5d0695",
+  "tokens": 1
+ },
+ {
+  "text": "dán",
+  "heard": "ấn",
+  "h": "8e197499751b",
+  "tokens": 1
+ },
+ {
+  "text": "băng dính",
+  "heard": "bên chín",
+  "h": "88c22ffb5314",
+  "tokens": 2
+ },
+ {
+  "text": "nóng",
+  "heard": "năm",
+  "h": "6a7252b2250e",
+  "tokens": 1
+ },
+ {
+  "text": "mây",
+  "heard": "bye",
+  "h": "303e30ccad8c",
+  "tokens": 1
+ },
+ {
+  "text": "ô",
+  "heard": "oh",
+  "h": "3fa2aa9661cf",
+  "tokens": 1
+ },
+ {
+  "text": "Trời hôm nay thế nào?",
+  "heard": "chuyện hôm nay thế nào",
+  "h": "e461b9171723",
+  "tokens": 5
+ },
+ {
+  "text": "Mưa và gió lắm. Có ô không?",
+  "heard": "mưa vào trái lắm cậu không",
+  "h": "d1ad62e3b7be",
+  "tokens": 7
+ },
+ {
+  "text": "sang đường",
+  "heard": "chào mừng",
+  "h": "26335c571618",
+  "tokens": 2
+ },
+ {
+  "text": "Em đi làm thế nào?",
+  "heard": "em đi đậm kinh nào",
+  "h": "d59da5f14510",
+  "tokens": 5
+ },
+ {
+  "text": "Đi xe buýt. Bến ở gần công ty.",
+  "heard": "vcb bến ở gần công ty",
+  "h": "7b9dbe6413b9",
+  "tokens": 8
+ },
+ {
+  "text": "Sang đường phải cẩn thận!",
+  "heard": "sang đường phải tấn thận",
+  "h": "8319ab32f789",
+  "tokens": 5
+ },
+ {
+  "text": "đen",
+  "heard": "nên",
+  "h": "85cc6b69c543",
+  "tokens": 1
+ },
+ {
+  "text": "hồng",
+  "heard": "hôm",
+  "h": "463a6217771f",
+  "tokens": 1
+ },
+ {
+  "text": "tím",
+  "heard": "tin",
+  "h": "bdf99d5606a7",
+  "tokens": 1
+ },
+ {
+  "text": "Áo đen với quần nâu.",
+  "heard": "háo đen với cuộc đầu",
+  "h": "c810295def46",
+  "tokens": 5
+ },
+ {
+  "text": "Chỉ vàng ở hộp kia.",
+  "heard": "chỉ là ở hộp kia",
+  "h": "abd4e89bd0dd",
+  "tokens": 5
+ },
+ {
+  "text": "cười",
+  "heard": "cười ca thức nguồn",
+  "h": "f7e68d00a699",
+  "tokens": 1
+ },
+ {
+  "text": "căng thẳng",
+  "heard": "đăng thẳng",
+  "h": "a3aaa50aebc4",
+  "tokens": 2
+ },
+ {
+  "text": "nhớ nhà",
+  "heard": "dạ nha",
+  "h": "212533f71a57",
+  "tokens": 2
+ },
+ {
+  "text": "Sao em buồn thế? Nhớ nhà không?",
+  "heard": "sao em buồn thế giới nhạc không",
+  "h": "cda7e0070377",
+  "tokens": 7
+ },
+ {
+  "text": "Cười nhiều nhé! Đừng căng thẳng.",
+  "heard": "cười nhiều nhé lừng căng khẳng",
+  "h": "971ba28c7a3e",
+  "tokens": 6
+ },
+ {
+  "text": "chụp ảnh",
+  "heard": "chủ bản",
+  "h": "0a824e052792",
+  "tokens": 2
+ },
+ {
+  "text": "đọc sách",
+  "heard": "đọc sất",
+  "h": "1506724a35d6",
+  "tokens": 2
+ },
+ {
+  "text": "thể thao",
+  "heard": "hẹn gặp lại",
+  "h": "31ef3da1d127",
+  "tokens": 2
+ },
+ {
+  "text": "Xem phim và nghe nhạc. Anh thích bóng đá không?",
+  "heard": "xem tiên và nghe nhạc anh thích bổng đá không",
+  "h": "b5389ef2e715",
+  "tokens": 10
+ },
+ {
+  "text": "Chủ nhật em giặt áo và dọn phòng.",
+  "heard": "trữ nhật em giặt áo vào dọn phòng",
+  "h": "210546dde212",
+  "tokens": 8
+ },
+ {
+  "text": "Tôi nấu cơm. Ăn xong rửa nhé.",
+  "heard": "tôi nấu cơm ăn xong rồi nhé",
+  "h": "172d65fae908",
+  "tokens": 7
+ },
+ {
+  "text": "Cho rác ở thùng kia.",
+  "heard": "chào các ở thủng kia",
+  "h": "4150823399f2",
+  "tokens": 5
+ },
+ {
+  "text": "chóng mặt",
+  "heard": "trống mặt",
+  "h": "2e09cfc71355",
+  "tokens": 2
+ },
+ {
+  "text": "Mắt với mũi bị đau.",
+  "heard": "mắc với mũi bị đau",
+  "h": "6f4cbebae4bf",
+  "tokens": 5
+ },
+ {
+  "text": "Tôi chóng mặt, muốn nghỉ.",
+  "heard": "tôi chấm mặt muốn nghĩ",
+  "h": "cda7f6a83ab1",
+  "tokens": 5
+ },
+ {
+  "text": "mời",
+  "heard": "bye",
+  "h": "ea8c57555c8b",
+  "tokens": 1
+ },
+ {
+  "text": "vui vẻ",
+  "heard": "cũng bây",
+  "h": "fa8bb5615fab",
+  "tokens": 2
+ },
+ {
+  "text": "Tối nay gặp nhau nhé. Tôi mời!",
+  "heard": "tối nay gặp nhau nhé từ mùi",
+  "h": "e4dba42702d2",
+  "tokens": 7
+ },
+ {
+  "text": "Đừng say nhé!",
+  "heard": "đừng xây nhé",
+  "h": "6b5a3507dc43",
+  "tokens": 3
+ },
+ {
+  "text": "sinh nhật",
+  "heard": "xin nhớ",
+  "h": "385c4726c83a",
+  "tokens": 2
+ },
+ {
+  "text": "năm mới",
+  "heard": "mà bưới",
+  "h": "7c4d4032f08e",
+  "tokens": 2
+ },
+ {
+  "text": "sức khỏe",
+  "heard": "shukwe",
+  "h": "9af05c68515e",
+  "tokens": 2
+ },
+ {
+  "text": "Chúc mừng năm mới!",
+  "heard": "chúc mừng năm bởi",
+  "h": "40f5cdc988e7",
+  "tokens": 4
+ },
+ {
+  "text": "Quà Tết là bánh.",
+  "heard": "qua tết là bắn",
+  "h": "a6b14d3fd8fd",
+  "tokens": 4
+ },
+ {
+  "text": "văn hóa",
+  "heard": "phần hoa",
+  "h": "68810c7b4efa",
+  "tokens": 2
+ },
+ {
+  "text": "thói quen",
+  "heard": "hãy quên",
+  "h": "fe592d8fc92b",
+  "tokens": 2
+ },
+ {
+  "text": "chợ đêm",
+  "heard": "get in",
+  "h": "591f005121be",
+  "tokens": 2
+ },
+ {
+  "text": "Đêm nay đi chợ đêm nhé!",
+  "heard": "đi này đi chờ đến nhé",
+  "h": "e18a58416190",
+  "tokens": 6
+ },
+ {
+  "text": "Văn hóa khác, thói quen khác.",
+  "heard": "văn phó khác thở quyền khác",
+  "h": "6bb671b30063",
+  "tokens": 6
+ },
+ {
+  "text": "cảm biến",
+  "heard": "cả bình",
+  "h": "51dd75c92103",
+  "tokens": 2
+ },
+ {
+  "text": "Linh kiện này là gì?",
+  "heard": "riêng kiện này là gì",
+  "h": "7793ed1d1c17",
+  "tokens": 5
+ },
+ {
+  "text": "chạy thử",
+  "heard": "chạy cử",
+  "h": "77ee1e5c6e52",
+  "tokens": 2
+ },
+ {
+  "text": "Tắt máy trước, rút dây sau.",
+  "heard": "bắt máy trước rút về sau",
+  "h": "71ec3c1189c6",
+  "tokens": 6
+ },
+ {
+  "text": "tĩnh điện",
+  "heard": "tất biệt",
+  "h": "cdc4aa67cf99",
+  "tokens": 2
+ },
+ {
+  "text": "vòng tay",
+  "heard": "bộng tay",
+  "h": "860acd33b617",
+  "tokens": 2
+ },
+ {
+  "text": "vào",
+  "heard": "bao",
+  "h": "a149aa3cd479",
+  "tokens": 1
+ },
+ {
+  "text": "Ở đây có bụi, chú ý.",
+  "heard": "ở đây có buổi chú ý",
+  "h": "1ec06858282c",
+  "tokens": 6
+ },
+ {
+  "text": "máy đo",
+  "heard": "mấy cơ",
+  "h": "108fa49cde33",
+  "tokens": 2
+ },
+ {
+  "text": "chuẩn",
+  "heard": "dũng",
+  "h": "922d581c9f9b",
+  "tokens": 1
+ },
+ {
+  "text": "hình",
+  "heard": "hân",
+  "h": "18287abbee60",
+  "tokens": 1
+ },
+ {
+  "text": "Hình mờ. Máy đo có sai số.",
+  "heard": "hình mờ máy đò có xài xuống",
+  "h": "d9e79bd3f848",
+  "tokens": 7
+ },
+ {
+  "text": "tốc độ",
+  "heard": "túp đồ",
+  "h": "b54a234b73b3",
+  "tokens": 2
+ },
+ {
+  "text": "sản lượng",
+  "heard": "sẵn đường",
+  "h": "860f95c53fb5",
+  "tokens": 2
+ },
+ {
+  "text": "tiếp tục",
+  "heard": "đi tụ",
+  "h": "58ad74f2082e",
+  "tokens": 2
+ },
+ {
+  "text": "đổi ca",
+  "heard": "đuổi ca",
+  "h": "ad53f39c8158",
+  "tokens": 2
+ },
+ {
+  "text": "Mai đổi ca nhé.",
+  "heard": "bay đổi ca nhé",
+  "h": "dccee9f46c51",
+  "tokens": 4
+ },
+ {
+  "text": "tài liệu",
+  "heard": "hãy subscribe cho kênh ghiền mì gõ để không bỏ lỡ những video hấp dẫn",
+  "h": "c5db768e0233",
+  "tokens": 2
+ },
+ {
+  "text": "hồ sơ",
+  "heard": "hỗ trợ",
+  "h": "606a3069cca3",
+  "tokens": 2
+ },
+ {
+  "text": "Vâng. In hồ sơ này không ạ?",
+  "heard": "vâng ít hữu sơ này không à",
+  "h": "8c3b1bc16e46",
+  "tokens": 7
+ },
+ {
+  "text": "Giấy với bút ở đâu?",
+  "heard": "vậy vụ quốc ở đâu",
+  "h": "56ba4d0a3635",
+  "tokens": 5
+ },
+ {
+  "text": "Chữ này là gì?",
+  "heard": "chứ đây là gì",
+  "h": "9db77d272fc0",
+  "tokens": 4
+ },
+ {
+  "text": "đặt",
+  "heard": "đẹp",
+  "h": "ed3e9667a610",
+  "tokens": 1
+ },
+ {
+  "text": "mang về",
+  "heard": "mạng đề",
+  "h": "913e3de17d83",
+  "tokens": 2
+ },
+ {
+  "text": "Vâng. Tính tiền, có hóa đơn đây ạ.",
+  "heard": "vâng tính tiền có hóa đường đây à",
+  "h": "6e86af7b10d6",
+  "tokens": 8
+ },
+ {
+  "text": "Tôi phục vụ. Thực đơn đây ạ.",
+  "heard": "tôi phục cụ thực đơn giản",
+  "h": "c37e78272169",
+  "tokens": 7
+ },
+ {
+  "text": "hiểu nhầm",
+  "heard": "tiểu nhanh",
+  "h": "fb93d2187b15",
+  "tokens": 2
+ },
+ {
+  "text": "chính xác",
+  "heard": "chỉnh sát",
+  "h": "003942f3a39b",
+  "tokens": 2
+ },
+ {
+  "text": "Nói tiếng Anh hay tiếng Việt?",
+  "heard": "nơi tiếng anh hãy tính thịt",
+  "h": "136128b53a0d",
+  "tokens": 6
+ },
+ {
+  "text": "Tôi hiểu nhầm rồi, xin lỗi.",
+  "heard": "tôi diễn nhằm trôi xin lỗi",
+  "h": "82725f48dbc7",
+  "tokens": 6
+ },
+ {
+  "text": "công tác",
+  "heard": "công cắt",
+  "h": "9338478ec2bc",
+  "tokens": 2
+ },
+ {
+  "text": "sân bay",
+  "heard": "xin bay",
+  "h": "04e95da689dd",
+  "tokens": 2
+ },
+ {
+  "text": "đặt phòng",
+  "heard": "đã phong",
+  "h": "0fe17a59ffb2",
+  "tokens": 2
+ },
+ {
+  "text": "giấy tờ",
+  "heard": "điếc tờ",
+  "h": "6b466a1bf161",
+  "tokens": 2
+ },
+ {
+  "text": "Mai tôi đi công tác. Chuyến sáng.",
+  "heard": "bài tùy đi công tác chuyển sáng",
+  "h": "385503a1b699",
+  "tokens": 7
+ },
+ {
+  "text": "Sân bay xa hơn công ty.",
+  "heard": "truyền bài xa hơn công ty",
+  "h": "3506fea0bc3a",
+  "tokens": 6
+ },
+ {
+  "text": "Vé máy bay đắt hơn xe.",
+  "heard": "để mai đây đã khẩn xe",
+  "h": "a3a1e3fafe16",
+  "tokens": 6
+ },
+ {
+  "text": "Chuyến này sớm hơn.",
+  "heard": "chín này sớm hơn",
+  "h": "09039dd7fb37",
+  "tokens": 4
+ },
+ {
+  "text": "tài khoản",
+  "heard": "tạy quán",
+  "h": "4ff280dd6e58",
+  "tokens": 2
+ },
+ {
+  "text": "đổi tiền",
+  "heard": "đỗ tiên",
+  "h": "bacc95661526",
+  "tokens": 2
+ },
+ {
+  "text": "Điền giấy này, nộp ở kia nhé.",
+  "heard": "đi dưới này đập ở kia nhé",
+  "h": "a4d34b3eb6df",
+  "tokens": 7
+ },
+ {
+  "text": "Chuyển tiền có phí không?",
+  "heard": "chuyện điện các phía không",
+  "h": "a4bf025b93da",
+  "tokens": 5
+ },
+ {
+  "text": "Mật khẩu sai rồi!",
+  "heard": "bật khẩu sai rồi",
+  "h": "296639fb0314",
+  "tokens": 4
+ },
+ {
+  "text": "nội quy",
+  "heard": "đồ quý",
+  "h": "a7b6d0f89ba8",
+  "tokens": 2
+ },
+ {
+  "text": "thái độ",
+  "heard": "hãy đồ",
+  "h": "abe046add97f",
+  "tokens": 2
+ },
+ {
+  "text": "Thái độ tốt, làm nghiêm túc.",
+  "heard": "thái độ tốt làm nguyên tức",
+  "h": "e72cb0add1b4",
+  "tokens": 6
+ },
+ {
+  "text": "tôn trọng",
+  "heard": "tôm cảm",
+  "h": "1cf80c01db17",
+  "tokens": 2
+ },
+ {
+  "text": "đùa",
+  "heard": "2",
+  "h": "e39aa1efdbec",
+  "tokens": 1
+ },
+ {
+  "text": "thân",
+  "heard": "ơn",
+  "h": "7ef68a1d72b1",
+  "tokens": 1
+ },
+ {
+  "text": "Đồng nghiệp thân, hay hỏi thăm nhau.",
+  "heard": "đồng việt thân hãy hỏi thăm nhau",
+  "h": "b211bb63de1c",
+  "tokens": 7
+ },
+ {
+  "text": "Vui quá! Em uống ít nhé.",
+  "heard": "vừa quá em muốn ít nhé",
+  "h": "7f92da5df374",
+  "tokens": 6
+ },
+ {
+  "text": "đổi lịch",
+  "heard": "đồ lịch",
+  "h": "d7aad140c01e",
+  "tokens": 2
+ },
+ {
+  "text": "thông báo",
+  "heard": "thu bào",
+  "h": "4ade7f29a306",
+  "tokens": 2
+ },
+ {
+  "text": "Tôi bị ốm, xin nghỉ ốm ạ.",
+  "heard": "tôi bị ốm xin nhị ốm mạc",
+  "h": "e6c266c2cb41",
+  "tokens": 7
+ },
+ {
+  "text": "vô ý",
+  "heard": "bụi",
+  "h": "49ebca2a348c",
+  "tokens": 2
+ },
+ {
+  "text": "sửa sai",
+  "heard": "chào sạch hẹn gặp lại",
+  "h": "34d0d3196e7a",
+  "tokens": 2
+ },
+ {
+  "text": "Sửa sai rồi, bỏ qua nhé.",
+  "heard": "sự sai rồi bỏ qua nhé",
+  "h": "549f5d3bea7c",
+  "tokens": 6
+ },
+ {
+  "text": "chính thức",
+  "heard": "xin cơ",
+  "h": "d0eb7e50b5ba",
+  "tokens": 2
+ },
+ {
+  "text": "lương cơ bản",
+  "heard": "lưu cửa bằng",
+  "h": "0fef70959a50",
+  "tokens": 3
+ },
+ {
+  "text": "quyền lợi",
+  "heard": "nguyên lời",
+  "h": "c1790c62b52e",
+  "tokens": 2
+ },
+ {
+  "text": "Đọc kỹ hợp đồng trước nhé.",
+  "heard": "đầu kỷ hợp đồng trước nhé",
+  "h": "aac850a7374b",
+  "tokens": 6
+ },
+ {
+  "text": "Ký ở đây ạ.",
+  "heard": "kiểu đây à",
+  "h": "c370caf8f5e6",
+  "tokens": 4
+ },
+ {
+  "text": "sổ",
+  "heard": "chào",
+  "h": "5e39fc5fb1a2",
+  "tokens": 1
+ },
+ {
+  "text": "Cộng phụ cấp, trừ thuế ạ?",
+  "heard": "công phục cấp trời khóa à",
+  "h": "3dc40bb493d6",
+  "tokens": 6
+ },
+ {
+  "text": "lao động",
+  "heard": "na đông",
+  "h": "a2c8bf5b772b",
+  "tokens": 2
+ },
+ {
+  "text": "thẻ tạm trú",
+  "heard": "hãy tạm chú",
+  "h": "c725ec7e570c",
+  "tokens": 3
+ },
+ {
+  "text": "lãnh sự quán",
+  "heard": "lần sự quán",
+  "h": "7f180a85354c",
+  "tokens": 3
+ },
+ {
+  "text": "quá hạn",
+  "heard": "1",
+  "h": "c184ec2b9fd7",
+  "tokens": 2
+ },
+ {
+  "text": "bản sao",
+  "heard": "bạy sâu",
+  "h": "5aac36cd90ff",
+  "tokens": 2
+ },
+ {
+  "text": "Công ty có khám sức khỏe không ạ?",
+  "heard": "công ty có thám sức khỏe không à",
+  "h": "c67699d8b2a3",
+  "tokens": 8
+ },
+ {
+  "text": "tìm",
+  "heard": "tiếng",
+  "h": "7402bd79dd46",
+  "tokens": 1
+ },
+ {
+  "text": "báo mất",
+  "heard": "bấm ấm",
+  "h": "704a233b8741",
+  "tokens": 2
+ },
+ {
+  "text": "ví",
+  "heard": "thì",
+  "h": "cf40fd2c924a",
+  "tokens": 1
+ },
+ {
+  "text": "Bình tĩnh! Báo mất ở công an nhé.",
+  "heard": "bình tĩnh bão mất ở con mà nhé",
+  "h": "88c5638fd0f9",
+  "tokens": 8
+ },
+ {
+  "text": "Tìm ở phòng chưa? Thấy không?",
+  "heard": "tìm báo phòng chưa thấy không",
+  "h": "635770ccbdd8",
+  "tokens": 6
+ },
+ {
+  "text": "Thấy ví của em rồi! Ở dưới bàn.",
+  "heard": "cây víc của android ở dưới bàn",
+  "h": "adb32bd3118e",
+  "tokens": 8
+ },
+ {
+  "text": "độc thân",
+  "heard": "đập thân",
+  "h": "b10ac910f52d",
+  "tokens": 2
+ },
+ {
+  "text": "người yêu",
+  "heard": "vậy yếu",
+  "h": "5bfa80043a39",
+  "tokens": 2
+ },
+ {
+  "text": "Quê em ở đâu? Miền Bắc hay miền Nam?",
+  "heard": "quệ mở đâu miền bất hay miền ngam",
+  "h": "25bcf04e2ac0",
+  "tokens": 9
+ },
+ {
+  "text": "dễ thương",
+  "heard": "giảy khuong",
+  "h": "5ae5a6e50e42",
+  "tokens": 2
+ },
+ {
+  "text": "thông minh",
+  "heard": "hãy subscribe cho kênh la la school để không bỏ lỡ những video hấp dẫn",
+  "h": "6e3a39d98896",
+  "tokens": 2
+ },
+ {
+  "text": "trông",
+  "heard": "tông",
+  "h": "4289cc88f8dc",
+  "tokens": 1
+ },
+ {
+  "text": "Vâng. Trông dễ thương không? Thông minh lắm.",
+  "heard": "vân trong dĩa cường không thông minh lắm",
+  "h": "cc1e3ec113f0",
+  "tokens": 8
+ },
+ {
+  "text": "Em nuôi chó hay mèo?",
+  "heard": "em nuôi chó hay nèo",
+  "h": "3b6a6b658139",
+  "tokens": 5
+ },
+ {
+  "text": "Mèo của tôi dễ thương lắm.",
+  "heard": "bèo của tôi dạy khương ấm",
+  "h": "3fbf8a2f3c4e",
+  "tokens": 6
+ },
+ {
+  "text": "đội",
+  "heard": "rồi y",
+  "h": "3a055458c30f",
+  "tokens": 1
+ },
+ {
+  "text": "vô địch",
+  "heard": "vô đẹp",
+  "h": "24e7aa4146ed",
+  "tokens": 2
+ },
+ {
+  "text": "Trận tối qua, đội Việt Nam thắng không?",
+  "heard": "trường tố qua đồ việt nam thắng không",
+  "h": "83e12e351bf0",
+  "tokens": 8
+ },
+ {
+  "text": "Thua rồi, buồn quá.",
+  "heard": "tôi rồi buồn quá",
+  "h": "47d8be40f825",
+  "tokens": 4
+ },
+ {
+  "text": "Cùng nhau cổ vũ nhé!",
+  "heard": "cùng nhau của vũ nhất",
+  "h": "4e5d1a92e25e",
+  "tokens": 5
+ },
+ {
+  "text": "đi chơi",
+  "heard": "vì chơi",
+  "h": "5cbbfd819993",
+  "tokens": 2
+ },
+ {
+  "text": "về quê",
+  "heard": "để quay",
+  "h": "f2c314d91391",
+  "tokens": 2
+ },
+ {
+  "text": "Em về quê, gặp bạn bè.",
+  "heard": "em về quê cấp bằng đe",
+  "h": "c45f219b99a5",
+  "tokens": 6
+ },
+ {
+  "text": "Tối tôi đi dạo gần nhà.",
+  "heard": "cứ tôi đi chào cầm nhà",
+  "h": "8377234ac14e",
+  "tokens": 6
+ },
+ {
+  "text": "Cuối tháng về quê nhé.",
+  "heard": "cuối thẳng vì quỷ nhá",
+  "h": "b236f8d09b8d",
+  "tokens": 5
+ },
+ {
+  "text": "tuyệt vời",
+  "heard": "tạm biệt tạm biệt",
+  "h": "57d2de05c83a",
+  "tokens": 2
+ },
+ {
+  "text": "ừ",
+  "heard": "ơ",
+  "h": "4ee8e5743444",
+  "tokens": 1
+ },
+ {
+  "text": "vỗ tay",
+  "heard": "bổ thay",
+  "h": "08c2dcdbb4cc",
+  "tokens": 2
+ },
+ {
+  "text": "Em may giỏi ghê!",
+  "heard": "em nãy giỏi kết",
+  "h": "f41378a30d08",
+  "tokens": 4
+ },
+ {
+  "text": "Em còn dở lắm ạ.",
+  "heard": "em còn giờ lắm à",
+  "h": "b1e70b28e58d",
+  "tokens": 5
+ },
+ {
+  "text": "đắng",
+  "heard": "tạm biệt",
+  "h": "f83e3729d7f3",
+  "tokens": 1
+ },
+ {
+  "text": "Trà đá không tính tiền ạ?",
+  "heard": "chá đá không tính vì ngạc",
+  "h": "79540eb05cfe",
+  "tokens": 6
+ },
+ {
+  "text": "tái",
+  "heard": "đã y",
+  "h": "94a71672a8e6",
+  "tokens": 1
+ },
+ {
+  "text": "thơm",
+  "heard": "cơm",
+  "h": "2f7223607c42",
+  "tokens": 1
+ },
+ {
+  "text": "Thêm rau với chanh không ạ?",
+  "heard": "hình chào quý trang không ạ",
+  "h": "02e924a39dec",
+  "tokens": 6
+ },
+ {
+  "text": "Nước dùng thơm quá.",
+  "heard": "nói chụng thơm quá",
+  "h": "eb57277b9eac",
+  "tokens": 4
+ },
+ {
+  "text": "Phở gà cũng ngon.",
+  "heard": "vô ca cũng ngon",
+  "h": "39987303b1ee",
+  "tokens": 4
+ },
+ {
+  "text": "rộng",
+  "heard": "chào mừng",
+  "h": "e8cb7ccb872f",
+  "tokens": 1
+ },
+ {
+  "text": "chật",
+  "heard": "chào",
+  "h": "d28ace983444",
+  "tokens": 1
+ },
+ {
+  "text": "Quần này dài quá, cắt ngắn được không?",
+  "heard": "quân này dài quá các ngắn được không",
+  "h": "3e20bf1f77a3",
+  "tokens": 8
+ },
+ {
+  "text": "Được. Mai đến lấy nhé.",
+  "heard": "được bài đến đây nhé",
+  "h": "c136cea7ceb9",
+  "tokens": 5
+ },
+ {
+  "text": "Tiệm giặt gần ký túc xá.",
+  "heard": "tìm dạc gần ký túc xá",
+  "h": "be035fb6b4aa",
+  "tokens": 6
+ },
+ {
+  "text": "địa chỉ",
+  "heard": "đi chì",
+  "h": "228d1c53664d",
+  "tokens": 2
+ },
+ {
+  "text": "số nhà",
+  "heard": "chú nhé",
+  "h": "bb98d771e057",
+  "tokens": 2
+ },
+ {
+  "text": "nơi",
+  "heard": "này",
+  "h": "b88d9d242ea0",
+  "tokens": 1
+ },
+ {
+  "text": "đến nơi",
+  "heard": "đến đây",
+  "h": "8f3875add6a0",
+  "tokens": 2
+ },
+ {
+  "text": "đặt xe",
+  "heard": "đặc sếp",
+  "h": "fac0b890b0c7",
+  "tokens": 2
+ },
+ {
+  "text": "gửi hàng",
+  "heard": "hẹn gửi hẹn",
+  "h": "4db1dff43771",
+  "tokens": 2
+ },
+ {
+  "text": "Địa chỉ ở đâu ạ? Em giao hàng.",
+  "heard": "vì chỉ ở đâu à em chào hàng",
+  "h": "d4b38393a0d4",
+  "tokens": 8
+ },
+ {
+  "text": "từng",
+  "heard": "tình",
+  "h": "b3fe75a7078f",
+  "tokens": 1
+ },
+ {
+  "text": "làm theo",
+  "heard": "nằm theo",
+  "h": "b92f3d6f56a3",
+  "tokens": 2
+ },
+ {
+  "text": "đúng cách",
+  "heard": "đúng không",
+  "h": "35886e93f671",
+  "tokens": 2
+ },
+ {
+  "text": "tiến độ",
+  "heard": "đình ồn",
+  "h": "a74b7cc044a1",
+  "tokens": 2
+ },
+ {
+  "text": "vấn đề",
+  "heard": "tạm biệt",
+  "h": "725708111801",
+  "tokens": 2
+ },
+ {
+  "text": "báo ngay",
+  "heard": "bảo vệ",
+  "h": "a6d84116508f",
+  "tokens": 2
+ },
+ {
+  "text": "ổn",
+  "heard": "ông",
+  "h": "6aaf0de398fe",
+  "tokens": 1
+ },
+ {
+  "text": "Tiến độ đến đâu rồi? Còn lại bao nhiêu?",
+  "heard": "tiến thử đến đâu rồi con lại bao nhiêu",
+  "h": "fff5aacf3221",
+  "tokens": 9
+ },
+ {
+  "text": "Lâu quá! Nhanh lên nhé.",
+  "heard": "lô quá nhanh lên nhé",
+  "h": "be9b04e39567",
+  "tokens": 5
+ },
+ {
+  "text": "Vấn đề này, giải quyết ngay.",
+  "heard": "vấn đề này dạy quyết ngay",
+  "h": "801ed9dccbfb",
+  "tokens": 6
+ },
+ {
+  "text": "Tạm nghỉ, sau đó tiếp tục.",
+  "heard": "tạm biệt sau đó tiếp tục",
+  "h": "b7abd69de4f0",
+  "tokens": 6
+ },
+ {
+  "text": "nhẹ nhàng",
+  "heard": "nhanh nhanh",
+  "h": "ccf577e7900b",
+  "tokens": 2
+ },
+ {
+  "text": "trước mặt",
+  "heard": "chúc mặt",
+  "h": "516fec1043f9",
+  "tokens": 2
+ },
+ {
+  "text": "Vâng ạ. Anh góp ý, em nghe ạ.",
+  "heard": "quân hạ anh góp ý em nghe à",
+  "h": "ada72bc7f7c6",
+  "tokens": 8
+ },
+ {
+  "text": "Đừng chê trước mặt người khác.",
+  "heard": "đừng chơi trước mặt người khác",
+  "h": "97aa74f51453",
+  "tokens": 6
+ },
+ {
+  "text": "động viên",
+  "heard": "đầu viên",
+  "h": "9253a92e32dd",
+  "tokens": 2
+ },
+ {
+  "text": "tự hào",
+  "heard": "hẹn gặp lại video này",
+  "h": "36e556517377",
+  "tokens": 2
+ },
+ {
+  "text": "cả nhóm",
+  "heard": "tạ nhóm",
+  "h": "cfbd849ceff3",
+  "tokens": 2
+ },
+ {
+  "text": "nụ cười",
+  "heard": "nếu cười",
+  "h": "b92be82917d3",
+  "tokens": 2
+ },
+ {
+  "text": "Nụ cười của em làm cả nhóm vui.",
+  "heard": "đồ cười của em làm cả nhóm vui",
+  "h": "e9bfbad1afbc",
+  "tokens": 8
+ },
+ {
+  "text": "chương trình",
+  "heard": "kinh kinh",
+  "h": "49b5d2a0a9f4",
+  "tokens": 2
+ },
+ {
+  "text": "quyết định",
+  "heard": "quyết nhanh",
+  "h": "a0a7b151b91d",
+  "tokens": 2
+ },
+ {
+  "text": "kết luận",
+  "heard": "kết buồn",
+  "h": "59ea7d4e76c4",
+  "tokens": 2
+ },
+ {
+  "text": "biểu quyết",
+  "heard": "để quý",
+  "h": "dd47cf4a62d5",
+  "tokens": 2
+ },
+ {
+  "text": "Kết luận là làm theo kế hoạch.",
+  "heard": "kết bường lại làm theo kế hoạch",
+  "h": "69fbfde9e426",
+  "tokens": 7
+ },
+ {
+  "text": "đầu tiên",
+  "heard": "bầu tiên",
+  "h": "195af79457aa",
+  "tokens": 2
+ },
+ {
+  "text": "bán thành phẩm",
+  "heard": "bán hành phẩm",
+  "h": "329bc132792d",
+  "tokens": 3
+ },
+ {
+  "text": "thành phẩm",
+  "heard": "hẳn phẩm",
+  "h": "4b02a0d18d5c",
+  "tokens": 2
+ },
+ {
+  "text": "Quy trình thế nào? Công đoạn đầu tiên là gì?",
+  "heard": "quy trình thế nào công đạn đầu tiên là gì",
+  "h": "2833320c6b28",
+  "tokens": 10
+ },
+ {
+  "text": "Đầu tiên cắt, tiếp theo may, cuối cùng kiểm tra.",
+  "heard": "đầu tiên cách tiếp theo mày cuối cùng kiểm tra",
+  "h": "d4c2e51c3bdc",
+  "tokens": 10
+ },
+ {
+  "text": "Bàn giao cho ca sau nhé.",
+  "heard": "bạn gieo cho ca sau nhé",
+  "h": "2898d886c9ee",
+  "tokens": 6
+ },
+ {
+  "text": "phân",
+  "heard": "hẳn",
+  "h": "4c0e9ee6cde4",
+  "tokens": 1
+ },
+ {
+  "text": "thẳng hàng",
+  "heard": "hẹn hẹn",
+  "h": "4604aa50ce1b",
+  "tokens": 2
+ },
+ {
+  "text": "đối xứng",
+  "heard": "rồi xin",
+  "h": "a3eabd492276",
+  "tokens": 2
+ },
+ {
+  "text": "Cúc phải thẳng hàng.",
+  "heard": "cút phải thẳng hàng",
+  "h": "9ecfe2e2f9a6",
+  "tokens": 4
+ },
+ {
+  "text": "hàng lỗi",
+  "heard": "hẳn lối",
+  "h": "1fc4209d725b",
+  "tokens": 2
+ },
+ {
+  "text": "đánh dấu",
+  "heard": "đã chú",
+  "h": "fe1c0e2c54ca",
+  "tokens": 2
+ },
+ {
+  "text": "Phân loại theo tiêu chuẩn nhé.",
+  "heard": "phần lại theo dụng nhé",
+  "h": "1401c8299750",
+  "tokens": 6
+ },
+ {
+  "text": "Kiểm tra lần cuối, sau đó đóng thùng.",
+  "heard": "kiểm tra lần cuối sau đó đóng phùng",
+  "h": "837ca412e63f",
+  "tokens": 8
+ },
+ {
+  "text": "Dấu này là gì?",
+  "heard": "dũng này là chi",
+  "h": "b1094737a9a1",
+  "tokens": 4
+ },
+ {
+  "text": "giữ nguyên",
+  "heard": "diễn nguyên",
+  "h": "b484c52dc512",
+  "tokens": 2
+ },
+ {
+  "text": "đường chỉ",
+  "heard": "đi chì",
+  "h": "5bd777d9096b",
+  "tokens": 2
+ },
+ {
+  "text": "Tháo ra, thay thế cúc này nhé.",
+  "heard": "thật ra thầy thề quốc này giá",
+  "h": "7589c0ce835e",
+  "tokens": 7
+ },
+ {
+  "text": "Đường chỉ cũ, tháo ra may lại.",
+  "heard": "đừng chỉ củ tháo ra bay lạy",
+  "h": "edafbeadc95f",
+  "tokens": 7
+ },
+ {
+  "text": "bản vẽ",
+  "heard": "bạc tệ",
+  "h": "13619c9511d9",
+  "tokens": 2
+ },
+ {
+  "text": "hướng dẫn",
+  "heard": "tướng dẫn",
+  "h": "24f05da62fd2",
+  "tokens": 2
+ },
+ {
+  "text": "mục",
+  "heard": "bọc",
+  "h": "d5ce48a81df1",
+  "tokens": 1
+ },
+ {
+  "text": "tìm hiểu",
+  "heard": "tiếp hữu",
+  "h": "80c73a83a14a",
+  "tokens": 2
+ },
+ {
+  "text": "phiên bản",
+  "heard": "tiếng bằng",
+  "h": "69de57ef6984",
+  "tokens": 2
+ },
+ {
+  "text": "Ký hiệu này nghĩa là gì ạ?",
+  "heard": "kí dụ này nhiễn là gì à",
+  "h": "d445ce3d2f07",
+  "tokens": 7
+ },
+ {
+  "text": "Bản vẽ có chú thích ở dưới.",
+  "heard": "bàn tệ có chú thích ở dưới",
+  "h": "2d7c0ce330c2",
+  "tokens": 7
+ },
+ {
+  "text": "Dòng này quan trọng, đọc kỹ.",
+  "heard": "giờ này quan trọng đọc kỷ",
+  "h": "b4d1d138da7c",
+  "tokens": 6
+ },
+ {
+  "text": "chảy",
+  "heard": "kìa",
+  "h": "2e1a5981cbef",
+  "tokens": 1
+ },
+ {
+  "text": "nóng chảy",
+  "heard": "nam chạy",
+  "h": "57c46597062c",
+  "tokens": 2
+ },
+ {
+  "text": "Khói nguy hiểm, đeo khẩu trang nhé.",
+  "heard": "khóa nguy hiểm đeo khổ tra nhé",
+  "h": "79c004d6ca1f",
+  "tokens": 7
+ },
+ {
+  "text": "Dùng kẹp giữ bo nhé.",
+  "heard": "dùng kẹp dữ bò nhét",
+  "h": "cd439dc2e80b",
+  "tokens": 5
+ },
+ {
+  "text": "khởi động",
+  "heard": "quay đồng",
+  "h": "e3a067158de5",
+  "tokens": 2
+ },
+ {
+  "text": "kết nối",
+  "heard": "cất nối",
+  "h": "8302b6d184ed",
+  "tokens": 2
+ },
+ {
+  "text": "Máy lỗi, khởi động lại nhé.",
+  "heard": "mấy đổi khởi đồng này nhé",
+  "h": "e93159bc791a",
+  "tokens": 6
+ },
+ {
+  "text": "Vải này mềm quá.",
+  "heard": "với này mềm quá",
+  "h": "ba90b855e03a",
+  "tokens": 4
+ },
+ {
+  "text": "mã lỗi",
+  "heard": "bà loi",
+  "h": "7813c487d665",
+  "tokens": 2
+ },
+ {
+  "text": "rò",
+  "heard": "dạ",
+  "h": "302979559a1c",
+  "tokens": 1
+ },
+ {
+  "text": "Máy kêu và rung, sao thế?",
+  "heard": "mấy kêu vào dung sau thế",
+  "h": "525fe55aa66f",
+  "tokens": 6
+ },
+ {
+  "text": "Xem mã lỗi ở màn hình nhé.",
+  "heard": "xem bả lỗi ở màn hình nhé",
+  "h": "5cee3efd475d",
+  "tokens": 7
+ },
+ {
+  "text": "Có điểm sáng ở màn hình.",
+  "heard": "có điểm sáng ở bàn hình",
+  "h": "e5b6fc9f8e1f",
+  "tokens": 6
+ },
+ {
+  "text": "Chỗ này hở, nước rò vào.",
+  "heard": "chỗ này hỡ nước ra vào",
+  "h": "c7160f385aef",
+  "tokens": 6
+ },
+ {
+  "text": "nối đất",
+  "heard": "nụ đen",
+  "h": "b69cd153a605",
+  "tokens": 2
+ },
+ {
+  "text": "màng lọc",
+  "heard": "bay lập",
+  "h": "1d230a06f0d2",
+  "tokens": 2
+ },
+ {
+  "text": "danh sách",
+  "heard": "diễn sách",
+  "h": "1872900a585d",
+  "tokens": 2
+ },
+ {
+  "text": "đối chiếu",
+  "heard": "hẹn gặp lại các bạn",
+  "h": "c20c11f9ad54",
+  "tokens": 2
+ },
+ {
+  "text": "chống",
+  "heard": "chúng",
+  "h": "d1e1a10420ed",
+  "tokens": 1
+ },
+ {
+  "text": "chống ẩm",
+  "heard": "trống ẩm",
+  "h": "9aa9df76a6ac",
+  "tokens": 2
+ },
+ {
+  "text": "ký nhận",
+  "heard": "đi nhắn",
+  "h": "097feee56593",
+  "tokens": 2
+ },
+ {
+  "text": "Chống bụi, chống ẩm, hai cái đều cần.",
+  "heard": "chống buội chống ẩm 2 cái điều cần",
+  "h": "18fa30893fa1",
+  "tokens": 8
+ },
+ {
+  "text": "xe nâng",
+  "heard": "xin ơn",
+  "h": "aad295705fbb",
+  "tokens": 2
+ },
+ {
+  "text": "nâng",
+  "heard": "đừng",
+  "h": "54a906337615",
+  "tokens": 1
+ },
+ {
+  "text": "đứng",
+  "heard": "bình",
+  "h": "8c5817655a6a",
+  "tokens": 1
+ },
+ {
+  "text": "khu vực",
+  "heard": "cụp ơn",
+  "h": "4b122d5c9249",
+  "tokens": 2
+ },
+ {
+  "text": "Xe nâng lùi! Nghe còi không?",
+  "heard": "xe nâng lùi nhé coi không",
+  "h": "699567999726",
+  "tokens": 6
+ },
+ {
+  "text": "Nâng lên, hạ xuống từ từ.",
+  "heard": "nâng lên hải xuống từ từ",
+  "h": "4b2e592c557e",
+  "tokens": 6
+ },
+ {
+  "text": "Khu vực này cấm đứng.",
+  "heard": "cũng vực này cấm đứng",
+  "h": "b58de6a8e21c",
+  "tokens": 5
+ },
+ {
+  "text": "Thùng này nặng, cái kia nhẹ.",
+  "heard": "thùng may nặng các gì nhẹ",
+  "h": "8fd61ea79d3c",
+  "tokens": 6
+ },
+ {
+  "text": "lẫn",
+  "heard": "lẩm",
+  "h": "238b95740606",
+  "tokens": 1
+ },
+ {
+  "text": "thiết bị",
+  "heard": "kịp mì",
+  "h": "5244d3ad429a",
+  "tokens": 2
+ },
+ {
+  "text": "Thiết bị mượn rồi phải trả.",
+  "heard": "thích bị mượn rồi phải trả",
+  "h": "41faefdc0648",
+  "tokens": 6
+ },
+ {
+  "text": "Đếm lại, đối chiếu sổ sách.",
+  "heard": "đếm lại đồ chiếu số sách",
+  "h": "bf9dcb40b88c",
+  "tokens": 6
+ },
+ {
+  "text": "Bốc hàng lên xe tải, chất lên từng kiện.",
+  "heard": "bốc hàng lên xe đáy trước lên từ ghiền",
+  "h": "0db748cb237e",
+  "tokens": 9
+ },
+ {
+  "text": "giao nhận",
+  "heard": "giận nhận",
+  "h": "3fbfad81b34e",
+  "tokens": 2
+ },
+ {
+  "text": "biên bản",
+  "heard": "đi đen",
+  "h": "a02b17d37f75",
+  "tokens": 2
+ },
+ {
+  "text": "người nhận",
+  "heard": "hẹn gặp lại video này",
+  "h": "b1b62b5a3154",
+  "tokens": 2
+ },
+ {
+  "text": "đúng hẹn",
+  "heard": "đúng hành",
+  "h": "c4b39ec0d2b7",
+  "tokens": 2
+ },
+ {
+  "text": "chụp lại",
+  "heard": "chịp lai",
+  "h": "fab896b272e5",
+  "tokens": 2
+ },
+ {
+  "text": "Hàng hư hỏng rồi! Chụp lại làm biên bản nhé.",
+  "heard": "hàng hư hóng trồi chụp lại làm biên bản nhé",
+  "h": "1ec87235d366",
+  "tokens": 10
+ },
+ {
+  "text": "Người nhận ký ở đây.",
+  "heard": "nguyên đoàn ký ở đây",
+  "h": "b8a2c18f50ef",
+  "tokens": 5
+ }
+]

@@ -1,0 +1,334 @@
+<!doctype html><html lang="vi"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Giọng máy đọc tiếng Việt — nghe giúp mình nhé</title>
+<style>
+:root{--bg:#fff;--ink:#1a1a1a;--dim:#666;--line:#d8d8d8;--card:#fafafa;
+ --dan:#c0392b;--sao:#1d6f42}
+@media (prefers-color-scheme:dark){:root{--bg:#161616;--ink:#eee;--dim:#aaa;
+ --line:#3a3a3a;--card:#1f1f1f;--dan:#e05c4a;--sao:#4bb377}}
+*{box-sizing:border-box}
+body{margin:0 auto;padding:18px 14px 90px;background:var(--bg);color:var(--ink);
+ font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+ line-height:1.6;max-width:640px}
+h1{font-size:22px;margin:0 0 6px;text-wrap:balance}
+.note{color:var(--dim);font-size:14px;margin:0 0 16px}
+.rg{border:1px solid var(--line);border-radius:10px;padding:14px;margin-bottom:20px;
+ background:var(--card)}
+.rg p{margin:0 0 10px;font-weight:700}
+.row{display:flex;gap:8px;flex-wrap:wrap}
+.row button{flex:1 1 22%;padding:10px 6px;border:1px solid var(--line);
+ background:var(--bg);color:var(--ink);border-radius:8px;font-size:15px;cursor:pointer}
+.row button.on{border:3px solid var(--dan);font-weight:800;
+ background:color-mix(in srgb,var(--dan) 12%,transparent)}
+.nat button.on{border-color:var(--sao);
+ background:color-mix(in srgb,var(--sao) 14%,transparent)}
+.q{border:1px solid var(--line);border-radius:10px;padding:14px;margin-bottom:18px}
+.sent{font-size:18px;font-weight:700;margin:0 0 12px}
+.v{border-top:1px dashed var(--line);padding-top:12px;margin-top:12px}
+.v:first-of-type{border-top:0;padding-top:0;margin-top:0}
+.vn{font-weight:700;margin-bottom:6px;font-size:15px}
+.ask{font-size:13px;color:var(--dim);margin:0 0 6px}
+audio{width:100%;height:36px;margin-bottom:8px}
+.nat{border-top:2px solid var(--line);margin-top:14px;padding-top:12px}
+.nat .ask{font-weight:700;color:var(--ink);font-size:14px}
+#send{position:sticky;bottom:14px;width:100%;padding:16px;font-size:17px;font-weight:800;
+ border:0;border-radius:10px;background:var(--dan);color:#fff;cursor:pointer;
+ box-shadow:0 4px 14px rgba(0,0,0,.25)}
+#send:disabled{opacity:.5}
+#out{margin-top:14px;white-space:pre-line;font-size:15px}
+</style></head><body>
+<h1>🎧 Giọng nào nghe giống người thật? Và là giọng vùng nào?</h1>
+<p class="note">Mỗi câu có <b>4 giọng máy đọc</b>. Nghe xong, bạn giúp mình <b>2 việc</b>:<br>① Với <b>từng giọng</b>, đánh dấu đó là giọng <b>Bắc / Trung / Nam</b> (không chắc thì chọn <b>Không rõ</b> — đừng đoán bừa).<br>② Trong 4 giọng, chọn <b>một giọng duy nhất</b> nghe <b>giống người thật nhất</b>.<br><br>Mình đang làm một ứng dụng học tiếng Hàn – tiếng Việt <b>miễn phí</b>, và cần chọn giọng đọc cho đúng. Khảo sát <b>không hỏi tên, không hỏi tuổi</b>, mất khoảng 4 phút. Cảm ơn bạn! 🙏</p>
+<div class="rg"><p>Trước tiên: bạn nói giọng vùng nào?</p><div class="row">
+<button type="button" data-v="bac">Miền Bắc</button>
+<button type="button" data-v="trung">Miền Trung</button>
+<button type="button" data-v="nam">Miền Nam</button>
+</div></div>
+<div class="q">
+<p class="sent">Câu 1. Em hai mươi tuổi. Bây giờ chín giờ rưỡi sáng.</p>
+<div class="v">
+<div class="vn">Giọng 1</div>
+<audio controls preload="none" src="dtest/1_A.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="1A" data-v="bac">Bắc</button>
+<button type="button" data-k="1A" data-v="trung">Trung</button>
+<button type="button" data-k="1A" data-v="nam">Nam</button>
+<button type="button" data-k="1A" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 2</div>
+<audio controls preload="none" src="dtest/1_B.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="1B" data-v="bac">Bắc</button>
+<button type="button" data-k="1B" data-v="trung">Trung</button>
+<button type="button" data-k="1B" data-v="nam">Nam</button>
+<button type="button" data-k="1B" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 3</div>
+<audio controls preload="none" src="dtest/1_C.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="1C" data-v="bac">Bắc</button>
+<button type="button" data-k="1C" data-v="trung">Trung</button>
+<button type="button" data-k="1C" data-v="nam">Nam</button>
+<button type="button" data-k="1C" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 4</div>
+<audio controls preload="none" src="dtest/1_D.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="1D" data-v="bac">Bắc</button>
+<button type="button" data-k="1D" data-v="trung">Trung</button>
+<button type="button" data-k="1D" data-v="nam">Nam</button>
+<button type="button" data-k="1D" data-v="?">Không rõ</button>
+</div></div>
+<div class="nat"><p class="ask">★ Trong 4 giọng trên, giọng nào nghe <u>giống người thật nhất</u>? (chọn 1)</p><div class="row">
+<button type="button" data-k="1" data-v="A">Giọng 1</button>
+<button type="button" data-k="1" data-v="B">Giọng 2</button>
+<button type="button" data-k="1" data-v="C">Giọng 3</button>
+<button type="button" data-k="1" data-v="D">Giọng 4</button>
+</div></div></div>
+<div class="q">
+<p class="sent">Câu 2. Xin lỗi, nhà vệ sinh ở đâu? Có gần đây không?</p>
+<div class="v">
+<div class="vn">Giọng 1</div>
+<audio controls preload="none" src="dtest/2_B.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="2B" data-v="bac">Bắc</button>
+<button type="button" data-k="2B" data-v="trung">Trung</button>
+<button type="button" data-k="2B" data-v="nam">Nam</button>
+<button type="button" data-k="2B" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 2</div>
+<audio controls preload="none" src="dtest/2_D.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="2D" data-v="bac">Bắc</button>
+<button type="button" data-k="2D" data-v="trung">Trung</button>
+<button type="button" data-k="2D" data-v="nam">Nam</button>
+<button type="button" data-k="2D" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 3</div>
+<audio controls preload="none" src="dtest/2_A.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="2A" data-v="bac">Bắc</button>
+<button type="button" data-k="2A" data-v="trung">Trung</button>
+<button type="button" data-k="2A" data-v="nam">Nam</button>
+<button type="button" data-k="2A" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 4</div>
+<audio controls preload="none" src="dtest/2_C.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="2C" data-v="bac">Bắc</button>
+<button type="button" data-k="2C" data-v="trung">Trung</button>
+<button type="button" data-k="2C" data-v="nam">Nam</button>
+<button type="button" data-k="2C" data-v="?">Không rõ</button>
+</div></div>
+<div class="nat"><p class="ask">★ Trong 4 giọng trên, giọng nào nghe <u>giống người thật nhất</u>? (chọn 1)</p><div class="row">
+<button type="button" data-k="2" data-v="B">Giọng 1</button>
+<button type="button" data-k="2" data-v="D">Giọng 2</button>
+<button type="button" data-k="2" data-v="A">Giọng 3</button>
+<button type="button" data-k="2" data-v="C">Giọng 4</button>
+</div></div></div>
+<div class="q">
+<p class="sent">Câu 3. Đỏ, xanh và trắng. Màu đỏ đẹp lắm.</p>
+<div class="v">
+<div class="vn">Giọng 1</div>
+<audio controls preload="none" src="dtest/3_C.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="3C" data-v="bac">Bắc</button>
+<button type="button" data-k="3C" data-v="trung">Trung</button>
+<button type="button" data-k="3C" data-v="nam">Nam</button>
+<button type="button" data-k="3C" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 2</div>
+<audio controls preload="none" src="dtest/3_A.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="3A" data-v="bac">Bắc</button>
+<button type="button" data-k="3A" data-v="trung">Trung</button>
+<button type="button" data-k="3A" data-v="nam">Nam</button>
+<button type="button" data-k="3A" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 3</div>
+<audio controls preload="none" src="dtest/3_D.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="3D" data-v="bac">Bắc</button>
+<button type="button" data-k="3D" data-v="trung">Trung</button>
+<button type="button" data-k="3D" data-v="nam">Nam</button>
+<button type="button" data-k="3D" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 4</div>
+<audio controls preload="none" src="dtest/3_B.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="3B" data-v="bac">Bắc</button>
+<button type="button" data-k="3B" data-v="trung">Trung</button>
+<button type="button" data-k="3B" data-v="nam">Nam</button>
+<button type="button" data-k="3B" data-v="?">Không rõ</button>
+</div></div>
+<div class="nat"><p class="ask">★ Trong 4 giọng trên, giọng nào nghe <u>giống người thật nhất</u>? (chọn 1)</p><div class="row">
+<button type="button" data-k="3" data-v="C">Giọng 1</button>
+<button type="button" data-k="3" data-v="A">Giọng 2</button>
+<button type="button" data-k="3" data-v="D">Giọng 3</button>
+<button type="button" data-k="3" data-v="B">Giọng 4</button>
+</div></div></div>
+<div class="q">
+<p class="sent">Câu 4. Ở trong hộp kia. Kim cũng ở đây.</p>
+<div class="v">
+<div class="vn">Giọng 1</div>
+<audio controls preload="none" src="dtest/4_D.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="4D" data-v="bac">Bắc</button>
+<button type="button" data-k="4D" data-v="trung">Trung</button>
+<button type="button" data-k="4D" data-v="nam">Nam</button>
+<button type="button" data-k="4D" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 2</div>
+<audio controls preload="none" src="dtest/4_C.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="4C" data-v="bac">Bắc</button>
+<button type="button" data-k="4C" data-v="trung">Trung</button>
+<button type="button" data-k="4C" data-v="nam">Nam</button>
+<button type="button" data-k="4C" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 3</div>
+<audio controls preload="none" src="dtest/4_B.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="4B" data-v="bac">Bắc</button>
+<button type="button" data-k="4B" data-v="trung">Trung</button>
+<button type="button" data-k="4B" data-v="nam">Nam</button>
+<button type="button" data-k="4B" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 4</div>
+<audio controls preload="none" src="dtest/4_A.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="4A" data-v="bac">Bắc</button>
+<button type="button" data-k="4A" data-v="trung">Trung</button>
+<button type="button" data-k="4A" data-v="nam">Nam</button>
+<button type="button" data-k="4A" data-v="?">Không rõ</button>
+</div></div>
+<div class="nat"><p class="ask">★ Trong 4 giọng trên, giọng nào nghe <u>giống người thật nhất</u>? (chọn 1)</p><div class="row">
+<button type="button" data-k="4" data-v="D">Giọng 1</button>
+<button type="button" data-k="4" data-v="C">Giọng 2</button>
+<button type="button" data-k="4" data-v="B">Giọng 3</button>
+<button type="button" data-k="4" data-v="A">Giọng 4</button>
+</div></div></div>
+<div class="q">
+<p class="sent">Câu 5. Có, chính phủ hỗ trợ rất tốt.</p>
+<div class="v">
+<div class="vn">Giọng 1</div>
+<audio controls preload="none" src="dtest/5_A.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="5A" data-v="bac">Bắc</button>
+<button type="button" data-k="5A" data-v="trung">Trung</button>
+<button type="button" data-k="5A" data-v="nam">Nam</button>
+<button type="button" data-k="5A" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 2</div>
+<audio controls preload="none" src="dtest/5_D.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="5D" data-v="bac">Bắc</button>
+<button type="button" data-k="5D" data-v="trung">Trung</button>
+<button type="button" data-k="5D" data-v="nam">Nam</button>
+<button type="button" data-k="5D" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 3</div>
+<audio controls preload="none" src="dtest/5_B.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="5B" data-v="bac">Bắc</button>
+<button type="button" data-k="5B" data-v="trung">Trung</button>
+<button type="button" data-k="5B" data-v="nam">Nam</button>
+<button type="button" data-k="5B" data-v="?">Không rõ</button>
+</div></div>
+<div class="v">
+<div class="vn">Giọng 4</div>
+<audio controls preload="none" src="dtest/5_C.mp3"></audio>
+<p class="ask">Giọng này là giọng vùng nào?</p>
+<div class="row dq">
+<button type="button" data-k="5C" data-v="bac">Bắc</button>
+<button type="button" data-k="5C" data-v="trung">Trung</button>
+<button type="button" data-k="5C" data-v="nam">Nam</button>
+<button type="button" data-k="5C" data-v="?">Không rõ</button>
+</div></div>
+<div class="nat"><p class="ask">★ Trong 4 giọng trên, giọng nào nghe <u>giống người thật nhất</u>? (chọn 1)</p><div class="row">
+<button type="button" data-k="5" data-v="A">Giọng 1</button>
+<button type="button" data-k="5" data-v="D">Giọng 2</button>
+<button type="button" data-k="5" data-v="B">Giọng 3</button>
+<button type="button" data-k="5" data-v="C">Giọng 4</button>
+</div></div></div>
+<button id="send">Gửi kết quả</button><div id="out"></div>
+<script>
+const API='https://viet-club.chaochao-app.workers.dev';
+const N=5;
+let RG='';
+const dia={},nat={};
+const mark=(b,store,key)=>{store[key]=b.dataset.v;
+  b.parentNode.querySelectorAll('button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');left();};
+document.querySelectorAll('.rg button').forEach(b=>b.onclick=()=>{
+  RG=b.dataset.v;
+  b.parentNode.querySelectorAll('button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');left();});
+document.querySelectorAll('.dq button').forEach(b=>b.onclick=()=>mark(b,dia,b.dataset.k));
+document.querySelectorAll('.nat button').forEach(b=>b.onclick=()=>mark(b,nat,b.dataset.k));
+// 남은 개수를 단추에 적는다 — 어디까지 했는지 보여야 끝까지 한다.
+function left(){
+  const need=N*4+N+1, got=Object.keys(dia).length+Object.keys(nat).length+(RG?1:0);
+  document.getElementById('send').textContent=
+    got>=need?'Gửi kết quả ✓':`Gửi kết quả (còn ${need-got} mục)`;
+}
+left();
+document.getElementById('send').onclick=async()=>{
+  if(!RG){alert('Hãy chọn vùng giọng của bạn trước.');scrollTo(0,0);return;}
+  if(!Object.keys(dia).length&&!Object.keys(nat).length){
+    alert('Bạn chưa chọn mục nào.');return;}
+  const btn=document.getElementById('send');btn.disabled=true;
+  const post=b=>fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify(b)}).then(r=>r.json()).catch(()=>({}));
+  let msg='⚠️ Không gửi được — nhưng vẫn cảm ơn bạn!';
+  /* 서버가 옛 판이면 'giong'을 모르고 답을 통째로 버린다 — 실제로 그랬고,
+     페이스북에서 답해 준 사람들의 표가 그렇게 사라졌다. 그래서 **옛 판에서도
+     두 답이 다 남게** 한다. 옛 'dialect' 칸은 열쇠가 '숫자1~2 + A~D',
+     값이 bac/trung/nam/? 라야 통과한다. 그 틀 안에서:
+       · 지방 표  = '3C'  (문장3의 소리C)        — 본디 쓰임 그대로
+       · 사람 같다 = '13D' (앞의 1은 표시, 문장3에서 D를 골랐다). 값은 안 쓴다.
+     한 번에 보내니 한 사람의 두 답이 갈라져 반만 남는 일이 없다.
+     읽는 쪽은 tools/survey_read.py 하나뿐이고 거기서 되돌린다.
+     ※ 문장이 9개를 넘으면 이 표시가 겹친다. 그때는 짜임을 바꿔야 한다. */
+  const old=Object.assign({},dia);
+  for(const[n,v]of Object.entries(nat)) old['1'+n+v]='?';
+  if((await post({act:'giong',rg:RG,dia,nat})).ok
+   ||(await post({act:'dialect',rg:RG,picks:old})).ok)
+    msg='✅ Đã gửi. Cảm ơn bạn rất nhiều! 🙏';
+  document.getElementById('out').textContent=
+    `Vùng: ${RG} · Đã đánh dấu ${Object.keys(dia).length} + ${Object.keys(nat).length} mục.\n${msg}`;
+};
+</script></body></html>

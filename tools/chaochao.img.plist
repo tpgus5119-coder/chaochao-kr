@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>chaochao.img</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Library/Frameworks/Python.framework/Versions/3.14/bin/python3</string>
+    <string>/Users/leesehyeon/베트남어-어플/tools/img_watch.py</string>
+  </array>
+  <key>WorkingDirectory</key><string>/Users/leesehyeon/베트남어-어플</string>
+  <key>StartInterval</key><integer>3600</integer>
+  <key>RunAtLoad</key><true/>
+  <key>StandardOutPath</key><string>/Users/leesehyeon/베트남어-어플/img_watch.log</string>
+  <key>StandardErrorPath</key><string>/Users/leesehyeon/베트남어-어플/img_watch.log</string>
+</dict>
+</plist>

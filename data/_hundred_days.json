@@ -1,0 +1,359 @@
+{
+ "note": "100일의 기적(시판 책) 선배 정리본. 성조 확인 필요. 앱에 아직 안 넣음.",
+ "rows": [
+  {
+   "no": 1,
+   "vi": "Chuc ngu ngon.",
+   "ko": "잘자요",
+   "day": 1
+  },
+  {
+   "no": 2,
+   "vi": "Cai nay la gi?",
+   "ko": "이게 뭐예요?",
+   "day": 1
+  },
+  {
+   "no": 3,
+   "vi": "Kia la ai?",
+   "ko": "저 사람은 누구예요?",
+   "day": 1
+  },
+  {
+   "no": 4,
+   "vi": "Ban la sinh vien a?",
+   "ko": "당신은 대학생인가요?",
+   "day": 1
+  },
+  {
+   "no": 5,
+   "vi": "Toisong & Ha Noi.",
+   "ko": "나는 하노이에 살아요.",
+   "day": 1
+  },
+  {
+   "no": 6,
+   "vi": "Cai nay bao nhieu tien?",
+   "ko": "이거 얼마예요?",
+   "day": 1
+  },
+  {
+   "no": 7,
+   "vi": "Giam gia giup toi!",
+   "ko": "깎아주세요!",
+   "day": 1
+  },
+  {
+   "no": 8,
+   "vi": "Cho toi 2 cal.",
+   "ko": "2개 주세요",
+   "day": 1
+  },
+  {
+   "no": 9,
+   "vi": "Nha ve sinh o dau?",
+   "ko": "화장실이 어디에요?",
+   "day": 1
+  },
+  {
+   "no": 10,
+   "vi": "Toi phai doi tien & dau?",
+   "ko": "어디에서 환전해야 해요?",
+   "day": 1
+  },
+  {
+   "no": 11,
+   "vi": "Cho toi den san bay.",
+   "ko": "공항으로 가주세요.",
+   "day": 1
+  },
+  {
+   "no": 12,
+   "vi": "Cho toi xuong day.",
+   "ko": "여기에서 내려주세요.",
+   "day": 1
+  },
+  {
+   "no": 13,
+   "vi": "Ban an com chua?",
+   "ko": "식사하셨어요?",
+   "day": 1
+  },
+  {
+   "no": 14,
+   "vi": "Ban co thoi gian khong?",
+   "ko": "시간 있어요?",
+   "day": 1
+  },
+  {
+   "no": 15,
+   "vi": "Bi tac duiong.",
+   "ko": "길이 막혀요.",
+   "day": 1
+  },
+  {
+   "no": 16,
+   "vi": "Lam on nhanh len mot chut.",
+   "ko": "좀 서둘러주세요.",
+   "day": 1
+  },
+  {
+   "no": 17,
+   "vi": "Cho mgt chut!",
+   "ko": "잠깐 기다리세요!",
+   "day": 1
+  },
+  {
+   "no": 18,
+   "vi": "Toi khong muon chu?",
+   "ko": "나 안늦었죠?",
+   "day": 1
+  },
+  {
+   "no": 19,
+   "vi": "Tir day den do co xa khong?",
+   "ko": "여기부터 거기까지 멀어요?",
+   "day": 1
+  },
+  {
+   "no": 20,
+   "vi": "Cai nay lam the nao?",
+   "ko": "이거 어떻게 해요?",
+   "day": 1
+  },
+  {
+   "no": 41,
+   "vi": "Nhac lai lan nua dia.",
+   "ko": "다시 한번 말해주세요.",
+   "day": 3
+  },
+  {
+   "no": 42,
+   "vi": "Giup toi voi!",
+   "ko": "도와주세요!",
+   "day": 3
+  },
+  {
+   "no": 43,
+   "vi": "Suyt nwa thi lac duong.",
+   "ko": "길 잃을 뻔했어요.",
+   "day": 3
+  },
+  {
+   "no": 44,
+   "vi": "Toi den Viet Nam de lam viec.",
+   "ko": "베트남에 일하러 왔어요.",
+   "day": 3
+  },
+  {
+   "no": 45,
+   "vi": "Bay gio chung ta di dau day?",
+   "ko": "우리 지금 어디 가요?",
+   "day": 3
+  },
+  {
+   "no": 46,
+   "vi": "Chuc mung thang chuc.",
+   "ko": "승진 축하해요!",
+   "day": 3
+  },
+  {
+   "no": 47,
+   "vi": "Tet lan nay ban ve que chu?",
+   "ko": "이번 설에 고향에 가죠?",
+   "day": 3
+  },
+  {
+   "no": 48,
+   "vi": "Cung chup anh nao!",
+   "ko": "같이 사진 찍어요!",
+   "day": 3
+  },
+  {
+   "no": 49,
+   "vi": "Tat nhien la toi thich.",
+   "ko": "당연히 좋죠.",
+   "day": 3
+  },
+  {
+   "no": 50,
+   "vi": "O gan day co cira hang tien loi khong?",
+   "ko": "이 근처에 편의점이 있어요?",
+   "day": 3
+  },
+  {
+   "no": 51,
+   "vi": "Dao nay ban the nao?",
+   "ko": "요즘 어때요?",
+   "day": 3
+  },
+  {
+   "no": 52,
+   "vi": "Hoc xong da.",
+   "ko": "일단 공부 끝나고요.",
+   "day": 3
+  },
+  {
+   "no": 53,
+   "vi": "Co cho 5 nguoi ngoi khong?",
+   "ko": "5명 앉을 자리 있어요?",
+   "day": 3
+  },
+  {
+   "no": 54,
+   "vi": "Thoi gian qua toi lam phien ban qua!",
+   "ko": "그동안 폐 많이 끼쳤습니다.",
+   "day": 3
+  },
+  {
+   "no": 55,
+   "vi": "Cur tu nhien di a.",
+   "ko": "편히 하세요.",
+   "day": 3
+  },
+  {
+   "no": 56,
+   "vi": "Toi phai di nha ve sinh gap.",
+   "ko": "저 화장실이 급해요.",
+   "day": 4
+  },
+  {
+   "no": 57,
+   "vi": "Toi khong ngu durgc mot chut nao.",
+   "ko": "한숨도 못잤어요.",
+   "day": 4
+  },
+  {
+   "no": 58,
+   "vi": "Nho ban giup do a.",
+   "ko": "잘 부탁드려요.",
+   "day": 4
+  },
+  {
+   "no": 59,
+   "vi": "Codo nhu the nay khong?",
+   "ko": "이런 물건 있나요?",
+   "day": 4
+  },
+  {
+   "no": 60,
+   "vi": "Ban co the chup anh cho toi duoc khong a?",
+   "ko": "사진 좀 찍어주시겠어요?",
+   "day": 4
+  },
+  {
+   "no": 61,
+   "vi": "Ban an truoc dia!",
+   "ko": "먼저 드세요!",
+   "day": 4
+  },
+  {
+   "no": 62,
+   "vi": "Vui den murc khoc.",
+   "ko": "울 정도로 기뻐요.",
+   "day": 4
+  },
+  {
+   "no": 63,
+   "vi": "Mot chut sau, toi se goi them nhe.",
+   "ko": "잠시 후 더 주문할게요.",
+   "day": 4
+  },
+  {
+   "no": 64,
+   "vi": "May gio dong Cira?",
+   "ko": "몇 시에 영업이 끝나요?",
+   "day": 4
+  },
+  {
+   "no": 65,
+   "vi": "Khong con mau nao khac a?",
+   "ko": "다른 색은 없어요?",
+   "day": 4
+  },
+  {
+   "no": 66,
+   "vi": "Covan de gi khong?",
+   "ko": "무슨 문제 있어요?",
+   "day": 5
+  },
+  {
+   "no": 67,
+   "vi": "Toi dang tren duong den trurong.",
+   "ko": "학교에 가는 길이에요.",
+   "day": 5
+  },
+  {
+   "no": 68,
+   "vi": "Toi se lay cai nay.",
+   "ko": "이걸로 할게요.",
+   "day": 5
+  },
+  {
+   "no": 69,
+   "vi": "Da xong roi sao?",
+   "ko": "벌써 끝났어요?",
+   "day": 5
+  },
+  {
+   "no": 70,
+   "vi": "Hay lam theo toi!",
+   "ko": "따라하세요!",
+   "day": 5
+  },
+  {
+   "no": 91,
+   "vi": "Do mon nay khong ngon nen toi khong an nta.",
+   "ko": "맛없어서 더 안 먹을래요.",
+   "day": 13
+  },
+  {
+   "no": 92,
+   "vi": "Hoa ra toi sal.",
+   "ko": "날씨가 더워져요.",
+   "day": 13
+  },
+  {
+   "no": 93,
+   "vi": "Toi nghi la viec duong nhien can lam.",
+   "ko": "알고보니 내가 틀렸더라",
+   "day": 13
+  },
+  {
+   "no": 94,
+   "vi": "Gim doc luc nao cung chi mang mo toi.",
+   "ko": "이 일은 당연히 해야할 일이라고 생각해요.",
+   "day": 13
+  },
+  {
+   "no": 95,
+   "vi": "Mat sao lai the nay?",
+   "ko": "사장님은 항상 저만 혼내요.",
+   "day": 13
+  },
+  {
+   "no": 96,
+   "vi": "Toi dang hao huc hen ho thi hiy rdi.",
+   "ko": "얼굴이 왜 이래요?",
+   "day": 13
+  },
+  {
+   "no": 97,
+   "vi": "Co gang thong cam chut di.",
+   "ko": "데이트 기대했는데 취소됐어요.",
+   "day": 13
+  },
+  {
+   "no": 98,
+   "vi": "Moi ao ma da mua He roi.",
+   "ko": "좀 양해해주세요.",
+   "day": 13
+  },
+  {
+   "no": 99,
+   "vi": "Cang biet cang huing thu.",
+   "ko": "벌써 여름이 되었어요.",
+   "day": 13
+  }
+ ]
+}

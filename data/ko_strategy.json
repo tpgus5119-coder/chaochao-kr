@@ -1,0 +1,402 @@
+{
+ "note": "EPS-TOPIK 풀이 전략 — 근거는 docs/eps-strategy.md. 모의고사에는 절대 띄우지 않는다(실제 시험에 없는 도움말이라서).",
+ "items": [
+  {
+   "n": 1,
+   "need": 0,
+   "tag": "시험의 정체",
+   "ko": "합격선은 통과선이 아니다",
+   "vi": "Điểm sàn không phải là điểm đỗ",
+   "why_ko": "EPS-TOPIK 은 상대평가다. 제조업 60점은 '하한'일 뿐이고, 그 위에서 성적순으로 뽑는 인원까지만 자른다. 2025년 인도네시아 제조업 커트라인은 97.5점이었다 — 40문항 중 하나만 틀려야 했다는 뜻이다.",
+   "why_vi": "EPS-TOPIK chấm theo thứ hạng. 60 điểm ngành sản xuất chỉ là mức sàn; sau đó chỉ lấy theo thứ tự điểm cao cho đến hết chỉ tiêu. Năm 2025 điểm chuẩn ngành sản xuất của Indonesia là 97,5 — nghĩa là chỉ được sai 1 trên 40 câu.",
+   "how_ko": [
+    "목표를 '60점 넘기'가 아니라 '틀리는 문항 수'로 잡는다",
+    "지난 회차 커트라인을 확인하고 거기에 5점을 더한 값을 내 목표로 삼는다",
+    "버릴 문항을 미리 정해 둔다 — 다 맞히려다 다 흘리는 것이 가장 흔한 실패다"
+   ],
+   "how_vi": [
+    "Đặt mục tiêu theo 'số câu được phép sai', không phải 'vượt 60 điểm'",
+    "Xem điểm chuẩn kỳ trước rồi cộng thêm 5 điểm làm mục tiêu của mình",
+    "Định trước những câu sẽ bỏ — cố ăn hết rồi mất hết là thất bại phổ biến nhất"
+   ],
+   "do_ko": "지금 내 목표 점수를 종이에 적는다. 숫자 하나.",
+   "do_vi": "Viết ra giấy điểm mục tiêu của bạn ngay bây giờ. Một con số."
+  },
+  {
+   "n": 2,
+   "need": 0,
+   "tag": "화면 규칙",
+   "ko": "화면이 막는 것 네 가지",
+   "vi": "Bốn điều màn hình sẽ chặn bạn",
+   "why_ko": "베트남은 CBT(컴퓨터)로 본다. 공식 체험 프로그램을 직접 눌러 확인한 규칙이다. 실력이 아니라 조작을 몰라 잃는 점수가 실제로 있다 — 베트남 학원들이 '화면 99% 복제' 모의시험을 파는 이유다.",
+   "why_vi": "Việt Nam thi bằng CBT (máy tính). Đây là các quy tắc đã tự tay bấm thử trên chương trình thử nghiệm chính thức. Có những điểm bị mất không phải vì trình độ mà vì không quen thao tác — đó là lý do các trung tâm ở Việt Nam bán bài thi thử 'giống 99% màn hình thật'.",
+   "how_ko": [
+    "① 한 번 고른 답은 **바꿀 수 없다**. 확신이 설 때 누른다",
+    "② 읽기·듣기 시계가 **따로** 간다. 읽기에 남긴 시간은 사라진다",
+    "③ 듣기로 넘어가면 **읽기로 못 돌아간다**",
+    "④ 번호판은 눌러도 안 움직인다 — 이동은 이전/다음뿐"
+   ],
+   "how_vi": [
+    "① Đáp án đã chọn **không đổi được**. Chỉ bấm khi đã chắc",
+    "② Đồng hồ đọc và nghe chạy **riêng**. Thời gian thừa ở phần đọc sẽ mất",
+    "③ Sang phần nghe rồi thì **không quay lại phần đọc được**",
+    "④ Bảng số bấm cũng không chuyển — chỉ di chuyển bằng nút trước/sau"
+   ],
+   "do_ko": "모의고사를 한 번 쳐서 이 넷을 손으로 겪어 본다.",
+   "do_vi": "Thi thử một lần để tự tay trải qua bốn điều này."
+  },
+  {
+   "n": 3,
+   "need": 200,
+   "tag": "시간",
+   "ko": "읽기 25분을 나누는 법",
+   "vi": "Chia 25 phút phần đọc",
+   "why_ko": "읽기 20문항에 25분이면 문항당 75초다. 그런데 유형마다 걸리는 시간이 다르다. 공개문제집 960문항을 세어 뽑은 비율에 시간을 나눠 넣으면 21.8분이 되고 3.2분이 남는다.",
+   "why_vi": "20 câu đọc trong 25 phút là 75 giây mỗi câu. Nhưng mỗi dạng tốn thời gian khác nhau. Chia thời gian theo tỷ lệ đếm được từ 960 câu công khai thì hết 21,8 phút, còn dư 3,2 phút.",
+   "how_ko": [
+    "그림 4문항 × 30초 = 2분",
+    "빈칸 6문항 × 45초 = 4.5분",
+    "질문에 답하기 7문항 × 75초 = 8.8분",
+    "긴 지문 2문항 × 120초 = 4분",
+    "글 읽고 물음 1문항 × 150초 = 2.5분",
+    "남는 3.2분은 검토가 아니다 — **안 푼 문항을 0개로 만드는 시간**이다"
+   ],
+   "how_vi": [
+    "4 câu tranh × 30 giây = 2 phút",
+    "6 câu điền chỗ trống × 45 giây = 4,5 phút",
+    "7 câu trả lời câu hỏi × 75 giây = 8,8 phút",
+    "2 câu bài đọc dài × 120 giây = 4 phút",
+    "1 câu đọc bài trả lời × 150 giây = 2,5 phút",
+    "3,2 phút dư không phải để rà lại — là **thời gian đưa số câu bỏ trống về 0**"
+   ],
+   "do_ko": "시계를 놓고 그림 4문항을 2분 안에 풀어 본다.",
+   "do_vi": "Đặt đồng hồ, thử làm 4 câu tranh trong 2 phút."
+  },
+  {
+   "n": 4,
+   "need": 300,
+   "tag": "읽기 유형",
+   "ko": "그림 문항 — 길이로는 못 찍는다",
+   "vi": "Câu tranh — không đoán được bằng độ dài",
+   "why_ko": "공개문제집 200문항을 재 보니 보기 넷의 **가장 긴 것과 가장 짧은 것 차이가 1자**였다. 다른 유형은 31~51자까지 벌어진다. 즉 이 유형만은 '긴 게 답' 같은 요령이 통하지 않게 일부러 만들어져 있다.",
+   "why_vi": "Đo 200 câu trong tập đề công khai thì **chênh lệch giữa lựa chọn dài nhất và ngắn nhất chỉ 1 chữ**. Các dạng khác chênh tới 31~51 chữ. Nghĩa là dạng này được cố ý làm để mẹo 'chọn câu dài' không dùng được.",
+   "how_ko": [
+    "① 보기를 보기 전에 **그림부터** 본다",
+    "② 그 물건의 한국어 낱말을 **머릿속에 먼저 떠올린다**",
+    "③ 그다음 보기에서 그 낱말을 찾는다",
+    "모르는 물건이면: 보기 넷의 **핵심 낱말만** 견준다. 뒤에 붙은 '~입니다'는 다 같으니 읽지 않는다"
+   ],
+   "how_vi": [
+    "① Nhìn **tranh trước**, đừng nhìn lựa chọn",
+    "② **Tự nghĩ ra từ tiếng Hàn** của vật đó trong đầu",
+    "③ Rồi mới tìm từ đó trong các lựa chọn",
+    "Nếu không biết vật đó: chỉ so **từ khóa** của 4 lựa chọn. Phần '~입니다' phía sau giống nhau, đừng đọc"
+   ],
+   "do_ko": "그림 문항 10개를 '떠올리고 찾기' 순서로만 풀어 본다.",
+   "do_vi": "Làm 10 câu tranh chỉ theo thứ tự 'nghĩ ra rồi tìm'."
+  },
+  {
+   "n": 5,
+   "need": 400,
+   "tag": "읽기 유형",
+   "ko": "빈칸 — 앞뒤 두 낱말만 본다",
+   "vi": "Điền chỗ trống — chỉ nhìn hai từ trước sau",
+   "why_ko": "빈칸 문항은 20문항 중 6개로 가장 많다. 그런데 문장 전체를 해석하지 않아도 되는 경우가 대부분이다 — 빈칸에 붙는 **조사**가 품사를 정해 주기 때문이다.",
+   "why_vi": "Câu điền chỗ trống chiếm 6/20, nhiều nhất. Nhưng phần lớn không cần dịch cả câu — vì **trợ từ** đi kèm chỗ trống đã quy định từ loại.",
+   "how_ko": [
+    "① 빈칸 **바로 앞 한 낱말, 바로 뒤 한 낱말**만 읽는다",
+    "② 뒤에 조사(을/를·이/가·에·에서)가 있으면 빈칸은 명사다",
+    "③ 보기 넷 중 품사가 다른 것을 먼저 지운다",
+    "④ 남은 것 중에서만 뜻을 견준다"
+   ],
+   "how_vi": [
+    "① Chỉ đọc **một từ ngay trước và một từ ngay sau** chỗ trống",
+    "② Nếu sau đó có trợ từ (을/를·이/가·에·에서) thì chỗ trống là danh từ",
+    "③ Gạch trước những lựa chọn khác từ loại",
+    "④ Chỉ so nghĩa trong số còn lại"
+   ],
+   "do_ko": "빈칸 문항에서 문장 전체를 읽지 말고 풀어 본다.",
+   "do_vi": "Thử làm câu điền chỗ trống mà không đọc cả câu."
+  },
+  {
+   "n": 6,
+   "need": 400,
+   "tag": "읽기 유형",
+   "ko": "도표 — 낱말 여섯이면 끝난다",
+   "vi": "Biểu đồ — sáu từ là xong",
+   "why_ko": "도표·그래프 문항은 숫자를 계산하게 만들지 않는다. 비교하는 말만 알면 기계적으로 풀린다. 베트남 학원들이 공통으로 가르치는 것이다.",
+   "why_vi": "Câu biểu đồ không bắt tính toán. Chỉ cần biết từ so sánh là làm được máy móc. Đây là điều các trung tâm Việt Nam đều dạy.",
+   "how_ko": [
+    "외울 낱말: 가장 · 제일 · 많다 · 적다 · 보다 · 늘다/줄다",
+    "① 도표에서 **가장 큰 것과 가장 작은 것**을 먼저 짚는다",
+    "② 보기에서 '가장/제일'이 들어간 문장부터 확인한다",
+    "③ 'A보다 B가' 꼴은 순서가 뒤집힌 함정이 많다 — 누가 앞인지 손가락으로 짚는다"
+   ],
+   "how_vi": [
+    "Từ cần thuộc: 가장 · 제일 · 많다 · 적다 · 보다 · 늘다/줄다",
+    "① Trên biểu đồ, chỉ ra **cái lớn nhất và nhỏ nhất** trước",
+    "② Kiểm tra trước các lựa chọn có '가장/제일'",
+    "③ Dạng 'A보다 B가' hay bẫy đảo thứ tự — dùng ngón tay chỉ xem ai đứng trước"
+   ],
+   "do_ko": "도표 문항을 낱말 여섯 개만 보고 풀어 본다.",
+   "do_vi": "Thử làm câu biểu đồ chỉ bằng sáu từ đó."
+  },
+  {
+   "n": 7,
+   "need": 300,
+   "tag": "산업안전",
+   "ko": "표지판 — 모양과 색이 절반을 알려준다",
+   "vi": "Biển báo — hình và màu cho biết một nửa",
+   "why_ko": "공단 출제기준을 보면 읽기 네 영역 중 하나가 통째로 '실용자료 정보(산업안전 표지)'이고, 다른 영역에도 '산업안전 포함'이 붙어 있다. 이 시험은 어학 시험이면서 **안전 시험**이다.",
+   "why_vi": "Theo tiêu chuẩn ra đề của HRD Korea, một trong bốn mảng phần đọc là 'thông tin tư liệu thực dụng (biển báo an toàn)', và các mảng khác cũng ghi kèm 'bao gồm an toàn lao động'. Kỳ thi này vừa là thi tiếng vừa là **thi an toàn**.",
+   "how_ko": [
+    "빨간 **원**에 사선 = 금지 (하지 마시오)",
+    "노란 **삼각형** = 경고 (조심하시오)",
+    "파란 **원** = 지시 (착용하시오·하시오)",
+    "초록 **사각형** = 안내 (비상구·구급)",
+    "글자를 읽기 전에 모양으로 보기 절반을 지운다"
+   ],
+   "how_vi": [
+    "**Hình tròn đỏ** có gạch chéo = cấm (đừng làm)",
+    "**Hình tam giác vàng** = cảnh báo (cẩn thận)",
+    "**Hình tròn xanh dương** = chỉ dẫn (hãy đội/hãy làm)",
+    "**Hình vuông xanh lá** = hướng dẫn (lối thoát·cứu thương)",
+    "Gạch bỏ một nửa lựa chọn bằng hình dạng, trước khi đọc chữ"
+   ],
+   "do_ko": "표지판 문항에서 모양만 보고 보기 둘을 먼저 지워 본다.",
+   "do_vi": "Ở câu biển báo, thử gạch 2 lựa chọn chỉ bằng hình dạng."
+  },
+  {
+   "n": 8,
+   "need": 600,
+   "tag": "읽기 유형",
+   "ko": "독해 — 나오는 이야기가 정해져 있다",
+   "vi": "Bài đọc — chủ đề đã cố định",
+   "why_ko": "EPS-TOPIK 은 2013년부터 100% 비공개로 출제되지만, **표준교재를 바탕으로** 낸다고 공단이 밝혔다. 그래서 독해 소재는 거의 언제나 한국의 직장 생활과 생활 문화다. 다 이해하지 못해도 무슨 이야기일지 예측할 수 있다.",
+   "why_vi": "Từ 2013 EPS-TOPIK ra đề 100% không công khai, nhưng HRD Korea nói rõ là ra **dựa trên giáo trình chuẩn**. Nên chủ đề bài đọc gần như luôn là đời sống công sở và văn hóa sinh hoạt Hàn Quốc. Không hiểu hết vẫn đoán được nội dung.",
+   "how_ko": [
+    "① 지문을 읽기 전에 **질문부터** 읽는다 — 무엇을 찾을지 정한다",
+    "② 질문의 핵심 낱말에 손가락을 짚는다",
+    "③ 지문에서 그 낱말이 나오는 자리만 자세히 읽는다",
+    "④ '잘못 설명한 것'(NOT) 문항은 **맨 뒤로 미룬다** — 보기 넷을 다 확인해야 해서 가장 오래 걸린다"
+   ],
+   "how_vi": [
+    "① Đọc **câu hỏi trước** khi đọc bài — xác định phải tìm gì",
+    "② Đặt ngón tay lên từ khóa của câu hỏi",
+    "③ Chỉ đọc kỹ chỗ có từ đó trong bài",
+    "④ Câu 'điều KHÔNG đúng' (NOT) thì **để cuối cùng** — phải kiểm cả 4 lựa chọn nên lâu nhất"
+   ],
+   "do_ko": "독해 문항을 '질문 먼저' 순서로 풀어 본다.",
+   "do_vi": "Làm câu bài đọc theo thứ tự 'câu hỏi trước'."
+  },
+  {
+   "n": 9,
+   "need": 600,
+   "tag": "읽기 유형",
+   "ko": "안 푼 문항 0개 만들기",
+   "vi": "Đưa số câu bỏ trống về 0",
+   "why_ko": "틀려도 감점이 없다. 그런데 CBT 는 듣기로 넘어가면 읽기로 못 돌아가고, 읽기에 남긴 시간도 사라진다. 즉 **안 푼 읽기 문항은 영원히 0점**이다. 이 시험에서 가장 아까운 실점이다.",
+   "why_vi": "Sai không bị trừ điểm. Nhưng CBT một khi sang phần nghe thì không quay lại phần đọc được, thời gian dư ở phần đọc cũng mất. Nghĩa là **câu đọc chưa làm là 0 điểm vĩnh viễn**. Đây là kiểu mất điểm đáng tiếc nhất.",
+   "how_ko": [
+    "① 모르는 문항은 **일단 넘어간다** (읽기 안에서는 되돌아올 수 있다)",
+    "② 읽기 마지막 문항에 닿으면 이전 단추로 돌아가 빈 곳을 채운다",
+    "③ 그래도 모르면 **반드시 찍는다** — 네 개 중 하나면 25%다",
+    "④ 빈 곳이 0개가 된 뒤에만 듣기로 넘어간다"
+   ],
+   "how_vi": [
+    "① Câu không biết thì **bỏ qua trước** (trong phần đọc vẫn quay lại được)",
+    "② Đến câu đọc cuối cùng thì bấm nút trước để quay lại lấp chỗ trống",
+    "③ Vẫn không biết thì **bắt buộc phải đoán** — 1 trong 4 là 25%",
+    "④ Chỉ sang phần nghe khi số ô trống đã về 0"
+   ],
+   "do_ko": "모의고사에서 읽기를 끝낼 때 빈칸이 0인지 확인한다.",
+   "do_vi": "Khi hết phần đọc trong bài thi thử, kiểm tra ô trống có bằng 0 không."
+  },
+  {
+   "n": 10,
+   "need": 500,
+   "tag": "듣기",
+   "ko": "첫 번째는 듣기만, 두 번째에 고른다",
+   "vi": "Lần đầu chỉ nghe, lần hai mới chọn",
+   "why_ko": "EPS 듣기는 문항마다 **두 번** 들려준다. 셔먼(1997)의 듣기 실험에서 가장 성적이 좋았던 조건이 바로 '한 번 듣고 → 질문을 보고 → 다시 듣기'였다. 우리 시험 구조가 그 조건과 똑같다. 첫 번째에 답을 고르려 들면 보기를 읽느라 소리를 놓친다.",
+   "why_vi": "Phần nghe EPS cho nghe **hai lần** mỗi câu. Trong thí nghiệm nghe của Sherman (1997), điều kiện cho điểm cao nhất chính là 'nghe một lần → xem câu hỏi → nghe lại'. Cấu trúc kỳ thi của ta giống hệt. Nếu cố chọn ngay lần đầu, bạn sẽ mải đọc lựa chọn mà bỏ lỡ âm thanh.",
+   "how_ko": [
+    "① 첫 번째 재생: **보기를 보지 않는다.** 소리만 듣고 무슨 상황인지 잡는다",
+    "② 재생이 끝나면 보기 넷을 읽는다",
+    "③ 두 번째 재생: 내가 고른 답이 맞는지 확인만 한다",
+    "④ 두 번째가 끝나면 바로 누른다 — 망설이면 다음 문항이 시작된다"
+   ],
+   "how_vi": [
+    "① Lần phát đầu: **không nhìn lựa chọn.** Chỉ nghe và nắm tình huống",
+    "② Phát xong thì đọc 4 lựa chọn",
+    "③ Lần phát thứ hai: chỉ xác nhận đáp án mình chọn có đúng không",
+    "④ Hết lần hai thì bấm ngay — chần chừ là câu tiếp theo bắt đầu"
+   ],
+   "do_ko": "듣기 5문항을 이 순서로만 풀어 본다.",
+   "do_vi": "Làm 5 câu nghe chỉ theo thứ tự này."
+  },
+  {
+   "n": 11,
+   "need": 300,
+   "tag": "듣기",
+   "ko": "숫자는 생각하면 늦는다",
+   "vi": "Nghĩ về số là đã muộn",
+   "why_ko": "듣기 앞부분에는 시각·수량·가격·날짜가 몰려 나온다. 한국어는 수를 세는 말이 두 벌이라(하나·둘 / 일·이) 바꿔 생각하는 사이에 다음 말이 지나간다.",
+   "why_vi": "Đầu phần nghe hay dồn giờ giấc, số lượng, giá tiền, ngày tháng. Tiếng Hàn có hai hệ đếm (하나·둘 / 일·이) nên vừa chuyển đổi trong đầu là câu sau đã trôi qua.",
+   "how_ko": [
+    "시각: **시는 하나·둘, 분은 일·이** (두 시 삼십 분)",
+    "돈·번호·날짜: 일·이 계열",
+    "개수·나이·사람: 하나·둘 계열",
+    "훈련: 숫자를 들으면 한국어로 **되뇌지 말고 바로 손가락으로 쓴다**"
+   ],
+   "how_vi": [
+    "Giờ: **giờ dùng 하나·둘, phút dùng 일·이** (두 시 삼십 분)",
+    "Tiền·số hiệu·ngày tháng: hệ 일·이",
+    "Số lượng·tuổi·người: hệ 하나·둘",
+    "Luyện: nghe thấy số thì **đừng lẩm nhẩm, viết ngay bằng ngón tay**"
+   ],
+   "do_ko": "시각이 나오는 듣기 문항만 골라 열 개를 연달아 푼다.",
+   "do_vi": "Chọn riêng 10 câu nghe có giờ giấc và làm liên tục."
+  },
+  {
+   "n": 12,
+   "need": 400,
+   "tag": "듣기",
+   "ko": "아는 낱말인데 안 들리는 이유",
+   "vi": "Vì sao từ đã biết mà không nghe ra",
+   "why_ko": "한국어는 적힌 대로 소리 나지 않는다. 받침이 뒤 글자로 넘어가고(연음), 소리가 바뀐다. 글로는 아는 낱말이 소리로는 처음 듣는 말이 되는 것이 듣기에서 무너지는 가장 큰 까닭이다. 인도네시아·네팔 학원들이 공통으로 지적하는 자리다.",
+   "why_vi": "Tiếng Hàn không phát âm như chữ viết. Patchim nối sang chữ sau (nối âm) và âm bị biến đổi. Từ biết trên giấy lại thành từ lạ khi nghe — đó là lý do lớn nhất khiến phần nghe sụp. Các trung tâm Indonesia và Nepal đều chỉ ra chỗ này.",
+   "how_ko": [
+    "연음: 한국어[한구거] · 직업이[지거비] · 옷을[오슬]",
+    "ㄱㄷㅂ 뒤 ㄴㅁ → 콧소리: 한국말[한궁말] · 입니다[임니다]",
+    "ㅎ 만나면 거센소리: 좋다[조타] · 축하[추카]",
+    "훈련: 대본을 **보면서** 한 번, **안 보고** 한 번 — 둘 사이 차이가 내 약점이다"
+   ],
+   "how_vi": [
+    "Nối âm: 한국어[한구거] · 직업이[지거비] · 옷을[오슬]",
+    "ㄴㅁ sau ㄱㄷㅂ → âm mũi: 한국말[한궁말] · 입니다[임니다]",
+    "Gặp ㅎ thành âm bật hơi: 좋다[조타] · 축하[추카]",
+    "Luyện: nghe một lần **có nhìn** kịch bản, một lần **không nhìn** — chênh lệch chính là điểm yếu của bạn"
+   ],
+   "do_ko": "듣기 대본을 보며 한 번, 안 보고 한 번 들어 본다.",
+   "do_vi": "Nghe một lần có nhìn kịch bản, một lần không nhìn."
+  },
+  {
+   "n": 13,
+   "need": 500,
+   "tag": "듣기",
+   "ko": "못 들었을 때 지우는 법",
+   "vi": "Cách loại trừ khi không nghe kịp",
+   "why_ko": "다 못 들어도 보기를 지울 수 있다. 소리에서 잡은 조각 하나로 둘은 지워진다. 25%를 50%로 올리는 일이고, 40문항에서 이것만으로 몇 점이 갈린다.",
+   "why_vi": "Không nghe hết vẫn loại được lựa chọn. Chỉ một mảnh bắt được từ âm thanh cũng gạch được hai. Đó là nâng 25% lên 50%, và chỉ riêng điều này đã tạo chênh lệch vài điểm trên 40 câu.",
+   "how_ko": [
+    "① 말한 사람이 **남자냐 여자냐** — 대답 보기의 주어와 안 맞으면 지운다",
+    "② **때** — 지난 일을 물었는데 앞일로 답한 보기는 지운다",
+    "③ **들린 낱말이 그대로 있는 보기**는 함정인 경우가 많다 (질문을 되풀이할 뿐 답이 아니다)",
+    "④ 그래도 둘이 남으면 찍는다. 비워 두지 않는다"
+   ],
+   "how_vi": [
+    "① Người nói là **nam hay nữ** — không khớp chủ ngữ của lựa chọn thì gạch",
+    "② **Thì** — hỏi chuyện đã qua mà lựa chọn trả lời chuyện sắp tới thì gạch",
+    "③ Lựa chọn **có nguyên từ vừa nghe được** thường là bẫy (chỉ lặp lại câu hỏi chứ không trả lời)",
+    "④ Còn lại hai thì đoán. Không để trống"
+   ],
+   "do_ko": "일부러 소리를 작게 하고 지우기만으로 다섯 문항을 풀어 본다.",
+   "do_vi": "Cố tình vặn nhỏ âm lượng và làm 5 câu chỉ bằng cách loại trừ."
+  },
+  {
+   "n": 14,
+   "need": 700,
+   "tag": "복습",
+   "ko": "세 번 푸는 법",
+   "vi": "Cách làm ba lượt",
+   "why_ko": "같은 문제를 세 번 푸는 것이 새 문제 세 개를 푸는 것보다 낫다 — 태국 수험생들이 쓰는 방법이다. 다만 세 번이 다 같은 방식이면 소용없다. 두 번째에 **왜 틀렸는지 갈래를 나누는 것**이 핵심이다.",
+   "why_vi": "Làm cùng một đề ba lượt tốt hơn làm ba đề mới — đây là cách thí sinh Thái Lan dùng. Nhưng ba lượt giống nhau thì vô ích. Mấu chốt là lượt hai phải **phân loại vì sao sai**.",
+   "how_ko": [
+    "1회: 실제 시험과 같은 시간으로 푼다",
+    "2회: 틀린 것을 셋으로 나눈다 — **낱말을 몰랐다 / 문법을 헷갈렸다 / 시간이 모자랐다**",
+    "3회: 틀린 것만 다시 푼다",
+    "갈래마다 처방이 다르다: 낱말→외우기, 문법→규칙 다시, 시간→그 유형만 시간 재기"
+   ],
+   "how_vi": [
+    "Lượt 1: làm đúng thời gian như thi thật",
+    "Lượt 2: chia câu sai làm ba — **không biết từ / lẫn ngữ pháp / thiếu thời gian**",
+    "Lượt 3: chỉ làm lại câu đã sai",
+    "Mỗi loại một cách chữa: từ→học thuộc, ngữ pháp→ôn lại quy tắc, thời gian→bấm giờ riêng dạng đó"
+   ],
+   "do_ko": "지난 모의고사 오답을 세 갈래로 나눠 적어 본다.",
+   "do_vi": "Chia câu sai của bài thi thử vừa rồi thành ba loại và ghi ra."
+  },
+  {
+   "n": 15,
+   "need": 700,
+   "tag": "자가진단",
+   "ko": "내 듣기 실력을 재는 법",
+   "vi": "Cách đo trình độ nghe của mình",
+   "why_ko": "몽골 수험생들이 쓰는 자가진단이다. 시험 음성은 또박또박 느리게 읽는다. 평소에 빠른 한국어를 알아들을 수 있으면 시험 음성은 느리게 들린다.",
+   "why_vi": "Đây là cách tự đo mà thí sinh Mông Cổ dùng. Giọng đọc trong đề thi rất rõ và chậm. Nếu ngày thường nghe được tiếng Hàn nhanh thì giọng đề thi sẽ nghe rất chậm.",
+   "how_ko": [
+    "한국어 영상을 **1.5배속**으로 틀어 본다",
+    "따라갈 수 있으면 듣기는 안정권이다",
+    "못 따라가면 1.2배속부터 올린다",
+    "베트남 학원들은 2026년 시험 음성이 예년보다 빨라졌다고 본다 — 느린 소리로만 연습하면 시험장에서 놀란다"
+   ],
+   "how_vi": [
+    "Bật video tiếng Hàn ở **tốc độ 1,5x**",
+    "Theo kịp thì phần nghe đã an toàn",
+    "Không kịp thì bắt đầu từ 1,2x rồi tăng dần",
+    "Các trung tâm Việt Nam cho rằng giọng đọc đề 2026 nhanh hơn mọi năm — chỉ luyện với âm chậm sẽ bị bất ngờ trong phòng thi"
+   ],
+   "do_ko": "오늘 듣기 연습을 1.2배속으로 해 본다.",
+   "do_vi": "Hôm nay thử luyện nghe ở tốc độ 1,2x."
+  },
+  {
+   "n": 16,
+   "need": 800,
+   "tag": "공부법",
+   "ko": "무엇으로 공부할 것인가",
+   "vi": "Học bằng tài liệu nào",
+   "why_ko": "공단이 밝힌 대로 시험은 **표준교재를 바탕으로** 낸다. 12개 송출국 자료를 다 뒤져 봐도 결론이 하나다 — 사설 자료 말고 표준교재. 예전에 통했던 '공개문항 2,000개 통암기'는 2013년 비공개 출제로 바뀌면서 죽었다.",
+   "why_vi": "Đúng như HRD Korea công bố, đề ra **dựa trên giáo trình chuẩn**. Lục hết tài liệu của 12 nước phái cử cũng chỉ một kết luận — bỏ tài liệu tư nhân, dùng giáo trình chuẩn. Chiến thuật 'học thuộc 2.000 câu công khai' đã chết từ 2013 khi chuyển sang ra đề kín.",
+   "how_ko": [
+    "표준교재 1권(일상생활) → 2권(직장생활) 순서로, **하루 한 과**",
+    "지망 업종이 정해졌으면 2권의 그 업종 낱말을 먼저",
+    "공개문제집은 **유형을 익히는 데만** 쓴다 — 똑같은 문제는 안 나온다",
+    "인도네시아 학원 기준: 하루 낱말 500~1,000개 **훑기**(외우기가 아니라 스치기)"
+   ],
+   "how_vi": [
+    "Giáo trình chuẩn quyển 1 (đời sống) → quyển 2 (công sở), **mỗi ngày một bài**",
+    "Đã chọn ngành thì học trước từ vựng ngành đó ở quyển 2",
+    "Tập đề công khai chỉ dùng để **quen dạng** — sẽ không ra câu y hệt",
+    "Chuẩn của trung tâm Indonesia: **lướt** 500~1.000 từ/ngày (lướt qua chứ không phải thuộc lòng)"
+   ],
+   "do_ko": "오늘 표준교재 한 과를 끝낸다.",
+   "do_vi": "Hôm nay học xong một bài của giáo trình chuẩn."
+  },
+  {
+   "n": 17,
+   "need": 0,
+   "tag": "시험날",
+   "ko": "시험 전날과 당일",
+   "vi": "Trước ngày thi và ngày thi",
+   "why_ko": "실력 밖에서 잃는 점수가 있다. 신분 확인에서 막히거나, 화면 조작에 당황하거나, 이름이 여권과 달라 합격하고도 못 가는 일이 실제로 있다.",
+   "why_vi": "Có những điểm mất ngoài trình độ. Có thật chuyện bị chặn ở khâu kiểm tra danh tính, luống cuống với thao tác màn hình, hoặc tên khác hộ chiếu nên đỗ rồi vẫn không đi được.",
+   "how_ko": [
+    "**접수할 때** 이름·생년월일이 여권과 한 글자도 다르지 않은지 확인한다",
+    "지참: 수험표 · 여권(또는 신분증)",
+    "휴대전화·무선 이어폰은 **가지고만 있어도** 부정행위다",
+    "부정행위 적발 시 성적 취소 + 응시 금지",
+    "전날 새 방법을 시도하지 않는다. 하던 대로 자고 하던 대로 푼다"
+   ],
+   "how_vi": [
+    "**Khi đăng ký** phải kiểm tên và ngày sinh không sai một chữ so với hộ chiếu",
+    "Mang theo: phiếu dự thi · hộ chiếu (hoặc giấy tờ tùy thân)",
+    "Điện thoại·tai nghe không dây **chỉ cần mang theo** đã là gian lận",
+    "Bị phát hiện gian lận thì hủy điểm + cấm thi",
+    "Đừng thử cách mới vào đêm trước. Ngủ như thường và làm bài như thường"
+   ],
+   "do_ko": "지금 수험표의 이름을 여권과 대조해 본다.",
+   "do_vi": "Đối chiếu tên trên phiếu dự thi với hộ chiếu ngay bây giờ."
+  }
+ ]
+}

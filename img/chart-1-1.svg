@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 190" width="260" height="190">
+<rect width="260" height="190" fill="#ffffff"/>
+<text x="130.0" y="18" text-anchor="middle" font-size="11" font-family="sans-serif" fill="#222">직장인이 점심시간에 가장 하고 싶은 일</text>
+<line x1="10" y1="150" x2="250" y2="150" stroke="#333" stroke-width="1"/>
+<rect x="24.0" y="117.0" width="38" height="33.0" fill="#e9e9e9" stroke="#333" stroke-width="1"/>
+<text x="43.0" y="113.0" text-anchor="middle" font-size="10" font-family="sans-serif" fill="#222">30%</text>
+<text x="43.0" y="163" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#444">잠깐 자기</text>
+<rect x="82.0" y="106.0" width="38" height="44.0" fill="#e9e9e9" stroke="#333" stroke-width="1"/>
+<text x="101.0" y="102.0" text-anchor="middle" font-size="10" font-family="sans-serif" fill="#222">40%</text>
+<text x="101.0" y="163" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#444">산책하기</text>
+<rect x="140.0" y="128.0" width="38" height="22.0" fill="#e9e9e9" stroke="#333" stroke-width="1"/>
+<text x="159.0" y="124.0" text-anchor="middle" font-size="10" font-family="sans-serif" fill="#222">20%</text>
+<text x="159.0" y="163" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#444">동료와</text>
+<text x="159.0" y="174" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#444">이야기</text>
+<rect x="198.0" y="139.0" width="38" height="11.0" fill="#e9e9e9" stroke="#333" stroke-width="1"/>
+<text x="217.0" y="135.0" text-anchor="middle" font-size="10" font-family="sans-serif" fill="#222">10%</text>
+<text x="217.0" y="163" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#444">운동</text>
+</svg>

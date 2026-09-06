@@ -1,0 +1,7354 @@
+{
+ "reuse": [
+  {
+   "course": "ko",
+   "day": 1,
+   "ko": "이름",
+   "vi": "tên",
+   "img": "x-ten.webp"
+  },
+  {
+   "course": "ko",
+   "day": 1,
+   "ko": "직업",
+   "vi": "nghề nghiệp",
+   "img": "d101-nghe.webp"
+  },
+  {
+   "course": "ko",
+   "day": 1,
+   "ko": "나라",
+   "vi": "đất nước",
+   "img": "d03-nuoc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 1,
+   "ko": "사람",
+   "vi": "người",
+   "img": "d02-nguoi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 1,
+   "ko": "전화번호",
+   "vi": "số điện thoại",
+   "img": "x-so-dien-thoai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 1,
+   "ko": "한국어",
+   "vi": "tiếng Hàn",
+   "img": "d05-tieng-han.webp"
+  },
+  {
+   "course": "ko",
+   "day": 2,
+   "ko": "책상",
+   "vi": "bàn học",
+   "img": "x-cai-ban.webp"
+  },
+  {
+   "course": "ko",
+   "day": 2,
+   "ko": "의자",
+   "vi": "ghế",
+   "img": "d08-cai-ghe.webp"
+  },
+  {
+   "course": "ko",
+   "day": 2,
+   "ko": "컴퓨터",
+   "vi": "máy vi tính",
+   "img": "d56-may-tinh.webp"
+  },
+  {
+   "course": "ko",
+   "day": 2,
+   "ko": "화장실",
+   "vi": "nhà vệ sinh",
+   "img": "d14-nha-ve-sinh.webp"
+  },
+  {
+   "course": "ko",
+   "day": 3,
+   "ko": "많다",
+   "vi": "nhiều",
+   "img": "d18-nhieu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 3,
+   "ko": "맛있다",
+   "vi": "ngon",
+   "img": "d12-ngon.webp"
+  },
+  {
+   "course": "ko",
+   "day": 3,
+   "ko": "어렵다",
+   "vi": "khó",
+   "img": "d18-kho.webp"
+  },
+  {
+   "course": "ko",
+   "day": 3,
+   "ko": "쉽다",
+   "vi": "dễ",
+   "img": "d18-de.webp"
+  },
+  {
+   "course": "ko",
+   "day": 3,
+   "ko": "춥다",
+   "vi": "lạnh",
+   "img": "d41-lanh.webp"
+  },
+  {
+   "course": "ko",
+   "day": 3,
+   "ko": "덥다",
+   "vi": "nóng",
+   "img": "d41-nong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 3,
+   "ko": "재미있다",
+   "vi": "thú vị",
+   "img": "d18-hay.webp"
+  },
+  {
+   "course": "ko",
+   "day": 3,
+   "ko": "바쁘다",
+   "vi": "bận",
+   "img": "x-baanj.webp"
+  },
+  {
+   "course": "ko",
+   "day": 4,
+   "ko": "축구",
+   "vi": "bóng đá",
+   "img": "d45-bong-da.webp"
+  },
+  {
+   "course": "ko",
+   "day": 4,
+   "ko": "끝나다",
+   "vi": "xong, kết thúc",
+   "img": "d19-xong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 4,
+   "ko": "일요일",
+   "vi": "ngày chủ nhật",
+   "img": "d10-chu-nhat.webp"
+  },
+  {
+   "course": "ko",
+   "day": 4,
+   "ko": "오늘",
+   "vi": "hôm nay, vào ngày hôm nay",
+   "img": "d04-hom-nay.webp"
+  },
+  {
+   "course": "ko",
+   "day": 4,
+   "ko": "않다",
+   "vi": "không",
+   "img": "x-khong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 4,
+   "ko": "아니다",
+   "vi": "không",
+   "img": "x-khong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 5,
+   "ko": "듣다",
+   "vi": "nghe",
+   "img": "d05-nghe.webp"
+  },
+  {
+   "course": "ko",
+   "day": 5,
+   "ko": "빠르다",
+   "vi": "nhanh",
+   "img": "x-nhanh.webp"
+  },
+  {
+   "course": "ko",
+   "day": 5,
+   "ko": "쓰다",
+   "vi": "đắng",
+   "img": "x-ddawngs.webp"
+  },
+  {
+   "course": "ko",
+   "day": 5,
+   "ko": "보다",
+   "vi": "nhìn, ngắm, xem",
+   "img": "x-xem.webp"
+  },
+  {
+   "course": "ko",
+   "day": 5,
+   "ko": "같다",
+   "vi": "giống",
+   "img": "x-giong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 5,
+   "ko": "가다",
+   "vi": "đi",
+   "img": "d06-di.webp"
+  },
+  {
+   "course": "ko",
+   "day": 5,
+   "ko": "말하다",
+   "vi": "nói",
+   "img": "d05-noi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 6,
+   "ko": "은행",
+   "vi": "ngân hàng",
+   "img": "d38-ngan-hang.webp"
+  },
+  {
+   "course": "ko",
+   "day": 6,
+   "ko": "집",
+   "vi": "nhà",
+   "img": "d06-nha.webp"
+  },
+  {
+   "course": "ko",
+   "day": 6,
+   "ko": "병원",
+   "vi": "bệnh viện",
+   "img": "d16-benh-vien.webp"
+  },
+  {
+   "course": "ko",
+   "day": 6,
+   "ko": "약국",
+   "vi": "nhà thuốc",
+   "img": "d47-hieu-thuoc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 6,
+   "ko": "시장",
+   "vi": "chợ",
+   "img": "d14-cho.webp"
+  },
+  {
+   "course": "ko",
+   "day": 6,
+   "ko": "하다",
+   "vi": "làm, tiến hành",
+   "img": "d11-lam.webp"
+  },
+  {
+   "course": "ko",
+   "day": 7,
+   "ko": "일",
+   "vi": "một",
+   "img": "d07-mot.webp"
+  },
+  {
+   "course": "ko",
+   "day": 7,
+   "ko": "이",
+   "vi": "hai",
+   "img": "d07-hai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 7,
+   "ko": "삼",
+   "vi": "ba",
+   "img": "d07-ba.webp"
+  },
+  {
+   "course": "ko",
+   "day": 7,
+   "ko": "사",
+   "vi": "bốn",
+   "img": "d07-bon.webp"
+  },
+  {
+   "course": "ko",
+   "day": 7,
+   "ko": "오",
+   "vi": "năm",
+   "img": "d07-nam.webp"
+  },
+  {
+   "course": "ko",
+   "day": 7,
+   "ko": "육",
+   "vi": "sáu",
+   "img": "d07-sau.webp"
+  },
+  {
+   "course": "ko",
+   "day": 7,
+   "ko": "칠",
+   "vi": "bảy",
+   "img": "d07-bay.webp"
+  },
+  {
+   "course": "ko",
+   "day": 7,
+   "ko": "팔",
+   "vi": "tám (số 8)",
+   "img": "d07-tam.webp"
+  },
+  {
+   "course": "ko",
+   "day": 7,
+   "ko": "구",
+   "vi": "chín",
+   "img": "d07-chin.webp"
+  },
+  {
+   "course": "ko",
+   "day": 7,
+   "ko": "십",
+   "vi": "mười",
+   "img": "d07-muoi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 8,
+   "ko": "하나",
+   "vi": "một",
+   "img": "d07-mot.webp"
+  },
+  {
+   "course": "ko",
+   "day": 8,
+   "ko": "둘",
+   "vi": "hai",
+   "img": "d07-hai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 8,
+   "ko": "셋",
+   "vi": "ba",
+   "img": "d07-ba.webp"
+  },
+  {
+   "course": "ko",
+   "day": 8,
+   "ko": "넷",
+   "vi": "bốn",
+   "img": "d07-bon.webp"
+  },
+  {
+   "course": "ko",
+   "day": 8,
+   "ko": "다섯",
+   "vi": "năm",
+   "img": "d07-nam.webp"
+  },
+  {
+   "course": "ko",
+   "day": 8,
+   "ko": "여섯",
+   "vi": "sáu",
+   "img": "d07-sau.webp"
+  },
+  {
+   "course": "ko",
+   "day": 8,
+   "ko": "일곱",
+   "vi": "bảy",
+   "img": "d07-bay.webp"
+  },
+  {
+   "course": "ko",
+   "day": 8,
+   "ko": "여덟",
+   "vi": "tám",
+   "img": "d07-tam.webp"
+  },
+  {
+   "course": "ko",
+   "day": 8,
+   "ko": "아홉",
+   "vi": "chín",
+   "img": "d07-chin.webp"
+  },
+  {
+   "course": "ko",
+   "day": 8,
+   "ko": "열",
+   "vi": "mười",
+   "img": "d07-muoi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 9,
+   "ko": "숟가락",
+   "vi": "cái thìa",
+   "img": "d77-cai-thia.webp"
+  },
+  {
+   "course": "ko",
+   "day": 9,
+   "ko": "메뉴",
+   "vi": "thực đơn",
+   "img": "d57-thuc-don.webp"
+  },
+  {
+   "course": "ko",
+   "day": 10,
+   "ko": "물",
+   "vi": "nước",
+   "img": "d03-nuoc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 10,
+   "ko": "커피",
+   "vi": "cà phê",
+   "img": "d12-ca-phe.webp"
+  },
+  {
+   "course": "ko",
+   "day": 10,
+   "ko": "사진",
+   "vi": "bức ảnh",
+   "img": "d68-anh.webp"
+  },
+  {
+   "course": "ko",
+   "day": 10,
+   "ko": "닭고기",
+   "vi": "thịt gà",
+   "img": "d77-ga.webp"
+  },
+  {
+   "course": "ko",
+   "day": 11,
+   "ko": "산책하다",
+   "vi": "đi dạo",
+   "img": "d74-di-dao.webp"
+  },
+  {
+   "course": "ko",
+   "day": 11,
+   "ko": "즐겁다",
+   "vi": "vui vẻ",
+   "img": "x-vui-ve.webp"
+  },
+  {
+   "course": "ko",
+   "day": 11,
+   "ko": "걷다",
+   "vi": "đi bộ",
+   "img": "d42-di-bo.webp"
+  },
+  {
+   "course": "ko",
+   "day": 11,
+   "ko": "있다",
+   "vi": "ở lại, ở",
+   "img": "x-cos.webp"
+  },
+  {
+   "course": "ko",
+   "day": 12,
+   "ko": "아침",
+   "vi": "sáng sớm",
+   "img": "d09-sang.webp"
+  },
+  {
+   "course": "ko",
+   "day": 12,
+   "ko": "저녁",
+   "vi": "buổi tối",
+   "img": "d09-toi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 12,
+   "ko": "회사",
+   "vi": "công ty",
+   "img": "d101-cong-ty.webp"
+  },
+  {
+   "course": "ko",
+   "day": 12,
+   "ko": "좋아",
+   "vi": "được, tốt",
+   "img": "x-duoc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 12,
+   "ko": "오다",
+   "vi": "đến",
+   "img": "x-ddeans.webp"
+  },
+  {
+   "course": "ko",
+   "day": 12,
+   "ko": "알다",
+   "vi": "biết",
+   "img": "x-biet.webp"
+  },
+  {
+   "course": "ko",
+   "day": 12,
+   "ko": "좋다",
+   "vi": "tốt, ngon, hay, đẹp",
+   "img": "d18-tot.webp"
+  },
+  {
+   "course": "ko",
+   "day": 13,
+   "ko": "고향",
+   "vi": "quê hương",
+   "img": "d71-que.webp"
+  },
+  {
+   "course": "ko",
+   "day": 13,
+   "ko": "가족",
+   "vi": "gia đình",
+   "img": "d15-gia-dinh.webp"
+  },
+  {
+   "course": "ko",
+   "day": 13,
+   "ko": "쉬다",
+   "vi": "nghỉ ngơi",
+   "img": "d74-nghi-ngoi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 13,
+   "ko": "그것",
+   "vi": "cái đó",
+   "img": "x-ddos.webp"
+  },
+  {
+   "course": "ko",
+   "day": 13,
+   "ko": "나오다",
+   "vi": "ra",
+   "img": "d89-ra.webp"
+  },
+  {
+   "course": "ko",
+   "day": 13,
+   "ko": "그리고",
+   "vi": "và, với, với cả",
+   "img": "x-va.webp"
+  },
+  {
+   "course": "ko",
+   "day": 13,
+   "ko": "문제",
+   "vi": "vấn đề, câu hỏi",
+   "img": "x-van-de.webp"
+  },
+  {
+   "course": "ko",
+   "day": 13,
+   "ko": "살다",
+   "vi": "sống",
+   "img": "d03-song.webp"
+  },
+  {
+   "course": "ko",
+   "day": 14,
+   "ko": "어머니",
+   "vi": "mẹ",
+   "img": "d15-me.webp"
+  },
+  {
+   "course": "ko",
+   "day": 14,
+   "ko": "아버지",
+   "vi": "bố",
+   "img": "d15-bo.webp"
+  },
+  {
+   "course": "ko",
+   "day": 14,
+   "ko": "언니",
+   "vi": "chị",
+   "img": "d01-chi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 14,
+   "ko": "오빠",
+   "vi": "anh",
+   "img": "d01-anh.webp"
+  },
+  {
+   "course": "ko",
+   "day": 14,
+   "ko": "여동생",
+   "vi": "em gái",
+   "img": "d15-em-gai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 14,
+   "ko": "남동생",
+   "vi": "em trai",
+   "img": "x-em-trai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 14,
+   "ko": "누나",
+   "vi": "chị",
+   "img": "d01-chi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 15,
+   "ko": "주다",
+   "vi": "cho",
+   "img": "x-cho.webp"
+  },
+  {
+   "course": "ko",
+   "day": 15,
+   "ko": "보내다",
+   "vi": "gửi",
+   "img": "x-gui.webp"
+  },
+  {
+   "course": "ko",
+   "day": 15,
+   "ko": "받다",
+   "vi": "nhận",
+   "img": "x-nhan.webp"
+  },
+  {
+   "course": "ko",
+   "day": 15,
+   "ko": "선물",
+   "vi": "quà",
+   "img": "d49-qua.webp"
+  },
+  {
+   "course": "ko",
+   "day": 15,
+   "ko": "축하하다",
+   "vi": "chúc mừng",
+   "img": "d49-chuc-mung.webp"
+  },
+  {
+   "course": "ko",
+   "day": 16,
+   "ko": "빨리",
+   "vi": "nhanh",
+   "img": "x-nhanh.webp"
+  },
+  {
+   "course": "ko",
+   "day": 16,
+   "ko": "얼마나",
+   "vi": "biết bao, biết nhường nào",
+   "img": "x-bao-nhieu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 16,
+   "ko": "열다",
+   "vi": "mở",
+   "img": "d17-mo.webp"
+  },
+  {
+   "course": "ko",
+   "day": 16,
+   "ko": "머리",
+   "vi": "đầu, thủ",
+   "img": "d16-dau2.webp"
+  },
+  {
+   "course": "ko",
+   "day": 16,
+   "ko": "아들",
+   "vi": "con trai",
+   "img": "d15-con-trai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 17,
+   "ko": "버스",
+   "vi": "xe buýt",
+   "img": "d42-xe-buyt.webp"
+  },
+  {
+   "course": "ko",
+   "day": 17,
+   "ko": "택시",
+   "vi": "xe taxi",
+   "img": "d42-xe-taxi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 17,
+   "ko": "오토바이",
+   "vi": "xe máy",
+   "img": "d42-xe-may.webp"
+  },
+  {
+   "course": "ko",
+   "day": 17,
+   "ko": "공항",
+   "vi": "sân bay",
+   "img": "d59-san-bay.webp"
+  },
+  {
+   "course": "ko",
+   "day": 17,
+   "ko": "비행기",
+   "vi": "máy bay",
+   "img": "d59-may-bay.webp"
+  },
+  {
+   "course": "ko",
+   "day": 17,
+   "ko": "정류장",
+   "vi": "trạm xe buýt",
+   "img": "d42-ben.webp"
+  },
+  {
+   "course": "ko",
+   "day": 18,
+   "ko": "천천히",
+   "vi": "một cách chậm rãi",
+   "img": "d05-tu-tu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 18,
+   "ko": "어제",
+   "vi": "hôm qua",
+   "img": "d10-hom-qua.webp"
+  },
+  {
+   "course": "ko",
+   "day": 18,
+   "ko": "더",
+   "vi": "hơn, thêm",
+   "img": "x-hon.webp"
+  },
+  {
+   "course": "ko",
+   "day": 19,
+   "ko": "모임",
+   "vi": "cuộc họp",
+   "img": "d56-cuoc-hop.webp"
+  },
+  {
+   "course": "ko",
+   "day": 19,
+   "ko": "약속하다",
+   "vi": "hứa hẹn",
+   "img": "d20-hua.webp"
+  },
+  {
+   "course": "ko",
+   "day": 19,
+   "ko": "만나다",
+   "vi": "gặp",
+   "img": "d04-gap.webp"
+  },
+  {
+   "course": "ko",
+   "day": 19,
+   "ko": "같이하다",
+   "vi": "cùng nhau",
+   "img": "x-cung-nhau.webp"
+  },
+  {
+   "course": "ko",
+   "day": 19,
+   "ko": "이거",
+   "vi": "cái này",
+   "img": "x-cai-nay.webp"
+  },
+  {
+   "course": "ko",
+   "day": 19,
+   "ko": "웃다",
+   "vi": "cười",
+   "img": "d44-cuoi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 20,
+   "ko": "계절",
+   "vi": "mùa",
+   "img": "x-mua.webp"
+  },
+  {
+   "course": "ko",
+   "day": 21,
+   "ko": "눈",
+   "vi": "mắt",
+   "img": "d47-mat.webp"
+  },
+  {
+   "course": "ko",
+   "day": 21,
+   "ko": "코",
+   "vi": "mũi",
+   "img": "d47-mui.webp"
+  },
+  {
+   "course": "ko",
+   "day": 21,
+   "ko": "배",
+   "vi": "bụng",
+   "img": "x-bung.webp"
+  },
+  {
+   "course": "ko",
+   "day": 21,
+   "ko": "손",
+   "vi": "bàn tay",
+   "img": "d16-tay.webp"
+  },
+  {
+   "course": "ko",
+   "day": 21,
+   "ko": "다리",
+   "vi": "chân",
+   "img": "d16-chan.webp"
+  },
+  {
+   "course": "ko",
+   "day": 22,
+   "ko": "환전하다",
+   "vi": "đổi tiền",
+   "img": "d60-doi-tien.webp"
+  },
+  {
+   "course": "ko",
+   "day": 22,
+   "ko": "등록하다",
+   "vi": "đăng ký",
+   "img": "x-dang-ky.webp"
+  },
+  {
+   "course": "ko",
+   "day": 22,
+   "ko": "오른쪽",
+   "vi": "bên phải",
+   "img": "d39-ben-phai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 22,
+   "ko": "왼쪽",
+   "vi": "bên trái",
+   "img": "d39-ben-trai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 23,
+   "ko": "편하다",
+   "vi": "thoải mái",
+   "img": "x-thoai-mai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 23,
+   "ko": "결혼하다",
+   "vi": "kết hôn",
+   "img": "d71-ket-hon.webp"
+  },
+  {
+   "course": "ko",
+   "day": 23,
+   "ko": "익숙하다",
+   "vi": "quen thuộc",
+   "img": "x-quen.webp"
+  },
+  {
+   "course": "ko",
+   "day": 24,
+   "ko": "깨끗하다",
+   "vi": "sạch sẽ",
+   "img": "x-sach.webp"
+  },
+  {
+   "course": "ko",
+   "day": 25,
+   "ko": "상자",
+   "vi": "hộp, hòm, thùng, tráp",
+   "img": "d08-hop.webp"
+  },
+  {
+   "course": "ko",
+   "day": 25,
+   "ko": "조심하다",
+   "vi": "thận trọng, cẩn thận",
+   "img": "x-can-than.webp"
+  },
+  {
+   "course": "ko",
+   "day": 25,
+   "ko": "돕다",
+   "vi": "giúp, giúp đỡ",
+   "img": "d17-giup.webp"
+  },
+  {
+   "course": "ko",
+   "day": 25,
+   "ko": "다시",
+   "vi": "lại",
+   "img": "d05-lai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 25,
+   "ko": "따르다",
+   "vi": "theo",
+   "img": "x-theo.webp"
+  },
+  {
+   "course": "ko",
+   "day": 26,
+   "ko": "입다",
+   "vi": "mặc",
+   "img": "d61-mac.webp"
+  },
+  {
+   "course": "ko",
+   "day": 26,
+   "ko": "한국",
+   "vi": "Hàn Quốc",
+   "img": "d03-han-quoc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 26,
+   "ko": "문화",
+   "vi": "văn hóa",
+   "img": "x-van-hoa.webp"
+  },
+  {
+   "course": "ko",
+   "day": 26,
+   "ko": "어떻다",
+   "vi": "như thế nào",
+   "img": "x-the-nao.webp"
+  },
+  {
+   "course": "ko",
+   "day": 27,
+   "ko": "약",
+   "vi": "thuốc",
+   "img": "d16-thuoc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 27,
+   "ko": "사다",
+   "vi": "mua",
+   "img": "d13-mua.webp"
+  },
+  {
+   "course": "ko",
+   "day": 27,
+   "ko": "아프다",
+   "vi": "đau",
+   "img": "d16-dau.webp"
+  },
+  {
+   "course": "ko",
+   "day": 27,
+   "ko": "친구",
+   "vi": "bạn",
+   "img": "d01-ban.webp"
+  },
+  {
+   "course": "ko",
+   "day": 27,
+   "ko": "다른",
+   "vi": "khác",
+   "img": "x-khac.webp"
+  },
+  {
+   "course": "ko",
+   "day": 28,
+   "ko": "기계",
+   "vi": "máy",
+   "img": "x-mays.webp"
+  },
+  {
+   "course": "ko",
+   "day": 28,
+   "ko": "배우다",
+   "vi": "học, học tập",
+   "img": "d101-hoc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 28,
+   "ko": "알리다",
+   "vi": "cho biết, cho hay",
+   "img": "x-bao.webp"
+  },
+  {
+   "course": "ko",
+   "day": 28,
+   "ko": "혼자",
+   "vi": "một mình",
+   "img": "d74-mot-minh.webp"
+  },
+  {
+   "course": "ko",
+   "day": 28,
+   "ko": "들다",
+   "vi": "vào",
+   "img": "d53-vao.webp"
+  },
+  {
+   "course": "ko",
+   "day": 28,
+   "ko": "싶다",
+   "vi": "muốn",
+   "img": "d12-muon.webp"
+  },
+  {
+   "course": "ko",
+   "day": 28,
+   "ko": "함께",
+   "vi": "cùng",
+   "img": "d19-cung.webp"
+  },
+  {
+   "course": "ko",
+   "day": 29,
+   "ko": "우산",
+   "vi": "ô",
+   "img": "d41-o.webp"
+  },
+  {
+   "course": "ko",
+   "day": 29,
+   "ko": "같이",
+   "vi": "cùng",
+   "img": "d19-cung.webp"
+  },
+  {
+   "course": "ko",
+   "day": 29,
+   "ko": "많이",
+   "vi": "nhiều",
+   "img": "d18-nhieu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 30,
+   "ko": "다음",
+   "vi": "sau",
+   "img": "x-sau.webp"
+  },
+  {
+   "course": "ko",
+   "day": 30,
+   "ko": "누구",
+   "vi": "ai",
+   "img": "x-ai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 30,
+   "ko": "여러",
+   "vi": "nhiều",
+   "img": "d18-nhieu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 31,
+   "ko": "장갑",
+   "vi": "bao tay, găng tay",
+   "img": "d27-gang-tay.webp"
+  },
+  {
+   "course": "ko",
+   "day": 31,
+   "ko": "씻다",
+   "vi": "rửa",
+   "img": "d46-rua.webp"
+  },
+  {
+   "course": "ko",
+   "day": 31,
+   "ko": "버리다",
+   "vi": "bỏ, vứt, quẳng",
+   "img": "d61-vut.webp"
+  },
+  {
+   "course": "ko",
+   "day": 31,
+   "ko": "운동",
+   "vi": "sự tập luyện thể thao",
+   "img": "x-the-thao.webp"
+  },
+  {
+   "course": "ko",
+   "day": 31,
+   "ko": "퍼센트",
+   "vi": "phần trăm",
+   "img": "x-phan-tram.webp"
+  },
+  {
+   "course": "ko",
+   "day": 32,
+   "ko": "감기",
+   "vi": "bệnh cảm",
+   "img": "d16-cam.webp"
+  },
+  {
+   "course": "ko",
+   "day": 32,
+   "ko": "일찍",
+   "vi": "sớm",
+   "img": "x-som.webp"
+  },
+  {
+   "course": "ko",
+   "day": 32,
+   "ko": "생일",
+   "vi": "sinh nhật",
+   "img": "d49-sinh-nhat.webp"
+  },
+  {
+   "course": "ko",
+   "day": 32,
+   "ko": "가져가다",
+   "vi": "mang đi, đem đi",
+   "img": "d57-mang-ve.webp"
+  },
+  {
+   "course": "ko",
+   "day": 32,
+   "ko": "시작하다",
+   "vi": "bắt đầu",
+   "img": "d11-bat-dau.webp"
+  },
+  {
+   "course": "ko",
+   "day": 32,
+   "ko": "바로",
+   "vi": "thẳng",
+   "img": "x-thawngr.webp"
+  },
+  {
+   "course": "ko",
+   "day": 32,
+   "ko": "어느",
+   "vi": "nào",
+   "img": "x-nao.webp"
+  },
+  {
+   "course": "ko",
+   "day": 32,
+   "ko": "무엇",
+   "vi": "cái gì, gì",
+   "img": "x-gi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 32,
+   "ko": "모든",
+   "vi": "tất cả, toàn bộ",
+   "img": "x-tat-ca.webp"
+  },
+  {
+   "course": "ko",
+   "day": 33,
+   "ko": "여기",
+   "vi": "nơi này, ở đây",
+   "img": "d03-day.webp"
+  },
+  {
+   "course": "ko",
+   "day": 34,
+   "ko": "좋아하다",
+   "vi": "thích",
+   "img": "d12-thich.webp"
+  },
+  {
+   "course": "ko",
+   "day": 34,
+   "ko": "일하다",
+   "vi": "làm việc",
+   "img": "x-lam-viec.webp"
+  },
+  {
+   "course": "ko",
+   "day": 34,
+   "ko": "요리하다",
+   "vi": "nấu ăn, nấu nướng",
+   "img": "d46-nau.webp"
+  },
+  {
+   "course": "ko",
+   "day": 34,
+   "ko": "모두",
+   "vi": "tất cả, toàn thể",
+   "img": "x-tat-ca.webp"
+  },
+  {
+   "course": "ko",
+   "day": 34,
+   "ko": "놓다",
+   "vi": "đặt, để",
+   "img": "x-ddawtj.webp"
+  },
+  {
+   "course": "ko",
+   "day": 35,
+   "ko": "저기",
+   "vi": "đằng kia, chỗ kia",
+   "img": "x-kia.webp"
+  },
+  {
+   "course": "ko",
+   "day": 35,
+   "ko": "어디",
+   "vi": "đâu, ở đâu",
+   "img": "x-ddaau.webp"
+  },
+  {
+   "course": "ko",
+   "day": 35,
+   "ko": "들어가다",
+   "vi": "đi vào, bước vào",
+   "img": "d53-vao.webp"
+  },
+  {
+   "course": "ko",
+   "day": 35,
+   "ko": "말다",
+   "vi": "đừng, thôi",
+   "img": "d17-dung.webp"
+  },
+  {
+   "course": "ko",
+   "day": 35,
+   "ko": "다르다",
+   "vi": "khác biệt",
+   "img": "x-khac.webp"
+  },
+  {
+   "course": "ko",
+   "day": 36,
+   "ko": "조금",
+   "vi": "một chút, một ít",
+   "img": "x-mot-chut.webp"
+  },
+  {
+   "course": "ko",
+   "day": 36,
+   "ko": "이것",
+   "vi": "cái này",
+   "img": "x-cai-nay.webp"
+  },
+  {
+   "course": "ko",
+   "day": 36,
+   "ko": "지금",
+   "vi": "bây giờ",
+   "img": "d09-bay-gio.webp"
+  },
+  {
+   "course": "ko",
+   "day": 37,
+   "ko": "방법",
+   "vi": "phương pháp",
+   "img": "x-cach.webp"
+  },
+  {
+   "course": "ko",
+   "day": 37,
+   "ko": "찾다",
+   "vi": "tìm, tìm kiếm",
+   "img": "d70-tim.webp"
+  },
+  {
+   "course": "ko",
+   "day": 38,
+   "ko": "돌아가다",
+   "vi": "quay về, trở về",
+   "img": "d06-ve.webp"
+  },
+  {
+   "course": "ko",
+   "day": 38,
+   "ko": "전화하다",
+   "vi": "điện thoại, gọi điện",
+   "img": "d70-dien-thoai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 38,
+   "ko": "나가다",
+   "vi": "ra khỏi",
+   "img": "d89-ra.webp"
+  },
+  {
+   "course": "ko",
+   "day": 38,
+   "ko": "아직",
+   "vi": "chưa, vẫn",
+   "img": "d19-chua.webp"
+  },
+  {
+   "course": "ko",
+   "day": 39,
+   "ko": "통장",
+   "vi": "sổ tài khoản, sổ ngân hàng",
+   "img": "d67-so.webp"
+  },
+  {
+   "course": "ko",
+   "day": 39,
+   "ko": "필요하다",
+   "vi": "tất yếu, thiết yếu, cần thiết",
+   "img": "x-can.webp"
+  },
+  {
+   "course": "ko",
+   "day": 39,
+   "ko": "챙기다",
+   "vi": "sắp xếp, sửa xoạn, thu xếp",
+   "img": "d97-sap-xep.webp"
+  },
+  {
+   "course": "ko",
+   "day": 39,
+   "ko": "서류",
+   "vi": "tài liệu, hồ sơ, giấy tờ",
+   "img": "x-tai-lieu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 39,
+   "ko": "안전",
+   "vi": "sự an toàn",
+   "img": "x-an-toan.webp"
+  },
+  {
+   "course": "ko",
+   "day": 40,
+   "ko": "무겁다",
+   "vi": "nặng",
+   "img": "d96-nang2.webp"
+  },
+  {
+   "course": "ko",
+   "day": 40,
+   "ko": "도와주다",
+   "vi": "giúp cho, giúp đỡ",
+   "img": "d62-giup-do.webp"
+  },
+  {
+   "course": "ko",
+   "day": 40,
+   "ko": "서다",
+   "vi": "đứng",
+   "img": "d96-dung.webp"
+  },
+  {
+   "course": "ko",
+   "day": 40,
+   "ko": "이제",
+   "vi": "bây giờ",
+   "img": "d09-bay-gio.webp"
+  },
+  {
+   "course": "ko",
+   "day": 41,
+   "ko": "사무실",
+   "vi": "văn phòng",
+   "img": "d101-van-phong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 41,
+   "ko": "끝내다",
+   "vi": "kết thúc, chấm dứt, ngừng",
+   "img": "d11-ket-thuc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 41,
+   "ko": "동안",
+   "vi": "trong, trong suốt, trong khoảng",
+   "img": "d14-trong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 41,
+   "ko": "일어나다",
+   "vi": "dậy",
+   "img": "d11-day.webp"
+  },
+  {
+   "course": "ko",
+   "day": 41,
+   "ko": "중요하다",
+   "vi": "cần thiết, quan trọng, trọng yếu, cần yếu",
+   "img": "d20-quan-trong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 41,
+   "ko": "무슨",
+   "vi": "gì",
+   "img": "x-gi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 41,
+   "ko": "너무",
+   "vi": "quá",
+   "img": "x-qua.webp"
+  },
+  {
+   "course": "ko",
+   "day": 42,
+   "ko": "싱겁다",
+   "vi": "nhạt",
+   "img": "x-nhat.webp"
+  },
+  {
+   "course": "ko",
+   "day": 42,
+   "ko": "위험하다",
+   "vi": "nguy hiểm",
+   "img": "x-nguy-hiem.webp"
+  },
+  {
+   "course": "ko",
+   "day": 42,
+   "ko": "부르다",
+   "vi": "kêu, gọi",
+   "img": "x-keu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 42,
+   "ko": "자리",
+   "vi": "chỗ",
+   "img": "x-choax.webp"
+  },
+  {
+   "course": "ko",
+   "day": 43,
+   "ko": "여기다",
+   "vi": "cho, xem như",
+   "img": "x-cho.webp"
+  },
+  {
+   "course": "ko",
+   "day": 43,
+   "ko": "이미",
+   "vi": "trước, rồi",
+   "img": "x-truoc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 43,
+   "ko": "엄마",
+   "vi": "mẹ, má",
+   "img": "d15-me.webp"
+  },
+  {
+   "course": "ko",
+   "day": 44,
+   "ko": "내리다",
+   "vi": "hạ xuống, giảm",
+   "img": "d39-xuong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 44,
+   "ko": "짓다",
+   "vi": "nấu, may, xây",
+   "img": "d46-nau.webp"
+  },
+  {
+   "course": "ko",
+   "day": 44,
+   "ko": "이유",
+   "vi": "lý do",
+   "img": "x-ly-do.webp"
+  },
+  {
+   "course": "ko",
+   "day": 44,
+   "ko": "남편",
+   "vi": "chồng",
+   "img": "d15-chong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 45,
+   "ko": "월급",
+   "vi": "lương tháng",
+   "img": "d30-luong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 45,
+   "ko": "주말",
+   "vi": "cuối tuần",
+   "img": "x-cuoi-tuan.webp"
+  },
+  {
+   "course": "ko",
+   "day": 45,
+   "ko": "건강하다",
+   "vi": "khỏe mạnh, khỏe khoắn",
+   "img": "d04-khoe.webp"
+  },
+  {
+   "course": "ko",
+   "day": 45,
+   "ko": "두다",
+   "vi": "đặt, để",
+   "img": "x-ddawtj.webp"
+  },
+  {
+   "course": "ko",
+   "day": 46,
+   "ko": "아주",
+   "vi": "rất",
+   "img": "x-rat.webp"
+  },
+  {
+   "course": "ko",
+   "day": 46,
+   "ko": "지방",
+   "vi": "địa phương, địa bàn khu vực",
+   "img": "x-mien.webp"
+  },
+  {
+   "course": "ko",
+   "day": 46,
+   "ko": "먼저",
+   "vi": "trước",
+   "img": "x-truoc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 47,
+   "ko": "동생",
+   "vi": "em",
+   "img": "d01-em.webp"
+  },
+  {
+   "course": "ko",
+   "day": 47,
+   "ko": "사장",
+   "vi": "giám đốc",
+   "img": "d21-giam-doc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 47,
+   "ko": "내일",
+   "vi": "ngày mai",
+   "img": "d06-mai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 47,
+   "ko": "남다",
+   "vi": "còn lại, thừa lại",
+   "img": "x-con-lai.webp"
+  },
+  {
+   "course": "ko",
+   "day": 48,
+   "ko": "비다",
+   "vi": "trống không, trống rỗng",
+   "img": "d97-trong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 48,
+   "ko": "떨어지다",
+   "vi": "rơi, rớt",
+   "img": "d70-roi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 48,
+   "ko": "나누다",
+   "vi": "chia, phân, phân chia, chia ra, phân ra",
+   "img": "d67-chia.webp"
+  },
+  {
+   "course": "ko",
+   "day": 49,
+   "ko": "건강",
+   "vi": "sự khỏe mạnh, sức khỏe",
+   "img": "x-suc-khoe.webp"
+  },
+  {
+   "course": "ko",
+   "day": 49,
+   "ko": "지키다",
+   "vi": "gìn giữ, bảo vệ",
+   "img": "x-giu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 49,
+   "ko": "공부하다",
+   "vi": "học, học tập, học hành",
+   "img": "d101-hoc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 50,
+   "ko": "바람",
+   "vi": "gió",
+   "img": "d41-gio.webp"
+  },
+  {
+   "course": "ko",
+   "day": 50,
+   "ko": "이르다",
+   "vi": "đến nơi",
+   "img": "x-den-noi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 51,
+   "ko": "바꾸다",
+   "vi": "đổi, thay đổi",
+   "img": "x-doi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 51,
+   "ko": "마시다",
+   "vi": "uống",
+   "img": "d12-uong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 52,
+   "ko": "싸다",
+   "vi": "rẻ",
+   "img": "d13-re.webp"
+  },
+  {
+   "course": "ko",
+   "day": 52,
+   "ko": "비싸다",
+   "vi": "đắt, đắt tiền",
+   "img": "d13-dat.webp"
+  },
+  {
+   "course": "ko",
+   "day": 52,
+   "ko": "동료",
+   "vi": "đồng liêu, đồng nghiệp",
+   "img": "d21-dong-nghiep.webp"
+  },
+  {
+   "course": "ko",
+   "day": 52,
+   "ko": "프로그램",
+   "vi": "chương trình",
+   "img": "x-chuong-trinh.webp"
+  },
+  {
+   "course": "ko",
+   "day": 53,
+   "ko": "도착하다",
+   "vi": "đến nơi",
+   "img": "x-den-noi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 53,
+   "ko": "습관",
+   "vi": "thói quen, tập quán",
+   "img": "x-thoi-quen.webp"
+  },
+  {
+   "course": "ko",
+   "day": 53,
+   "ko": "맞다",
+   "vi": "đúng",
+   "img": "x-dung.webp"
+  },
+  {
+   "course": "ko",
+   "day": 54,
+   "ko": "순서",
+   "vi": "thứ tự",
+   "img": "x-chuong-trinh.webp"
+  },
+  {
+   "course": "ko",
+   "day": 54,
+   "ko": "마치다",
+   "vi": "kết thúc, chấm dứt, làm xong",
+   "img": "d11-ket-thuc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 54,
+   "ko": "회의",
+   "vi": "sự hội ý, sự bàn bạc, cuộc họp",
+   "img": "d56-cuoc-hop.webp"
+  },
+  {
+   "course": "ko",
+   "day": 55,
+   "ko": "우선",
+   "vi": "trước tiên, trước hết, đầu tiên",
+   "img": "x-truoc-het.webp"
+  },
+  {
+   "course": "ko",
+   "day": 56,
+   "ko": "미리",
+   "vi": "trước",
+   "img": "x-truoc.webp"
+  },
+  {
+   "course": "ko",
+   "day": 56,
+   "ko": "기다리다",
+   "vi": "chờ đợi, đợi chờ, đợi, chờ",
+   "img": "d17-doi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 56,
+   "ko": "만큼",
+   "vi": "bằng",
+   "img": "d102-bang.webp"
+  },
+  {
+   "course": "ko",
+   "day": 57,
+   "ko": "흐르다",
+   "vi": "chảy",
+   "img": "x-chay.webp"
+  },
+  {
+   "course": "ko",
+   "day": 58,
+   "ko": "그리워하다",
+   "vi": "nhớ, nhớ nhung",
+   "img": "d20-nho.webp"
+  },
+  {
+   "course": "ko",
+   "day": 58,
+   "ko": "그만",
+   "vi": "đến mức đó, thôi",
+   "img": "x-thoi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 59,
+   "ko": "우유",
+   "vi": "sữa bò",
+   "img": "d76-sua.webp"
+  },
+  {
+   "course": "ko",
+   "day": 59,
+   "ko": "부탁하다",
+   "vi": "nhờ, phó thác",
+   "img": "x-nho.webp"
+  },
+  {
+   "course": "ko",
+   "day": 59,
+   "ko": "부치다",
+   "vi": "gửi",
+   "img": "x-gui.webp"
+  },
+  {
+   "course": "ko",
+   "day": 60,
+   "ko": "아니",
+   "vi": "không",
+   "img": "x-khong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 60,
+   "ko": "아니하다",
+   "vi": "không",
+   "img": "x-khong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 61,
+   "ko": "길",
+   "vi": "đường, con đường",
+   "img": "d14-duong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 61,
+   "ko": "자식",
+   "vi": "con, con cái",
+   "img": "d08-con.webp"
+  },
+  {
+   "course": "ko",
+   "day": 62,
+   "ko": "자료",
+   "vi": "tài liệu",
+   "img": "x-tai-lieu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 62,
+   "ko": "제품",
+   "vi": "sự chế phẩm, sản phẩm, chế phẩm",
+   "img": "x-san-pham.webp"
+  },
+  {
+   "course": "ko",
+   "day": 63,
+   "ko": "새롭다",
+   "vi": "mới",
+   "img": "d18-moi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 64,
+   "ko": "오르다",
+   "vi": "leo lên, trèo lên",
+   "img": "x-tawng.webp"
+  },
+  {
+   "course": "ko",
+   "day": 65,
+   "ko": "가게",
+   "vi": "cửa hàng, cửa hiệu,  cửa tiệm, quầy",
+   "img": "d48-quan.webp"
+  },
+  {
+   "course": "ko",
+   "day": 66,
+   "ko": "죄송하다",
+   "vi": "xin lỗi, cảm thấy có lỗi",
+   "img": "d02-xin-loi.webp"
+  },
+  {
+   "course": "ko",
+   "day": 66,
+   "ko": "알아보다",
+   "vi": "tìm hiểu",
+   "img": "x-tim-hieu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 67,
+   "ko": "오래되다",
+   "vi": "cũ, lâu đời",
+   "img": "d18-cu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 67,
+   "ko": "쓰레기",
+   "vi": "rác",
+   "img": "d46-rac.webp"
+  },
+  {
+   "course": "ko",
+   "day": 68,
+   "ko": "주의하다",
+   "vi": "chú ý",
+   "img": "x-chu-y.webp"
+  },
+  {
+   "course": "ko",
+   "day": 68,
+   "ko": "부족하다",
+   "vi": "thiếu, thiếu hụt, thiếu thốn",
+   "img": "x-thieu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 69,
+   "ko": "급하다",
+   "vi": "gấp, khẩn cấp",
+   "img": "d24-gap.webp"
+  },
+  {
+   "course": "ko",
+   "day": 70,
+   "ko": "늦다",
+   "vi": "muộn, trễ",
+   "img": "d11-muon.webp"
+  },
+  {
+   "course": "ko",
+   "day": 70,
+   "ko": "노동",
+   "vi": "sự lao động",
+   "img": "x-lao-dong.webp"
+  },
+  {
+   "course": "ko",
+   "day": 73,
+   "ko": "목표",
+   "vi": "mục tiêu",
+   "img": "x-muc-tieu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 73,
+   "ko": "사고",
+   "vi": "sự cố, tai nạn",
+   "img": "d27-tai-nan.webp"
+  },
+  {
+   "course": "ko",
+   "day": 73,
+   "ko": "경험",
+   "vi": "kinh nghiệm",
+   "img": "x-kinh-nghiem.webp"
+  },
+  {
+   "course": "ko",
+   "day": 74,
+   "ko": "걱정하다",
+   "vi": "lo lắng, lo ngại, lo sợ, lo",
+   "img": "x-lo.webp"
+  },
+  {
+   "course": "ko",
+   "day": 75,
+   "ko": "제출하다",
+   "vi": "nộp, trình, đệ trình",
+   "img": "d60-nop.webp"
+  },
+  {
+   "course": "ko",
+   "day": 76,
+   "ko": "물건",
+   "vi": "đồ vật, đồ",
+   "img": "d26-hang.webp"
+  },
+  {
+   "course": "ko",
+   "day": 76,
+   "ko": "고르다",
+   "vi": "đều đặn, đồng đều, như nhau",
+   "img": "x-deu.webp"
+  },
+  {
+   "course": "ko",
+   "day": 77,
+   "ko": "낫다",
+   "vi": "hơn, khá hơn, tốt hơn",
+   "img": "x-hon.webp"
+  },
+  {
+   "course": "ko",
+   "day": 77,
+   "ko": "이렇게",
+   "vi": "như thế này",
+   "img": "x-the-nay.webp"
+  },
+  {
+   "course": "ko",
+   "day": 78,
+   "ko": "요구하다",
+   "vi": "yêu cầu",
+   "img": "x-yeu-cau.webp"
+  },
+  {
+   "course": "ko",
+   "day": 78,
+   "ko": "당하다",
+   "vi": "bị, bị thiệt hại, bị lừa",
+   "img": "d16-bi.webp"
+  }
+ ],
+ "new": [
+  {
+   "course": "ko",
+   "day": 1,
+   "theme": "자기소개",
+   "ko": "국적",
+   "vi": "quốc tịch",
+   "name": "k-gukjeok",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 1,
+   "theme": "자기소개",
+   "ko": "선생님",
+   "vi": "giáo viên",
+   "name": "k-seonsaengnim",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 1,
+   "theme": "자기소개",
+   "ko": "회사원",
+   "vi": "nhân viên công ty",
+   "name": "k-hoesawon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 1,
+   "theme": "자기소개",
+   "ko": "학생",
+   "vi": "học sinh",
+   "name": "k-haksaeng",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 2,
+   "theme": "교실 사물",
+   "ko": "침대",
+   "vi": "giường",
+   "name": "k-chimdae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 2,
+   "theme": "교실 사물",
+   "ko": "휴대 전화",
+   "vi": "điện thoại di động",
+   "name": "k-hyudae-jeonhwa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 2,
+   "theme": "교실 사물",
+   "ko": "시계",
+   "vi": "đồng hồ",
+   "name": "k-sigye",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 2,
+   "theme": "교실 사물",
+   "ko": "학교",
+   "vi": "trường học",
+   "name": "k-hakgyo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 2,
+   "theme": "교실 사물",
+   "ko": "교실",
+   "vi": "phòng học",
+   "name": "k-gyosil",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 2,
+   "theme": "교실 사물",
+   "ko": "책",
+   "vi": "sách",
+   "name": "k-chaek",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 3,
+   "theme": "기분과 상태",
+   "ko": "크다",
+   "vi": "lớn",
+   "name": "k-keuda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 3,
+   "theme": "기분과 상태",
+   "ko": "작다",
+   "vi": "nhỏ",
+   "name": "k-jakda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 4,
+   "theme": "안 되는 일 말하기",
+   "ko": "미안하다",
+   "vi": "áy náy",
+   "name": "k-mianhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 4,
+   "theme": "안 되는 일 말하기",
+   "ko": "가요",
+   "vi": "bài hát đại chúng, ca khúc được yêu thích",
+   "name": "k-gayo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 4,
+   "theme": "안 되는 일 말하기",
+   "ko": "그래서",
+   "vi": "vì vậy, vì thế, cho nên, thế nên",
+   "name": "k-geuraeseo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 4,
+   "theme": "안 되는 일 말하기",
+   "ko": "우리",
+   "vi": "chúng ta",
+   "name": "k-uri",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 5,
+   "theme": "날씨와 몸 상태",
+   "ko": "음악",
+   "vi": "âm nhạc",
+   "name": "k-eumak",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 5,
+   "theme": "날씨와 몸 상태",
+   "ko": "때문",
+   "vi": "tại vì, vì",
+   "name": "k-ttaemun",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 5,
+   "theme": "날씨와 몸 상태",
+   "ko": "그러나",
+   "vi": "nhưng..., thế nhưng...",
+   "name": "k-geureona",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 6,
+   "theme": "장소",
+   "ko": "편의점",
+   "vi": "cửa hàng tiện lợi",
+   "name": "k-pyeonuijeom",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 6,
+   "theme": "장소",
+   "ko": "식당",
+   "vi": "nhà hàng",
+   "name": "k-sikdang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 6,
+   "theme": "장소",
+   "ko": "카페",
+   "vi": "quán cà phê",
+   "name": "k-kape",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 6,
+   "theme": "장소",
+   "ko": "공원",
+   "vi": "công viên",
+   "name": "k-gongwon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 9,
+   "theme": "식당에서 주문",
+   "ko": "김치찌개",
+   "vi": "canh kimchi",
+   "name": "k-gimchijjigae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 9,
+   "theme": "식당에서 주문",
+   "ko": "비빔밥",
+   "vi": "cơm trộn",
+   "name": "k-bibimbap",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 9,
+   "theme": "식당에서 주문",
+   "ko": "불고기",
+   "vi": "thịt nướng",
+   "name": "k-bulgogi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 9,
+   "theme": "식당에서 주문",
+   "ko": "삼겹살",
+   "vi": "thịt ba chỉ",
+   "name": "k-samgyeopsal",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 9,
+   "theme": "식당에서 주문",
+   "ko": "라면",
+   "vi": "mì ăn liền",
+   "name": "k-ramyeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 9,
+   "theme": "식당에서 주문",
+   "ko": "김밥",
+   "vi": "cơm cuộn rong biển",
+   "name": "k-gimbap",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 9,
+   "theme": "식당에서 주문",
+   "ko": "반찬",
+   "vi": "món ăn kèm",
+   "name": "k-banchan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 9,
+   "theme": "식당에서 주문",
+   "ko": "젓가락",
+   "vi": "đũa",
+   "name": "k-jeotgarak",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 10,
+   "theme": "회사 물건",
+   "ko": "강아지",
+   "vi": "chó con",
+   "name": "k-gangaji",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 10,
+   "theme": "회사 물건",
+   "ko": "잡지",
+   "vi": "tạp chí",
+   "name": "k-japji",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 10,
+   "theme": "회사 물건",
+   "ko": "노트북",
+   "vi": "máy tính xách tay",
+   "name": "k-noteubuk",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 10,
+   "theme": "회사 물건",
+   "ko": "녹차",
+   "vi": "trà xanh",
+   "name": "k-nokcha",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 10,
+   "theme": "회사 물건",
+   "ko": "청소기",
+   "vi": "máy hút bụi",
+   "name": "k-cheongsogi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 10,
+   "theme": "회사 물건",
+   "ko": "계란",
+   "vi": "trứng gà",
+   "name": "k-gyeran",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 11,
+   "theme": "주말 활동",
+   "ko": "쇼핑하다",
+   "vi": "mua sắm",
+   "name": "k-syopinghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 11,
+   "theme": "주말 활동",
+   "ko": "백화점",
+   "vi": "trung tâm mua sắm",
+   "name": "k-baekhwajeom",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 11,
+   "theme": "주말 활동",
+   "ko": "지난달",
+   "vi": "tháng rồi, tháng trước",
+   "name": "k-jinandal",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 11,
+   "theme": "주말 활동",
+   "ko": "이사",
+   "vi": "sự chuyển chỗ ở, sự chuyển nhà",
+   "name": "k-isa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 11,
+   "theme": "주말 활동",
+   "ko": "영화",
+   "vi": "điện ảnh, phim",
+   "name": "k-yeonghwa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 11,
+   "theme": "주말 활동",
+   "ko": "되다",
+   "vi": "trở thành",
+   "name": "k-doeda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 12,
+   "theme": "하루 차례대로 말하기",
+   "ko": "출근",
+   "vi": "sự đi làm",
+   "name": "k-chulgeun",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 12,
+   "theme": "하루 차례대로 말하기",
+   "ko": "퇴근",
+   "vi": "sự tan sở",
+   "name": "k-toegeun",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 12,
+   "theme": "하루 차례대로 말하기",
+   "ko": "그렇다",
+   "vi": "cũng vậy, cũng thế, như vậy, như thế",
+   "name": "k-geureotda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 13,
+   "theme": "하고 싶은 것",
+   "ko": "잘하다",
+   "vi": "giỏi giang, làm tốt",
+   "name": "k-jalhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 13,
+   "theme": "하고 싶은 것",
+   "ko": "못하다",
+   "vi": "làm không được, không làm được",
+   "name": "k-mothada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 14,
+   "theme": "가족",
+   "ko": "할머니",
+   "vi": "bà",
+   "name": "k-halmeoni",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 14,
+   "theme": "가족",
+   "ko": "할아버지",
+   "vi": "ông",
+   "name": "k-halabeoji",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 14,
+   "theme": "가족",
+   "ko": "부모님",
+   "vi": "bố mẹ",
+   "name": "k-bumonim",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 15,
+   "theme": "선물과 행사",
+   "ko": "초대장",
+   "vi": "thư mời",
+   "name": "k-chodaejang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 15,
+   "theme": "선물과 행사",
+   "ko": "케이크",
+   "vi": "bánh kem",
+   "name": "k-keikeu",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 15,
+   "theme": "선물과 행사",
+   "ko": "결혼식",
+   "vi": "lễ cưới",
+   "name": "k-gyeolhonsik",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 15,
+   "theme": "선물과 행사",
+   "ko": "졸업식",
+   "vi": "lễ tốt nghiệp",
+   "name": "k-joleopsik",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 15,
+   "theme": "선물과 행사",
+   "ko": "어버이날",
+   "vi": "ngày cha mẹ",
+   "name": "k-eobeoinal",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 16,
+   "theme": "휴가 계획",
+   "ko": "휴가",
+   "vi": "kỳ nghỉ",
+   "name": "k-hyuga",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 16,
+   "theme": "휴가 계획",
+   "ko": "친척",
+   "vi": "họ hàng",
+   "name": "k-chincheok",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 16,
+   "theme": "휴가 계획",
+   "ko": "화장품",
+   "vi": "mỹ phẩm",
+   "name": "k-hwajangpum",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 16,
+   "theme": "휴가 계획",
+   "ko": "휴일",
+   "vi": "ngày nghỉ",
+   "name": "k-hyuil",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 16,
+   "theme": "휴가 계획",
+   "ko": "거기",
+   "vi": "nơi đó",
+   "name": "k-geogi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 17,
+   "theme": "교통수단",
+   "ko": "자동차",
+   "vi": "xe ô tô",
+   "name": "k-jadongcha",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 17,
+   "theme": "교통수단",
+   "ko": "자전거",
+   "vi": "xe đạp",
+   "name": "k-jajeongeo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 17,
+   "theme": "교통수단",
+   "ko": "지하철",
+   "vi": "tàu điện ngầm",
+   "name": "k-jihacheol",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 17,
+   "theme": "교통수단",
+   "ko": "기차",
+   "vi": "tàu hỏa",
+   "name": "k-gicha",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 18,
+   "theme": "견주어 말하기",
+   "ko": "힘들다",
+   "vi": "mất sức, mệt mỏi",
+   "name": "k-himdeulda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 18,
+   "theme": "견주어 말하기",
+   "ko": "가장",
+   "vi": "nhất",
+   "name": "k-gajang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 18,
+   "theme": "견주어 말하기",
+   "ko": "제일",
+   "vi": "đầu tiên, trước tiên, trước hết",
+   "name": "k-jeil",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 18,
+   "theme": "견주어 말하기",
+   "ko": "생각하다",
+   "vi": "nghĩ, suy nghĩ",
+   "name": "k-saenggakhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 18,
+   "theme": "견주어 말하기",
+   "ko": "모르다",
+   "vi": "không biết",
+   "name": "k-moreuda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 18,
+   "theme": "견주어 말하기",
+   "ko": "만들다",
+   "vi": "làm ra, tạo ra, chế tạo",
+   "name": "k-mandeulda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 18,
+   "theme": "견주어 말하기",
+   "ko": "어떤",
+   "vi": "như thế nào",
+   "name": "k-eotteon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 19,
+   "theme": "약속 잡기",
+   "ko": "답장하다",
+   "vi": "hồi đáp",
+   "name": "k-dapjanghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 19,
+   "theme": "약속 잡기",
+   "ko": "시간",
+   "vi": "thời gian",
+   "name": "k-sigan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 19,
+   "theme": "약속 잡기",
+   "ko": "장소",
+   "vi": "địa điểm",
+   "name": "k-jangso",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 19,
+   "theme": "약속 잡기",
+   "ko": "한잔",
+   "vi": "việc làm một ly, việc uống một chén",
+   "name": "k-hanjan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 20,
+   "theme": "날씨와 계절",
+   "ko": "날씨",
+   "vi": "thời tiết",
+   "name": "k-nalssi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 20,
+   "theme": "날씨와 계절",
+   "ko": "봄",
+   "vi": "mùa xuân",
+   "name": "k-bom",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 20,
+   "theme": "날씨와 계절",
+   "ko": "여름",
+   "vi": "mùa hè",
+   "name": "k-yeoreum",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 20,
+   "theme": "날씨와 계절",
+   "ko": "가을",
+   "vi": "mùa thu",
+   "name": "k-gaeul",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 20,
+   "theme": "날씨와 계절",
+   "ko": "겨울",
+   "vi": "mùa đông",
+   "name": "k-gyeoul",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 20,
+   "theme": "날씨와 계절",
+   "ko": "따뜻하다",
+   "vi": "ấm áp",
+   "name": "k-ttatteuthada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 20,
+   "theme": "날씨와 계절",
+   "ko": "맑다",
+   "vi": "trong xanh",
+   "name": "k-malda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 20,
+   "theme": "날씨와 계절",
+   "ko": "흐리다",
+   "vi": "nhiều mây",
+   "name": "k-heurida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 20,
+   "theme": "날씨와 계절",
+   "ko": "없다",
+   "vi": "không có, không tồn tại",
+   "name": "k-eopda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 21,
+   "theme": "몸과 병원",
+   "ko": "귀",
+   "vi": "tai",
+   "name": "k-gwi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 21,
+   "theme": "몸과 병원",
+   "ko": "목",
+   "vi": "cổ",
+   "name": "k-mok",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 21,
+   "theme": "몸과 병원",
+   "ko": "팔",
+   "vi": "cánh tay",
+   "name": "k-pal",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 21,
+   "theme": "몸과 병원",
+   "ko": "무릎",
+   "vi": "đầu gối",
+   "name": "k-mureup",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 21,
+   "theme": "몸과 병원",
+   "ko": "발",
+   "vi": "bàn chân",
+   "name": "k-bal",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 22,
+   "theme": "공공장소 예절",
+   "ko": "주차장",
+   "vi": "bãi đỗ xe",
+   "name": "k-juchajang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 22,
+   "theme": "공공장소 예절",
+   "ko": "주차하다",
+   "vi": "đỗ xe",
+   "name": "k-juchahada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 22,
+   "theme": "공공장소 예절",
+   "ko": "박물관",
+   "vi": "viện bảo tàng",
+   "name": "k-bakmulgwan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 22,
+   "theme": "공공장소 예절",
+   "ko": "경찰서",
+   "vi": "đồn cảnh sát",
+   "name": "k-gyeongchalseo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 22,
+   "theme": "공공장소 예절",
+   "ko": "동물원",
+   "vi": "sở thú",
+   "name": "k-dongmulwon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 22,
+   "theme": "공공장소 예절",
+   "ko": "캠핑",
+   "vi": "cắm trại",
+   "name": "k-kaemping",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 23,
+   "theme": "한국 생활 적응",
+   "ko": "졸업하다",
+   "vi": "tốt nghiệp",
+   "name": "k-joleophada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 23,
+   "theme": "한국 생활 적응",
+   "ko": "입학하다",
+   "vi": "nhập học",
+   "name": "k-iphakhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 23,
+   "theme": "한국 생활 적응",
+   "ko": "점심시간",
+   "vi": "giờ ăn trưa",
+   "name": "k-jeomsimsigan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 23,
+   "theme": "한국 생활 적응",
+   "ko": "의식주",
+   "vi": "ăn mặc ở",
+   "name": "k-uisikju",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 23,
+   "theme": "한국 생활 적응",
+   "ko": "평일",
+   "vi": "ngày thường",
+   "name": "k-pyeongil",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 23,
+   "theme": "한국 생활 적응",
+   "ko": "교통 카드",
+   "vi": "thẻ giao thông",
+   "name": "k-gyotong-kadeu",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 23,
+   "theme": "한국 생활 적응",
+   "ko": "팥빙수",
+   "vi": "chè đậu đỏ đá bào",
+   "name": "k-patbingsu",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 24,
+   "theme": "어떤 것인지 꾸며 말하기",
+   "ko": "조용하다",
+   "vi": "yên tĩnh, tĩnh mịch, im ắng",
+   "name": "k-joyonghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 24,
+   "theme": "어떤 것인지 꾸며 말하기",
+   "ko": "시끄럽다",
+   "vi": "ồn",
+   "name": "k-sikkeureopda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 24,
+   "theme": "어떤 것인지 꾸며 말하기",
+   "ko": "넓다",
+   "vi": "rộng",
+   "name": "k-neolda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 24,
+   "theme": "어떤 것인지 꾸며 말하기",
+   "ko": "좁다",
+   "vi": "hẹp",
+   "name": "k-jopda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 24,
+   "theme": "어떤 것인지 꾸며 말하기",
+   "ko": "가방",
+   "vi": "túi xách, giỏ xách, ba lô",
+   "name": "k-gabang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 24,
+   "theme": "어떤 것인지 꾸며 말하기",
+   "ko": "하루",
+   "vi": "một ngày",
+   "name": "k-haru",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 24,
+   "theme": "어떤 것인지 꾸며 말하기",
+   "ko": "대하다",
+   "vi": "đối diện",
+   "name": "k-daehada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 24,
+   "theme": "어떤 것인지 꾸며 말하기",
+   "ko": "위하다",
+   "vi": "vì, để, cho",
+   "name": "k-wihada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 24,
+   "theme": "어떤 것인지 꾸며 말하기",
+   "ko": "사회",
+   "vi": "xã hội, cộng đồng",
+   "name": "k-sahoe",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 25,
+   "theme": "내가 하겠다고 말하기",
+   "ko": "옮기다",
+   "vi": "chuyển",
+   "name": "k-olgida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 25,
+   "theme": "내가 하겠다고 말하기",
+   "ko": "이따가",
+   "vi": "lát nữa, chút nữa, chốc nữa",
+   "name": "k-ittaga",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 25,
+   "theme": "내가 하겠다고 말하기",
+   "ko": "전화",
+   "vi": "cuộc điện thoại, cú điện thoại, cuộc nói chuyện điện thoại",
+   "name": "k-jeonhwa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 25,
+   "theme": "내가 하겠다고 말하기",
+   "ko": "그런",
+   "vi": "như vậy",
+   "name": "k-geureon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 25,
+   "theme": "내가 하겠다고 말하기",
+   "ko": "경우",
+   "vi": "đạo lý, sự phải đạo",
+   "name": "k-gyeongu",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 26,
+   "theme": "한번 해 보기",
+   "ko": "신다",
+   "vi": "mang",
+   "name": "k-sinda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 26,
+   "theme": "한번 해 보기",
+   "ko": "한번",
+   "vi": "có lần",
+   "name": "k-hanbeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 26,
+   "theme": "한번 해 보기",
+   "ko": "음식",
+   "vi": "thức ăn, đồ ăn",
+   "name": "k-eumsik",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 26,
+   "theme": "한번 해 보기",
+   "ko": "노래",
+   "vi": "bài hát, ca khúc, việc ca hát",
+   "name": "k-norae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 26,
+   "theme": "한번 해 보기",
+   "ko": "자신",
+   "vi": "tự thân, chính mình, tự mình",
+   "name": "k-jasin",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 26,
+   "theme": "한번 해 보기",
+   "ko": "생각",
+   "vi": "sự suy nghĩ",
+   "name": "k-saenggak",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 27,
+   "theme": "무엇 하러 가는지",
+   "ko": "통하다",
+   "vi": "thông",
+   "name": "k-tonghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 27,
+   "theme": "무엇 하러 가는지",
+   "ko": "소리",
+   "vi": "tiếng, âm thanh",
+   "name": "k-sori",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 27,
+   "theme": "무엇 하러 가는지",
+   "ko": "이런",
+   "vi": "như thế này",
+   "name": "k-ireon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 27,
+   "theme": "무엇 하러 가는지",
+   "ko": "여자",
+   "vi": "con gái, phụ nữ",
+   "name": "k-yeoja",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 27,
+   "theme": "무엇 하러 가는지",
+   "ko": "정도",
+   "vi": "mức độ, độ, mức",
+   "name": "k-jeongdo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 28,
+   "theme": "할 수 있는 일",
+   "ko": "김치",
+   "vi": "kimchi",
+   "name": "k-gimchi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 28,
+   "theme": "할 수 있는 일",
+   "ko": "보이다",
+   "vi": "được thấy, được trông thấy",
+   "name": "k-boida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 28,
+   "theme": "할 수 있는 일",
+   "ko": "가지다",
+   "vi": "mang, cầm",
+   "name": "k-gajida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 29,
+   "theme": "이러면 저렇다",
+   "ko": "비",
+   "vi": "hạt mưa",
+   "name": "k-bi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 29,
+   "theme": "이러면 저렇다",
+   "ko": "가져오다",
+   "vi": "mang đến, đem đến",
+   "name": "k-gajyeooda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 29,
+   "theme": "이러면 저렇다",
+   "ko": "아이",
+   "vi": "trẻ em, trẻ nhỏ, đứa trẻ, đứa bé, em bé",
+   "name": "k-ai",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 29,
+   "theme": "이러면 저렇다",
+   "ko": "지나다",
+   "vi": "qua, trôi qua",
+   "name": "k-jinada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 29,
+   "theme": "이러면 저렇다",
+   "ko": "인간",
+   "vi": "con người",
+   "name": "k-ingan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 29,
+   "theme": "이러면 저렇다",
+   "ko": "사실",
+   "vi": "sự thật, sự thực",
+   "name": "k-sasil",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 29,
+   "theme": "이러면 저렇다",
+   "ko": "나다",
+   "vi": "nhú, mọc, ló",
+   "name": "k-nada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 30,
+   "theme": "그럴 때는",
+   "ko": "외롭다",
+   "vi": "cô độc, đơn độc",
+   "name": "k-oeropda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 30,
+   "theme": "그럴 때는",
+   "ko": "텔레비전",
+   "vi": "ti vi, máy vô tuyến truyền hình",
+   "name": "k-telrebijeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 30,
+   "theme": "그럴 때는",
+   "ko": "기분",
+   "vi": "tâm trạng",
+   "name": "k-gibun",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 30,
+   "theme": "그럴 때는",
+   "ko": "이렇다",
+   "vi": "như thế này",
+   "name": "k-ireotda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 30,
+   "theme": "그럴 때는",
+   "ko": "의하다",
+   "vi": "dựa vào, theo",
+   "name": "k-uihada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 30,
+   "theme": "그럴 때는",
+   "ko": "시대",
+   "vi": "thời đại",
+   "name": "k-sidae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 30,
+   "theme": "그럴 때는",
+   "ko": "이러하다",
+   "vi": "như thế này",
+   "name": "k-ireohada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 31,
+   "theme": "앞뒤 차례",
+   "ko": "잠",
+   "vi": "giấc ngủ, sự ngủ",
+   "name": "k-jam",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 31,
+   "theme": "앞뒤 차례",
+   "ko": "자기",
+   "vi": "chính mình, tự mình, bản thân mình",
+   "name": "k-jagi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 31,
+   "theme": "앞뒤 차례",
+   "ko": "세계",
+   "vi": "thế giới",
+   "name": "k-segye",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 31,
+   "theme": "앞뒤 차례",
+   "ko": "대통령",
+   "vi": "tổng thống",
+   "name": "k-daetongryeong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 31,
+   "theme": "앞뒤 차례",
+   "ko": "가지",
+   "vi": "thứ, kiểu",
+   "name": "k-gaji",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 32,
+   "theme": "그러니까",
+   "ko": "얼굴",
+   "vi": "mặt",
+   "name": "k-eolgul",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 33,
+   "theme": "마음먹은 일",
+   "ko": "매일",
+   "vi": "mỗi ngày",
+   "name": "k-maeil",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 33,
+   "theme": "마음먹은 일",
+   "ko": "공부",
+   "vi": "việc học, sự học",
+   "name": "k-gongbu",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 33,
+   "theme": "마음먹은 일",
+   "ko": "약속",
+   "vi": "sự hứa hẹn, lời hứa",
+   "name": "k-yaksok",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 33,
+   "theme": "마음먹은 일",
+   "ko": "운동하다",
+   "vi": "tập luyện thể thao",
+   "name": "k-undonghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 33,
+   "theme": "마음먹은 일",
+   "ko": "올해",
+   "vi": "năm nay",
+   "name": "k-olhae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 33,
+   "theme": "마음먹은 일",
+   "ko": "끊기다",
+   "vi": "bị đứt, bị cắt đứt",
+   "name": "k-kkeungida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 33,
+   "theme": "마음먹은 일",
+   "ko": "그거",
+   "vi": "cái đó, cái đấy",
+   "name": "k-geugeo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 33,
+   "theme": "마음먹은 일",
+   "ko": "국가",
+   "vi": "quốc gia",
+   "name": "k-gukga",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 33,
+   "theme": "마음먹은 일",
+   "ko": "그런데",
+   "vi": "nhưng mà, thế nhưng",
+   "name": "k-geureonde",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 34,
+   "theme": "무엇 하는 사람·것",
+   "ko": "요리",
+   "vi": "nấu ăn, nấu nướng",
+   "name": "k-yori",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 34,
+   "theme": "무엇 하는 사람·것",
+   "ko": "가르치다",
+   "vi": "dạy",
+   "name": "k-gareuchida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 34,
+   "theme": "무엇 하는 사람·것",
+   "ko": "친절",
+   "vi": "sự tử tế, sự niềm nở",
+   "name": "k-chinjeol",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 34,
+   "theme": "무엇 하는 사람·것",
+   "ko": "여성",
+   "vi": "phụ nữ, giới nữ",
+   "name": "k-yeoseong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 34,
+   "theme": "무엇 하는 사람·것",
+   "ko": "마음",
+   "vi": "tâm tính, tính tình",
+   "name": "k-maeum",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 35,
+   "theme": "어디에 있는지",
+   "ko": "근처",
+   "vi": "nơi gần",
+   "name": "k-geuncheo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 35,
+   "theme": "어디에 있는지",
+   "ko": "관계",
+   "vi": "quan hệ",
+   "name": "k-gwangye",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 35,
+   "theme": "어디에 있는지",
+   "ko": "남자",
+   "vi": "nam giới",
+   "name": "k-namja",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 35,
+   "theme": "어디에 있는지",
+   "ko": "나타나다",
+   "vi": "xuất hiện, lộ ra",
+   "name": "k-natanada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 35,
+   "theme": "어디에 있는지",
+   "ko": "지역",
+   "vi": "vùng, khu vực",
+   "name": "k-jiyeok",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 36,
+   "theme": "두 가지를 한꺼번에",
+   "ko": "청소",
+   "vi": "việc quét dọn, việc lau chùi, việc dọn dẹp",
+   "name": "k-cheongso",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 36,
+   "theme": "두 가지를 한꺼번에",
+   "ko": "이야기",
+   "vi": "câu chuyện",
+   "name": "k-iyagi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 36,
+   "theme": "두 가지를 한꺼번에",
+   "ko": "모습",
+   "vi": "hình dáng, hình dạng",
+   "name": "k-moseup",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 36,
+   "theme": "두 가지를 한꺼번에",
+   "ko": "내다",
+   "vi": "mở ra, thông, trổ",
+   "name": "k-naeda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 36,
+   "theme": "두 가지를 한꺼번에",
+   "ko": "없이",
+   "vi": "không có",
+   "name": "k-eopi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 36,
+   "theme": "두 가지를 한꺼번에",
+   "ko": "이번",
+   "vi": "lần này",
+   "name": "k-ibeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 36,
+   "theme": "두 가지를 한꺼번에",
+   "ko": "생활",
+   "vi": "sự sinh sống, cuộc sống",
+   "name": "k-saenghwal",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 37,
+   "theme": "대체로 그런 편",
+   "ko": "성격",
+   "vi": "tính cách, tính nết",
+   "name": "k-seonggyeok",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 37,
+   "theme": "대체로 그런 편",
+   "ko": "사이",
+   "vi": "khoảng cách, cự li",
+   "name": "k-sai",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 37,
+   "theme": "대체로 그런 편",
+   "ko": "우리나라",
+   "vi": "nước ta, Hàn Quốc",
+   "name": "k-urinara",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 37,
+   "theme": "대체로 그런 편",
+   "ko": "앉다",
+   "vi": "ngồi",
+   "name": "k-anda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 37,
+   "theme": "대체로 그런 편",
+   "ko": "처음",
+   "vi": "đầu tiên; lần đầu tiên",
+   "name": "k-cheoeum",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 37,
+   "theme": "대체로 그런 편",
+   "ko": "그때",
+   "vi": "lúc đó, khi đó",
+   "name": "k-geuttae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 37,
+   "theme": "대체로 그런 편",
+   "ko": "갖다",
+   "vi": "mang, cầm",
+   "name": "k-gatda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 37,
+   "theme": "대체로 그런 편",
+   "ko": "특히",
+   "vi": "một cách đặc biệt",
+   "name": "k-teukhi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 38,
+   "theme": "그러려고 합니다",
+   "ko": "내년",
+   "vi": "năm tới, năm sau",
+   "name": "k-naenyeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 38,
+   "theme": "그러려고 합니다",
+   "ko": "열심히",
+   "vi": "một cách chăm chỉ, một cách cần mẫn, một cách miệt mài",
+   "name": "k-yeolsimhi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 38,
+   "theme": "그러려고 합니다",
+   "ko": "모으다",
+   "vi": "gom, gộp, chắp, chụm",
+   "name": "k-moeuda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 38,
+   "theme": "그러려고 합니다",
+   "ko": "이상",
+   "vi": "trở lên",
+   "name": "k-isang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 38,
+   "theme": "그러려고 합니다",
+   "ko": "교육",
+   "vi": "sự giáo dục",
+   "name": "k-gyoyuk",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 38,
+   "theme": "그러려고 합니다",
+   "ko": "경제",
+   "vi": "kinh tế, nền kinh tế",
+   "name": "k-gyeongje",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 39,
+   "theme": "꼭 해야 하는 것",
+   "ko": "외국인",
+   "vi": "người ngoại quốc, người nước ngoài",
+   "name": "k-oegukin",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 39,
+   "theme": "꼭 해야 하는 것",
+   "ko": "등록증",
+   "vi": "chứng nhận đăng kí, giấy đăng kí",
+   "name": "k-deungrokjeung",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 39,
+   "theme": "꼭 해야 하는 것",
+   "ko": "운전",
+   "vi": "sự lái xe",
+   "name": "k-unjeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 39,
+   "theme": "꼭 해야 하는 것",
+   "ko": "잡다",
+   "vi": "nắm, cầm",
+   "name": "k-japda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 39,
+   "theme": "꼭 해야 하는 것",
+   "ko": "예술",
+   "vi": "nghệ thuật",
+   "name": "k-yesul",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 40,
+   "theme": "도와 달라고 말하기",
+   "ko": "고맙다",
+   "vi": "cảm  ơn, biết ơn",
+   "name": "k-gomapda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 40,
+   "theme": "도와 달라고 말하기",
+   "ko": "역사",
+   "vi": "lịch sử, tiến trình lịch sử",
+   "name": "k-yeoksa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 40,
+   "theme": "도와 달라고 말하기",
+   "ko": "읽다",
+   "vi": "đọc",
+   "name": "k-ilda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 40,
+   "theme": "도와 달라고 말하기",
+   "ko": "결과",
+   "vi": "kết quả",
+   "name": "k-gyeolgwa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 40,
+   "theme": "도와 달라고 말하기",
+   "ko": "내용",
+   "vi": "cái bên trong",
+   "name": "k-naeyong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 40,
+   "theme": "도와 달라고 말하기",
+   "ko": "물론",
+   "vi": "tất nhiên, đương nhiên",
+   "name": "k-mulron",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 41,
+   "theme": "지금 하는 중",
+   "ko": "당신",
+   "vi": "ông, bà, anh, chị",
+   "name": "k-dangsin",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 41,
+   "theme": "지금 하는 중",
+   "ko": "넣다",
+   "vi": "đặt vào, để vào",
+   "name": "k-neotda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 41,
+   "theme": "지금 하는 중",
+   "ko": "느끼다",
+   "vi": "cảm thấy",
+   "name": "k-neukkida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 42,
+   "theme": "그렇지 않습니다",
+   "ko": "맵다",
+   "vi": "cay",
+   "name": "k-maepda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 42,
+   "theme": "그렇지 않습니다",
+   "ko": "담배",
+   "vi": "cây thuốc lá",
+   "name": "k-dambae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 42,
+   "theme": "그렇지 않습니다",
+   "ko": "피우다",
+   "vi": "làm nở, làm trổ",
+   "name": "k-piuda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 42,
+   "theme": "그렇지 않습니다",
+   "ko": "의미",
+   "vi": "ý nghĩa, nghĩa",
+   "name": "k-uimi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 42,
+   "theme": "그렇지 않습니다",
+   "ko": "밝히다",
+   "vi": "chiếu sáng",
+   "name": "k-balhida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 42,
+   "theme": "그렇지 않습니다",
+   "ko": "죽다",
+   "vi": "chết",
+   "name": "k-jukda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 43,
+   "theme": "해도 되는지 묻기",
+   "ko": "세우다",
+   "vi": "dựng đứng",
+   "name": "k-seuda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 43,
+   "theme": "해도 되는지 묻기",
+   "ko": "주차",
+   "vi": "(sự) đỗ xe, đậu xe",
+   "name": "k-jucha",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 43,
+   "theme": "해도 되는지 묻기",
+   "ko": "창문",
+   "vi": "cửa sổ",
+   "name": "k-changmun",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 43,
+   "theme": "해도 되는지 묻기",
+   "ko": "정치",
+   "vi": "chính trị",
+   "name": "k-jeongchi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 43,
+   "theme": "해도 되는지 묻기",
+   "ko": "국민",
+   "vi": "quốc dân, nhân dân",
+   "name": "k-gukmin",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 43,
+   "theme": "해도 되는지 묻기",
+   "ko": "얘기",
+   "vi": "câu chuyện",
+   "name": "k-yaegi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 43,
+   "theme": "해도 되는지 묻기",
+   "ko": "연구",
+   "vi": "sự nghiên cứu",
+   "name": "k-yeongu",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 44,
+   "theme": "맞지요? 하고 되묻기",
+   "ko": "주문",
+   "vi": "sự đặt hàng",
+   "name": "k-jumun",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 44,
+   "theme": "맞지요? 하고 되묻기",
+   "ko": "또한",
+   "vi": "cũng thế",
+   "name": "k-ttohan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 44,
+   "theme": "맞지요? 하고 되묻기",
+   "ko": "또는",
+   "vi": "hoặc, hay, hay là",
+   "name": "k-ttoneun",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 44,
+   "theme": "맞지요? 하고 되묻기",
+   "ko": "생기다",
+   "vi": "sinh ra, nảy sinh",
+   "name": "k-saenggida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 44,
+   "theme": "맞지요? 하고 되묻기",
+   "ko": "사용하다",
+   "vi": "sử dụng",
+   "name": "k-sayonghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 44,
+   "theme": "맞지요? 하고 되묻기",
+   "ko": "들어오다",
+   "vi": "đi vào, tiến vào",
+   "name": "k-deuleooda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 45,
+   "theme": "이랬으면 좋겠다",
+   "ko": "바라다",
+   "vi": "mong, mong cầu",
+   "name": "k-barada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 45,
+   "theme": "이랬으면 좋겠다",
+   "ko": "늘다",
+   "vi": "giãn ra, phình ra, nở ra",
+   "name": "k-neulda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 45,
+   "theme": "이랬으면 좋겠다",
+   "ko": "세상",
+   "vi": "thế gian",
+   "name": "k-sesang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 45,
+   "theme": "이랬으면 좋겠다",
+   "ko": "대학",
+   "vi": "đại học",
+   "name": "k-daehak",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 45,
+   "theme": "이랬으면 좋겠다",
+   "ko": "가운데",
+   "vi": "phần giữa, chỗ giữa",
+   "name": "k-gaunde",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 45,
+   "theme": "이랬으면 좋겠다",
+   "ko": "이후",
+   "vi": "sau này, mai đây, mai sau",
+   "name": "k-ihu",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 46,
+   "theme": "이렇게 하는 게 어때요",
+   "ko": "등산",
+   "vi": "việc leo núi, môn leo núi",
+   "name": "k-deungsan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 46,
+   "theme": "이렇게 하는 게 어때요",
+   "ko": "어때",
+   "vi": "như thế nào",
+   "name": "k-eottae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 46,
+   "theme": "이렇게 하는 게 어때요",
+   "ko": "배우",
+   "vi": "diễn viên",
+   "name": "k-baeu",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 46,
+   "theme": "이렇게 하는 게 어때요",
+   "ko": "문학",
+   "vi": "văn học",
+   "name": "k-munhak",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 46,
+   "theme": "이렇게 하는 게 어때요",
+   "ko": "높다",
+   "vi": "cao",
+   "name": "k-nopda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 46,
+   "theme": "이렇게 하는 게 어때요",
+   "ko": "최근",
+   "vi": "Gần đây",
+   "name": "k-choegeun",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 46,
+   "theme": "이렇게 하는 게 어때요",
+   "ko": "환경",
+   "vi": "môi trường",
+   "name": "k-hwangyeong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 47,
+   "theme": "들은 말 옮기기",
+   "ko": "전하다",
+   "vi": "truyền lại, lưu truyền",
+   "name": "k-jeonhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 47,
+   "theme": "들은 말 옮기기",
+   "ko": "말씀",
+   "vi": "lời",
+   "name": "k-malsseum",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 47,
+   "theme": "들은 말 옮기기",
+   "ko": "지시",
+   "vi": "sự cho xem",
+   "name": "k-jisi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 47,
+   "theme": "들은 말 옮기기",
+   "ko": "요즘",
+   "vi": "gần đây, dạo gần đây, dạo này",
+   "name": "k-yojeum",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 47,
+   "theme": "들은 말 옮기기",
+   "ko": "결혼",
+   "vi": "việc kết hôn",
+   "name": "k-gyeolhon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 47,
+   "theme": "들은 말 옮기기",
+   "ko": "자체",
+   "vi": "tự thể",
+   "name": "k-jache",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 48,
+   "theme": "아마 그런 것 같다",
+   "ko": "확실하다",
+   "vi": "xác thực, chắc chắn",
+   "name": "k-hwaksilhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 48,
+   "theme": "아마 그런 것 같다",
+   "ko": "부분",
+   "vi": "bộ phận, phần",
+   "name": "k-bubun",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 48,
+   "theme": "아마 그런 것 같다",
+   "ko": "변화",
+   "vi": "sự biến hóa, sự biến đổi, sự thay đổi",
+   "name": "k-byeonhwa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 48,
+   "theme": "아마 그런 것 같다",
+   "ko": "관하다",
+   "vi": "liên quan đến",
+   "name": "k-gwanhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 48,
+   "theme": "아마 그런 것 같다",
+   "ko": "그냥",
+   "vi": "cứ, chỉ",
+   "name": "k-geunyang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 48,
+   "theme": "아마 그런 것 같다",
+   "ko": "이용하다",
+   "vi": "sử dụng, tận dụng",
+   "name": "k-iyonghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 48,
+   "theme": "아마 그런 것 같다",
+   "ko": "거의",
+   "vi": "hầu hết, hầu như",
+   "name": "k-geoui",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 49,
+   "theme": "무엇을 하려고",
+   "ko": "시험",
+   "vi": "sự thi cử, sự kiểm tra, sự sát hạch",
+   "name": "k-siheom",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 49,
+   "theme": "무엇을 하려고",
+   "ko": "목적",
+   "vi": "mục đích",
+   "name": "k-mokjeok",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 49,
+   "theme": "무엇을 하려고",
+   "ko": "아르바이트",
+   "vi": "việc làm thêm, việc làm ngoài giờ, việc làm bán thời gian",
+   "name": "k-areubaiteu",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 49,
+   "theme": "무엇을 하려고",
+   "ko": "시작",
+   "vi": "sự bắt đầu, bước đầu",
+   "name": "k-sijak",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 49,
+   "theme": "무엇을 하려고",
+   "ko": "합격하다",
+   "vi": "đỗ, đạt (tiêu chuẩn, qui định)",
+   "name": "k-hapgyeokhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 49,
+   "theme": "무엇을 하려고",
+   "ko": "중심",
+   "vi": "trung tâm",
+   "name": "k-jungsim",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 49,
+   "theme": "무엇을 하려고",
+   "ko": "활동",
+   "vi": "hoạt động",
+   "name": "k-hwaldong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 50,
+   "theme": "해 봤더니 이렇더라",
+   "ko": "무리하다",
+   "vi": "vô lí",
+   "name": "k-murihada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 50,
+   "theme": "해 봤더니 이렇더라",
+   "ko": "다행",
+   "vi": "sự may mắn bất ngờ",
+   "name": "k-dahaeng",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 50,
+   "theme": "해 봤더니 이렇더라",
+   "ko": "시원하다",
+   "vi": "mát mẻ",
+   "name": "k-siwonhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 50,
+   "theme": "해 봤더니 이렇더라",
+   "ko": "관심",
+   "vi": "mối quan tâm",
+   "name": "k-gwansim",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 50,
+   "theme": "해 봤더니 이렇더라",
+   "ko": "역시",
+   "vi": "quả là, đúng là",
+   "name": "k-yeoksi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 50,
+   "theme": "해 봤더니 이렇더라",
+   "ko": "광고",
+   "vi": "sự quảng bá, sự quảng cáo",
+   "name": "k-gwanggo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 50,
+   "theme": "해 봤더니 이렇더라",
+   "ko": "정신",
+   "vi": "tinh thần, tâm trí, tâm linh",
+   "name": "k-jeongsin",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 50,
+   "theme": "해 봤더니 이렇더라",
+   "ko": "이루다",
+   "vi": "thực hiện",
+   "name": "k-iruda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 51,
+   "theme": "이것 말고 저것으로",
+   "ko": "대신",
+   "vi": "sự thay thế",
+   "name": "k-daesin",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 51,
+   "theme": "이것 말고 저것으로",
+   "ko": "대신하다",
+   "vi": "thay thế",
+   "name": "k-daesinhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 51,
+   "theme": "이것 말고 저것으로",
+   "ko": "청소하다",
+   "vi": "quét dọn, lau chùi, dọn dẹp",
+   "name": "k-cheongsohada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 51,
+   "theme": "이것 말고 저것으로",
+   "ko": "기술",
+   "vi": "kỹ thuật",
+   "name": "k-gisul",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 51,
+   "theme": "이것 말고 저것으로",
+   "ko": "전체",
+   "vi": "toàn thể",
+   "name": "k-jeonche",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 51,
+   "theme": "이것 말고 저것으로",
+   "ko": "얻다",
+   "vi": "nhận được, có được",
+   "name": "k-eotda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 51,
+   "theme": "이것 말고 저것으로",
+   "ko": "민족",
+   "vi": "dân tộc",
+   "name": "k-minjok",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 51,
+   "theme": "이것 말고 저것으로",
+   "ko": "조사",
+   "vi": "sự điều tra",
+   "name": "k-josa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 52,
+   "theme": "게다가 또",
+   "ko": "값",
+   "vi": "giá cả",
+   "name": "k-gap",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 52,
+   "theme": "게다가 또",
+   "ko": "그대로",
+   "vi": "y vậy, y nguyên",
+   "name": "k-geudaero",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 52,
+   "theme": "게다가 또",
+   "ko": "년대",
+   "vi": "thập niên, thập kỷ",
+   "name": "k-nyeondae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 52,
+   "theme": "게다가 또",
+   "ko": "과학",
+   "vi": "khoa học",
+   "name": "k-gwahak",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 52,
+   "theme": "게다가 또",
+   "ko": "자연",
+   "vi": "tự nhiên, thiên nhiên",
+   "name": "k-jayeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 52,
+   "theme": "게다가 또",
+   "ko": "결국",
+   "vi": "đoạn kết, phần kết, sự kết thúc",
+   "name": "k-gyeolguk",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 53,
+   "theme": "하자마자 바로",
+   "ko": "이루어지다",
+   "vi": "được thực hiện",
+   "name": "k-irueojida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 53,
+   "theme": "하자마자 바로",
+   "ko": "걸리다",
+   "vi": "được mắc, được treo",
+   "name": "k-geolrida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 53,
+   "theme": "하자마자 바로",
+   "ko": "바라보다",
+   "vi": "nhìn thẳng",
+   "name": "k-baraboda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 53,
+   "theme": "하자마자 바로",
+   "ko": "대부분",
+   "vi": "đại bộ phận, đại đa số",
+   "name": "k-daebubun",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 53,
+   "theme": "하자마자 바로",
+   "ko": "표정",
+   "vi": "sự biểu lộ, vẻ mặt",
+   "name": "k-pyojeong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 53,
+   "theme": "하자마자 바로",
+   "ko": "일부",
+   "vi": "một phần",
+   "name": "k-ilbu",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 53,
+   "theme": "하자마자 바로",
+   "ko": "느낌",
+   "vi": "cảm giác, sự cảm nhận",
+   "name": "k-neukkim",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 54,
+   "theme": "먼저 하고 그다음",
+   "ko": "나서다",
+   "vi": "đứng ra, xuất hiện",
+   "name": "k-naseoda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 54,
+   "theme": "먼저 하고 그다음",
+   "ko": "양파",
+   "vi": "hành Tây",
+   "name": "k-yangpa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 54,
+   "theme": "먼저 하고 그다음",
+   "ko": "고기",
+   "vi": "thịt",
+   "name": "k-gogi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 54,
+   "theme": "먼저 하고 그다음",
+   "ko": "연락",
+   "vi": "sự liên lạc",
+   "name": "k-yeonrak",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 54,
+   "theme": "먼저 하고 그다음",
+   "ko": "고개",
+   "vi": "cổ, gáy",
+   "name": "k-gogae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 54,
+   "theme": "먼저 하고 그다음",
+   "ko": "세기",
+   "vi": "thế kỷ",
+   "name": "k-segi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 54,
+   "theme": "먼저 하고 그다음",
+   "ko": "현재",
+   "vi": "hiện tại",
+   "name": "k-hyeonjae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 55,
+   "theme": "어느새 그렇게 되다",
+   "ko": "달라지다",
+   "vi": "trở nên khác, khác đi, đổi khác",
+   "name": "k-dalrajida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 55,
+   "theme": "어느새 그렇게 되다",
+   "ko": "소개",
+   "vi": "sự giới thiệu",
+   "name": "k-sogae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 55,
+   "theme": "어느새 그렇게 되다",
+   "ko": "다니다",
+   "vi": "lui tới",
+   "name": "k-danida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 55,
+   "theme": "어느새 그렇게 되다",
+   "ko": "연습",
+   "vi": "luyện tập, thực tập, thực hành, rèn luyện",
+   "name": "k-yeonseup",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 55,
+   "theme": "어느새 그렇게 되다",
+   "ko": "발전",
+   "vi": "sự phát triển",
+   "name": "k-baljeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 55,
+   "theme": "어느새 그렇게 되다",
+   "ko": "향하다",
+   "vi": "hướng về, nhìn về",
+   "name": "k-hyanghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 55,
+   "theme": "어느새 그렇게 되다",
+   "ko": "관련",
+   "vi": "sự liên quan",
+   "name": "k-gwanryeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 55,
+   "theme": "어느새 그렇게 되다",
+   "ko": "분위기",
+   "vi": "bầu không khí",
+   "name": "k-bunwigi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 55,
+   "theme": "어느새 그렇게 되다",
+   "ko": "그러하다",
+   "vi": "như thế, như vậy",
+   "name": "k-geureohada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 56,
+   "theme": "그러려면 이게 필요하다",
+   "ko": "준비하다",
+   "vi": "chuẩn bị",
+   "name": "k-junbihada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 56,
+   "theme": "그러려면 이게 필요하다",
+   "ko": "연장",
+   "vi": "sự gia hạn, sự thêm, sự tăng cường thêm",
+   "name": "k-yeonjang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 56,
+   "theme": "그러려면 이게 필요하다",
+   "ko": "필요",
+   "vi": "sự tất yếu",
+   "name": "k-pilyo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 56,
+   "theme": "그러려면 이게 필요하다",
+   "ko": "꾸준히",
+   "vi": "đều đặn",
+   "name": "k-kkujunhi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 56,
+   "theme": "그러려면 이게 필요하다",
+   "ko": "믿다",
+   "vi": "tin",
+   "name": "k-mitda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 56,
+   "theme": "그러려면 이게 필요하다",
+   "ko": "낳다",
+   "vi": "sinh, đẻ",
+   "name": "k-natda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 56,
+   "theme": "그러려면 이게 필요하다",
+   "ko": "정보",
+   "vi": "thông tin",
+   "name": "k-jeongbo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 57,
+   "theme": "한쪽은 이렇고 다른 쪽은",
+   "ko": "반면",
+   "vi": "ngược lại, trái lại",
+   "name": "k-banmyeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 57,
+   "theme": "한쪽은 이렇고 다른 쪽은",
+   "ko": "힘들어하다",
+   "vi": "cảm thấy vất vả, tỏ ra mệt mỏi",
+   "name": "k-himdeuleohada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 57,
+   "theme": "한쪽은 이렇고 다른 쪽은",
+   "ko": "동네",
+   "vi": "làng xóm, thôn xóm, khu phố",
+   "name": "k-dongne",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 57,
+   "theme": "한쪽은 이렇고 다른 쪽은",
+   "ko": "교통",
+   "vi": "giao thông",
+   "name": "k-gyotong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 57,
+   "theme": "한쪽은 이렇고 다른 쪽은",
+   "ko": "불편",
+   "vi": "sự bất tiện",
+   "name": "k-bulpyeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 57,
+   "theme": "한쪽은 이렇고 다른 쪽은",
+   "ko": "활발하다",
+   "vi": "hoạt bát",
+   "name": "k-hwalbalhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 57,
+   "theme": "한쪽은 이렇고 다른 쪽은",
+   "ko": "역할",
+   "vi": "vai trò, nhiệm vụ",
+   "name": "k-yeokhal",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 57,
+   "theme": "한쪽은 이렇고 다른 쪽은",
+   "ko": "행동",
+   "vi": "(sự) hành động",
+   "name": "k-haengdong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 57,
+   "theme": "한쪽은 이렇고 다른 쪽은",
+   "ko": "국내",
+   "vi": "quốc nội, trong nước, nội địa",
+   "name": "k-guknae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 58,
+   "theme": "예전에 그랬던",
+   "ko": "그립다",
+   "vi": "mong nhớ, nhớ nhung",
+   "name": "k-geuripda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 58,
+   "theme": "예전에 그랬던",
+   "ko": "어리다",
+   "vi": "nhỏ tuổi, ít tuổi, trẻ",
+   "name": "k-eorida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 58,
+   "theme": "예전에 그랬던",
+   "ko": "과자",
+   "vi": "bánh ngọt, bánh quy",
+   "name": "k-gwaja",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 58,
+   "theme": "예전에 그랬던",
+   "ko": "작년",
+   "vi": "năm rồi, năm ngoái, năm trước",
+   "name": "k-jaknyeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 58,
+   "theme": "예전에 그랬던",
+   "ko": "깊다",
+   "vi": "sâu",
+   "name": "k-gipda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 58,
+   "theme": "예전에 그랬던",
+   "ko": "모양",
+   "vi": "hình ảnh, bóng dáng",
+   "name": "k-moyang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 58,
+   "theme": "예전에 그랬던",
+   "ko": "조건",
+   "vi": "điều kiện",
+   "name": "k-jogeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 58,
+   "theme": "예전에 그랬던",
+   "ko": "넘다",
+   "vi": "qua, vượt qua",
+   "name": "k-neomda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 59,
+   "theme": "가는 김에 하나 더",
+   "ko": "편지",
+   "vi": "bức thư",
+   "name": "k-pyeonji",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 59,
+   "theme": "가는 김에 하나 더",
+   "ko": "마을",
+   "vi": "làng",
+   "name": "k-maeul",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 59,
+   "theme": "가는 김에 하나 더",
+   "ko": "대표",
+   "vi": "cái tiêu biểu",
+   "name": "k-daepyo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 59,
+   "theme": "가는 김에 하나 더",
+   "ko": "가능성",
+   "vi": "tính khả thi",
+   "name": "k-ganeungseong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 59,
+   "theme": "가는 김에 하나 더",
+   "ko": "방향",
+   "vi": "phương hướng",
+   "name": "k-banghyang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 59,
+   "theme": "가는 김에 하나 더",
+   "ko": "대회",
+   "vi": "đại hội",
+   "name": "k-daehoe",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 59,
+   "theme": "가는 김에 하나 더",
+   "ko": "목소리",
+   "vi": "giọng nói, tiếng nói",
+   "name": "k-moksori",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 60,
+   "theme": "그뿐 아니라 또",
+   "ko": "과일",
+   "vi": "trái cây, hoa quả",
+   "name": "k-gwail",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 60,
+   "theme": "그뿐 아니라 또",
+   "ko": "몸",
+   "vi": "cơ thể, thân thể",
+   "name": "k-mom",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 60,
+   "theme": "그뿐 아니라 또",
+   "ko": "영어",
+   "vi": "tiếng Anh",
+   "name": "k-yeongeo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 60,
+   "theme": "그뿐 아니라 또",
+   "ko": "튼튼하다",
+   "vi": "rắn chắc, vững chắc",
+   "name": "k-teunteunhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 60,
+   "theme": "그뿐 아니라 또",
+   "ko": "움직이다",
+   "vi": "động đậy, cựa quậy, nhúc nhích",
+   "name": "k-umjikida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 60,
+   "theme": "그뿐 아니라 또",
+   "ko": "노력",
+   "vi": "sự cố gắng, sự nỗ lực",
+   "name": "k-noryeok",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 60,
+   "theme": "그뿐 아니라 또",
+   "ko": "전혀",
+   "vi": "hoàn toàn",
+   "name": "k-jeonhyeo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 60,
+   "theme": "그뿐 아니라 또",
+   "ko": "단체",
+   "vi": "tổ chức",
+   "name": "k-danche",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 61,
+   "theme": "그럴까 봐 걱정",
+   "ko": "막히다",
+   "vi": "bị chặn, bị ngăn, bị bịt",
+   "name": "k-makhida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 61,
+   "theme": "그럴까 봐 걱정",
+   "ko": "걱정",
+   "vi": "nỗi lo",
+   "name": "k-geokjeong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 61,
+   "theme": "그럴까 봐 걱정",
+   "ko": "길이",
+   "vi": "chiều dài",
+   "name": "k-gili",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 61,
+   "theme": "그럴까 봐 걱정",
+   "ko": "출발",
+   "vi": "sự khởi hành",
+   "name": "k-chulbal",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 61,
+   "theme": "그럴까 봐 걱정",
+   "ko": "알려지다",
+   "vi": "được biết",
+   "name": "k-alryeojida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 61,
+   "theme": "그럴까 봐 걱정",
+   "ko": "가능하다",
+   "vi": "khả dĩ, có thể",
+   "name": "k-ganeunghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 61,
+   "theme": "그럴까 봐 걱정",
+   "ko": "능력",
+   "vi": "khả năng, năng lực",
+   "name": "k-neungryeok",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 61,
+   "theme": "그럴까 봐 걱정",
+   "ko": "주장하다",
+   "vi": "chủ trương, khẳng định",
+   "name": "k-jujanghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 62,
+   "theme": "할수록 더",
+   "ko": "돌리다",
+   "vi": "xoay",
+   "name": "k-dolrida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 62,
+   "theme": "할수록 더",
+   "ko": "사업",
+   "vi": "việc làm ăn kinh doanh",
+   "name": "k-saeop",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 62,
+   "theme": "할수록 더",
+   "ko": "지난해",
+   "vi": "năm rồi, năm ngoái, năm trước",
+   "name": "k-jinanhae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 62,
+   "theme": "할수록 더",
+   "ko": "표현",
+   "vi": "sự biểu hiện, sự thể hiện",
+   "name": "k-pyohyeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 62,
+   "theme": "할수록 더",
+   "ko": "젊다",
+   "vi": "trẻ",
+   "name": "k-jeolda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 62,
+   "theme": "할수록 더",
+   "ko": "동시",
+   "vi": "đồng thời, cùng một lúc",
+   "name": "k-dongsi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 62,
+   "theme": "할수록 더",
+   "ko": "순간",
+   "vi": "khoảnh khắc, thoáng chốc, chốc lát",
+   "name": "k-sungan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 62,
+   "theme": "할수록 더",
+   "ko": "전쟁",
+   "vi": "chiến tranh",
+   "name": "k-jeonjaeng",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 63,
+   "theme": "조금씩 되어 가는 중",
+   "ko": "적응하다",
+   "vi": "thích ứng",
+   "name": "k-jeokeunghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 63,
+   "theme": "조금씩 되어 가는 중",
+   "ko": "적응",
+   "vi": "sự thích ứng",
+   "name": "k-jeokeung",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 63,
+   "theme": "조금씩 되어 가는 중",
+   "ko": "실력",
+   "vi": "thực lực",
+   "name": "k-silryeok",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 63,
+   "theme": "조금씩 되어 가는 중",
+   "ko": "점점",
+   "vi": "dần dần, dần",
+   "name": "k-jeomjeom",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 63,
+   "theme": "조금씩 되어 가는 중",
+   "ko": "그녀",
+   "vi": "cô ấy, bà ấy",
+   "name": "k-geunyeo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 63,
+   "theme": "조금씩 되어 가는 중",
+   "ko": "그러다",
+   "vi": "làm như vậy thì",
+   "name": "k-geureoda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 63,
+   "theme": "조금씩 되어 가는 중",
+   "ko": "정부",
+   "vi": "chính phủ",
+   "name": "k-jeongbu",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 63,
+   "theme": "조금씩 되어 가는 중",
+   "ko": "과정",
+   "vi": "quá trình",
+   "name": "k-gwajeong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 63,
+   "theme": "조금씩 되어 가는 중",
+   "ko": "생명",
+   "vi": "sinh mệnh, sinh mạng, mạng sống",
+   "name": "k-saengmyeong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 64,
+   "theme": "그럴수록 이렇게",
+   "ko": "물가",
+   "vi": "vật giá",
+   "name": "k-mulga",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 64,
+   "theme": "그럴수록 이렇게",
+   "ko": "저축",
+   "vi": "sự tiết kiệm",
+   "name": "k-jeochuk",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 64,
+   "theme": "그럴수록 이렇게",
+   "ko": "줄이다",
+   "vi": "làm giảm, rút ngắn, thu nhỏ",
+   "name": "k-julida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 64,
+   "theme": "그럴수록 이렇게",
+   "ko": "수입",
+   "vi": "thu nhập",
+   "name": "k-suip",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 64,
+   "theme": "그럴수록 이렇게",
+   "ko": "사건",
+   "vi": "sự kiện",
+   "name": "k-sageon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 64,
+   "theme": "그럴수록 이렇게",
+   "ko": "작품",
+   "vi": "tác phẩm",
+   "name": "k-jakpum",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 64,
+   "theme": "그럴수록 이렇게",
+   "ko": "상황",
+   "vi": "tình hình, tình huống, hoàn cảnh",
+   "name": "k-sanghwang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 64,
+   "theme": "그럴수록 이렇게",
+   "ko": "따라서",
+   "vi": "theo đó, do đó",
+   "name": "k-ttaraseo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 64,
+   "theme": "그럴수록 이렇게",
+   "ko": "상태",
+   "vi": "trạng thái, tình hình, hiện trạng",
+   "name": "k-sangtae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 65,
+   "theme": "남을 그렇게 만들다",
+   "ko": "시키다",
+   "vi": "bắt, sai khiến, sai bảo",
+   "name": "k-sikida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 65,
+   "theme": "남을 그렇게 만들다",
+   "ko": "유학",
+   "vi": "sự du học",
+   "name": "k-yuhak",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 65,
+   "theme": "남을 그렇게 만들다",
+   "ko": "당시",
+   "vi": "lúc đó, thời đó, đương thời",
+   "name": "k-dangsi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 65,
+   "theme": "남을 그렇게 만들다",
+   "ko": "더욱",
+   "vi": "hơn nữa, càng",
+   "name": "k-deouk",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 65,
+   "theme": "남을 그렇게 만들다",
+   "ko": "현실",
+   "vi": "hiện thực",
+   "name": "k-hyeonsil",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 65,
+   "theme": "남을 그렇게 만들다",
+   "ko": "기업",
+   "vi": "doanh nghiệp",
+   "name": "k-gieop",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 65,
+   "theme": "남을 그렇게 만들다",
+   "ko": "선거",
+   "vi": "cuộc tuyển cử, cuộc bầu cử",
+   "name": "k-seongeo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 65,
+   "theme": "남을 그렇게 만들다",
+   "ko": "현상",
+   "vi": "hiện tượng",
+   "name": "k-hyeonsang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 65,
+   "theme": "남을 그렇게 만들다",
+   "ko": "듯하다",
+   "vi": "chắc, có lẽ",
+   "name": "k-deuthada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 66,
+   "theme": "원래 그런 법",
+   "ko": "실수",
+   "vi": "sự sai sót, sự sơ xuất, sự sai lầm",
+   "name": "k-silsu",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 66,
+   "theme": "원래 그런 법",
+   "ko": "실수하다",
+   "vi": "sai sót, sơ xuất",
+   "name": "k-silsuhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 66,
+   "theme": "원래 그런 법",
+   "ko": "마련",
+   "vi": "đương nhiên, hiển nhiên",
+   "name": "k-maryeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 66,
+   "theme": "원래 그런 법",
+   "ko": "마련하다",
+   "vi": "chuẩn bị",
+   "name": "k-maryeonhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 66,
+   "theme": "원래 그런 법",
+   "ko": "구조",
+   "vi": "cơ cấu, cấu tạo",
+   "name": "k-gujo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 66,
+   "theme": "원래 그런 법",
+   "ko": "오히려",
+   "vi": "ngược lại, trái lại",
+   "name": "k-ohiryeo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 66,
+   "theme": "원래 그런 법",
+   "ko": "의식",
+   "vi": "sự ý thức",
+   "name": "k-uisik",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 66,
+   "theme": "원래 그런 법",
+   "ko": "산업",
+   "vi": "công nghiệp",
+   "name": "k-saneop",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 67,
+   "theme": "누가 했는지보다 무엇이 되었는지",
+   "ko": "형태",
+   "vi": "hình thức, hình dáng, kiểu dáng",
+   "name": "k-hyeongtae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 67,
+   "theme": "누가 했는지보다 무엇이 되었는지",
+   "ko": "작업",
+   "vi": "sự tác nghiệp",
+   "name": "k-jakeop",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 67,
+   "theme": "누가 했는지보다 무엇이 되었는지",
+   "ko": "비하다",
+   "vi": "so sánh",
+   "name": "k-bihada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 67,
+   "theme": "누가 했는지보다 무엇이 되었는지",
+   "ko": "기관",
+   "vi": "động cơ, máy",
+   "name": "k-gigwan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 67,
+   "theme": "누가 했는지보다 무엇이 되었는지",
+   "ko": "입장",
+   "vi": "lập trường",
+   "name": "k-ipjang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 67,
+   "theme": "누가 했는지보다 무엇이 되었는지",
+   "ko": "만하다",
+   "vi": "đáng, đáng để",
+   "name": "k-manhada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 67,
+   "theme": "누가 했는지보다 무엇이 되었는지",
+   "ko": "방식",
+   "vi": "phương thức",
+   "name": "k-bangsik",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 67,
+   "theme": "누가 했는지보다 무엇이 되었는지",
+   "ko": "영향",
+   "vi": "sự ảnh hưởng",
+   "name": "k-yeonghyang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 68,
+   "theme": "공식 문서의 이유",
+   "ko": "행사",
+   "vi": "sự kiện, buổi lễ, việc tổ chức sự kiện",
+   "name": "k-haengsa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 68,
+   "theme": "공식 문서의 이유",
+   "ko": "취소하다",
+   "vi": "hủy bỏ",
+   "name": "k-chwisohada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 68,
+   "theme": "공식 문서의 이유",
+   "ko": "안내",
+   "vi": "sự hướng dẫn",
+   "name": "k-annae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 68,
+   "theme": "공식 문서의 이유",
+   "ko": "취소",
+   "vi": "sự hủy bỏ",
+   "name": "k-chwiso",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 68,
+   "theme": "공식 문서의 이유",
+   "ko": "부작용",
+   "vi": "tác dụng phụ, hệ quả không mong muốn",
+   "name": "k-bujakyong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 68,
+   "theme": "공식 문서의 이유",
+   "ko": "신청",
+   "vi": "việc đăng kí",
+   "name": "k-sincheong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 68,
+   "theme": "공식 문서의 이유",
+   "ko": "단계",
+   "vi": "bước, giai đoạn",
+   "name": "k-dangye",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 68,
+   "theme": "공식 문서의 이유",
+   "ko": "올리다",
+   "vi": "đưa lên, nâng lên, tăng lên",
+   "name": "k-olrida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 69,
+   "theme": "자칫하면 그리 된다",
+   "ko": "체하다",
+   "vi": "đầy bụng, khó tiêu",
+   "name": "k-chehada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 69,
+   "theme": "자칫하면 그리 된다",
+   "ko": "그렇게",
+   "vi": "như thế, như vậy",
+   "name": "k-geureotge",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 69,
+   "theme": "자칫하면 그리 된다",
+   "ko": "무리",
+   "vi": "sự quá sức, sự quá mức",
+   "name": "k-muri",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 69,
+   "theme": "자칫하면 그리 된다",
+   "ko": "눈길",
+   "vi": "ánh mắt",
+   "name": "k-nungil",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 69,
+   "theme": "자칫하면 그리 된다",
+   "ko": "넘어지다",
+   "vi": "ngã, đổ",
+   "name": "k-neomeojida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 69,
+   "theme": "자칫하면 그리 된다",
+   "ko": "교사",
+   "vi": "giáo viên",
+   "name": "k-gyosa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 69,
+   "theme": "자칫하면 그리 된다",
+   "ko": "지니다",
+   "vi": "giữ gìn, bảo quản",
+   "name": "k-jinida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 69,
+   "theme": "자칫하면 그리 된다",
+   "ko": "의원",
+   "vi": "nghị sĩ, đại biểu Quốc hội",
+   "name": "k-uiwon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 69,
+   "theme": "자칫하면 그리 된다",
+   "ko": "주민",
+   "vi": "cư dân",
+   "name": "k-jumin",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 70,
+   "theme": "그렇게 하라는 말",
+   "ko": "규칙",
+   "vi": "quy tắc",
+   "name": "k-gyuchik",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 70,
+   "theme": "그렇게 하라는 말",
+   "ko": "존재",
+   "vi": "sự tồn tại, đối tượng",
+   "name": "k-jonjae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 70,
+   "theme": "그렇게 하라는 말",
+   "ko": "분야",
+   "vi": "lĩnh vực",
+   "name": "k-bunya",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 70,
+   "theme": "그렇게 하라는 말",
+   "ko": "행위",
+   "vi": "hành vi",
+   "name": "k-haengwi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 70,
+   "theme": "그렇게 하라는 말",
+   "ko": "수준",
+   "vi": "trình độ, tiêu chuẩn",
+   "name": "k-sujun",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 70,
+   "theme": "그렇게 하라는 말",
+   "ko": "방송",
+   "vi": "việc phát sóng",
+   "name": "k-bangsong",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 70,
+   "theme": "그렇게 하라는 말",
+   "ko": "연극",
+   "vi": "sự diễn kịch",
+   "name": "k-yeongeuk",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 70,
+   "theme": "그렇게 하라는 말",
+   "ko": "마찬가지",
+   "vi": "sự giống nhau",
+   "name": "k-machangaji",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 71,
+   "theme": "그 바람에 일이 틀어졌다",
+   "ko": "설명하다",
+   "vi": "giải thích",
+   "name": "k-seolmyeonghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 71,
+   "theme": "그 바람에 일이 틀어졌다",
+   "ko": "갑자기",
+   "vi": "đột ngột, bất thình lình, bỗng nhiên",
+   "name": "k-gapjagi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 71,
+   "theme": "그 바람에 일이 틀어졌다",
+   "ko": "가치",
+   "vi": "giá trị",
+   "name": "k-gachi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 71,
+   "theme": "그 바람에 일이 틀어졌다",
+   "ko": "집단",
+   "vi": "tập đoàn, nhóm, bầy đàn",
+   "name": "k-jipdan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 71,
+   "theme": "그 바람에 일이 틀어졌다",
+   "ko": "현대",
+   "vi": "hiện đại",
+   "name": "k-hyeondae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 71,
+   "theme": "그 바람에 일이 틀어졌다",
+   "ko": "살펴보다",
+   "vi": "soi xét",
+   "name": "k-salpyeoboda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 71,
+   "theme": "그 바람에 일이 틀어졌다",
+   "ko": "장관",
+   "vi": "bộ trưởng",
+   "name": "k-janggwan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 71,
+   "theme": "그 바람에 일이 틀어졌다",
+   "ko": "차이",
+   "vi": "sư khác biệt; độ chênh lệch",
+   "name": "k-chai",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 71,
+   "theme": "그 바람에 일이 틀어졌다",
+   "ko": "풀다",
+   "vi": "cởi, tháo, mở",
+   "name": "k-pulda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 71,
+   "theme": "그 바람에 일이 틀어졌다",
+   "ko": "시절",
+   "vi": "thời, thời kỳ",
+   "name": "k-sijeol",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 72,
+   "theme": "따지고 보면",
+   "ko": "고생하다",
+   "vi": "khổ sở, vất vả, nhọc công",
+   "name": "k-gosaenghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 72,
+   "theme": "따지고 보면",
+   "ko": "자주",
+   "vi": "thường xuyên, hay",
+   "name": "k-jaju",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 72,
+   "theme": "따지고 보면",
+   "ko": "직접",
+   "vi": "trực tiếp",
+   "name": "k-jikjeop",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 72,
+   "theme": "따지고 보면",
+   "ko": "개인",
+   "vi": "cá nhân",
+   "name": "k-gaein",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 72,
+   "theme": "따지고 보면",
+   "ko": "근데",
+   "vi": "thế nhưng",
+   "name": "k-geunde",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 72,
+   "theme": "따지고 보면",
+   "ko": "작가",
+   "vi": "tác giả",
+   "name": "k-jakga",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 72,
+   "theme": "따지고 보면",
+   "ko": "효과",
+   "vi": "hiệu quả",
+   "name": "k-hyogwa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 72,
+   "theme": "따지고 보면",
+   "ko": "불교",
+   "vi": "Phật giáo",
+   "name": "k-bulgyo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 72,
+   "theme": "따지고 보면",
+   "ko": "끌다",
+   "vi": "lê, lết, kéo lê",
+   "name": "k-kkeulda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 72,
+   "theme": "따지고 보면",
+   "ko": "대로",
+   "vi": "giống như",
+   "name": "k-daero",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 73,
+   "theme": "그렇게 함으로써",
+   "ko": "서로",
+   "vi": "nhau, lẫn nhau",
+   "name": "k-seoro",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 73,
+   "theme": "그렇게 함으로써",
+   "ko": "대화",
+   "vi": "sự đối thoại, cuộc đối thoại",
+   "name": "k-daehwa",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 73,
+   "theme": "그렇게 함으로써",
+   "ko": "오해",
+   "vi": "sự hiểu lầm, sự hiểu sai",
+   "name": "k-ohae",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 73,
+   "theme": "그렇게 함으로써",
+   "ko": "우주",
+   "vi": "vũ trụ",
+   "name": "k-uju",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 73,
+   "theme": "그렇게 함으로써",
+   "ko": "마치",
+   "vi": "hệt như",
+   "name": "k-machi",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 73,
+   "theme": "그렇게 함으로써",
+   "ko": "생산",
+   "vi": "việc sản xuất",
+   "name": "k-saengsan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 73,
+   "theme": "그렇게 함으로써",
+   "ko": "강하다",
+   "vi": "cứng, rắn, chắc",
+   "name": "k-ganghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 74,
+   "theme": "그런 한에서는",
+   "ko": "한계",
+   "vi": "sự giới hạn, hạn mức",
+   "name": "k-hangye",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 74,
+   "theme": "그런 한에서는",
+   "ko": "최고",
+   "vi": "tối cao",
+   "name": "k-choego",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 74,
+   "theme": "그런 한에서는",
+   "ko": "나타내다",
+   "vi": "xuất hiện, thể hiện",
+   "name": "k-natanaeda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 74,
+   "theme": "그런 한에서는",
+   "ko": "다양하다",
+   "vi": "đa dạng",
+   "name": "k-dayanghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 74,
+   "theme": "그런 한에서는",
+   "ko": "농민",
+   "vi": "nông dân",
+   "name": "k-nongmin",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 74,
+   "theme": "그런 한에서는",
+   "ko": "드러나다",
+   "vi": "hiện ra, thể hiện",
+   "name": "k-deureonada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 74,
+   "theme": "그런 한에서는",
+   "ko": "소설",
+   "vi": "tiểu thuyết",
+   "name": "k-soseol",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 74,
+   "theme": "그런 한에서는",
+   "ko": "질서",
+   "vi": "trật tự",
+   "name": "k-jilseo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 74,
+   "theme": "그런 한에서는",
+   "ko": "담다",
+   "vi": "đựng, chứa",
+   "name": "k-damda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 75,
+   "theme": "반드시 해야 한다",
+   "ko": "내지",
+   "vi": "khoảng… đến",
+   "name": "k-naeji",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 75,
+   "theme": "반드시 해야 한다",
+   "ko": "모이다",
+   "vi": "tập hợp, gom lại",
+   "name": "k-moida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 75,
+   "theme": "반드시 해야 한다",
+   "ko": "시민",
+   "vi": "thị dân, dân thành thị",
+   "name": "k-simin",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 75,
+   "theme": "반드시 해야 한다",
+   "ko": "회장",
+   "vi": "chủ tịch hội, hội trưởng",
+   "name": "k-hoejang",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 75,
+   "theme": "반드시 해야 한다",
+   "ko": "스스로",
+   "vi": "tự mình",
+   "name": "k-seuseuro",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 75,
+   "theme": "반드시 해야 한다",
+   "ko": "이날",
+   "vi": "ngày này",
+   "name": "k-inal",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 75,
+   "theme": "반드시 해야 한다",
+   "ko": "제대로",
+   "vi": "đúng mực, đúng chuẩn, đúng kiểu",
+   "name": "k-jedaero",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 75,
+   "theme": "반드시 해야 한다",
+   "ko": "던지다",
+   "vi": "ném",
+   "name": "k-deonjida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 75,
+   "theme": "반드시 해야 한다",
+   "ko": "공간",
+   "vi": "không gian",
+   "name": "k-gonggan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 76,
+   "theme": "이런 것도 저런 것도",
+   "ko": "벌이다",
+   "vi": "vào việc, bắt đầu",
+   "name": "k-beolida",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 76,
+   "theme": "이런 것도 저런 것도",
+   "ko": "자세",
+   "vi": "tư thế",
+   "name": "k-jase",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 76,
+   "theme": "이런 것도 저런 것도",
+   "ko": "강조하다",
+   "vi": "khẳng định, nhấn mạnh",
+   "name": "k-gangjohada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 76,
+   "theme": "이런 것도 저런 것도",
+   "ko": "맡다",
+   "vi": "đảm nhiệm, đảm đương",
+   "name": "k-matda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 76,
+   "theme": "이런 것도 저런 것도",
+   "ko": "한편",
+   "vi": "mặt khác",
+   "name": "k-hanpyeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 76,
+   "theme": "이런 것도 저런 것도",
+   "ko": "기자",
+   "vi": "ký giả, nhà báo, phóng viên",
+   "name": "k-gija",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 76,
+   "theme": "이런 것도 저런 것도",
+   "ko": "주로",
+   "vi": "chủ yếu",
+   "name": "k-juro",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 76,
+   "theme": "이런 것도 저런 것도",
+   "ko": "훨씬",
+   "vi": "hơn hẳn, rất",
+   "name": "k-hwolssin",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 77,
+   "theme": "그럴 바에는 차라리",
+   "ko": "차라리",
+   "vi": "thà rằng~ còn hơn",
+   "name": "k-charari",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 77,
+   "theme": "그럴 바에는 차라리",
+   "ko": "복잡하다",
+   "vi": "phức tạp, rắc rối",
+   "name": "k-bokjaphada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 77,
+   "theme": "그럴 바에는 차라리",
+   "ko": "통일",
+   "vi": "sự thống nhất",
+   "name": "k-tongil",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 77,
+   "theme": "그럴 바에는 차라리",
+   "ko": "들어서다",
+   "vi": "bước vào",
+   "name": "k-deuleoseoda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 77,
+   "theme": "그럴 바에는 차라리",
+   "ko": "시설",
+   "vi": "công trình, trang thiết bị, việc lắp đặt công trình, việc xây dựng công trình",
+   "name": "k-siseol",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 77,
+   "theme": "그럴 바에는 차라리",
+   "ko": "주변",
+   "vi": "xung quanh",
+   "name": "k-jubyeon",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 77,
+   "theme": "그럴 바에는 차라리",
+   "ko": "원인",
+   "vi": "nguyên nhân",
+   "name": "k-wonin",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 77,
+   "theme": "그럴 바에는 차라리",
+   "ko": "차례",
+   "vi": "Cha-re; thứ tự, lượt",
+   "name": "k-charye",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 78,
+   "theme": "끝내 해내겠다",
+   "ko": "성공하다",
+   "vi": "thành công",
+   "name": "k-seonggonghada",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 78,
+   "theme": "끝내 해내겠다",
+   "ko": "소식",
+   "vi": "tin tức",
+   "name": "k-sosik",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 78,
+   "theme": "끝내 해내겠다",
+   "ko": "재산",
+   "vi": "tài sản",
+   "name": "k-jaesan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 78,
+   "theme": "끝내 해내겠다",
+   "ko": "약간",
+   "vi": "hơi, chút ít, chút đỉnh",
+   "name": "k-yakgan",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 78,
+   "theme": "끝내 해내겠다",
+   "ko": "언어",
+   "vi": "ngôn ngữ",
+   "name": "k-eoneo",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 78,
+   "theme": "끝내 해내겠다",
+   "ko": "감독",
+   "vi": "sự giám sát",
+   "name": "k-gamdok",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 78,
+   "theme": "끝내 해내겠다",
+   "ko": "삼다",
+   "vi": "lấy làm",
+   "name": "k-samda",
+   "exists": true
+  },
+  {
+   "course": "ko",
+   "day": 78,
+   "theme": "끝내 해내겠다",
+   "ko": "기간",
+   "vi": "thời gian, khoảng thời gian",
+   "name": "k-gigan",
+   "exists": true
+  },
+  {
+   "course": "vi",
+   "day": 1,
+   "theme": "인사와 호칭",
+   "ko": "(공손하게)",
+   "vi": "ạ",
+   "name": "x-a",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 2,
+   "theme": "이름 묻고 답하기",
+   "ko": "~이다",
+   "vi": "là",
+   "name": "x-la",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 2,
+   "theme": "이름 묻고 답하기",
+   "ko": "~의",
+   "vi": "của",
+   "name": "x-cua",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 6,
+   "theme": "헤어질 때",
+   "ko": "~할게요 (부드럽게)",
+   "vi": "nhé",
+   "name": "x-nhe",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 8.5,
+   "theme": "세는 말과 물건",
+   "ko": "장갑",
+   "vi": "găng tay",
+   "name": "x-gang-tay",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 27,
+   "theme": "안전",
+   "ko": "~해야 한다",
+   "vi": "phải",
+   "name": "x-phai",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 43.5,
+   "theme": "색과 무늬",
+   "ko": "하늘색",
+   "vi": "xanh da trời",
+   "name": "x-xanh-da-troi",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 43.5,
+   "theme": "색과 무늬",
+   "ko": "바다색·남색",
+   "vi": "xanh nước biển",
+   "name": "x-xanh-nuoc-bien",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 43.5,
+   "theme": "색과 무늬",
+   "ko": "초록색",
+   "vi": "xanh lá cây",
+   "name": "x-xanh-la-cay",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 43.5,
+   "theme": "색과 무늬",
+   "ko": "주황색",
+   "vi": "da cam",
+   "name": "x-da-cam",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 43.5,
+   "theme": "색과 무늬",
+   "ko": "회색",
+   "vi": "xám",
+   "name": "x-xam",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 43.5,
+   "theme": "색과 무늬",
+   "ko": "색깔",
+   "vi": "màu sắc",
+   "name": "x-mau-sac",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 43.5,
+   "theme": "색과 무늬",
+   "ko": "무늬",
+   "vi": "hoa văn",
+   "name": "x-hoa-van",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 43.5,
+   "theme": "색과 무늬",
+   "ko": "줄무늬",
+   "vi": "kẻ sọc",
+   "name": "x-ke-soc",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 43.5,
+   "theme": "색과 무늬",
+   "ko": "투명하다",
+   "vi": "trong suốt",
+   "name": "x-trong-suot",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 43.5,
+   "theme": "색과 무늬",
+   "ko": "동그라미·원",
+   "vi": "hình tròn",
+   "name": "x-hinh-tron",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 75,
+   "theme": "맞장구와 리액션",
+   "ko": "아하·~예요?",
+   "vi": "à",
+   "name": "x-a-2",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 75,
+   "theme": "맞장구와 리액션",
+   "ko": "응 (반말 — 손윗사람에겐 금물)",
+   "vi": "ừ",
+   "name": "x-u",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 75,
+   "theme": "맞장구와 리액션",
+   "ko": "~네요·그렇죠",
+   "vi": "nhỉ",
+   "name": "x-nhi",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 104,
+   "theme": "과일",
+   "ko": "신선하다",
+   "vi": "tươi",
+   "name": "x-tuoi",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 42.5,
+   "theme": "길 안내하기",
+   "ko": "지도",
+   "vi": "bản đồ",
+   "name": "x-ban-do",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 42.5,
+   "theme": "길 안내하기",
+   "ko": "신호등",
+   "vi": "đèn giao thông",
+   "name": "x-den-giao-thong",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 42.5,
+   "theme": "길 안내하기",
+   "ko": "골목",
+   "vi": "con hẻm",
+   "name": "x-con-hem",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 59,
+   "theme": "일정과 출장",
+   "ko": "약속(공식)",
+   "vi": "cuộc hẹn",
+   "name": "x-cuoc-hen",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 59,
+   "theme": "일정과 출장",
+   "ko": "편(교통편)",
+   "vi": "chuyến",
+   "name": "x-chuyen",
+   "exists": true
+  },
+  {
+   "course": "vi",
+   "day": 84,
+   "theme": "칭찬과 격려",
+   "ko": "~덕분에",
+   "vi": "nhờ có",
+   "name": "x-nho-co",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 107,
+   "theme": "공정과 작업 흐름",
+   "ko": "작업 동작·조작",
+   "vi": "thao tác",
+   "name": "d107-thao-tac",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 107,
+   "theme": "공정과 작업 흐름",
+   "ko": "가동하다·운영하다",
+   "vi": "vận hành",
+   "name": "d107-van-hanh",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 107,
+   "theme": "공정과 작업 흐름",
+   "ko": "떼다·벗기다",
+   "vi": "bóc",
+   "name": "d107-boc",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 107,
+   "theme": "공정과 작업 흐름",
+   "ko": "포장하다·출하 준비하다",
+   "vi": "đóng hàng",
+   "name": "d107-dong-hang",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 107,
+   "theme": "공정과 작업 흐름",
+   "ko": "트레이·받침",
+   "vi": "khay",
+   "name": "d107-khay",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 107,
+   "theme": "공정과 작업 흐름",
+   "ko": "매트·바닥 시트",
+   "vi": "thảm",
+   "name": "d107-tham",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 107,
+   "theme": "공정과 작업 흐름",
+   "ko": "부서·부품",
+   "vi": "bộ phận",
+   "name": "d107-bo-phan",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 108,
+   "theme": "외관 검사",
+   "ko": "외관·외관 검사",
+   "vi": "ngoại quan",
+   "name": "d108-ngoai-quan",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 108,
+   "theme": "외관 검사",
+   "ko": "이물",
+   "vi": "dị vật",
+   "name": "d108-di-vat",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 108,
+   "theme": "외관 검사",
+   "ko": "표면",
+   "vi": "bề mặt",
+   "name": "d108-be-mat",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 108,
+   "theme": "외관 검사",
+   "ko": "미관·보기 좋음",
+   "vi": "thẩm mỹ",
+   "name": "d108-tham-my",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 108,
+   "theme": "외관 검사",
+   "ko": "비율·불량률",
+   "vi": "tỷ lệ",
+   "name": "d108-ty-le",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 108,
+   "theme": "외관 검사",
+   "ko": "결과",
+   "vi": "kết quả",
+   "name": "d108-ket-qua",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 108,
+   "theme": "외관 검사",
+   "ko": "항목",
+   "vi": "hạng mục",
+   "name": "d108-hang-muc",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 108,
+   "theme": "외관 검사",
+   "ko": "유형",
+   "vi": "loại hình",
+   "name": "d108-loai-hinh",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 108,
+   "theme": "외관 검사",
+   "ko": "관리하다·통제하다",
+   "vi": "kiểm soát",
+   "name": "d108-kiem-soat",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 108,
+   "theme": "외관 검사",
+   "ko": "느낌",
+   "vi": "cảm giác",
+   "name": "d108-cam-giac",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 109,
+   "theme": "원인과 대책",
+   "ko": "원인",
+   "vi": "nguyên nhân",
+   "name": "d109-nguyen-nhan",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 109,
+   "theme": "원인과 대책",
+   "ko": "대책·방안",
+   "vi": "biện pháp",
+   "name": "d109-bien-phap",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 109,
+   "theme": "원인과 대책",
+   "ko": "대책",
+   "vi": "đối sách",
+   "name": "d109-doi-sach",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 109,
+   "theme": "원인과 대책",
+   "ko": "발생하다",
+   "vi": "phát sinh",
+   "name": "d109-phat-sinh",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 109,
+   "theme": "원인과 대책",
+   "ko": "개선하다",
+   "vi": "cải thiện",
+   "name": "d109-cai-thien",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 109,
+   "theme": "원인과 대책",
+   "ko": "철저히",
+   "vi": "triệt để",
+   "name": "d109-triet-de",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 109,
+   "theme": "원인과 대책",
+   "ko": "준수하다·지키다",
+   "vi": "tuân thủ",
+   "name": "d109-tuan-thu",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 109,
+   "theme": "원인과 대책",
+   "ko": "보장하다",
+   "vi": "đảm bảo",
+   "name": "d109-dam-bao",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 109,
+   "theme": "원인과 대책",
+   "ko": "반복하다·되풀이되다",
+   "vi": "lặp lại",
+   "name": "d109-lap-lai",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 109,
+   "theme": "원인과 대책",
+   "ko": "영향을 주다",
+   "vi": "ảnh hưởng",
+   "name": "d109-anh-huong",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 110,
+   "theme": "설비와 재료",
+   "ko": "기술",
+   "vi": "kỹ thuật",
+   "name": "d110-ky-thuat",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 110,
+   "theme": "설비와 재료",
+   "ko": "압력·프레스 힘",
+   "vi": "lực ép",
+   "name": "d110-luc-ep",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 110,
+   "theme": "설비와 재료",
+   "ko": "저항",
+   "vi": "điện trở",
+   "name": "d110-dien-tro",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 110,
+   "theme": "설비와 재료",
+   "ko": "금속",
+   "vi": "kim loại",
+   "name": "d110-kim-loai",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 110,
+   "theme": "설비와 재료",
+   "ko": "접촉하다",
+   "vi": "tiếp xúc",
+   "name": "d110-tiep-xuc",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 110,
+   "theme": "설비와 재료",
+   "ko": "재질·소재",
+   "vi": "chất liệu",
+   "name": "d110-chat-lieu",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 110,
+   "theme": "설비와 재료",
+   "ko": "나사",
+   "vi": "vít",
+   "name": "d110-vit",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 110,
+   "theme": "설비와 재료",
+   "ko": "잉크",
+   "vi": "mực",
+   "name": "d110-muc",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 111,
+   "theme": "사람 뽑고 가르치기",
+   "ko": "상사·관리자",
+   "vi": "sếp",
+   "name": "d111-sep",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 111,
+   "theme": "사람 뽑고 가르치기",
+   "ko": "인력",
+   "vi": "nhân lực",
+   "name": "d111-nhan-luc",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 111,
+   "theme": "사람 뽑고 가르치기",
+   "ko": "채용하다",
+   "vi": "tuyển dụng",
+   "name": "d111-tuyen-dung",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 111,
+   "theme": "사람 뽑고 가르치기",
+   "ko": "교육하다·양성하다",
+   "vi": "đào tạo",
+   "name": "d111-dao-tao",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 111,
+   "theme": "사람 뽑고 가르치기",
+   "ko": "인재",
+   "vi": "nhân tài",
+   "name": "d111-nhan-tai",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 111,
+   "theme": "사람 뽑고 가르치기",
+   "ko": "맡다·담당하다",
+   "vi": "đảm nhận",
+   "name": "d111-dam-nhan",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 111,
+   "theme": "사람 뽑고 가르치기",
+   "ko": "승인하다·결재하다",
+   "vi": "duyệt",
+   "name": "d111-duyet",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 111,
+   "theme": "사람 뽑고 가르치기",
+   "ko": "단기·계절 (근로)",
+   "vi": "thời vụ",
+   "name": "d111-thoi-vu",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 111,
+   "theme": "사람 뽑고 가르치기",
+   "ko": "퇴사하다",
+   "vi": "nghỉ việc",
+   "name": "d111-nghi-viec",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 111,
+   "theme": "사람 뽑고 가르치기",
+   "ko": "처우·대우",
+   "vi": "đãi ngộ",
+   "name": "d111-dai-ngo",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 112,
+   "theme": "일이 벅찰 때",
+   "ko": "과부하·벅차다",
+   "vi": "quá tải",
+   "name": "d112-qua-tai",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 112,
+   "theme": "일이 벅찰 때",
+   "ko": "부담",
+   "vi": "gánh nặng",
+   "name": "d112-ganh-nang",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 112,
+   "theme": "일이 벅찰 때",
+   "ko": "업무량·분량",
+   "vi": "khối lượng",
+   "name": "d112-khoi-luong",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 112,
+   "theme": "일이 벅찰 때",
+   "ko": "부족하다",
+   "vi": "thiếu hụt",
+   "name": "d112-thieu-hut",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 112,
+   "theme": "일이 벅찰 때",
+   "ko": "변동",
+   "vi": "biến động",
+   "name": "d112-bien-dong",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 112,
+   "theme": "일이 벅찰 때",
+   "ko": "상태·상황",
+   "vi": "tình trạng",
+   "name": "d112-tinh-trang",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 112,
+   "theme": "일이 벅찰 때",
+   "ko": "어려움·힘들다",
+   "vi": "khó khăn",
+   "name": "d112-kho-khan",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 112,
+   "theme": "일이 벅찰 때",
+   "ko": "지원하다·돕다",
+   "vi": "hỗ trợ",
+   "name": "d112-ho-tro",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 112,
+   "theme": "일이 벅찰 때",
+   "ko": "우선하다",
+   "vi": "ưu tiên",
+   "name": "d112-uu-tien",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 112,
+   "theme": "일이 벅찰 때",
+   "ko": "지지하다·밀어주다",
+   "vi": "ủng hộ",
+   "name": "d112-ung-ho",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 113,
+   "theme": "작업 표준서 읽기",
+   "ko": "과정",
+   "vi": "quá trình",
+   "name": "d113-qua-trinh",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 113,
+   "theme": "작업 표준서 읽기",
+   "ko": "수행하다·실행하다",
+   "vi": "thực hiện",
+   "name": "d113-thuc-hien",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 113,
+   "theme": "작업 표준서 읽기",
+   "ko": "내용",
+   "vi": "nội dung",
+   "name": "d113-noi-dung",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 113,
+   "theme": "작업 표준서 읽기",
+   "ko": "순서",
+   "vi": "thứ tự",
+   "name": "d113-thu-tu",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 113,
+   "theme": "작업 표준서 읽기",
+   "ko": "임무·맡은 일",
+   "vi": "nhiệm vụ",
+   "name": "d113-nhiem-vu",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 113,
+   "theme": "작업 표준서 읽기",
+   "ko": "방법·방식",
+   "vi": "phương pháp",
+   "name": "d113-phuong-phap",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 113,
+   "theme": "작업 표준서 읽기",
+   "ko": "비고·메모",
+   "vi": "ghi chú",
+   "name": "d113-ghi-chu",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 113,
+   "theme": "작업 표준서 읽기",
+   "ko": "기본적인",
+   "vi": "cơ bản",
+   "name": "d113-co-ban",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 113,
+   "theme": "작업 표준서 읽기",
+   "ko": "편리하다",
+   "vi": "thuận tiện",
+   "name": "d113-thuan-tien",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 113,
+   "theme": "작업 표준서 읽기",
+   "ko": "효율·효과",
+   "vi": "hiệu quả",
+   "name": "d113-hieu-qua",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 114,
+   "theme": "앞을 내다보기",
+   "ko": "구조·체계",
+   "vi": "cơ cấu",
+   "name": "d114-co-cau",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 114,
+   "theme": "앞을 내다보기",
+   "ko": "세우다·구축하다",
+   "vi": "xây dựng",
+   "name": "d114-xay-dung",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 114,
+   "theme": "앞을 내다보기",
+   "ko": "키우다·발전하다",
+   "vi": "phát triển",
+   "name": "d114-phat-trien",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 114,
+   "theme": "앞을 내다보기",
+   "ko": "역할",
+   "vi": "vai trò",
+   "name": "d114-vai-tro",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 114,
+   "theme": "앞을 내다보기",
+   "ko": "오래가는·장기의",
+   "vi": "lâu dài",
+   "name": "d114-lau-dai",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 114,
+   "theme": "앞을 내다보기",
+   "ko": "계속·잇달아",
+   "vi": "liên tục",
+   "name": "d114-lien-tuc",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 114,
+   "theme": "앞을 내다보기",
+   "ko": "주의를 주다·일러두다",
+   "vi": "nhắc nhở",
+   "name": "d114-nhac-nho",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 114,
+   "theme": "앞을 내다보기",
+   "ko": "대회",
+   "vi": "đại hội",
+   "name": "d114-dai-hoi",
+   "exists": false
+  },
+  {
+   "course": "vi",
+   "day": 114,
+   "theme": "앞을 내다보기",
+   "ko": "이력·기록",
+   "vi": "lịch sử",
+   "name": "d114-lich-su",
+   "exists": false
+  }
+ ]
+}

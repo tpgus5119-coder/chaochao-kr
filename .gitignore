@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+data/_part*.json
+.krdict_key
+.gcp_tts_key
+
+# 지킴이가 남기는 기록 — 저장소에 둘 것이 아니다
+img_watch.log
+
+# 도는 작업 기록
+logs/
+
+# 파워포인트용 맨 배경 — 저장소를 키우지 않는다(바탕화면에만 쓴다)
+img/card/bg/
+
+# 새 과정 만드는 중간물 — 계속 바뀌어서 지킴이의 pull 을 막는다 (2026-08-31)
+data/_new_words.json

@@ -1,0 +1,2472 @@
+{
+"làm theo": {
+"emoji": "👯",
+"kind": "action",
+"en": "a trainee worker copying the exact hand motions of a supervisor demonstrating at a sewing station"
+},
+"nói riêng": {
+"emoji": "🤫",
+"kind": "action",
+"en": "a supervisor and a worker talking quietly one-on-one in a corner, away from a group visible in the background"
+},
+"tránh": {
+"emoji": "🏃",
+"kind": "action",
+"en": "a worker stepping aside to avoid a rolling cart in a factory aisle"
+},
+"xấu hổ": {
+"emoji": "😳",
+"kind": "action",
+"en": "a blushing person covering their cheeks with both hands, looking embarrassed"
+},
+"động viên": {
+"emoji": "💪",
+"kind": "action",
+"en": "a manager patting a worker's shoulder encouragingly at a sewing machine, both smiling"
+},
+"nhóm": {
+"emoji": "👥",
+"kind": "thing",
+"en": "a small team of factory workers standing together in matching uniforms"
+},
+"nụ cười": {
+"emoji": "😊",
+"kind": "thing",
+"en": "a close-up of a person's face with a warm smile"
+},
+"phát biểu": {
+"emoji": "🎤",
+"kind": "action",
+"en": "a person standing up and speaking at a meeting table while seated colleagues listen"
+},
+"phản đối": {
+"emoji": "🙅",
+"kind": "action",
+"en": "a person at a meeting crossing both forearms in an X gesture"
+},
+"ghi chép": {
+"emoji": "📝",
+"kind": "action",
+"en": "a hand writing notes in an open notebook with a pen"
+},
+"thư ký": {
+"emoji": "👩‍💼",
+"kind": "thing",
+"en": "a secretary sitting beside a meeting table taking notes on a notepad"
+},
+"biểu quyết": {
+"emoji": "🙋",
+"kind": "action",
+"en": "several people around a meeting table raising their hands to vote"
+},
+"bán thành phẩm": {
+"emoji": "🪡",
+"kind": "thing",
+"en": "a half-sewn shirt with loose unfinished edges and pins, lying on a factory sewing table"
+},
+"thành phẩm": {
+"emoji": "👕",
+"kind": "thing",
+"en": "a finished shirt neatly folded in clear packaging on a factory table"
+},
+"bàn giao": {
+"emoji": "🤝",
+"kind": "action",
+"en": "one worker handing over a stack of folded garments to another worker"
+},
+"khớp": {
+"emoji": "🧩",
+"kind": "action",
+"en": "two hands pushing two puzzle pieces together so they fit perfectly"
+},
+"thẳng hàng": {
+"emoji": "📏",
+"kind": "thing",
+"en": "a row of buttons sewn in a perfectly straight line on a shirt, a ruler lying beside them"
+},
+"bảng màu": {
+"emoji": "🎨",
+"kind": "thing",
+"en": "a fan deck of fabric color swatches spread out showing many colors"
+},
+"đối xứng": {
+"emoji": "🦋",
+"kind": "thing",
+"en": "a butterfly with perfectly symmetrical wings and a dashed line down the middle"
+},
+"phân loại": {
+"emoji": "🗂️",
+"kind": "action",
+"en": "a worker sorting shirts into two separate bins on a factory table"
+},
+"hàng đạt": {
+"emoji": "✅",
+"kind": "thing",
+"en": "a neatly folded flawless shirt with a green check-mark tag"
+},
+"hàng lỗi": {
+"emoji": "❌",
+"kind": "thing",
+"en": "a wrinkled shirt with a visible stain and a red X tag"
+},
+"đánh dấu": {
+"emoji": "🖍️",
+"kind": "action",
+"en": "a hand drawing a chalk mark on fabric to flag a spot"
+},
+"tem": {
+"emoji": "🏷️",
+"kind": "thing",
+"en": "a roll of small round colored stickers next to a folded garment"
+},
+"ra": {
+"emoji": "🚪",
+"kind": "action",
+"en": "a person walking out through an open door"
+},
+"tháo ra": {
+"emoji": "🪛",
+"kind": "action",
+"en": "hands using a small ripping tool to undo the stitches of a garment seam"
+},
+"thay thế": {
+"emoji": "🔄",
+"kind": "action",
+"en": "hands swapping a broken zipper for a new one on a jacket, the old zipper set aside"
+},
+"tẩy": {
+"emoji": "🧼",
+"kind": "action",
+"en": "a hand scrubbing a stain on fabric, the stain half removed"
+},
+"xước": {
+"emoji": "🩹",
+"kind": "thing",
+"en": "a close-up of a long scratch mark on a smooth product surface"
+},
+"lỗ": {
+"emoji": "🕳️",
+"kind": "thing",
+"en": "a close-up of a small round hole in a piece of fabric"
+},
+"đường chỉ": {
+"emoji": "🧵",
+"kind": "thing",
+"en": "a close-up of a neat stitch line running across fabric"
+},
+"bản vẽ": {
+"emoji": "📐",
+"kind": "thing",
+"en": "a technical drawing of a shirt with dimension arrow lines on a large sheet of paper"
+},
+"ký hiệu": {
+"emoji": "🔣",
+"kind": "thing",
+"en": "a garment care label showing washing symbols such as a tub and an iron icon"
+},
+"mặc": {
+"emoji": "👕",
+"kind": "action",
+"en": "a worker putting on a factory uniform shirt"
+},
+"đeo": {
+"emoji": "👓",
+"kind": "action",
+"en": "a person putting on eyeglasses with both hands"
+},
+"lười": {
+"emoji": "😴",
+"kind": "action",
+"en": "a worker slumped asleep at a factory workbench during the workday"
+},
+"vứt": {
+"emoji": "🗑️",
+"kind": "action",
+"en": "a person tossing a crumpled paper into a trash bin"
+},
+"giúp đỡ": {
+"emoji": "🤝",
+"kind": "action",
+"en": "one factory worker helping another lift a heavy cardboard box"
+},
+"chia sẻ": {
+"emoji": "🤲",
+"kind": "action",
+"en": "a worker splitting a snack in half and handing one half to a coworker"
+},
+"khen": {
+"emoji": "👍",
+"kind": "action",
+"en": "a smiling supervisor giving a thumbs up to a worker at a sewing machine"
+},
+"cãi nhau": {
+"emoji": "🗯️",
+"kind": "action",
+"en": "two coworkers facing each other arguing with angry expressions"
+},
+"liên hoan": {
+"emoji": "🎉",
+"kind": "thing",
+"en": "coworkers gathered around a table full of food raising glasses at a celebration dinner"
+},
+"rót": {
+"emoji": "🫗",
+"kind": "action",
+"en": "a hand pouring a drink from a bottle into a small glass"
+},
+"cạn ly": {
+"emoji": "🥂",
+"kind": "action",
+"en": "two people clinking their glasses together in a toast"
+},
+"gắp": {
+"emoji": "🥢",
+"kind": "action",
+"en": "chopsticks picking up a piece of food from a shared plate at a dinner table"
+},
+"từ chối": {
+"emoji": "🙅",
+"kind": "action",
+"en": "a person holding up a flat hand to politely refuse a drink being offered"
+},
+"nghỉ ốm": {
+"emoji": "🤒",
+"kind": "action",
+"en": "a sick person resting in bed with a thermometer in the mouth and a damp cloth on the forehead"
+},
+"về sớm": {
+"emoji": "🚪",
+"kind": "action",
+"en": "a worker with a bag walking out of the factory door while coworkers still work at sewing machines"
+},
+"thông báo": {
+"emoji": "📢",
+"kind": "action",
+"en": "a manager speaking through a megaphone to a group of factory workers"
+},
+"hợp đồng": {
+"emoji": "📝",
+"kind": "thing",
+"en": "two hands shaking over a contract document with a pen resting on it"
+},
+"bảng lương": {
+"emoji": "🧾",
+"kind": "thing",
+"en": "a payslip document lying beside a small stack of coins"
+},
+"làm thêm": {
+"emoji": "🌙",
+"kind": "action",
+"en": "a worker sewing at a machine at night with a moon visible through the window"
+},
+"chuyển khoản": {
+"emoji": "💸",
+"kind": "action",
+"en": "a hand holding a smartphone with coins flying from it toward a bank building"
+},
+"sổ": {
+"emoji": "📔",
+"kind": "thing",
+"en": "a small bank passbook booklet with a coin emblem on the cover"
+},
+"giấy phép": {
+"emoji": "📃",
+"kind": "thing",
+"en": "an official permit document with a red seal stamp"
+},
+"thẻ tạm trú": {
+"emoji": "🪪",
+"kind": "thing",
+"en": "a plastic identity card with a person's photo portrait on it"
+},
+"đại sứ quán": {
+"emoji": "🏛️",
+"kind": "thing",
+"en": "a stately government building with columns and a flag on the roof"
+},
+"khai": {
+"emoji": "✍️",
+"kind": "action",
+"en": "a hand holding a pen filling out a paper form on a desk"
+},
+"ảnh": {
+"emoji": "🖼️",
+"kind": "thing",
+"en": "small printed identity photos of a person's face on a table"
+},
+"bản sao": {
+"emoji": "📑",
+"kind": "thing",
+"en": "a photocopier machine producing an identical copy of a sheet of paper"
+},
+"khám sức khỏe": {
+"emoji": "🩺",
+"kind": "action",
+"en": "a doctor examining a patient's chest with a stethoscope"
+},
+"đơn thuốc": {
+"emoji": "💊",
+"kind": "thing",
+"en": "a prescription paper next to a bottle of pills"
+},
+"xe cấp cứu": {
+"emoji": "🚑",
+"kind": "thing",
+"en": "an ambulance van with a red cross and a flashing light on top"
+},
+"nằm": {
+"emoji": "🛏️",
+"kind": "action",
+"en": "a person lying down on a bed"
+},
+"nằm viện": {
+"emoji": "🏥",
+"kind": "action",
+"en": "a patient lying in a hospital bed connected to an IV drip"
+},
+"xuất viện": {
+"emoji": "🚶",
+"kind": "action",
+"en": "a smiling patient with a small bag walking out of a hospital entrance waving goodbye"
+},
+"mệt mỏi": {
+"emoji": "😮‍💨",
+"kind": "action",
+"en": "an exhausted worker with drooping shoulders wiping sweat from the forehead"
+},
+"mất": {
+"emoji": "😰",
+"kind": "action",
+"en": "a worried person with both trouser pockets pulled out empty"
+},
+"tìm": {
+"emoji": "🔍",
+"kind": "action",
+"en": "a person searching under a table with a magnifying glass"
+},
+"rơi": {
+"emoji": "🫳",
+"kind": "action",
+"en": "a wallet falling out of a person's back pocket as they walk"
+},
+"trộm": {
+"emoji": "🥷",
+"kind": "thing",
+"en": "a masked thief sneaking on tiptoe carrying a bag over the shoulder"
+},
+"công an": {
+"emoji": "👮",
+"kind": "thing",
+"en": "a police officer in uniform and cap standing upright"
+},
+"ví": {
+"emoji": "👛",
+"kind": "thing",
+"en": "a folded leather wallet with a few coins beside it"
+},
+"điện thoại": {
+"emoji": "📱",
+"kind": "thing",
+"en": "a modern smartphone with a blank bright screen"
+},
+"quê": {
+"emoji": "🏞️",
+"kind": "thing",
+"en": "a small rural Vietnamese village with rice paddies, palm trees and simple houses"
+},
+"kết hôn": {
+"emoji": "💒",
+"kind": "action",
+"en": "a bride in a white dress and a groom in a suit holding hands at their wedding"
+},
+"người yêu": {
+"emoji": "💑",
+"kind": "thing",
+"en": "a young couple holding hands with a heart floating above them"
+},
+"có con": {
+"emoji": "👨‍👩‍👦",
+"kind": "thing",
+"en": "a smiling mother and father holding their small child between them"
+},
+"cao": {
+"emoji": "🦒",
+"kind": "thing",
+"en": "a very tall man standing beside a door frame, his head reaching above the top of it"
+},
+"thấp": {
+"emoji": "🐜",
+"kind": "thing",
+"en": "a short man standing on tiptoes reaching up toward a high shelf he cannot touch"
+},
+"nuôi": {
+"emoji": "🐾",
+"kind": "action",
+"en": "a person kneeling and feeding a dog from a food bowl"
+},
+"chó": {
+"emoji": "🐶",
+"kind": "thing",
+"en": "a friendly dog sitting and wagging its tail"
+},
+"mèo": {
+"emoji": "🐱",
+"kind": "thing",
+"en": "a cat sitting calmly with its tail curled around its paws"
+},
+"đội": {
+"emoji": "👥",
+"kind": "thing",
+"en": "a soccer team of players in matching uniforms standing together on the field"
+},
+"thắng": {
+"emoji": "🥇",
+"kind": "action",
+"en": "a soccer player raising both fists in victory after scoring a goal"
+},
+"thua": {
+"emoji": "😞",
+"kind": "action",
+"en": "dejected soccer players hanging their heads and slumping their shoulders on the field"
+},
+"cầu thủ": {
+"emoji": "⛹️",
+"kind": "thing",
+"en": "a soccer player in uniform standing with one foot resting on a soccer ball"
+},
+"đá": {
+"emoji": "⚽",
+"kind": "action",
+"en": "a soccer player kicking a ball hard with a swinging leg"
+},
+"cổ vũ": {
+"emoji": "📣",
+"kind": "action",
+"en": "excited fans in stadium stands cheering with raised arms and waving scarves"
+},
+"vô địch": {
+"emoji": "🏆",
+"kind": "action",
+"en": "a team captain lifting a golden trophy overhead while confetti falls"
+},
+"về quê": {
+"emoji": "🚌",
+"kind": "action",
+"en": "a traveler with a bag riding a bus on a road toward a rural village with rice fields"
+},
+"một mình": {
+"emoji": "🧍",
+"kind": "thing",
+"en": "a single person sitting alone at a small table in an otherwise empty room"
+},
+"bạn bè": {
+"emoji": "🧑‍🤝‍🧑",
+"kind": "thing",
+"en": "a group of friends laughing together with arms around each other's shoulders"
+},
+"hẹn hò": {
+"emoji": "🌹",
+"kind": "action",
+"en": "a young couple on a dinner date at a cafe table with a rose between them"
+},
+"nghỉ ngơi": {
+"emoji": "🛋️",
+"kind": "action",
+"en": "a person relaxing in a hammock with eyes closed and hands behind their head"
+},
+"đi dạo": {
+"emoji": "🚶",
+"kind": "action",
+"en": "a person strolling leisurely along a tree-lined park path"
+},
+"vỗ tay": {
+"emoji": "👏",
+"kind": "action",
+"en": "a smiling person clapping their hands with small motion lines around the palms"
+},
+"sữa": {
+"emoji": "🥛",
+"kind": "thing",
+"en": "a glass of white milk next to a small open can of condensed milk"
+},
+"cà phê sữa": {
+"emoji": "☕",
+"kind": "thing",
+"en": "a glass of Vietnamese milk coffee with a metal phin filter dripping on top and a white condensed-milk layer at the bottom"
+},
+"cà phê đá": {
+"emoji": "🧊",
+"kind": "thing",
+"en": "a tall glass of black iced coffee filled with ice cubes"
+},
+"trà đá": {
+"emoji": "🍵",
+"kind": "thing",
+"en": "a simple glass of pale amber iced tea with ice cubes"
+},
+"sinh tố": {
+"emoji": "🍹",
+"kind": "thing",
+"en": "a thick fruit smoothie in a tall glass topped with fresh fruit pieces"
+},
+"nước mía": {
+"emoji": "🧃",
+"kind": "thing",
+"en": "a glass of pale green sugarcane juice beside fresh sugarcane stalks"
+},
+"ống hút": {
+"emoji": "🥤",
+"kind": "thing",
+"en": "a striped drinking straw standing in a clear glass of water"
+},
+"cốc": {
+"emoji": "🥃",
+"kind": "thing",
+"en": "a plain empty drinking cup on a table"
+},
+"bát": {
+"emoji": "🥣",
+"kind": "thing",
+"en": "an empty deep ceramic rice bowl"
+},
+"bò": {
+"emoji": "🥩",
+"kind": "thing",
+"en": "raw slices of red beef arranged on a plate"
+},
+"gà": {
+"emoji": "🍗",
+"kind": "thing",
+"en": "cooked chicken drumsticks on a plate"
+},
+"rau": {
+"emoji": "🥬",
+"kind": "thing",
+"en": "a pile of fresh green vegetables and leafy herbs"
+},
+"chanh": {
+"emoji": "🍋",
+"kind": "thing",
+"en": "whole and halved green limes"
+},
+"ớt": {
+"emoji": "🌶️",
+"kind": "thing",
+"en": "fresh red chili peppers, one sliced into rings"
+},
+"hành": {
+"emoji": "🧅",
+"kind": "thing",
+"en": "fresh green onions with white bulbs and long green stalks"
+},
+"nước dùng": {
+"emoji": "🍲",
+"kind": "thing",
+"en": "a steaming pot of clear broth with a ladle resting in it"
+},
+"sim": {
+"emoji": "💳",
+"kind": "thing",
+"en": "a small SIM card held between two fingers with its gold chip visible"
+},
+"wifi": {
+"emoji": "📶",
+"kind": "thing",
+"en": "a wifi router with curved signal waves rising from its antennas"
+},
+"cuộc gọi": {
+"emoji": "📞",
+"kind": "action",
+"en": "a person talking on a mobile phone held to their ear"
+},
+"quét mã": {
+"emoji": "🔳",
+"kind": "action",
+"en": "a hand holding a smartphone up to scan a QR code displayed on a small counter stand"
+},
+"tiệm giặt": {
+"emoji": "🧺",
+"kind": "thing",
+"en": "a small laundry shop interior with washing machines and clothes hanging on a rack"
+},
+"khâu": {
+"emoji": "🪡",
+"kind": "action",
+"en": "a hand sewing fabric with a needle and thread"
+},
+"vá": {
+"emoji": "🩹",
+"kind": "action",
+"en": "hands sewing a square fabric patch over a hole in a pair of jeans"
+},
+"ngắn": {
+"emoji": "🩳",
+"kind": "thing",
+"en": "a person wearing trousers that are clearly too short, ankles showing"
+},
+"dài": {
+"emoji": "👖",
+"kind": "thing",
+"en": "a person wearing trousers far too long, the fabric bunching over their shoes"
+},
+"rộng": {
+"emoji": "↔️",
+"kind": "thing",
+"en": "a person wearing a huge baggy shirt hanging loosely off their body"
+},
+"chật": {
+"emoji": "🗜️",
+"kind": "thing",
+"en": "a person wearing a shirt that is far too tight, the buttons straining"
+},
+"thợ": {
+"emoji": "🧑‍🔧",
+"kind": "thing",
+"en": "a tailor working at an industrial sewing machine in a small garment workshop"
+},
+"ship": {
+"emoji": "🛵",
+"kind": "thing",
+"en": "a delivery driver on a motorbike with a stack of parcels strapped on the back"
+},
+"app": {
+"emoji": "📱",
+"kind": "thing",
+"en": "a hand holding a smartphone showing a grid of colorful app icons"
+},
+"ngõ": {
+"emoji": "🏘️",
+"kind": "thing",
+"en": "a narrow alley between old houses with a motorbike parked to one side"
+},
+"đặt xe": {
+"emoji": "🚕",
+"kind": "action",
+"en": "a person holding up a phone as a motorbike taxi pulls up to the curb"
+},
+"gửi hàng": {
+"emoji": "📦",
+"kind": "action",
+"en": "a customer handing a taped cardboard parcel across a shipping counter to a clerk"
+},
+"giao hàng": {
+"emoji": "🚚",
+"kind": "action",
+"en": "a courier handing a cardboard box to a customer at their front door"
+},
+"công ty": {
+"emoji": "🏢",
+"kind": "thing",
+"en": "a modern office building exterior with glass windows"
+},
+"nhà máy": {
+"emoji": "🏭",
+"kind": "thing",
+"en": "a factory building with a large roof and smokestack"
+},
+"xưởng": {
+"emoji": "🛠️",
+"kind": "thing",
+"en": "the interior of a garment workshop with rows of sewing machines"
+},
+"tổ trưởng": {
+"emoji": "📋",
+"kind": "thing",
+"en": "a team leader holding a clipboard instructing seated sewing workers"
+},
+"quản lý": {
+"emoji": "👨‍💼",
+"kind": "thing",
+"en": "a manager in a dress shirt overseeing a garment factory floor"
+},
+"công nhân": {
+"emoji": "🧑‍🏭",
+"kind": "thing",
+"en": "a factory worker in uniform and cap standing at a sewing workstation"
+},
+"đồng nghiệp": {
+"emoji": "👥",
+"kind": "thing",
+"en": "two smiling coworkers in matching factory uniforms standing side by side"
+},
+"vải": {
+"emoji": "🧶",
+"kind": "thing",
+"en": "rolls of colorful fabric stacked on a shelf"
+},
+"chỉ": {
+"emoji": "🧵",
+"kind": "thing",
+"en": "spools of sewing thread in several colors"
+},
+"kim": {
+"emoji": "🪡",
+"kind": "thing",
+"en": "a sewing needle close up with thread through its eye"
+},
+"kéo": {
+"emoji": "✂️",
+"kind": "thing",
+"en": "a pair of tailor scissors on a cutting table"
+},
+"máy may": {
+"emoji": "⚙️",
+"kind": "thing",
+"en": "an industrial sewing machine on a work table"
+},
+"cúc": {
+"emoji": "🔘",
+"kind": "thing",
+"en": "several round shirt buttons scattered close up"
+},
+"dây kéo": {
+"emoji": "🤐",
+"kind": "thing",
+"en": "a close-up of a metal zipper on a jacket"
+},
+"màu": {
+"emoji": "🎨",
+"kind": "thing",
+"en": "a fan of colorful fabric swatch cards"
+},
+"áo": {
+"emoji": "👕",
+"kind": "thing",
+"en": "a plain short-sleeved shirt laid flat"
+},
+"quần": {
+"emoji": "👖",
+"kind": "thing",
+"en": "a pair of trousers laid flat"
+},
+"tay áo": {
+"emoji": "🧥",
+"kind": "thing",
+"en": "a close-up of a shirt sleeve with a buttoned cuff"
+},
+"cổ áo": {
+"emoji": "👔",
+"kind": "thing",
+"en": "a close-up of a folded shirt collar"
+},
+"túi": {
+"emoji": "👝",
+"kind": "thing",
+"en": "a close-up of a patch pocket sewn on a shirt"
+},
+"đường may": {
+"emoji": "〰️",
+"kind": "thing",
+"en": "a close-up of a straight stitched seam line on fabric"
+},
+"cắt": {
+"emoji": "✂️",
+"kind": "action",
+"en": "hands cutting fabric with scissors on a cutting table"
+},
+"may": {
+"emoji": "🪡",
+"kind": "action",
+"en": "hands guiding fabric under the needle of a sewing machine"
+},
+"ủi": {
+"emoji": "♨️",
+"kind": "action",
+"en": "a hand pressing a shirt with an iron on an ironing board"
+},
+"gấp": {
+"emoji": "🧺",
+"kind": "action",
+"en": "hands folding a shirt neatly on a table"
+},
+"đóng gói": {
+"emoji": "📦",
+"kind": "action",
+"en": "a worker packing folded shirts into a cardboard box"
+},
+"đính": {
+"emoji": "🧷",
+"kind": "action",
+"en": "hands sewing a button onto a shirt with needle and thread"
+},
+"thêu": {
+"emoji": "🌸",
+"kind": "action",
+"en": "hands embroidering a flower on fabric stretched in an embroidery hoop"
+},
+"hỏng": {
+"emoji": "💥",
+"kind": "thing",
+"en": "a sewing machine broken down with smoke and a loose part"
+},
+"kiểm tra": {
+"emoji": "🔍",
+"kind": "action",
+"en": "an inspector examining a shirt closely with a magnifying glass"
+},
+"sửa": {
+"emoji": "🔧",
+"kind": "action",
+"en": "a technician repairing a sewing machine with a screwdriver"
+},
+"vết": {
+"emoji": "⚫",
+"kind": "thing",
+"en": "a close-up of a dark stain mark on white fabric"
+},
+"hàng": {
+"emoji": "📦",
+"kind": "thing",
+"en": "stacks of cardboard boxes on a pallet in a warehouse"
+},
+"giao": {
+"emoji": "🚚",
+"kind": "action",
+"en": "a worker loading cardboard boxes into a delivery truck"
+},
+"tai nạn": {
+"emoji": "🤕",
+"kind": "action",
+"en": "a worker slipping and falling beside fallen boxes on a factory floor"
+},
+"bảo hộ": {
+"emoji": "🦺",
+"kind": "thing",
+"en": "a safety helmet, goggles and reflective vest displayed together"
+},
+"găng tay": {
+"emoji": "🧤",
+"kind": "thing",
+"en": "a pair of work gloves"
+},
+"khẩu trang": {
+"emoji": "😷",
+"kind": "thing",
+"en": "a white face mask"
+},
+"nút": {
+"emoji": "🔴",
+"kind": "thing",
+"en": "a large round push button on a machine control panel"
+},
+"bấm": {
+"emoji": "👆",
+"kind": "action",
+"en": "a finger pressing a button on a machine control panel"
+},
+"dây": {
+"emoji": "🔌",
+"kind": "thing",
+"en": "a coiled electrical cable with a plug"
+},
+"băng chuyền": {
+"emoji": "⛓️",
+"kind": "thing",
+"en": "a conveyor belt carrying folded garments through a factory"
+},
+"dao": {
+"emoji": "🔪",
+"kind": "thing",
+"en": "a fabric cutting knife on a work table"
+},
+"bàn ủi": {
+"emoji": "♨️",
+"kind": "thing",
+"en": "a clothes iron standing upright on an ironing board"
+},
+"đèn": {
+"emoji": "💡",
+"kind": "thing",
+"en": "a work lamp shining over a sewing table"
+},
+"dụng cụ": {
+"emoji": "🧰",
+"kind": "thing",
+"en": "an open toolbox with a wrench, screwdriver and pliers"
+},
+"đi làm": {
+"emoji": "🚶",
+"kind": "action",
+"en": "a worker with a shoulder bag walking toward a factory gate in the morning"
+},
+"họp": {
+"emoji": "🗣️",
+"kind": "action",
+"en": "several workers sitting around a table in a meeting"
+},
+"nghỉ phép": {
+"emoji": "🏖️",
+"kind": "action",
+"en": "a person relaxing in a beach chair under a palm tree"
+},
+"lương": {
+"emoji": "💰",
+"kind": "thing",
+"en": "an open envelope with plain banknotes inside"
+},
+"mũi may": {
+"emoji": "🪡",
+"kind": "thing",
+"en": "close-up of a neat row of machine stitches on a piece of fabric"
+},
+"đứt chỉ": {
+"emoji": "🧵",
+"kind": "action",
+"en": "an industrial sewing machine with the thread snapped and dangling loose from the needle"
+},
+"thay kim": {
+"emoji": "🔧",
+"kind": "action",
+"en": "hands replacing the needle on an industrial sewing machine"
+},
+"gãy kim": {
+"emoji": "💥",
+"kind": "action",
+"en": "a sewing machine needle snapped into two pieces on the machine plate"
+},
+"dầu máy": {
+"emoji": "🛢️",
+"kind": "thing",
+"en": "a small oil can with a long spout next to an industrial sewing machine"
+},
+"trải vải": {
+"emoji": "📜",
+"kind": "action",
+"en": "two workers spreading a long layer of fabric flat across a wide cutting table"
+},
+"rập": {
+"emoji": "📄",
+"kind": "thing",
+"en": "a cardboard garment pattern template shaped like a shirt panel lying on fabric"
+},
+"phấn": {
+"emoji": "🖍️",
+"kind": "thing",
+"en": "a flat triangle of tailor's chalk lying on dark fabric"
+},
+"thước": {
+"emoji": "📏",
+"kind": "thing",
+"en": "a long straight ruler lying on a cutting table"
+},
+"đo": {
+"emoji": "📐",
+"kind": "action",
+"en": "hands measuring a piece of fabric with a measuring tape"
+},
+"vẽ": {
+"emoji": "✏️",
+"kind": "action",
+"en": "a hand drawing a chalk line along a pattern template on fabric"
+},
+"ép mex": {
+"emoji": "♨️",
+"kind": "action",
+"en": "a worker pressing white interlining onto fabric with a flat heat press"
+},
+"máy cắt": {
+"emoji": "🔪",
+"kind": "thing",
+"en": "an upright electric fabric cutting machine standing on stacked layers of fabric"
+},
+"nhãn": {
+"emoji": "🏷️",
+"kind": "thing",
+"en": "a small blank woven clothing label sewn inside a shirt collar"
+},
+"viền": {
+"emoji": "🖼️",
+"kind": "thing",
+"en": "close-up of a garment edge finished with contrasting binding tape"
+},
+"ly": {
+"emoji": "🪭",
+"kind": "thing",
+"en": "close-up of sharp pressed pleats on a skirt"
+},
+"khóa": {
+"emoji": "🔒",
+"kind": "thing",
+"en": "a metal buckle on a fabric strap"
+},
+"ghim": {
+"emoji": "🧷",
+"kind": "thing",
+"en": "straight pins stuck in a round pincushion"
+},
+"chun": {
+"emoji": "➰",
+"kind": "thing",
+"en": "a strip of white elastic band being stretched between two hands"
+},
+"nhăn": {
+"emoji": "〰️",
+"kind": "thing",
+"en": "a seam on fabric that is puckered and wrinkled along the stitch line"
+},
+"lệch": {
+"emoji": "🫤",
+"kind": "thing",
+"en": "a shirt with one chest pocket sewn visibly crooked and tilted"
+},
+"rách": {
+"emoji": "💔",
+"kind": "thing",
+"en": "a piece of fabric with a large jagged rip torn through it"
+},
+"thủng": {
+"emoji": "🕳️",
+"kind": "thing",
+"en": "a piece of fabric with a round hole punched through it"
+},
+"ố": {
+"emoji": "🫗",
+"kind": "thing",
+"en": "a white shirt with a dark stain spot on the front"
+},
+"phai": {
+"emoji": "🌫️",
+"kind": "thing",
+"en": "a faded washed-out red shirt next to the same shirt in bright red"
+},
+"hủy": {
+"emoji": "🗑️",
+"kind": "action",
+"en": "a worker throwing a defective garment into a large waste bin"
+},
+"đếm": {
+"emoji": "🔢",
+"kind": "action",
+"en": "a worker pointing a finger while counting a stack of folded shirts"
+},
+"cân": {
+"emoji": "⚖️",
+"kind": "action",
+"en": "a worker weighing a cardboard box on a platform scale"
+},
+"ghi": {
+"emoji": "📝",
+"kind": "action",
+"en": "a worker writing with a pen on a clipboard beside stacked boxes"
+},
+"thẻ": {
+"emoji": "🪪",
+"kind": "thing",
+"en": "an employee ID badge with a blank photo area hanging on a lanyard"
+},
+"ký": {
+"emoji": "✍️",
+"kind": "action",
+"en": "a hand with a pen signing a scribbled signature at the bottom of a paper"
+},
+"kho": {
+"emoji": "🗄️",
+"kind": "thing",
+"en": "a warehouse interior with tall shelves stacked with cardboard boxes"
+},
+"xuất": {
+"emoji": "🚚",
+"kind": "action",
+"en": "workers loading cardboard boxes onto a delivery truck"
+},
+"lộn": {
+"emoji": "🔄",
+"kind": "action",
+"en": "hands turning a shirt inside out with one sleeve half pulled through"
+},
+"treo": {
+"emoji": "🧥",
+"kind": "action",
+"en": "a worker hanging a shirt on a garment rack"
+},
+"móc": {
+"emoji": "🪝",
+"kind": "thing",
+"en": "a plastic clothes hanger"
+},
+"băng dính": {
+"emoji": "🩹",
+"kind": "thing",
+"en": "a roll of clear packing tape in a hand-held dispenser"
+},
+"túi nilon": {
+"emoji": "🛍️",
+"kind": "thing",
+"en": "a folded shirt sealed inside a clear plastic bag"
+},
+"đóng thùng": {
+"emoji": "📦",
+"kind": "action",
+"en": "a worker packing folded garments into an open cardboard box"
+},
+"xếp": {
+"emoji": "👕",
+"kind": "action",
+"en": "hands folding a shirt on a table next to a neat stack of folded shirts"
+},
+"nhà ăn": {
+"emoji": "🍽️",
+"kind": "thing",
+"en": "a factory canteen with long tables, benches and food trays"
+},
+"cơm trưa": {
+"emoji": "🍱",
+"kind": "thing",
+"en": "a lunch tray with a bowl of rice, soup and side dishes"
+},
+"ký túc xá": {
+"emoji": "🛏️",
+"kind": "thing",
+"en": "a dormitory room with two bunk beds"
+},
+"đồng phục": {
+"emoji": "🦺",
+"kind": "thing",
+"en": "a factory work uniform shirt and cap on a hanger"
+},
+"giày": {
+"emoji": "👟",
+"kind": "thing",
+"en": "a pair of sneakers on the floor"
+},
+"dép": {
+"emoji": "🩴",
+"kind": "thing",
+"en": "a pair of rubber slippers on the floor"
+},
+"thang máy": {
+"emoji": "🛗",
+"kind": "thing",
+"en": "an elevator with open doors in a building hallway"
+},
+"ngân hàng": {
+"emoji": "🏦",
+"kind": "thing",
+"en": "a bank building facade with columns and glass doors"
+},
+"lối đi": {
+"emoji": "🚶",
+"kind": "thing",
+"en": "a clear walkway between factory shelves marked with painted floor lines"
+},
+"cửa": {
+"emoji": "🚪",
+"kind": "thing",
+"en": "a closed door with a handle"
+},
+"cầu thang": {
+"emoji": "🪜",
+"kind": "thing",
+"en": "a staircase with a handrail"
+},
+"bên phải": {
+"emoji": "➡️",
+"kind": "thing",
+"en": "a large bold arrow pointing to the right"
+},
+"bên trái": {
+"emoji": "⬅️",
+"kind": "thing",
+"en": "a large bold arrow pointing to the left"
+},
+"lên": {
+"emoji": "⬆️",
+"kind": "action",
+"en": "a person walking up a staircase with an upward arrow beside them"
+},
+"xuống": {
+"emoji": "⬇️",
+"kind": "action",
+"en": "a person walking down a staircase with a downward arrow beside them"
+},
+"gọi điện": {
+"emoji": "📞",
+"kind": "action",
+"en": "a person holding a smartphone to their ear making a call"
+},
+"nghe máy": {
+"emoji": "📲",
+"kind": "action",
+"en": "a hand reaching to pick up a ringing smartphone with sound lines around it"
+},
+"tin nhắn": {
+"emoji": "💬",
+"kind": "thing",
+"en": "a smartphone screen showing empty chat message bubbles"
+},
+"chờ": {
+"emoji": "✋",
+"kind": "action",
+"en": "a person holding up one open palm in a wait gesture"
+},
+"sạc": {
+"emoji": "🔌",
+"kind": "action",
+"en": "a smartphone plugged into a charging cable"
+},
+"trời": {
+"emoji": "🌤️",
+"kind": "thing",
+"en": "a wide blue sky with a sun and scattered clouds over a green field"
+},
+"mưa": {
+"emoji": "🌧️",
+"kind": "action",
+"en": "rain falling from dark clouds onto a street with puddles"
+},
+"nắng": {
+"emoji": "☀️",
+"kind": "thing",
+"en": "a bright shining sun with strong rays over a landscape"
+},
+"nóng": {
+"emoji": "🥵",
+"kind": "action",
+"en": "a person sweating under a blazing sun, wiping their forehead"
+},
+"lạnh": {
+"emoji": "🥶",
+"kind": "action",
+"en": "a person shivering in a thick coat and scarf with snowflakes around"
+},
+"gió": {
+"emoji": "💨",
+"kind": "action",
+"en": "strong wind bending a tree and blowing leaves through the air"
+},
+"mây": {
+"emoji": "☁️",
+"kind": "thing",
+"en": "fluffy white clouds floating in a blue sky"
+},
+"ô": {
+"emoji": "☂️",
+"kind": "thing",
+"en": "an open umbrella held above a person in light rain"
+},
+"xe máy": {
+"emoji": "🛵",
+"kind": "thing",
+"en": "a motorbike scooter parked on a city street"
+},
+"xe buýt": {
+"emoji": "🚌",
+"kind": "thing",
+"en": "a city bus stopped on a street with passengers boarding"
+},
+"đi bộ": {
+"emoji": "🚶",
+"kind": "action",
+"en": "a person walking along a sidewalk"
+},
+"sang đường": {
+"emoji": "🚸",
+"kind": "action",
+"en": "a pedestrian crossing a street on a zebra crosswalk"
+},
+"bến": {
+"emoji": "🚏",
+"kind": "thing",
+"en": "a bus stop with a sign pole and a bench, a bus approaching"
+},
+"vé": {
+"emoji": "🎫",
+"kind": "thing",
+"en": "a paper ticket stub with a perforated edge held in a hand"
+},
+"lái xe": {
+"emoji": "🚗",
+"kind": "action",
+"en": "hands on a steering wheel seen from inside a car, road visible through the windshield"
+},
+"xăng": {
+"emoji": "⛽",
+"kind": "thing",
+"en": "a fuel pump at a gas station filling a motorbike tank"
+},
+"tắc đường": {
+"emoji": "🚦",
+"kind": "thing",
+"en": "a traffic jam of cars and motorbikes packed in a row on a road"
+},
+"đỏ": {
+"emoji": "🔴",
+"kind": "thing",
+"en": "a bright red paint splash"
+},
+"đen": {
+"emoji": "⚫",
+"kind": "thing",
+"en": "a black paint splash"
+},
+"trắng": {
+"emoji": "⚪",
+"kind": "thing",
+"en": "a white paint splash on a dark gray background"
+},
+"vàng": {
+"emoji": "🟡",
+"kind": "thing",
+"en": "a bright yellow paint splash"
+},
+"hồng": {
+"emoji": "💗",
+"kind": "thing",
+"en": "a pink paint splash"
+},
+"nâu": {
+"emoji": "🟤",
+"kind": "thing",
+"en": "a brown paint splash"
+},
+"tím": {
+"emoji": "🟣",
+"kind": "thing",
+"en": "a purple paint splash"
+},
+"buồn": {
+"emoji": "😞",
+"kind": "action",
+"en": "a sad person with drooping shoulders and a downturned mouth"
+},
+"sợ": {
+"emoji": "😱",
+"kind": "action",
+"en": "a frightened person with wide eyes backing away from a dark shadow"
+},
+"giận": {
+"emoji": "😠",
+"kind": "action",
+"en": "an angry person with a red face clenching their fists"
+},
+"cười": {
+"emoji": "😄",
+"kind": "action",
+"en": "a person laughing brightly with a wide open smile"
+},
+"khóc": {
+"emoji": "😭",
+"kind": "action",
+"en": "a person crying with big tears streaming down their face"
+},
+"bóng đá": {
+"emoji": "⚽",
+"kind": "thing",
+"en": "a soccer ball on a grass field in front of a goal"
+},
+"xem phim": {
+"emoji": "🎬",
+"kind": "action",
+"en": "a person with popcorn watching a big movie screen in a dark theater"
+},
+"nghe nhạc": {
+"emoji": "🎧",
+"kind": "action",
+"en": "a person wearing headphones with music notes floating around"
+},
+"chụp ảnh": {
+"emoji": "📷",
+"kind": "action",
+"en": "a person taking a photo with a camera held up to their face"
+},
+"du lịch": {
+"emoji": "✈️",
+"kind": "action",
+"en": "a traveler pulling a rolling suitcase with a backpack, an airplane flying overhead"
+},
+"bơi": {
+"emoji": "🏊",
+"kind": "action",
+"en": "a person swimming in a pool with splashing water"
+},
+"đọc sách": {
+"emoji": "📖",
+"kind": "action",
+"en": "a person reading an open book in an armchair"
+},
+"hát": {
+"emoji": "🎤",
+"kind": "action",
+"en": "a person singing into a microphone with music notes in the air"
+},
+"giặt": {
+"emoji": "🧺",
+"kind": "action",
+"en": "a person loading clothes into a washing machine, a laundry basket beside them"
+},
+"nấu": {
+"emoji": "🍳",
+"kind": "action",
+"en": "a person at a stove stirring a steaming pot"
+},
+"rửa": {
+"emoji": "🍽️",
+"kind": "action",
+"en": "a person washing dishes at a kitchen sink with a sponge and soap bubbles"
+},
+"phơi": {
+"emoji": "👕",
+"kind": "action",
+"en": "a person pinning wet clothes on a clothesline in the sun"
+},
+"quét": {
+"emoji": "🧹",
+"kind": "action",
+"en": "a person sweeping the floor with a broom, a small pile of dust"
+},
+"lau": {
+"emoji": "🧽",
+"kind": "action",
+"en": "a person wiping a table with a cloth"
+},
+"rác": {
+"emoji": "🗑️",
+"kind": "thing",
+"en": "a full tied trash bag next to a trash bin"
+},
+"ngủ": {
+"emoji": "🛌",
+"kind": "action",
+"en": "a person sleeping in bed under a blanket, a crescent moon in the window"
+},
+"tắm": {
+"emoji": "🚿",
+"kind": "action",
+"en": "a person showering under running water with soap bubbles"
+},
+"mắt": {
+"emoji": "👁️",
+"kind": "thing",
+"en": "a close-up of a human eye on a simple face"
+},
+"mũi": {
+"emoji": "👃",
+"kind": "thing",
+"en": "a close-up of a human nose on a simple face in profile"
+},
+"miệng": {
+"emoji": "👄",
+"kind": "thing",
+"en": "a close-up of a human mouth with lips slightly open"
+},
+"răng": {
+"emoji": "🦷",
+"kind": "thing",
+"en": "a large white tooth beside a smiling mouth showing teeth"
+},
+"sốt": {
+"emoji": "🤒",
+"kind": "action",
+"en": "a person lying in bed with red cheeks, a thermometer in their mouth and an ice pack on their forehead"
+},
+"ho": {
+"emoji": "😷",
+"kind": "action",
+"en": "a person coughing into their fist with small droplets in the air"
+},
+"chóng mặt": {
+"emoji": "💫",
+"kind": "action",
+"en": "a dizzy person swaying with swirls and stars circling their head"
+},
+"hiệu thuốc": {
+"emoji": "💊",
+"kind": "thing",
+"en": "a pharmacy counter with shelves of medicine boxes and a pharmacist in a white coat, a green cross sign"
+},
+"khám": {
+"emoji": "🩺",
+"kind": "action",
+"en": "a doctor with a stethoscope examining a patient sitting on an exam bed"
+},
+"gặp nhau": {
+"emoji": "🤝",
+"kind": "action",
+"en": "two people greeting each other with a handshake and smiles"
+},
+"quán": {
+"emoji": "🏪",
+"kind": "thing",
+"en": "a small street-side eatery with low plastic tables and stools"
+},
+"trà": {
+"emoji": "🍵",
+"kind": "thing",
+"en": "a steaming cup of tea next to a teapot"
+},
+"bia": {
+"emoji": "🍺",
+"kind": "thing",
+"en": "two golden beer mugs with foam clinking together"
+},
+"say": {
+"emoji": "🥴",
+"kind": "action",
+"en": "a drunk person with a flushed face staggering and holding a bottle"
+},
+"karaoke": {
+"emoji": "🎙️",
+"kind": "thing",
+"en": "friends singing with microphones in a karaoke room with a screen and colorful lights"
+},
+"chúc mừng": {
+"emoji": "🎉",
+"kind": "action",
+"en": "a person clapping and congratulating another under falling confetti"
+},
+"sinh nhật": {
+"emoji": "🎂",
+"kind": "thing",
+"en": "a birthday cake with lit candles, balloons and party hats around it"
+},
+"quà": {
+"emoji": "🎁",
+"kind": "thing",
+"en": "a wrapped gift box with a ribbon bow"
+},
+"Tết": {
+"emoji": "🌼",
+"kind": "thing",
+"en": "yellow apricot blossoms, a red lantern and a square wrapped rice cake as Lunar New Year decorations"
+},
+"lì xì": {
+"emoji": "🧧",
+"kind": "thing",
+"en": "red lucky money envelopes with gold trim"
+},
+"bánh": {
+"emoji": "🍞",
+"kind": "thing",
+"en": "a bread loaf and rice cakes arranged on a plate"
+},
+"kẹo": {
+"emoji": "🍬",
+"kind": "thing",
+"en": "colorful wrapped candies scattered in a small pile"
+},
+"hộ chiếu": {
+"emoji": "🛂",
+"kind": "thing",
+"en": "a closed passport booklet with a gold emblem next to a small airplane"
+},
+"chợ đêm": {
+"emoji": "🏮",
+"kind": "thing",
+"en": "a busy night market with glowing lantern-lit food stalls in the dark"
+},
+"đêm": {
+"emoji": "🌙",
+"kind": "thing",
+"en": "a dark night sky with a crescent moon and stars over rooftops"
+},
+"xe ôm": {
+"emoji": "🏍️",
+"kind": "thing",
+"en": "a motorbike taxi driver in a green helmet carrying a passenger on the back seat"
+},
+"linh kiện": {
+"emoji": "⚙️",
+"kind": "thing",
+"en": "a tray of assorted small electronic components on an electronics factory workbench"
+},
+"màn hình": {
+"emoji": "🖥️",
+"kind": "thing",
+"en": "a flat smartphone display screen panel lying on an assembly table"
+},
+"pin": {
+"emoji": "🔋",
+"kind": "thing",
+"en": "a rectangular smartphone battery on an electronics workbench"
+},
+"mạch": {
+"emoji": "📟",
+"kind": "thing",
+"en": "a green printed circuit board with traces and small mounted components"
+},
+"chip": {
+"emoji": "💾",
+"kind": "thing",
+"en": "a small black square microchip with metal pins held on a fingertip"
+},
+"dây điện": {
+"emoji": "🔌",
+"kind": "thing",
+"en": "colored electrical wires coiled on a factory workbench"
+},
+"ốc vít": {
+"emoji": "🔩",
+"kind": "thing",
+"en": "small metal screws scattered next to a screwdriver"
+},
+"keo": {
+"emoji": "🧴",
+"kind": "thing",
+"en": "a tube of glue squeezing a drop onto a phone part"
+},
+"kính": {
+"emoji": "🔍",
+"kind": "thing",
+"en": "a clear rectangular glass panel for a phone screen held by gloved hands"
+},
+"lắp ráp": {
+"emoji": "🛠️",
+"kind": "action",
+"en": "a worker assembling smartphone parts together at a factory assembly line"
+},
+"gắn": {
+"emoji": "📌",
+"kind": "action",
+"en": "gloved hands attaching a small component onto a phone frame"
+},
+"vặn": {
+"emoji": "🪛",
+"kind": "action",
+"en": "a hand turning a screwdriver to drive a screw into a device"
+},
+"siết": {
+"emoji": "🔧",
+"kind": "action",
+"en": "a hand tightening a bolt firmly with a wrench"
+},
+"cắm": {
+"emoji": "🔌",
+"kind": "action",
+"en": "a hand plugging a cable into a power socket"
+},
+"rút": {
+"emoji": "⏏️",
+"kind": "action",
+"en": "a hand pulling a plug out of a power socket"
+},
+"bật": {
+"emoji": "💡",
+"kind": "action",
+"en": "a finger pressing a power switch on, the device lighting up"
+},
+"tắt": {
+"emoji": "📴",
+"kind": "action",
+"en": "a finger pressing a power switch off, the device going dark"
+},
+"nạp": {
+"emoji": "⚡",
+"kind": "action",
+"en": "a smartphone connected to a charger with its battery filling up"
+},
+"bụi": {
+"emoji": "🌫️",
+"kind": "thing",
+"en": "gray dust particles floating above a dusty surface with a finger wipe mark"
+},
+"phòng sạch": {
+"emoji": "🥼",
+"kind": "thing",
+"en": "workers in white full-body cleanroom suits inside a bright white factory room"
+},
+"vòng tay": {
+"emoji": "📿",
+"kind": "thing",
+"en": "an anti-static wrist strap with a coiled cord worn on a worker's wrist"
+},
+"mũ": {
+"emoji": "🧢",
+"kind": "thing",
+"en": "a fabric work cap resting on a locker shelf"
+},
+"thổi": {
+"emoji": "💨",
+"kind": "action",
+"en": "a worker blowing dust off a part with an air blower, a puff of air visible"
+},
+"hút": {
+"emoji": "🌀",
+"kind": "action",
+"en": "a vacuum nozzle sucking up dust particles from a work surface"
+},
+"vào": {
+"emoji": "🚪",
+"kind": "action",
+"en": "a worker stepping in through an open doorway"
+},
+"máy đo": {
+"emoji": "📏",
+"kind": "thing",
+"en": "a digital caliper measuring a small metal part"
+},
+"camera": {
+"emoji": "📷",
+"kind": "thing",
+"en": "a small inspection camera on a stand pointed at a product on a conveyor"
+},
+"phóng to": {
+"emoji": "🔎",
+"kind": "action",
+"en": "a hand holding a magnifying glass enlarging a tiny part"
+},
+"soi": {
+"emoji": "🔬",
+"kind": "action",
+"en": "a worker peering closely at a circuit board under a bright inspection lamp"
+},
+"hình": {
+"emoji": "🖼️",
+"kind": "thing",
+"en": "a framed simple picture of a landscape hanging on a wall"
+},
+"dây chuyền": {
+"emoji": "🏭",
+"kind": "thing",
+"en": "a long factory conveyor belt line with workers assembling products along it"
+},
+"ngừng": {
+"emoji": "🛑",
+"kind": "action",
+"en": "a hand pressing a large red stop button on a machine, the conveyor halted"
+},
+"chạy": {
+"emoji": "▶️",
+"kind": "action",
+"en": "a machine conveyor belt running with motion lines after a green button is pressed"
+},
+"đổi ca": {
+"emoji": "🔄",
+"kind": "action",
+"en": "two factory workers in different colored uniforms swapping places at a workstation"
+},
+"máy tính": {
+"emoji": "💻",
+"kind": "thing",
+"en": "a laptop computer open on an office desk"
+},
+"email": {
+"emoji": "📧",
+"kind": "thing",
+"en": "a computer screen showing a large envelope icon with a notification dot"
+},
+"in": {
+"emoji": "🖨️",
+"kind": "action",
+"en": "an office printer printing out a sheet of paper"
+},
+"giấy": {
+"emoji": "📄",
+"kind": "thing",
+"en": "a neat stack of blank white paper sheets on a desk"
+},
+"bút": {
+"emoji": "🖊️",
+"kind": "thing",
+"en": "a ballpoint pen lying on a notebook"
+},
+"hồ sơ": {
+"emoji": "🗂️",
+"kind": "thing",
+"en": "file folders with tabs stacked in an office document tray"
+},
+"lịch": {
+"emoji": "📅",
+"kind": "thing",
+"en": "a wall calendar grid with one day circled in red"
+},
+"cuộc họp": {
+"emoji": "👥",
+"kind": "thing",
+"en": "several office workers sitting around a conference table in a meeting"
+},
+"khách hàng": {
+"emoji": "🛍️",
+"kind": "thing",
+"en": "a customer holding a shopping bag standing at a store counter"
+},
+"phục vụ": {
+"emoji": "🍽️",
+"kind": "action",
+"en": "a waiter carrying a tray of food to serve a seated customer"
+},
+"thực đơn": {
+"emoji": "📖",
+"kind": "thing",
+"en": "an open restaurant menu with small food pictures and price lines"
+},
+"gói": {
+"emoji": "📦",
+"kind": "action",
+"en": "hands packing food into a takeout box and tying a bag"
+},
+"mang về": {
+"emoji": "🥡",
+"kind": "action",
+"en": "a customer walking out of a shop carrying a takeout bag"
+},
+"tính tiền": {
+"emoji": "💳",
+"kind": "action",
+"en": "a cashier at a register taking payment from a customer"
+},
+"tiền mặt": {
+"emoji": "💵",
+"kind": "thing",
+"en": "paper banknotes and coins lying on a counter"
+},
+"giảm giá": {
+"emoji": "🏷️",
+"kind": "action",
+"en": "a shopkeeper placing a red percent discount tag on a product"
+},
+"hóa đơn": {
+"emoji": "🧾",
+"kind": "thing",
+"en": "a paper receipt with item lines printing out of a register"
+},
+"sân bay": {
+"emoji": "🛫",
+"kind": "thing",
+"en": "an airport terminal building with a control tower and an airplane behind it"
+},
+"máy bay": {
+"emoji": "✈️",
+"kind": "thing",
+"en": "a passenger airplane flying among clouds"
+},
+"khách sạn": {
+"emoji": "🏨",
+"kind": "thing",
+"en": "a tall hotel building with a canopy entrance and a luggage cart"
+},
+"giấy tờ": {
+"emoji": "📃",
+"kind": "thing",
+"en": "a passport and a small stack of official papers with a stamp seal"
+},
+"chuyển tiền": {
+"emoji": "💸",
+"kind": "action",
+"en": "banknotes flying along an arrow from one smartphone to another"
+},
+"rút tiền": {
+"emoji": "🏧",
+"kind": "action",
+"en": "a hand taking banknotes out of an ATM cash slot"
+},
+"đổi tiền": {
+"emoji": "💱",
+"kind": "action",
+"en": "hands exchanging two different colored currencies over a bank counter with swap arrows"
+},
+"mật khẩu": {
+"emoji": "🔒",
+"kind": "thing",
+"en": "a smartphone screen showing a padlock above a row of hidden password dots"
+},
+"điền": {
+"emoji": "✍️",
+"kind": "action",
+"en": "a hand with a pen filling in a paper form with empty boxes and checkboxes"
+},
+"nộp": {
+"emoji": "📤",
+"kind": "action",
+"en": "a person handing a document across a counter to a bank clerk"
+},
+"hàn": {
+"emoji": "🧑‍🏭",
+"kind": "action",
+"en": "a worker soldering a component onto a circuit board with a soldering iron in an electronics factory"
+},
+"mối hàn": {
+"emoji": "🔘",
+"kind": "thing",
+"en": "a close-up of shiny silver solder joints on a green circuit board"
+},
+"thiếc": {
+"emoji": "🧵",
+"kind": "thing",
+"en": "a spool of thin silver solder wire on a workbench"
+},
+"mỏ hàn": {
+"emoji": "🖊️",
+"kind": "thing",
+"en": "a soldering iron resting on its metal stand on a work table"
+},
+"khói": {
+"emoji": "💨",
+"kind": "thing",
+"en": "a thin wisp of gray smoke rising from a soldering iron tip"
+},
+"bo mạch": {
+"emoji": "📟",
+"kind": "thing",
+"en": "a green circuit board covered with small electronic components"
+},
+"kẹp": {
+"emoji": "🗜️",
+"kind": "thing",
+"en": "a metal clamp holding a small circuit board on a workbench"
+},
+"nguồn": {
+"emoji": "🔌",
+"kind": "thing",
+"en": "a power plug being inserted into a wall outlet"
+},
+"khởi động": {
+"emoji": "▶️",
+"kind": "action",
+"en": "a finger pressing the round power button of a computer monitor as the screen lights up"
+},
+"kết nối": {
+"emoji": "🔗",
+"kind": "action",
+"en": "hands plugging a cable into a port on a computer"
+},
+"nứt": {
+"emoji": "📱",
+"kind": "thing",
+"en": "a smartphone screen with a long crack running across it"
+},
+"vỡ": {
+"emoji": "💥",
+"kind": "action",
+"en": "a glass panel shattering into flying pieces"
+},
+"cháy": {
+"emoji": "🔥",
+"kind": "action",
+"en": "a scorched electronic component on a circuit board with a small flame and smoke"
+},
+"chập": {
+"emoji": "⚡",
+"kind": "action",
+"en": "two touching electrical wires giving off bright sparks"
+},
+"rò": {
+"emoji": "💧",
+"kind": "action",
+"en": "liquid dripping and leaking from a crack in a pipe"
+},
+"rung": {
+"emoji": "📳",
+"kind": "action",
+"en": "a machine part shaking with vibration motion lines around it"
+},
+"nối": {
+"emoji": "🔗",
+"kind": "action",
+"en": "two electrical wire ends being twisted together to join them"
+},
+"nhiệt độ": {
+"emoji": "🌡️",
+"kind": "thing",
+"en": "a red-column wall thermometer in a factory"
+},
+"quạt": {
+"emoji": "🌀",
+"kind": "thing",
+"en": "a large electric ventilation fan on a factory wall"
+},
+"lọc": {
+"emoji": "🫗",
+"kind": "action",
+"en": "liquid being poured through a paper filter in a funnel, dripping out clean below"
+},
+"màng lọc": {
+"emoji": "🧽",
+"kind": "thing",
+"en": "a pleated white air filter panel held in two hands"
+},
+"bụi mịn": {
+"emoji": "🌫️",
+"kind": "thing",
+"en": "a gray haze of tiny fine dust particles floating in the air"
+},
+"pallet": {
+"emoji": "🪵",
+"kind": "thing",
+"en": "a wooden pallet stacked with cardboard boxes in a warehouse"
+},
+"niêm phong": {
+"emoji": "🔏",
+"kind": "action",
+"en": "a worker sealing a cardboard box shut with packing tape"
+},
+"cân nặng": {
+"emoji": "⚖️",
+"kind": "thing",
+"en": "a cardboard box sitting on a platform weighing scale"
+},
+"danh sách": {
+"emoji": "📋",
+"kind": "thing",
+"en": "a clipboard holding a paper with rows of blank list lines and checkboxes"
+},
+"ký nhận": {
+"emoji": "✍️",
+"kind": "action",
+"en": "a worker signing a receipt clipboard while a delivery man hands over a box"
+},
+"xe nâng": {
+"emoji": "🚜",
+"kind": "thing",
+"en": "a yellow forklift lifting a pallet of boxes in a warehouse"
+},
+"nâng": {
+"emoji": "🏋️",
+"kind": "action",
+"en": "a worker lifting a heavy box upward with both hands"
+},
+"hạ": {
+"emoji": "⬇️",
+"kind": "action",
+"en": "a worker bending down to set a cardboard box on the warehouse floor"
+},
+"lùi": {
+"emoji": "◀️",
+"kind": "action",
+"en": "a forklift driver looking back over his shoulder while backing up, with motion lines behind the forklift"
+},
+"đứng": {
+"emoji": "🧍",
+"kind": "action",
+"en": "a worker standing upright with arms at his sides"
+},
+"nặng": {
+"emoji": "🪨",
+"kind": "action",
+"en": "a worker straining and sweating while trying to lift a very heavy box"
+},
+"nhẹ": {
+"emoji": "🪶",
+"kind": "action",
+"en": "a smiling worker easily holding a small light box with one hand"
+},
+"nhập kho": {
+"emoji": "📥",
+"kind": "action",
+"en": "a worker wheeling a hand truck of boxes in through a warehouse door"
+},
+"xuất kho": {
+"emoji": "📤",
+"kind": "action",
+"en": "a worker carrying boxes out of a warehouse door toward a waiting delivery truck"
+},
+"kệ": {
+"emoji": "🗄️",
+"kind": "thing",
+"en": "tall metal warehouse shelving racks holding cardboard boxes"
+},
+"sắp xếp": {
+"emoji": "🗂️",
+"kind": "action",
+"en": "a worker neatly arranging boxes into straight rows on a shelf"
+},
+"trống": {
+"emoji": "🫙",
+"kind": "thing",
+"en": "an open cardboard box that is completely empty inside"
+},
+"đầy": {
+"emoji": "📦",
+"kind": "thing",
+"en": "a cardboard box filled to the top with contents overflowing"
+},
+"kiểm kê": {
+"emoji": "📝",
+"kind": "action",
+"en": "a worker counting stacked boxes on shelves while marking a checklist on a clipboard"
+},
+"sổ sách": {
+"emoji": "📒",
+"kind": "thing",
+"en": "a thick open ledger book with ruled blank lines on a desk"
+},
+"lẫn": {
+"emoji": "🔀",
+"kind": "thing",
+"en": "a box in which red parts and blue parts are jumbled together in a mix"
+},
+"cất": {
+"emoji": "🧰",
+"kind": "action",
+"en": "a worker putting a tool away into a storage cabinet"
+},
+"bốc": {
+"emoji": "⬆️",
+"kind": "action",
+"en": "workers lifting cardboard boxes up onto the open bed of a truck"
+},
+"dỡ": {
+"emoji": "⬇️",
+"kind": "action",
+"en": "a worker carrying boxes down off a truck bed onto the ground"
+},
+"xe tải": {
+"emoji": "🚚",
+"kind": "thing",
+"en": "a box delivery truck with an open cargo bed"
+},
+"container": {
+"emoji": "🚛",
+"kind": "thing",
+"en": "a large corrugated metal shipping container"
+},
+"buộc": {
+"emoji": "🪢",
+"kind": "action",
+"en": "hands tying a rope tightly around a stack of boxes"
+},
+"che": {
+"emoji": "☂️",
+"kind": "action",
+"en": "a worker pulling a tarp cover over goods on a truck bed"
+},
+"bọc": {
+"emoji": "🎁",
+"kind": "action",
+"en": "hands wrapping an item in bubble wrap"
+},
+"cẩu": {
+"emoji": "🏗️",
+"kind": "thing",
+"en": "a tall crane lifting a shipping container"
+},
+"chất lên": {
+"emoji": "🧱",
+"kind": "action",
+"en": "a worker stacking boxes one on top of another into a tall pile"
+},
+"giao nhận": {
+"emoji": "🤝",
+"kind": "action",
+"en": "a delivery driver handing a package to a receiving worker at a warehouse door"
+},
+"người nhận": {
+"emoji": "🤲",
+"kind": "thing",
+"en": "a person with open arms receiving a delivered package"
+},
+"người gửi": {
+"emoji": "📮",
+"kind": "thing",
+"en": "a person handing a parcel over a counter to send it"
+},
+"hư hỏng": {
+"emoji": "💔",
+"kind": "thing",
+"en": "a dented, crushed cardboard parcel with a torn corner"
+},
+"chụp lại": {
+"emoji": "📸",
+"kind": "action",
+"en": "a worker photographing a damaged box with a smartphone"
+},
+"nghề": {
+"emoji": "🧑‍🔧",
+"kind": "thing",
+"en": "a worker in overalls holding tools, representing a trade or occupation"
+},
+"nhân viên": {
+"emoji": "👔",
+"kind": "thing",
+"en": "an office employee with an ID badge standing at a desk"
+},
+"văn phòng": {
+"emoji": "🏢",
+"kind": "thing",
+"en": "a simple office room with a desk, chair and computer"
+},
+"học": {
+"emoji": "📖",
+"kind": "action",
+"en": "a person reading an open book and taking notes"
+},
+"vất vả": {
+"emoji": "😓",
+"kind": "thing",
+"en": "a tired worker wiping sweat from the forehead after hard work"
+},
+"tuyển": {
+"emoji": "📢",
+"kind": "action",
+"en": "a hiring notice board with a megaphone, people applying for jobs"
+},
+"giám đốc": {
+"emoji": "🧑‍💼",
+"kind": "thing",
+"en": "a company director in a suit standing in front of an office"
+},
+"nhân sự": {
+"emoji": "🗂️",
+"kind": "thing",
+"en": "an HR staff member holding employee files and folders"
+},
+"bảo vệ": {
+"emoji": "💂",
+"kind": "thing",
+"en": "a security guard in uniform standing at a factory gate"
+},
+"trăm": {
+"emoji": "💯",
+"kind": "thing",
+"en": "a bundle of one hundred coins stacked, the number 100 implied by size"
+},
+"chục": {
+"emoji": "🔟",
+"kind": "thing",
+"en": "ten identical apples grouped together in one bundle"
+},
+"triệu": {
+"emoji": "💰",
+"kind": "thing",
+"en": "a huge pile of money bags, representing a very large amount"
+},
+"giá": {
+"emoji": "🏷️",
+"kind": "thing",
+"en": "a price tag hanging on a product"
+},
+"tính": {
+"emoji": "🧮",
+"kind": "action",
+"en": "hands using a calculator to add up numbers"
+},
+"cộng": {
+"emoji": "➕",
+"kind": "thing",
+"en": "a large plus sign with two groups of apples joining together"
+},
+"trừ": {
+"emoji": "➖",
+"kind": "thing",
+"en": "a large minus sign with apples being taken away from a group"
+},
+"bằng": {
+"emoji": "🟰",
+"kind": "thing",
+"en": "a large equals sign between two identical groups of apples"
+},
+"tiền lẻ": {
+"emoji": "🪙",
+"kind": "thing",
+"en": "a small handful of coins and small banknotes"
+},
+"tiền thừa": {
+"emoji": "💵",
+"kind": "thing",
+"en": "a cashier handing change back to a customer's open hand"
+},
+"tạm ứng": {
+"emoji": "🤲",
+"kind": "action",
+"en": "a hand receiving an envelope of money in advance from an employer"
+},
+"khoảng": {
+"emoji": "〰️",
+"kind": "thing",
+"en": "a scale with a wavy approximate mark, showing about how much"
+},
+"nhân": {
+"emoji": "✖️",
+"kind": "thing",
+"en": "a large multiplication sign with rows and columns of apples"
+},
+"chia": {
+"emoji": "➗",
+"kind": "thing",
+"en": "a large division sign with apples split into equal groups"
+},
+"chuối": {
+"emoji": "🍌",
+"kind": "thing",
+"en": "a bunch of ripe yellow bananas"
+},
+"xoài": {
+"emoji": "🥭",
+"kind": "thing",
+"en": "a whole ripe mango with a cut half showing yellow flesh"
+},
+"dứa": {
+"emoji": "🍍",
+"kind": "thing",
+"en": "a pineapple"
+},
+"dừa": {
+"emoji": "🥥",
+"kind": "thing",
+"en": "a green coconut with a straw"
+},
+"táo": {
+"emoji": "🍎",
+"kind": "thing",
+"en": "a red apple"
+},
+"dưa hấu": {
+"emoji": "🍉",
+"kind": "thing",
+"en": "a watermelon with one cut wedge"
+},
+"dâu tây": {
+"emoji": "🍓",
+"kind": "thing",
+"en": "three red strawberries"
+},
+"đào": {
+"emoji": "🍑",
+"kind": "thing",
+"en": "a peach with a small leaf"
+},
+"lợn": {
+"emoji": "🐷",
+"kind": "thing",
+"en": "a pink pig"
+},
+"trứng": {
+"emoji": "🥚",
+"kind": "thing",
+"en": "a basket of plain white and brown chicken eggs, realistic egg shape and color, not colorful or painted"
+},
+"rau muống": {
+"emoji": "🥬",
+"kind": "thing",
+"en": "a bundle of water spinach with long hollow stems"
+},
+"tỏi": {
+"emoji": "🧄",
+"kind": "thing",
+"en": "garlic bulbs and cloves"
+},
+"khoai tây": {
+"emoji": "🥔",
+"kind": "thing",
+"en": "three potatoes"
+},
+"dưa chuột": {
+"emoji": "🥒",
+"kind": "thing",
+"en": "two cucumbers"
+},
+"cà rốt": {
+"emoji": "🥕",
+"kind": "thing",
+"en": "carrots with green tops"
+},
+"cà chua": {
+"emoji": "🍅",
+"kind": "thing",
+"en": "red tomatoes on the vine"
+},
+"ớt tây": {
+"emoji": "🫑",
+"kind": "thing",
+"en": "red yellow and green bell peppers"
+},
+"bánh mì": {
+"emoji": "🥖",
+"kind": "thing",
+"en": "a vietnamese baguette sandwich filled with vegetables and meat"
+},
+"mỳ xào": {
+"emoji": "🍝",
+"kind": "thing",
+"en": "a plate of stir-fried yellow noodles with vegetables"
+},
+"đôi đũa": {
+"emoji": "🥢",
+"kind": "thing",
+"en": "a pair of wooden chopsticks on a chopstick rest"
+},
+"cái thìa": {
+"emoji": "🥄",
+"kind": "thing",
+"en": "a metal spoon"
+},
+"sữa tươi": {
+"emoji": "🥛",
+"kind": "thing",
+"en": "a glass of fresh milk beside a milk bottle"
+},
+"rượu": {
+"emoji": "🍾",
+"kind": "thing",
+"en": "a plain green glass bottle with a blank label and a small cup of pale yellow liquid, no text, no writing, no characters on the label"
+},
+"nước hoa quả": {
+"emoji": "🧃",
+"kind": "thing",
+"en": "a tall glass of fruit juice with orange slices"
+},
+"kem": {
+"emoji": "🍦",
+"kind": "thing",
+"en": "an ice cream cone with two scoops"
+},
+"đi thẳng": {
+"emoji": "⬆️",
+"kind": "action",
+"en": "an arrow pointing straight up"
+},
+"rẽ trái": {
+"emoji": "↩️",
+"kind": "action",
+"en": "a turn-left arrow"
+},
+"rẽ phải": {
+"emoji": "↪️",
+"kind": "action",
+"en": "a turn-right arrow"
+},
+"chậm lại": {
+"emoji": "🐌",
+"kind": "action",
+"en": "a snail on a road"
+},
+"dừng lại": {
+"emoji": "🛑",
+"kind": "action",
+"en": "a red octagon stop sign shape with a blank face"
+},
+"nhanh lên": {
+"emoji": "🏃",
+"kind": "action",
+"en": "a person running fast with speed lines"
+},
+"xe taxi": {
+"emoji": "🚕",
+"kind": "thing",
+"en": "a yellow taxi cab"
+},
+"cái ghế": {
+"emoji": "🪑",
+"kind": "thing",
+"en": "a wooden chair"
+},
+"quyển sách": {
+"emoji": "📖",
+"kind": "thing",
+"en": "an open book"
+},
+"con mèo": {
+"emoji": "🐱",
+"kind": "thing",
+"en": "a cute cat sitting"
+},
+"con chó": {
+"emoji": "🐶",
+"kind": "thing",
+"en": "a friendly dog sitting"
+},
+"động vật": {
+"emoji": "🐾",
+"kind": "thing",
+"en": "a cat, a dog and a bird together"
+},
+"cô giáo": {
+"emoji": "👩‍🏫",
+"kind": "thing",
+"en": "a friendly female teacher holding a book"
+},
+"trung tâm": {
+"emoji": "🏫",
+"kind": "thing",
+"en": "a small school building"
+}
+}
