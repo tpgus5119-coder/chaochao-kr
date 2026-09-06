@@ -1,13 +1,14 @@
 /* 오프라인 캐시.
    앱 껍데기와 커리큘럼은 처음 열 때 통째로 받아두고,
    음성은 22MB나 되므로 한 번 재생한 것만 캐시에 남긴다 (데이터 요금 배려). */
-const V = 'vn-4ab4811d';
+const V = 'vn-94174258';
 const SHELL = ['./', './index.html', './app.js', './pitch.js', './style.css',
                './manifest.json', './icon.png',
-               // 새 짜임(일곱 권)의 알맹이 — 이것이 없으면 비행기 모드에서 과정이 안 열린다
-               './data/days.json', './data/audio_index.json',
-               './data/order.json', './data/grammar.json', './data/know.json',
-               './data/exgloss.json'];
+               // 한국어 코스 전용 앱(2026-09-07 분리)의 알맹이
+               './data/ko_days.json', './data/ko_audio_index.json',
+               './data/ko_exams.json', './data/ko_grammar.json',
+               './data/ko_basics.json', './data/ko_strategy.json',
+               './data/ko_culture.json'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(V).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
