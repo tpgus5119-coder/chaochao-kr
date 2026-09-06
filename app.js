@@ -1,5 +1,4 @@
 'use strict';
-(function(){var of=window.fetch;window.fetch=function(u){if(String(u).includes('order.json')){console.error('ORDER_FETCH_TRACE '+(new Error().stack||'').replace(/\n/g,' | '));}return of.apply(window,arguments);};})();
 
 /* 확대·축소 원천 봉쇄 — iOS 사파리는 meta의 user-scalable=no 를 무시할 수 있어
    집게 확대(gesturestart)를 코드로 막는다. 더블탭 확대는 CSS touch-action이 막는다 —
@@ -5042,7 +5041,7 @@ function loadCWords() {
 }
 
 addEventListener('load', () => {
-  if (COURSE) return;
+  if (COURSE || learnKo()) return;  // 베트남어 코스 전용 미리 받기 — 한국어 전용 앱엔 없다(2026-09-07)
   fetch('data/order.json', { cache: 'no-cache' }).then(r => r.json())
     .then(j => { COURSE = j; loadCWords(); }).catch(() => { });
 });
