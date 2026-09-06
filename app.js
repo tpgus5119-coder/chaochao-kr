@@ -4836,7 +4836,10 @@ const EXTRAG = { 'để': '~하도록·두다', 'dạ': '네 (공손)', 'mắc':
    없으면 예문 낱말을 눌렀을 때 「아직 뜻이 없는 낱말입니다」가 뜬다 (466종 3,201회였다).
    대표님 지시(2026-08-30): 예문 낱말도 소리·발음·뜻이 다 나와야 한다. */
 let EXG = {};
-fetch('data/exgloss.json').then(r => r.json()).then(j => { EXG = j; GVOC = null; GKR = null; }).catch(() => {});
+// 베트남어 코스 전용 파일 — 한국어 전용 앱(2026-09-07 분리)에는 없다
+if (!learnKo()) {
+  fetch('data/exgloss.json').then(r => r.json()).then(j => { EXG = j; GVOC = null; GKR = null; }).catch(() => {});
+}
 const exgKo = k => { const v = EXG[k]; return v && (typeof v === 'string' ? v : v.ko); };
 const exgKr = k => { const v = EXG[k]; return v && typeof v === 'object'
   ? (S.region === 's' ? (v.krs || v.kr) : v.kr) : ''; };
@@ -11363,10 +11366,16 @@ if ('serviceWorker' in navigator) {
   addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => { }));
 }
 
-Promise.all([
-  fetch('data/days.json', { cache: 'no-cache' }).then(r => r.json()),
-  fetch('data/audio_index.json', { cache: 'no-cache' }).then(r => r.json())
-]).then(([d, a]) => {
+// 베트남어 코스 전용 데이터(days.json/audio_index.json)는 이 앱(한국어 전용)엔 없다
+// (2026-09-07, 코스 분리) — 로그인 관문·닉네임·홈 진입 로직은 공유라 그대로 두고,
+// 이 데이터만 빈 값으로 대신한다.
+const boot = learnKo()
+  ? Promise.resolve([{ prep: [], days: [], tonedrill: [], voweldrill: [] }, {}])
+  : Promise.all([
+      fetch('data/days.json', { cache: 'no-cache' }).then(r => r.json()),
+      fetch('data/audio_index.json', { cache: 'no-cache' }).then(r => r.json())
+    ]);
+boot.then(([d, a]) => {
   ALL = [...(d.prep || []), ...d.days];
   DRILL = d.tonedrill || [];
   VDRILL = d.voweldrill || [];
