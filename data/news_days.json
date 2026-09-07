@@ -238,7 +238,7 @@
     ],
     "extra": []
    },
-   "n": 5
+   "n": 6
   },
   {
    "ts": "2026-09-07",
@@ -473,7 +473,7 @@
     ],
     "extra": []
    },
-   "n": 4
+   "n": 5
   },
   {
    "ts": "2026-09-07",
@@ -701,6 +701,266 @@
         "name": "huyền",
         "ko": "낮게 내려감",
         "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 4
+  },
+  {
+   "ts": "2026-09-07",
+   "day": "Nno=43981",
+   "track": "news",
+   "theme": "은행 금리",
+   "title": "“예금금리 오르는데 묶인 대출금리” 베트남 은행권의 '이상한 셈법'",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=43981",
+   "cat": "경제",
+   "intro": "베트남 은행들의 대출 증가로 예금 유치 경쟁이 치열해졌습니다. 대출금리가 묶여 예대금리차가 줄고 대형 은행이 큰 이익을 봤습니다.",
+   "words": [
+    {
+     "vi": "ngân hàng",
+     "ko": "은행",
+     "kr_read": "응언 항",
+     "emoji": "🏦",
+     "en": "a modern bank building",
+     "tones": [
+      {
+       "syl": "ngân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-ngan-hang.webp"
+    },
+    {
+     "vi": "gửi tiền",
+     "ko": "예금하다",
+     "kr_read": "그이 띠엔",
+     "emoji": "💵",
+     "en": "handing cash to a bank teller",
+     "tones": [
+      {
+       "syl": "gửi",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-gui-tien.webp"
+    },
+    {
+     "vi": "vay tiền",
+     "ko": "대출받다",
+     "kr_read": "바이 띠엔",
+     "emoji": "💸",
+     "en": "receiving paper money from a bank teller",
+     "tones": [
+      {
+       "syl": "vay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-vay-tien.webp"
+    },
+    {
+     "vi": "lãi suất",
+     "ko": "금리, 이자율",
+     "kr_read": "라이 쑤엇",
+     "emoji": "📈",
+     "en": "a chart showing rising interest rates",
+     "tones": [
+      {
+       "syl": "lãi",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      },
+      {
+       "syl": "suất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-lai-suat.webp"
+    },
+    {
+     "vi": "sổ tiết kiệm",
+     "ko": "예금통장",
+     "kr_read": "쏘 띠엣 끼엠",
+     "emoji": "📒",
+     "en": "a bank savings passbook",
+     "tones": [
+      {
+       "syl": "sổ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tiết",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "kiệm",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-so-tiet-kiem.webp"
+    },
+    {
+     "vi": "đầu tư",
+     "ko": "투자하다",
+     "kr_read": "더우 뜨",
+     "emoji": "📊",
+     "en": "a person looking at financial charts",
+     "tones": [
+      {
+       "syl": "đầu",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "tư",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-dau-tu.webp"
+    }
+   ],
+   "dialog": {
+    "title": "은행 금리",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Ngân hàng này lãi suất cao không?",
+      "ko": "이 은행은 금리가 높은가요?",
+      "kr_read": "응언 항 나이 라이 쑤엇 까오 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Ngân",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hàng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "lãi",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "suất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "cao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, lãi suất gửi tiền cao lắm.",
+      "ko": "네, 예금 금리가 아주 높아요.",
+      "kr_read": "꼬 라이 쑤엇 그이 띠엔 까오 람",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "lãi",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "suất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "gửi",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "cao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "lắm.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
        }
       ],
       "gloss": []
@@ -1181,5 +1441,5 @@
    "n": 1
   }
  ],
- "updated": "2026-09-08 01:29"
+ "updated": "2026-09-08 08:42"
 }
