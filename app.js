@@ -1425,14 +1425,21 @@ function show(v, title, canBack) {
   VIEWS.forEach(x => $('#' + x).hidden = x !== v);
   $('#title').textContent = tr(title);
   $('#back').hidden = !canBack;
-  /* 홈 단추 — 홈이 아닐 때는 늘 보인다 (대표님 지시, 2026-08-30).
-     뒤로(‹)는 한 칸씩 돌아가지만, 깊이 들어간 자리에서는 몇 번을 눌러야 하는지 알 수 없다.
-     어디서든 한 번에 나가는 길이 있어야 한다. */
-  $('#goHome').hidden = v === 'home';
   if (window.cardArrows) setTimeout(window.cardArrows, 0);   // 좌우 넘김 단추는 학습 화면에서만
   CURV = v;
   topBtns();
+  syncTabbar(v, title);   // 하단 탭바 — 이 화면이 넷 중 하나면 그 탭을 밝힌다
   window.scrollTo(0, 0);
+}
+
+/* 하단 탭바 밝히기 — exam 화면 하나를 날마다 배우기·모의고사·단어장·순위 넷이 나눠 쓰므로
+   view 이름만으로는 못 가른다. show()가 받는 title(화면 제목)로 구분한다. */
+const TAB_TITLE = { '모의고사': 'exam', '단어장': 'book', '순위': 'cred' };
+function syncTabbar(v, title) {
+  const bar = $('#tabbar');
+  if (!bar) return;
+  const t = v === 'home' ? 'home' : (TAB_TITLE[title] || null);
+  bar.querySelectorAll('.tabbtn').forEach(b => b.classList.toggle('active', b.dataset.tab === t));
 }
 
 
@@ -2432,6 +2439,9 @@ function drawKoHome() {
   head.append(el('div', 'kohsub', 'EPS-TOPIK · KIIP · TOPIK I 시험 대비'));
   plan.append(head);
 
+  // 이번 주 출석 — 월~일, 실제 출석 기록(S.act·weekDots())만 쓴다. 지어낸 표시 없음.
+  plan.append(koWeekCard());
+
   // 날마다 배우기 — 오늘 화면 첫 자리. 진도는 S.kday(마지막으로 본 날, 없으면 1일차부터).
   const dayRow = el('div', 'plancell go');
   const dk = el('span', 'pk'), dv = el('span', 'pv');
@@ -2458,11 +2468,70 @@ function drawKoHome() {
   row.onclick = examEntry;
   plan.append(row);
 
+  // 78일 과정 로드맵 — 지금 위치(S.kday) 둘레 네 날. KDDATA(ko_days.json)를 아직 안 받았으면 받아 온다.
+  plan.append(koRoadmapCard());
+
   const note = el('p', 'note');
   note.append(el('b', null, '지금 있는 것 — 날마다 배우기 78일, 모의고사 45벌(보기별 해설 포함), 기본기, 문법 78개, 한국 문화, AI 채점 말하기·쓰기'));
   note.append(document.createElement('br'));
   note.append(document.createTextNode(tr('아직 없는 것 — TOPIK II 쓰기 연습 회차, 공식 기출 풀이(공식 자료실로 안내합니다)')));
   plan.append(note);
+}
+
+/* 이번 주 출석 카드 — weekDots()가 이미 진짜 출석 기록(S.act)으로 월~일을 셈해 준다
+   (renderProgress()의 베트남어 코스판과 같은 자료원, 새 추적을 만들지 않는다). */
+function koWeekCard() {
+  const card = el('div', 'wkcal');
+  const dots = weekDots();
+  const n = dots.filter(d => d.done).length;
+  const head = el('div', 'wkhead');
+  head.append(el('strong', null, tr('이번 주 N일 공부').replace('N', n)));
+  card.append(head);
+  const row = el('div', 'wkrow');
+  tr('월 화 수 목 금 토 일').split(' ').forEach((label, i) => {
+    const d = dots[i];
+    const cell = el('div', 'wkcell' + (d.done ? ' done' : '') + (d.today ? ' today' : '') + (d.future ? ' future' : ''));
+    const lbl = el('span', 'wklbl'); lbl.textContent = label;
+    const dot = el('span', 'wkdot'); dot.textContent = d.done ? '✓' : '';
+    cell.append(lbl, dot);
+    row.append(cell);
+  });
+  card.append(row);
+  return card;
+}
+
+/* 78일 과정 로드맵 — 지금 위치(S.kday) 둘레 네 날만 보여준다.
+   완료 = 이미 지나온 날(day < 지금), 현재 = S.kday, 잠김 = 아직 안 온 날.
+   KDDATA는 '날마다 배우기'가 여는 것과 같은 자료(data/ko_days.json)를 그대로 쓴다 — 따로 안 만든다. */
+function koRoadmapCard() {
+  const wrap = el('div', 'kroad');
+  wrap.append(el('div', 'krhead', '학습 로드맵'));
+  if (!KDDATA) {
+    wrap.append(el('p', 'note', tr('과정을 불러오는 중…')));
+    fetch('data/ko_days.json', { cache: 'no-cache' })
+      .then(r => r.json())
+      .then(j => { KDDATA = j.days; if (!$('#home').hidden) drawKoHome(); })
+      .catch(() => {});
+    return wrap;
+  }
+  const cur = S.kday || 1;
+  const start = Math.max(1, Math.min(cur - 1, KDDATA.length - 3));
+  const end = Math.min(KDDATA.length, start + 3);
+  for (let day = start; day <= end; day++) {
+    const d = KDDATA[day - 1];
+    const state = day < cur ? 'done' : day === cur ? 'cur' : 'lock';
+    const node = el('div', 'krnode ' + state);
+    const dot = el('div', 'krdot');
+    dot.textContent = state === 'done' ? '✓' : state === 'lock' ? '🔒' : String(day);
+    const label = el('div', 'krlabel');
+    const b = el('b'); b.textContent = `Day ${d.day}. ${d.theme.ko}`;
+    const sub = el('span', 'krsub'); sub.textContent = d.theme.vi;
+    label.append(b, sub);
+    node.append(dot, label);
+    if (state === 'cur') node.onclick = koDayEntry;
+    wrap.append(node);
+  }
+  return wrap;
 }
 
 /* 이 앱은 베트남인이 한국어를 배우는 전용 앱으로 고정한다(2026-09-07 대표님 지시).
@@ -8728,13 +8797,23 @@ function telex(word, ch) {
    복습 안에서 방식만 바꾸려 해도 처음부터 다시 들어가야 했다. */
 $('#back').onclick = () => { const f = NAV.pop(); (f || renderHome)(); };
 $('#goMe').onclick = renderAwards;
-$('#goHome').onclick = async () => {
-  // 시험·퀴즈 도중이면 한 번 묻는다 — 눌러 놓고 답이 날아가면 그게 더 나쁘다
-  //   브라우저 confirm 은 설치형 PWA 에서 막히는 폰이 있다 → 앱이 그리는 창으로 (2026-08-30)
-  if (!$('#quiz').hidden && Q && Q.i > 0 &&
-      !await askYN(tr('풀던 문제를 그만두고 홈으로 갈까요?'), '홈으로')) return;
-  renderHome();
+
+/* 하단 탭바 네 개 — MENUS_KO 중 상시 접근이 가장 필요한 넷(날마다 배우기는 홈 카드로 이미 있어 뺀다).
+   '홈' 탭은 예전 머리띠 #goHome 자리를 그대로 물려받는다 — 시험·퀴즈 도중 묻는 안전장치도 그대로. */
+const TAB_ACTIONS = {
+  home: async () => {
+    if (!$('#quiz').hidden && Q && Q.i > 0 &&
+        !await askYN(tr('풀던 문제를 그만두고 홈으로 갈까요?'), '홈으로')) return;
+    renderHome();
+  },
+  exam: examEntry,
+  book: wordbookEntry,
+  cred: creditEntry,
 };
+$('#tabbar').querySelectorAll('.tabbtn').forEach(btn => {
+  btn.onclick = () => TAB_ACTIONS[btn.dataset.tab] && TAB_ACTIONS[btn.dataset.tab]();
+  btn.querySelector('span').textContent = tr(btn.querySelector('span').textContent);
+});
 
 /* 사용법 — 짧은 제목 + 한 줄씩. 이 앱의 모든 설계 근거가 여기 모여 있다. */
 function showGuide() {

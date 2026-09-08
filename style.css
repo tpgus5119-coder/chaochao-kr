@@ -8,7 +8,7 @@
   --bg:#f0f2f5; --fg:#050505; --dim:#65676b; --line:#dadde1;
   --card:#ffffff; --accent:#1877f2; --accent-fg:#fff;
   --ok:#31a24c; --bad:#e41e3f; --warn:#8a5a00;
-  --radius:12px;
+  --radius:12px; --radius-lg:14px;
   --shadow:0 1px 2px rgba(0,0,0,.1);
 }
 @media (prefers-color-scheme:dark){
@@ -45,7 +45,7 @@ header > button{flex:0 0 auto; white-space:nowrap}
   header > button.ghost{min-width:40px; min-height:40px; padding:6px 8px}
   header .wo{display:none}
 }
-main{max-width:640px; margin:0 auto; padding:16px 14px 48px}
+main{max-width:640px; margin:0 auto; padding:16px 14px calc(64px + env(safe-area-inset-bottom) + 16px)}
 button{font:inherit; cursor:pointer; border-radius:10px; border:1px solid var(--line); transition:.12s}
 button:active{transform:scale(.98)}
 .ghost{background:transparent; color:var(--fg); padding:6px 12px; min-width:44px}
@@ -1803,3 +1803,68 @@ button.wex{width:100%; background:transparent; color:var(--fg); font:inherit; cu
 .puzzpick{padding:8px 12px; border-radius:9px; border:1.5px solid var(--accent,#1877F2);
           background:color-mix(in srgb, var(--accent,#1877F2) 8%, transparent); font-size:16px}
 .ghost.slow{margin-left:8px}
+
+/* ── 하단 탭바 (홈/모의고사/단어장/순위) — Stitch 시안 3종 이식, 2026-09-08 ── */
+#tabbar{
+  position:fixed; left:0; right:0; bottom:0; z-index:30;
+  display:flex; background:var(--card); border-top:1px solid var(--line);
+  box-shadow:0 -1px 4px rgba(0,0,0,.06);
+  padding-bottom:env(safe-area-inset-bottom);
+}
+.tabbtn{
+  flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center;
+  gap:3px; min-height:64px; background:transparent; border:none; border-radius:0;
+  color:var(--dim); padding:6px 4px;
+}
+.tabbtn svg{width:24px; height:24px; fill:none; stroke:currentColor; stroke-width:1.8;
+  stroke-linecap:round; stroke-linejoin:round}
+.tabbtn span{font-size:11px; font-weight:600}
+.tabbtn.active{color:var(--accent)}
+.tabbtn:active{transform:scale(.96)}
+
+/* ── 이번 주 출석 카드 (날마다 배우기 홈) ──
+   #plan은 '날마다 배우기·모의고사' 두 칸을 나란히 두려고 grid-template-columns:1fr 1fr 다.
+   이 카드는 그 두 칸을 다 차지해야 한다 — 안 하면 반 칸에 눌려 옆으로 넘친다. */
+.wkcal{
+  grid-column:1 / -1;
+  background:var(--card); border:1px solid var(--line); border-radius:var(--radius-lg);
+  padding:16px; margin-bottom:12px; display:flex; flex-direction:column; gap:12px;
+}
+.wkhead strong{font-size:18px}
+.wkrow{display:flex; justify-content:space-between; gap:4px}
+.wkcell{display:flex; flex-direction:column; align-items:center; gap:6px; flex:1}
+.wklbl{font-size:13px; color:var(--dim); font-weight:600}
+.wkdot{
+  width:40px; height:40px; border-radius:50%; display:grid; place-items:center;
+  font-size:15px; font-weight:800; color:var(--dim);
+  background:var(--bg); border:1.5px solid var(--line);
+}
+.wkcell.done .wkdot{background:var(--ok); color:#fff; border-color:transparent}
+.wkcell.today .wkdot{outline:2px solid var(--accent); outline-offset:2px}
+.wkcell.future .wkdot{opacity:.45}
+
+/* ── 78일 과정 로드맵 (현재 위치 중심 4일) ── */
+.kroad{grid-column:1 / -1; position:relative; margin-bottom:12px; padding-left:4px}
+.krnode{position:relative; display:flex; gap:14px; padding:0 0 20px 20px; border-left:2px solid var(--line)}
+.krnode:last-child{padding-bottom:0; border-color:transparent}
+.krdot{
+  position:absolute; left:-19px; top:0; width:36px; height:36px; border-radius:50%;
+  display:grid; place-items:center; font-size:14px; font-weight:800;
+  background:var(--bg); border:1.5px solid var(--line); color:var(--dim);
+}
+.krnode.done .krdot{background:var(--ok); color:#fff; border-color:transparent}
+.krnode.cur .krdot{
+  width:44px; height:44px; left:-23px; top:-4px; font-size:16px;
+  background:var(--accent); color:var(--accent-fg); border-color:transparent;
+  outline:3px solid var(--line); outline-offset:2px;
+}
+.krnode.lock .krdot{opacity:.5}
+.krlabel{
+  flex:1; min-width:0; background:var(--card); border:1px solid var(--line);
+  border-radius:var(--radius); padding:10px 12px; margin-top:2px;
+}
+.krnode.cur .krlabel{border-color:var(--accent); background:color-mix(in srgb, var(--accent) 6%, var(--card))}
+.krnode.lock{opacity:.55}
+.krlabel b{display:block; font-size:15px; font-weight:700}
+.krsub{display:block; font-size:13px; color:var(--dim); margin-top:2px}
+.krhead{font-size:14px; font-weight:700; color:var(--dim); margin:4px 0 10px}
