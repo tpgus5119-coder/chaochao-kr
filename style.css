@@ -1891,3 +1891,7 @@ button.wex{width:100%; background:transparent; color:var(--fg); font:inherit; cu
 .krlabel b{display:block; font-size:15px; font-weight:700}
 .krsub{display:block; font-size:13px; color:var(--dim); margin-top:2px}
 .krhead{font-size:14px; font-weight:700; color:var(--dim); margin:4px 0 10px}
+
+/* 개발 중 베트남어 옆 한글 병기(작게) — 완성되면 S.ui 하드코딩을 'dev'→'vi'로 바꾸면
+   이 병기 자체가 안 나오므로 이 CSS도 그때 지워도 그만이다. */
+.devko{font-size:11px; color:var(--dim); font-weight:400; opacity:.85}

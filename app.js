@@ -17,12 +17,11 @@ const S = Object.assign({ voice: 'f', region: 'n', kr: 'show', done: {}, srs: {}
    한국어를 배우러 온 사람에게 한국어로 문을 잠가 놓은 셈이었다.
    번역은 이미 다 있었고, S.ui 가 'ko' 로 시작하는 것만 문제였다.
    한 번 정해 두면 그다음부터는 본인이 고른 값을 따른다(설정에서 바꿀 수 있다). */
-if (!S.ui) {
-  const langs = (navigator.languages && navigator.languages.length
-    ? navigator.languages : [navigator.language || '']).join(',').toLowerCase();
-  S.ui = /(^|,)vi\b/.test(langs) ? 'vi' : 'ko';
-  try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { }
-}
+/* 이 앱은 베트남인 전용이다(2026-09-08 대표님 지시) — 화면 언어를 고를 필요가 없다.
+   완전히 다른 앱이므로 한국어 화면 자체가 있으면 안 된다. 지금은 'dev' 모드로 고정해
+   베트남어 옆에 작은 한글을 나란히 보여준다(대표님이 베트남어를 못 읽어서 검수용) —
+   완성되면 이 한 줄만 'vi'로 바꾸면 한글이 완전히 사라진다. */
+S.ui = 'dev';
 let saveWarned = false;
 function save() {
   try {
@@ -64,6 +63,14 @@ const $ = s => document.querySelector(s);
    글자가 화면에 놓이는 길목(el·show)에서 **문구를 통째로 맞바꾼다.**
    표에 있는 문구만 바뀐다 — 아직 없는 문구는 한국어로 남고, 표를 채우면 늘어난다. */
 const UIVI = {
+  // 홈 인사말 카드 (2026-09-08 추가)
+  '안녕하세요': 'Xin chào',
+  '님!': '!',
+  '학습자': 'Học viên',
+  '연속 학습': 'Học liên tục',
+  '일': ' ngày',
+  '학습 로드맵': 'Lộ trình học tập',
+  '홈': 'Trang chủ',
   '‹ 돌아가기': '‹ Quay lại',
   '시험 보고 오셨나요?': 'Bạn vừa đi thi về?',
   '무엇이 나왔는지 알려 주기': 'Cho biết đề có gì',
@@ -702,6 +709,9 @@ const tr = h => {
   if (!S || typeof h !== 'string') return h;
   const v = UIVI[h];
   if (S.ui === 'vi') return v || h;
+  // <small> 태그로 작게 하려 했으나 앱 여러 곳이 textContent를 써서 태그가 그대로
+  // 글자로 보였다(실측, 2026-09-08) — 순수 텍스트로 되돌린다. 괄호 표시만으로도
+  // 원문과 구분은 충분히 된다.
   if (S.ui === 'dev') return v ? v + ' ⟨' + h + '⟩' : h;
   return h;
 };
@@ -1470,6 +1480,15 @@ function bumpSaid(n) {
 }
 
 /* 이번 주(월~일) 며칠 했는가 */
+/* 요일 이름 7개 배열. weekLabels() 로 하면 'dev' 모드에서
+   병기용 <small>⟨...⟩</small> 가 붙어 공백이 훨씬 많아지고 쪼개진 조각 수가 7개를
+   넘어가 dots[i]가 undefined 로 터진다(실측으로 발견, 2026-09-08). 그래서 번역표를
+   split() 없이 통째로 찾아 쓴다 — 없으면 한글 그대로 7개로 나눈다. */
+function weekLabels() {
+  const ko = '월 화 수 목 금 토 일';
+  const found = (typeof UIVI !== 'undefined' && UIVI[ko]) ? UIVI[ko] : ko;
+  return found.split(' ');
+}
 function weekDots() {
   const now = new Date();
   const mon = new Date(now); mon.setDate(now.getDate() - ((now.getDay() + 6) % 7));
@@ -1911,18 +1930,8 @@ function acctForm(gate, mode) {
   mode = mode || 'login';                 // 로그인과 가입은 딴 화면 — 섞어 두면 헷갈린다 (사용자 지시)
   const b = $('#subBody');
   b.textContent = '';
-  /* 말 고르기 — **이 화면에만** 둔다.
-     여기가 앱의 문이다. 폰 언어로 짐작해 두긴 하지만(위 S.ui 기본값) 베트남 사람이
-     영어 폰이나 한국어 폰을 쓸 수도 있다. 그러면 한국어를 배우러 온 사람이
-     한국어로 잠긴 문 앞에 선다. 그래서 여기서만은 **읽지 못해도 누를 수 있게**
-     두 나라 말을 나란히 놓는다(설정 안에 숨겨 두면 못 찾는다). */
-  const langRow = el('div', 'langpick');
-  [['ko', '한국어'], ['vi', 'Tiếng Việt']].forEach(([v, name]) => {
-    const t = el('button', 'langbtn' + (S.ui === v ? ' on' : ''), esc(name));
-    t.onclick = () => { S.ui = v; save(); acctForm(gate, mode); };
-    langRow.append(t);
-  });
-  b.append(langRow);
+  /* 언어 선택 없앰(2026-09-08 대표님 지시) — 이 앱은 베트남인 전용이라 화면 언어를
+     고를 게 없다. S.ui는 위에서 이미 고정돼 있다. */
   b.append(el('p', 'lede', tr(mode === 'login'
     ? '아이디로 어느 폰에서든 <b>내 별명이</b> 따라옵니다.'
     : '<b>처음 오셨군요!</b> 1분이면 됩니다 — 별명과 아이디만 정하면 끝.')));
@@ -1968,19 +1977,8 @@ function acctForm(gate, mode) {
   };
   natW.addEventListener('pick', drawLearn);
   drawLearn();
-  /* 모국어(화면 언어) — 가입할 때 **직접 고르게** 한다 (사용자 지시).
-     전에는 국적으로 짐작했다(베트남 국적이면 화면도 베트남어). 그런데 국적과
-     읽을 수 있는 말은 다른 것이다 — 한국에 오래 산 베트남 분은 한국어 화면이 편하고,
-     베트남에 사는 한국 사람이 베트남어 화면을 쓰고 싶을 수도 있다. */
-  const uiW = mkSel([['ko', '한국어'], ['vi', 'Tiếng Việt']]);
-  natW.addEventListener('pick', () => {          // 국적을 고르면 기본값만 옮겨 준다
-    // **누른 것처럼** 처리해야 한다. 처음엔 켜진 표시(class)만 바꿨더니 화면에는
-    // Tiếng Việt 가 켜져 보이는데 실제 값은 'ko' 로 남아, 베트남 분이 가입하면
-    // 한국어 화면을 받게 됐다.
-    uiW.children[natW.val() === 'vn' ? 1 : 0].click();
-  });
-  profBox.append(el('p', 'note', '국적'), natW,
-                 el('p', 'note', '내 말 (화면에 나올 말)'), uiW, lrnW, regW);
+  // 화면 언어 선택 없앰(2026-09-08 대표님 지시) — 이 앱은 베트남인 전용, 고를 게 없다.
+  profBox.append(el('p', 'note', '국적'), natW, lrnW, regW);
 
   const err = el('p', 'note nickerr'); err.hidden = true;
   const oops = m => { err.textContent = m; err.hidden = false; };
@@ -1998,16 +1996,13 @@ function acctForm(gate, mode) {
         S.nick = v; save();
       }
       const prof = act === 'signup'
-        ? { nat: natW.val(), learn: lrnW.sel.val(), reg: regW.sel ? regW.sel.val() : '',
-            ui: uiW.val() } : {};
+        ? { nat: natW.val(), learn: lrnW.sel.val(), reg: regW.sel ? regW.sel.val() : '' } : {};
       const j = await cCall(Object.assign({ act, id: i, pw: p }, prof));
       if (act === 'signup' && prof.reg) { S.region = prof.reg; drawRegion(); }
-      if (act === 'signup') { S.nat = prof.nat; S.learn = prof.learn;
-        if (prof.ui) S.ui = prof.ui;              // 고른 대로 — 국적으로 짐작하지 않는다
-      }
+      if (act === 'signup') { S.nat = prof.nat; S.learn = prof.learn; }
+      // S.ui는 이 앱에서 고정값(dev/vi)이라 서버 프로필의 옛 ui값으로 덮어쓰지 않는다(2026-09-08)
       if (act === 'login' && j.prof) {
         S.nat = j.prof.nat || S.nat; S.learn = j.prof.learn || S.learn;
-        if (j.prof.ui) S.ui = j.prof.ui;
         if (j.prof.reg) S.region = j.prof.reg;
         drawRegion();
       }
@@ -2089,20 +2084,12 @@ function renderAwards() {
   // '서버 진도' 줄은 없앴다 (사용자 지시, 여러 번). 저장은 알아서 되는 일이라
   // 화면에 적어 둘 까닭이 없다 — 적어 두면 '내가 뭘 해야 하나' 하고 눈길만 끈다.
 
-  /* 화면 언어 — 한국어 → Tiếng Việt → 나란히(개발용) 로 돌아간다.
-     '나란히'는 만드는 사람용이다. 베트남어 옆에 한국어 원문을 같이 띄워
-     "이 화면이 무엇이고 번역이 맞게 붙었는가"를 눈으로 대조하려고 둔다. */
-  // '나란히'는 번역 대조용이라 **만든 사람에게만** 보인다 (사용자 지시).
-  // 손님 화면에 개발용 칸이 있으면 눌러 보고 글자가 겹쳐 나와 고장으로 읽는다.
-  const uiOpts = [['ko', '한국어'], ['vi', 'Tiếng Việt']];
-  if (S.acct && S.acct.id === DEV_ID) uiOpts.push(['dev', '나란히 (개발용)']);
-  if (S.ui === 'dev' && !(S.acct && S.acct.id === DEV_ID)) { S.ui = 'ko'; save(); }
+  // 화면 언어 토글 삭제됨(2026-09-08 대표님 지시) — 이 앱은 베트남인 전용으로 고정,
+  // 화면 언어를 고를 게 없다. 지금은 개발 중이라 S.ui가 'dev'로 고정돼 베트남어 옆에
+  // 작은 한글이 나란히 뜬다 — 완성되면 위 S.ui='dev' 한 줄을 'vi'로 바꾸면 끝난다.
   // 소리 속도 — 원어민 속도가 초보에겐 빠르다. 파일은 한 벌이고 재생만 늘린다
   b.append(pickRow('소리 속도', RATES, String(S.rate || 1),
     v => { S.rate = Number(v); save(); renderAwards(); }));
-
-  b.append(pickRow('화면 언어', uiOpts, S.ui || 'ko',
-    v => { S.ui = v; save(); renderAwards(); drawMenu(); }));
 
   // 배울 언어 토글 삭제됨(2026-09-07) — 이 앱은 한국어 전용으로 고정, 고를 게 없다
 
@@ -2196,7 +2183,7 @@ function renderProgress(host) {
   const row = el('div', 'dots');
   // 번역표를 거친다 (2026-08-31) — 한글 낱자를 그대로 쪼개 쓰면
   // 베트남 분 화면에 '월화수목금토일' 이 그대로 떴다. UIVI 에 T2…CN 이 이미 있다.
-  tr('월 화 수 목 금 토 일').split(' ').forEach((label, i) => {
+  weekLabels().forEach((label, i) => {
     const d = dots[i];
     const s = el('span', 'dot' + (d.done ? ' on' : '') + (d.today ? ' today' : '') + (d.future ? ' fut' : ''));
     s.textContent = label;
@@ -2499,7 +2486,7 @@ function koWeekCard() {
   head.append(el('strong', null, tr('이번 주 N일 공부').replace('N', n)));
   card.append(head);
   const row = el('div', 'wkrow');
-  tr('월 화 수 목 금 토 일').split(' ').forEach((label, i) => {
+  weekLabels().forEach((label, i) => {
     const d = dots[i];
     const cell = el('div', 'wkcell' + (d.done ? ' done' : '') + (d.today ? ' today' : '') + (d.future ? ' future' : ''));
     const lbl = el('span', 'wklbl'); lbl.textContent = label;
@@ -2595,8 +2582,8 @@ let EXDATA = null;                  // ko_exams.json (한 번만 받아 둔다)
 /* 시험 이름·설명은 tr() 사전이 아니라 **데이터에** 두 나라 말이 다 있다
    (ko_exam_gen 이 name_vi·desc_vi 를 같이 낸다). 문항 수가 바뀌어도 어긋나지 않게
    생성기 쪽에 둔 것이다. 여기서는 화면 말에 맞춰 고르기만 한다. */
-const exName = e => (S.ui === 'vi' && e.name_vi) ? e.name_vi : e.name;
-const exDesc = e => (S.ui === 'vi' && e.desc_vi) ? e.desc_vi : e.desc;
+const exName = e => ((S.ui === 'vi' || S.ui === 'dev') && e.name_vi) ? e.name_vi : e.name;
+const exDesc = e => ((S.ui === 'vi' || S.ui === 'dev') && e.desc_vi) ? e.desc_vi : e.desc;
 
 function examEntry() {
   const b = $('#examBody');
@@ -2906,7 +2893,7 @@ const kWordsKnown = () => Object.keys(S.kbank || {}).length;
 function drawStratList() {
   const b = $('#examBody');
   b.textContent = '';
-  const vi = S.ui === 'vi';
+  const vi = S.ui === 'vi' || S.ui === 'dev';
   b.append(el('p', 'lede', esc(vi
     ? 'Mẹo làm bài EPS-TOPIK. Đây là chỗ học cách làm — trong bài thi thử sẽ không hiện gì cả, giống hệt phòng thi.'
     : 'EPS-TOPIK 을 어떻게 푸는가. 요령은 여기서 배웁니다 — 모의고사에는 아무것도 뜨지 않습니다. 실제 시험과 같게.')));
@@ -2927,7 +2914,7 @@ function drawStratCard(i) {
   const it = KSDATA[i];
   const b = $('#examBody');
   b.textContent = '';
-  const vi = S.ui === 'vi';
+  const vi = S.ui === 'vi' || S.ui === 'dev';
 
   const head = el('div', 'exbar');
   head.append(el('span', 'expart', esc(it.tag)));
