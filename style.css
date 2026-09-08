@@ -1,5 +1,9 @@
 /* 페이스북식 배색 — 회색 바탕에 흰 카드, 파란 강조 (사용자 지시).
    바탕과 카드를 뒤집은 것이 핵심이다: 예전엔 흰 바탕에 회색 카드였다. */
+/* 글꼴 Be Vietnam Pro — Stitch(구글 AI 디자인 도구)가 만든 디자인 시스템에서 가져옴(2026-09-08).
+   베트남어 성조 부호를 잘리지 않게 그리도록 만들어진 폰트라, 한글과 나란히 놓아도 어색하지 않다.
+   구글 폰트 CDN에서 못 받아오면(오프라인 등) 시스템 기본 폰트로 조용히 대체된다. */
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap');
 :root{
   --bg:#f0f2f5; --fg:#050505; --dim:#65676b; --line:#dadde1;
   --card:#ffffff; --accent:#1877f2; --accent-fg:#fff;
@@ -19,7 +23,7 @@
 html,body{margin:0;padding:0}
 body{
   background:var(--bg); color:var(--fg);
-  font:16px/1.6 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+  font:16px/1.6 "Be Vietnam Pro",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
   -webkit-text-size-adjust:100%;
 }
 header{
