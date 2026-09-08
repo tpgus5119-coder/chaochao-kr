@@ -1,7 +1,7 @@
 /* 오프라인 캐시.
    앱 껍데기와 커리큘럼은 처음 열 때 통째로 받아두고,
    음성은 22MB나 되므로 한 번 재생한 것만 캐시에 남긴다 (데이터 요금 배려). */
-const V = 'vn-4f30d058';
+const V = 'vn-b07790d2';
 const SHELL = ['./', './index.html', './app.js', './pitch.js', './style.css',
                './manifest.json', './icon.png',
                // 한국어 코스 전용 앱(2026-09-07 분리)의 알맹이
