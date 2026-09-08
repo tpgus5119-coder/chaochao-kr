@@ -950,18 +950,28 @@ const HAND_AI = false;   // 손글씨 AI 채점 기능 제외 (대표님 지시 
    못 알아들으면 그냥 판정을 안 한다. chaochao(한국인용)에서 그대로 이식, 아직 실기기 미검증. */
 const SRClass = window.SpeechRecognition || window.webkitSpeechRecognition;
 const canLocalASR = () => !!SRClass;
+/* 실제 폰 테스트에서 "인식이 안 된다"고 나온 원인을 찾았다(2026-09-09, chaochao에서 동일 수정 이식):
+   음성인식 결과(onresult)는 stop() 을 부른다고 바로 오지 않고 조금 뒤에 이벤트로 온다.
+   판정하는 쪽이 그 결과를 기다리지 않고 바로 확인해서 늘 비어 있었다 — 그래서 REC.localDone
+   (Promise)을 두고, 판정 전에 반드시 그걸 기다리도록 고쳤다. */
 function startLocalASR() {
   REC.localHeard = null;
-  if (!SRClass) return;
-  try {
-    const r = new SRClass();
-    r.lang = 'ko-KR';   // 이 앱은 한국어를 가르치므로 늘 한국어로 듣는다
-    r.continuous = false; r.interimResults = false; r.maxAlternatives = 1;
-    r.onresult = e => { REC.localHeard = e.results[0][0].transcript || null; };
-    r.onerror = () => {};
-    r.start();
-    REC.sr = r;
-  } catch (e) { REC.sr = null; }
+  if (!SRClass) { REC.localDone = Promise.resolve(); return; }
+  REC.localDone = new Promise(resolve => {
+    let done = false;
+    const finish = () => { if (!done) { done = true; resolve(); } };
+    try {
+      const r = new SRClass();
+      r.lang = 'ko-KR';   // 이 앱은 한국어를 가르치므로 늘 한국어로 듣는다
+      r.continuous = false; r.interimResults = false; r.maxAlternatives = 1;
+      r.onresult = e => { REC.localHeard = e.results[0][0].transcript || null; };
+      r.onerror = () => {};
+      r.onend = finish;
+      r.start();
+      REC.sr = r;
+      setTimeout(finish, 4000);
+    } catch (e) { REC.sr = null; finish(); }
+  });
 }
 function stopLocalASR() {
   try { REC.sr && REC.sr.stop(); } catch (e) { }
@@ -1206,6 +1216,8 @@ async function askSpeech(text, b64, onWait) {
 async function aiListen(text, blobUrl, box) {
   try {
     // 오직 폰으로만 판정한다 — 제미나이 호출 없음 (대표님 지시 2026-09-08)
+    // 결과가 이벤트로 늦게 오므로 반드시 먼저 기다린다(2026-09-09 수정).
+    if (REC.localDone) await REC.localDone;
     if (!REC.localHeard) return;
     const { heard, ok, pick } = judgeLocalHeard(text, REC.localHeard);
     if (ok !== null) {
@@ -7430,6 +7442,8 @@ function judgeBtn(target, box, onDone) {
       bumpSaid();
       try {
         // 오직 폰으로만 판정한다 — 제미나이 호출 없음 (대표님 지시 2026-09-08)
+        // 결과가 이벤트로 늦게 오므로 반드시 먼저 기다린다(2026-09-09 수정).
+        if (REC.localDone) await REC.localDone;
         if (!REC.localHeard) {
           box.innerHTML = '<b>알아듣지 못했습니다.</b> 폰을 입 가까이 대고 조금 크게, 또박또박 다시 해 보세요.'
             + '<span class="tonenote">높낮이는 아래 곡선이 봅니다.</span>';
@@ -9838,5 +9852,7 @@ boot.then(([d, a]) => {
   if ((!S.acct || !S.acct.tok) && !skip) { acctForm(true, 'login'); return; }
   if (!S.nick) { askNick(); return; }                 // 최초 1회
   if (S.wk && S.wk.k !== weekKey()) { showWeek(weekReport(S.wk.base)); return; }
-  renderHome();
+  // 앱을 켜면 바로 '하루5분'이 뜬다 (대표님 지시 2026-09-09, chaochao에서 이식).
+  ACTIVE_TAB = 'daily';
+  dailyFlowEntry();
 }).catch(e => { $('#title').textContent = '불러오기 실패'; console.error(e); });
