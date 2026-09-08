@@ -71,6 +71,11 @@ const UIVI = {
   '일': ' ngày',
   '학습 로드맵': 'Lộ trình học tập',
   '홈': 'Trang chủ',
+  '문의: ': 'Liên hệ: ',
+  '아이디·비밀번호 찾기': 'Tìm lại tên đăng nhập/mật khẩu',
+  '아이디·비밀번호를 잊으셨나요?': 'Bạn quên tên đăng nhập/mật khẩu?',
+  '아이디나 비밀번호가 기억나지 않으면 아래로 문의해 주세요. 확인 후 도와드리겠습니다.':
+    'Nếu bạn không nhớ tên đăng nhập hoặc mật khẩu, hãy liên hệ theo địa chỉ dưới đây. Chúng tôi sẽ hỗ trợ sau khi xác nhận.',
   '같은 뜻': 'Cùng nghĩa',
   '개 끝냄': ' đã hoàn thành',
   '고른 것 풀기': 'Làm bài đã chọn',
@@ -731,6 +736,14 @@ const tr = h => {
   // 원문과 구분은 충분히 된다.
   if (S.ui === 'dev') return v ? v + ' ⟨' + h + '⟩' : h;
   return h;
+};
+/* placeholder 전용 — input의 placeholder는 줄바꿈이 안 되고 칸 너비만큼 잘려서,
+   dev 모드 병기(⟨...⟩)를 그대로 넣으면 글자가 반쯤 잘려 보인다(실측, 2026-09-08).
+   그래서 placeholder에는 병기 없이 베트남어(또는 완성 전까지는 한글) 하나만 넣는다. */
+const trP = h => {
+  if (!S || typeof h !== 'string') return h;
+  const v = UIVI[h];
+  return (S.ui === 'vi' || S.ui === 'dev') ? (v || h) : h;
 };
 const el = (t, c, h) => { const n = document.createElement(t); if (c) n.className = c; if (h != null) n.innerHTML = tr(h); return n; };
 // 그림: img/ 폴더에 파일이 있으면 그걸, 없으면 이모지를 보여준다 (파일 확인은 브라우저가 알아서)
@@ -1912,11 +1925,11 @@ function quitForm() {
   });
   b.append(pick);
   const memo = el('textarea', 'keyin');
-  memo.placeholder = tr('더 하실 말씀 (안 쓰셔도 됩니다)');
+  memo.placeholder = trP('더 하실 말씀 (안 쓰셔도 됩니다)');
   memo.maxLength = 200; memo.rows = 3;
   b.append(memo);
   const pw = el('input', 'keyin'); pw.type = 'password';
-  pw.placeholder = tr('비밀번호를 한 번 더');
+  pw.placeholder = trP('비밀번호를 한 번 더');
   b.append(pw);
   const err = el('p', 'note nickerr'); err.hidden = true;
   const go = el('button', 'primary big danger', tr('영영 지우기'));
@@ -1943,23 +1956,40 @@ function quitForm() {
   show('sub', tr('탈퇴'), true);
 }
 
+/* 아이디·비밀번호 찾기 — 지금은 안내 화면뿐이다. 진짜로 되게 하려면 서버(Worker)에
+   복구 절차를 추가해야 하는데, 그 코드는 이 저장소 밖에 있어서 여기서 못 고친다
+   (대표님께 Worker 코드 위치를 여쭤서 다음에 실제로 붙여야 한다). 화면만 먼저 만들어
+   두고, 없는 기능을 있는 척하지 않는다. */
+function findAcct() {
+  const b = $('#subBody');
+  b.textContent = '';
+  b.append(el('p', 'lede', tr('아이디나 비밀번호가 기억나지 않으면 아래로 문의해 주세요. 확인 후 도와드리겠습니다.')));
+  const box = el('div', 'card');
+  box.style.padding = '16px';
+  box.append(el('p', null, tr('문의: ') + '<b>tpgus5119@gmail.com</b>'));
+  b.append(box);
+  const back = el('button', 'ghost big', tr('‹ 돌아가기'));
+  back.style.width = '100%'; back.style.marginTop = '10px';
+  back.onclick = () => acctForm(true, 'login');
+  b.append(back);
+  show('sub', tr('아이디·비밀번호 찾기'), true);
+}
+
 function acctForm(gate, mode) {
   mode = mode || 'login';                 // 로그인과 가입은 딴 화면 — 섞어 두면 헷갈린다 (사용자 지시)
   const b = $('#subBody');
   b.textContent = '';
   /* 언어 선택 없앰(2026-09-08 대표님 지시) — 이 앱은 베트남인 전용이라 화면 언어를
      고를 게 없다. S.ui는 위에서 이미 고정돼 있다. */
-  b.append(el('p', 'lede', tr(mode === 'login'
-    ? '아이디로 어느 폰에서든 <b>내 별명이</b> 따라옵니다.'
-    : '<b>처음 오셨군요!</b> 1분이면 됩니다 — 별명과 아이디만 정하면 끝.')));
+  // 안내 문구(아이디로 어느 폰에서든...) 삭제 — 다른 앱엔 없는 군더더기 설명이다 (사용자 지시, 2026-09-08)
   // 별명이 아직 없으면(첫 방문 가입) 여기서 같이 정한다 — 가입에 별명이 필요해서다
   const nickIn = el('input', 'keyin'); nickIn.type = 'text'; nickIn.maxLength = 10;
-  nickIn.placeholder = tr('별명 (2~10자) — 순위에 보입니다');
-  const id = el('input', 'keyin'); id.type = 'text'; id.placeholder = tr('아이디 (영문·숫자 4~20자)');
+  nickIn.placeholder = trP('별명 (2~10자) — 순위에 보입니다');
+  const id = el('input', 'keyin'); id.type = 'text'; id.placeholder = trP('아이디 (영문·숫자 4~20자)');
   id.autocapitalize = 'none'; id.maxLength = 20;
   const pw = el('input', 'keyin'); pw.type = 'password';
   // 비밀번호 규칙은 NIST 지침대로: 길이만 본다(8자+). 특수문자 강제는 뻔한 변형만 낳는다.
-  pw.placeholder = tr('비밀번호 (8자 이상)'); pw.maxLength = 64;
+  pw.placeholder = trP('비밀번호 (8자 이상)'); pw.maxLength = 64;
 
   /* 가입 화면에만 나오는 것들 — 국적과 배울 언어 */
   const profBox = el('div', 'profbox');
@@ -2064,9 +2094,14 @@ function acctForm(gate, mode) {
                             if (!S.nick) { askNick(); return; } renderHome(); };
     b.append(later);
   }
-  b.append(el('p', 'note', tr('· 서버에는 비밀번호의 <b>으깬 값(해시)</b>만 남습니다 — 원문은 저장하지 않습니다.') + '<br>' +
-    tr('· 이메일이 없어 비밀번호를 잊으면 <b>되찾을 수 없습니다.</b>') + '<br>' +
-    ''));   // 서버 저장 안내는 뺐다 (사용자 지시)
+  // 보안 안내 문구 삭제 — 다른 앱엔 없는 군더더기 설명이다 (사용자 지시, 2026-09-08).
+  // 대신 실제로 쓸 수 있는 복구 입구를 둔다 — 아래 findAcct().
+  if (mode === 'login') {
+    const forgot = el('button', 'ghost sm', tr('아이디·비밀번호를 잊으셨나요?'));
+    forgot.style.width = '100%'; forgot.style.marginTop = '8px';
+    forgot.onclick = findAcct;
+    b.append(forgot);
+  }
   show('sub', mode === 'login' ? tr('로그인') : tr('회원가입'), true);
 }
 
@@ -2380,7 +2415,7 @@ function askNick() {
   b.append(el('p', 'lede', '이름이 뭐예요?'));
   b.append(el('p', 'vi mid', 'Tên bạn là gì?'));
   b.append(el('p', 'note', '언제든 바꿀 수 있습니다. <b>먼저 쓴 사람이 임자</b>라 겹치는 별명은 못 씁니다.'));
-  const inp = el('input', 'keyin'); inp.type = 'text'; inp.placeholder = tr('별명 (2~10글자)'); inp.maxLength = 10;
+  const inp = el('input', 'keyin'); inp.type = 'text'; inp.placeholder = trP('별명 (2~10글자)'); inp.maxLength = 10;
   const go = el('button', 'primary big', '시작하기');
   go.style.width = '100%';
   const err = el('p', 'note nickerr');
@@ -3442,7 +3477,7 @@ function drawExamQ() {
   // 단답형(KIIP 사전평가 49·50번) — 보기가 없다. 직접 써 넣는다.
   if (q.short) {
     const inp = el('input', 'exshort');
-    inp.type = 'text'; inp.autocomplete = 'off'; inp.placeholder = tr('여기에 쓰십시오');
+    inp.type = 'text'; inp.autocomplete = 'off'; inp.placeholder = trP('여기에 쓰십시오');
     inp.value = typeof EX.marks[EX.at] === 'string' ? EX.marks[EX.at] : '';
     // 글자마다 다시 그리면 글쇠가 튄다 — 값만 담아 둔다
     inp.oninput = () => { EX.marks[EX.at] = inp.value; };
@@ -3910,7 +3945,7 @@ function examSight() {
 
   b.append(el('p', 'note', tr('기억나는 낱말이 있으면 적어 주세요 (쉼표로 나눠서, 낱말만)')));
   const wi = el('input', 'keyin'); wi.type = 'text'; wi.maxLength = 140;
-  wi.placeholder = tr('예: 환승, 계약서, 분리배출');
+  wi.placeholder = trP('예: 환승, 계약서, 분리배출');
   b.append(wi);
 
   b.append(el('p', 'note', tr('많이 어려웠나요?')));
@@ -4022,7 +4057,7 @@ function examT2Blank(i) {
     const row = el('div', 'blankrow');
     row.append(el('span', 'blankno', mark));
     const t = el('input', 'keyin'); t.type = 'text'; t.maxLength = 60;
-    t.placeholder = tr('여기에 쓰세요…');
+    t.placeholder = trP('여기에 쓰세요…');
     row.append(t); ins.push(t);
     card.append(row);
   });
@@ -4076,7 +4111,7 @@ function examWriteLong(i) {
   const card = el('div', 'excard');
   w.title.split('\n').forEach(l => card.append(el('div', 'exask', esc(l))));
   const ta = el('textarea', 'exwrite');
-  ta.placeholder = tr('여기에 쓰세요…');
+  ta.placeholder = trP('여기에 쓰세요…');
   ta.rows = 14;
   const cnt = el('p', 'note', `0 / ${w.chars}자`);
   ta.oninput = () => { cnt.textContent = `${ta.value.length} / ${w.chars}자`; };
@@ -4365,7 +4400,7 @@ function examWrite(wi) {
   card.append(el('div', 'exask', esc(w.title)));
 
   const ta = el('textarea', 'exwrite');
-  ta.placeholder = tr('여기에 쓰세요…');
+  ta.placeholder = trP('여기에 쓰세요…');
   ta.rows = 10;
   const cnt = el('p', 'note', `0 / ${w.chars}자`);
   ta.oninput = () => { cnt.textContent = `${ta.value.length} / ${w.chars}자`; };
@@ -5757,7 +5792,7 @@ function dictEntry() {
   b.append(el('p', 'lede', tr('낱말 N개 · 베트남어로도 한국어로도 찾습니다')
     .replace('N', d.length.toLocaleString('ko-KR'))));
   const inp = el('input', 'keyin dictin');
-  inp.type = 'search'; inp.placeholder = tr('찾을 말 (성조는 안 찍어도 됩니다)');
+  inp.type = 'search'; inp.placeholder = trP('찾을 말 (성조는 안 찍어도 됩니다)');
   const out = el('div', 'dictout');
   const draw = () => {
     const q = inp.value.trim();
@@ -5891,7 +5926,7 @@ function drawWordbook() {
 
       // 많으면 찾기가 있어야 쓸 수 있다
       const inp = el('input', 'keyin dictin');
-      inp.type = 'search'; inp.placeholder = tr('찾을 말 (베트남어·한국어)');
+      inp.type = 'search'; inp.placeholder = trP('찾을 말 (베트남어·한국어)');
       const out = el('div');
       const draw = () => {
         const q = inp.value.trim().toLowerCase();
