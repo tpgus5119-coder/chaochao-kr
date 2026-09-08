@@ -11,7 +11,7 @@
 <meta name="apple-mobile-web-app-title" content="짜오짜오">
 <meta name="mobile-web-app-capable" content="yes">
 <title>짜오짜오 — 한국어</title>
-<link rel="stylesheet" href="style.css?v=20f6e25e">
+<link rel="stylesheet" href="style.css?v=1d1717b8">
 </head>
 <body>
 
@@ -20,12 +20,7 @@
   <button id="goHome" class="ghost icon" title="홈으로" aria-label="홈으로" hidden>
     <svg viewBox="0 0 24 24"><path d="M3.6 11.4 12 4.2l8.4 7.2"/><path d="M5.8 10.6V19a1 1 0 0 0 1 1h3.4v-4.6h3.6V20h3.4a1 1 0 0 0 1-1v-8.4"/></svg>
   </button>
-  <button id="wxnow" class="ghost wxnow" title="베트남 날씨와 시각" aria-label="날씨와 시각" hidden></button>
   <h1 id="title">짜오짜오</h1>
-  <button id="goChat" class="ghost icon" title="메신저" aria-label="메신저">
-    <svg viewBox="0 0 24 24"><path d="M12 3.8c-4.7 0-8.5 3.1-8.5 7 0 2.2 1.2 4.1 3 5.4v3.3l3.2-1.8c.7.1 1.5.2 2.3.2 4.7 0 8.5-3.1 8.5-7s-3.8-7.1-8.5-7.1Z"/></svg>
-    <i class="chatdot" hidden></i>
-  </button>
   <button id="goMe" class="ghost icon" title="내 정보" aria-label="내 정보">
     <svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.6"/><path d="M4.8 20a7.2 7.2 0 0 1 14.4 0"/></svg>
   </button>
@@ -102,11 +97,6 @@
     <div id="newsBody"></div>
   </section>
 
-  <!-- 날씨 · 시간 -->
-  <section id="wx" class="view" hidden>
-    <div id="wxBody"></div>
-  </section>
-
   <!-- 사용법 -->
   <section id="guide" class="view" hidden>
     <div id="guideBody"></div>
@@ -122,11 +112,6 @@
     <div id="examBody"></div>
   </section>
 
-  <!-- 동아리 -->
-  <section id="club" class="view" hidden>
-    <div id="clubBody"></div>
-  </section>
-
   <!-- 주간 성적표 -->
   <section id="week" class="view" hidden>
     <div id="weekBody"></div>
@@ -137,23 +122,9 @@
     <div id="nickBody"></div>
   </section>
 
-  <!-- AI 대화 -->
-  <section id="chat" class="view" hidden>
-    <div id="tch" class="tch" hidden></div>
-    <div id="chatSetup" hidden></div>
-    <div id="chatLog" class="chatlog"></div>
-    <form id="chatForm" class="chatin" hidden>
-      <button id="chatMic" class="ghost icon" type="button" title="말로 하기" aria-label="말로">
-        <svg viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5.5 11.5a6.5 6.5 0 0 0 13 0"/><path d="M12 18v3"/></svg>
-      </button>
-      <div class="tawrap" data-v=""><textarea id="chatText" rows="1" placeholder="베트남어나 한국어로…" autocomplete="off"></textarea></div>
-      <button class="primary" type="submit">보내기</button>
-    </form>
-    <div id="chatTone" class="tonebar" hidden></div>
-  </section>
 </main>
 
-<script src="pitch.js?v=20f6e25e"></script>
-<script src="app.js?v=20f6e25e"></script>
+<script src="pitch.js?v=1d1717b8"></script>
+<script src="app.js?v=1d1717b8"></script>
 </body>
 </html>
