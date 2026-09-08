@@ -6,18 +6,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap');
 :root{
   --bg:#f0f2f5; --fg:#050505; --dim:#65676b; --line:#dadde1;
-  --card:#ffffff; --accent:#1877f2; --accent-fg:#fff;
-  --ok:#31a24c; --bad:#e41e3f; --warn:#8a5a00;
+  --card:#ffffff; --accent:#0058bc; --accent-fg:#fff;
+  --accent-soft:#d8e2ff; --tertiary:#9a4100; --tertiary-soft:#ffdbcb;
+  --surface-2:#f6f3f2;
+  --ok:#10b981; --bad:#e41e3f; --warn:#8a5a00;
   --radius:12px; --radius-lg:14px;
   --shadow:0 1px 2px rgba(0,0,0,.1);
+  /* 위 색·반경 값은 Stitch 시안(stitch-home.html)의 실제 토큰 — chaochao(한국인용)에서 그대로 옮김 2026-09-08 */
 }
 @media (prefers-color-scheme:dark){
   :root:not([data-theme=light]){
     --bg:#18191a; --fg:#e4e6e9; --dim:#b0b3b8; --line:#3e4042;
-    --card:#242526; --accent:#2374e1; --accent-fg:#fff;
-    --ok:#45bd62; --bad:#f02849; --warn:#e3b341;
+    --card:#242526; --accent:#5a9cff; --accent-fg:#0a1a33;
+    --accent-soft:#1d3866; --tertiary:#ffb691; --tertiary-soft:#4a2410;
+    --surface-2:#2a2b2c;
+    --ok:#34d399; --bad:#f02849; --warn:#e3b341;
     --shadow:0 1px 2px rgba(0,0,0,.35);
   }
+}
+:root[data-theme=dark]{
+  --bg:#18191a; --fg:#e4e6e9; --dim:#b0b3b8; --line:#3e4042;
+  --card:#242526; --accent:#5a9cff; --accent-fg:#0a1a33;
+  --accent-soft:#1d3866; --tertiary:#ffb691; --tertiary-soft:#4a2410;
+  --surface-2:#2a2b2c;
+  --ok:#34d399; --bad:#f02849; --warn:#e3b341;
+  --shadow:0 1px 2px rgba(0,0,0,.35);
 }
 *{box-sizing:border-box}
 html,body{margin:0;padding:0}
@@ -1895,3 +1908,19 @@ button.wex{width:100%; background:transparent; color:var(--fg); font:inherit; cu
 /* 개발 중 베트남어 옆 한글 병기(작게) — 완성되면 S.ui 하드코딩을 'dev'→'vi'로 바꾸면
    이 병기 자체가 안 나오므로 이 CSS도 그때 지워도 그만이다. */
 .devko{font-size:11px; color:var(--dim); font-weight:400; opacity:.85}
+
+/* ── 소셜 로그인 버튼(구글/페북, 2026-09-08) — chaochao에서 이식 ── */
+.socialrow{display:flex; flex-direction:column; gap:8px; margin-top:10px}
+.social{display:flex; align-items:center; justify-content:center; gap:10px; width:100%}
+.socialmark{font-weight:800; font-size:18px}
+
+/* ── 최상단 헤더 정리(2026-09-08 대표님 지시) — 어플이름·내정보버튼 제거.
+   #title/#goMe는 내부 로직(show() 등)이 계속 참조하므로 DOM에서 지우면
+   앱이 깨진다 — 안 보이게만 한다. #region/#voice(북부/남부·목소리 전환)는 실제 기능이라 남겨둔다. */
+#title, #goMe { display: none !important; }
+
+/* ── 레슨 학습방법 탭: 카드/강의/애니메이션/노래 (2026-09-08) — chaochao에서 이식 ── */
+.lessontabs{display:flex; gap:6px; padding:8px 10px 0; overflow-x:auto}
+.lessontabs button{flex:0 0 auto; padding:8px 14px; border-radius:999px; border:1px solid var(--line); background:var(--card); color:var(--fg); font-size:14px; font-weight:600}
+.lessontabs button.on{background:var(--accent); color:var(--accent-fg); border-color:transparent}
+.lessonextra{padding:40px 20px; text-align:center; color:var(--dim)}

@@ -944,7 +944,39 @@ async function playSeq(list, rows) {
    산출 효과(production effect): 눈으로만 보는 것보다 소리 내어 말하면 기억이 크게 좋아진다.
    그리고 남이 읽어주는 걸 듣는 것보다 '내가 말한 것'이 더 잘 남는다(운동 정보 + 자기참조).
    자동 채점은 하지 않는다 — 성조 채점은 지금 기술로 못 믿는다. 나란히 듣고 사람이 판단한다. */
-let REC = { stream: null, mr: null, url: null, key: null };
+let REC = { stream: null, mr: null, url: null, key: null, localHeard: null, sr: null };
+const HAND_AI = false;   // 손글씨 AI 채점 기능 제외 (대표님 지시 2026-09-08, chaochao에서 이식) — 연습·자가채점은 그대로
+/* 발음 판정은 오직 폰(브라우저 내장 음성인식)으로만 한다 — 제미나이 호출 없음 (대표님 지시 2026-09-08).
+   못 알아들으면 그냥 판정을 안 한다. chaochao(한국인용)에서 그대로 이식, 아직 실기기 미검증. */
+const SRClass = window.SpeechRecognition || window.webkitSpeechRecognition;
+const canLocalASR = () => !!SRClass;
+function startLocalASR() {
+  REC.localHeard = null;
+  if (!SRClass) return;
+  try {
+    const r = new SRClass();
+    r.lang = 'ko-KR';   // 이 앱은 한국어를 가르치므로 늘 한국어로 듣는다
+    r.continuous = false; r.interimResults = false; r.maxAlternatives = 1;
+    r.onresult = e => { REC.localHeard = e.results[0][0].transcript || null; };
+    r.onerror = () => {};
+    r.start();
+    REC.sr = r;
+  } catch (e) { REC.sr = null; }
+}
+function stopLocalASR() {
+  try { REC.sr && REC.sr.stop(); } catch (e) { }
+}
+function judgeLocalHeard(text, heard) {
+  const clean = x => String(x || '').toLowerCase().replace(/[.,!?]/g, '').replace(/\s+/g, ' ').trim();
+  const opts = sayOpts(text);
+  if (opts) {
+    const h = clean(heard);
+    const hit = opts.find(o => clean(o) === h || (h && h.includes(clean(o))));
+    return { heard: hit || heard, ok: hit ? hit === text : null, pick: true };
+  }
+  const ok = clean(heard) === clean(text) || stripTone(clean(heard)) === stripTone(clean(text));
+  return { heard, ok, pick: false };
+}
 
 /* 카드를 넘기거나 화면을 떠나면 녹음 상태를 비운다.
    안 그러면 앞 단어의 녹음이 다음 카드에서 '내 소리'로 재생된다. */
@@ -972,8 +1004,7 @@ async function toggleRec(text, btn, box) {
     popup('<b>녹음은 어디에 남나요</b><br>' +
       '· 우리 서버에는 <b>저장하지 않습니다.</b> 저장소 자체가 붙어 있지 않습니다.<br>' +
       '· 폰 안에서만 잠깐 들고 있다가 <b>다음 녹음 때 지웁니다.</b> 앱을 닫으면 사라집니다.<br>' +
-      '· 발음을 받아 적는 일은 <b>구글(제미나이)</b>이 합니다 — 소리가 구글로 갑니다. ' +
-      '구글이 그것을 얼마나 두는지는 <b>우리가 정하지 못합니다.</b><br>' +
+      '· 발음을 받아 적는 일은 <b>이 폰의 음성인식 기능</b>이 합니다.<br>' +
       '· 높낮이 판정은 <b>폰 안에서</b> 합니다. 아무 데도 안 보냅니다.');
   }
   try {
@@ -987,6 +1018,7 @@ async function toggleRec(text, btn, box) {
   REC.mr = mr; REC.key = text;
   mr.ondataavailable = e => { if (e.data.size) chunks.push(e.data); };
   mr.onstop = () => {
+    stopLocalASR();
     releaseMic();                      // 녹음이 끝나면 마이크를 놓는다
     if (REC.url) URL.revokeObjectURL(REC.url);
     REC.url = URL.createObjectURL(new Blob(chunks, { type: mr.mimeType }));
@@ -999,6 +1031,7 @@ async function toggleRec(text, btn, box) {
   const kill = liveRec(box, REC.stream, secs, () => { if (mr.state === 'recording') mr.stop(); });
   const oldStop = mr.onstop;
   mr.onstop = e => { kill(); oldStop(e); };
+  startLocalASR();
   mr.start();
   btn.dataset.on = '1';
   btn.classList.add('rec-on');       // 이름은 그대로, 녹음 중은 색으로만 알린다
@@ -1113,7 +1146,7 @@ function drawCompare(text, box) {
   row.append(a, b, c);
   box.append(row, curve, said);
   showTone(text, REC.url, curve);        // 녹음이 끝나면 버튼 없이 바로 그린다
-  if (aiReady()) aiListen(text, REC.url, said);   // 발음도 누를 것 없이 바로
+  if (canLocalASR()) aiListen(text, REC.url, said);   // 발음도 누를 것 없이 바로 (폰으로만 판정)
 }
 
 /* 녹음을 16kHz 모노 WAV 로 바꾼다 — 폰마다 다른 녹음 형식을 AI가 다 읽지는 못해서 */
@@ -1172,8 +1205,9 @@ async function askSpeech(text, b64, onWait) {
 
 async function aiListen(text, blobUrl, box) {
   try {
-    const b64 = await recToWav(blobUrl);
-    const { heard, ok, pick } = await askSpeech(text, b64);
+    // 오직 폰으로만 판정한다 — 제미나이 호출 없음 (대표님 지시 2026-09-08)
+    if (!REC.localHeard) return;
+    const { heard, ok, pick } = judgeLocalHeard(text, REC.localHeard);
     if (ok !== null) {
       S.stats.pronAll = (S.stats.pronAll || 0) + 1;
       if (ok) S.stats.pronOk = (S.stats.pronOk || 0) + 1;
@@ -1468,18 +1502,18 @@ function show(v, title, canBack) {
   if (window.cardArrows) setTimeout(window.cardArrows, 0);   // 좌우 넘김 단추는 학습 화면에서만
   CURV = v;
   topBtns();
-  syncTabbar(v, title);   // 하단 탭바 — 이 화면이 넷 중 하나면 그 탭을 밝힌다
+  syncTabbar();           // 하단 탭바 — 마지막으로 누른 탭을 그대로 밝힌다
   window.scrollTo(0, 0);
 }
 
-/* 하단 탭바 밝히기 — exam 화면 하나를 날마다 배우기·모의고사·단어장·순위 넷이 나눠 쓰므로
-   view 이름만으로는 못 가른다. show()가 받는 title(화면 제목)로 구분한다. */
-const TAB_TITLE = { '모의고사': 'exam', '단어장': 'book', '순위': 'cred' };
-function syncTabbar(v, title) {
+/* 하단 탭바 밝히기 — ACTIVE_TAB 은 탭을 직접 눌렀을 때만 바뀐다(2026-09-08, chaochao와 동일 방식).
+   view/title 로 역추적하던 예전 방식은 탭이 넷(하루5분·학습·시험·내정보)으로 바뀌면서
+   더 헷갈려서, 눌린 탭을 그대로 기억하는 쪽으로 바꿨다. */
+let ACTIVE_TAB = 'daily';
+function syncTabbar() {
   const bar = $('#tabbar');
   if (!bar) return;
-  const t = v === 'home' ? 'home' : (TAB_TITLE[title] || null);
-  bar.querySelectorAll('.tabbtn').forEach(b => b.classList.toggle('active', b.dataset.tab === t));
+  bar.querySelectorAll('.tabbtn').forEach(b => b.classList.toggle('active', b.dataset.tab === ACTIVE_TAB));
 }
 
 
@@ -1990,6 +2024,10 @@ function acctForm(gate, mode) {
   const pw = el('input', 'keyin'); pw.type = 'password';
   // 비밀번호 규칙은 NIST 지침대로: 길이만 본다(8자+). 특수문자 강제는 뻔한 변형만 낳는다.
   pw.placeholder = trP('비밀번호 (8자 이상)'); pw.maxLength = 64;
+  // 이메일 수집(2026-09-08, chaochao에서 이식) — 비밀번호를 잊었을 때 메일로 되찾을 수 있게.
+  const emailIn = el('input', 'keyin'); emailIn.type = 'email';
+  emailIn.placeholder = trP('이메일 (비밀번호를 잊었을 때 되찾는 용도)');
+  emailIn.maxLength = 100;
 
   /* 가입 화면에만 나오는 것들 — 국적과 배울 언어 */
   const profBox = el('div', 'profbox');
@@ -2035,6 +2073,8 @@ function acctForm(gate, mode) {
     if (!/^[a-z0-9_]{4,20}$/.test(i)) return oops('아이디는 영문·숫자 4~20자입니다.');
     if (p.length < 4) return oops('비밀번호는 4자 이상입니다.');
     if (act === 'signup' && p.length < 8) return oops('비밀번호는 8자 이상입니다.');
+    const em = act === 'signup' ? emailIn.value.trim() : '';
+    if (act === 'signup' && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em)) return oops('이메일을 올바르게 적어 주세요.');
     try {
       if (act === 'signup' && !S.nick) {
         const v = nickIn.value.trim();
@@ -2043,10 +2083,10 @@ function acctForm(gate, mode) {
         S.nick = v; save();
       }
       const prof = act === 'signup'
-        ? { nat: natW.val(), learn: lrnW.sel.val(), reg: regW.sel ? regW.sel.val() : '' } : {};
+        ? { nat: natW.val(), learn: lrnW.sel.val(), reg: regW.sel ? regW.sel.val() : '', email: em } : {};
       const j = await cCall(Object.assign({ act, id: i, pw: p }, prof));
       if (act === 'signup' && prof.reg) { S.region = prof.reg; drawRegion(); }
-      if (act === 'signup') { S.nat = prof.nat; S.learn = prof.learn; }
+      if (act === 'signup') { S.nat = prof.nat; S.learn = prof.learn; S.email = em; save(); }
       // S.ui는 이 앱에서 고정값(dev/vi)이라 서버 프로필의 옛 ui값으로 덮어쓰지 않는다(2026-09-08)
       if (act === 'login' && j.prof) {
         S.nat = j.prof.nat || S.nat; S.learn = j.prof.learn || S.learn;
@@ -2067,7 +2107,7 @@ function acctForm(gate, mode) {
         }
       }
       popup(act === 'signup'
-        ? '<b>가입됐습니다.</b><br>비밀번호를 잊으면 <b>되찾을 길이 없습니다</b> — 적어 두세요.<br>다른 폰에서 로그인하면 지금 별명이 따라옵니다.'
+        ? '<b>가입됐습니다.</b><br>다른 폰에서 로그인하면 지금 별명이 따라옵니다.'
         : '<b>로그인됐습니다.</b> 별명이 이 기기로 따라왔습니다.');
       if (gate) renderHome(); else renderAwards();
     } catch (e) { oops(e.message || '안 됐습니다'); }
@@ -2079,7 +2119,18 @@ function acctForm(gate, mode) {
   bs.append(main);
   if (!S.nick) profBox.append(el('p', 'note', tr('별명')), nickIn);
   if (mode === 'login') b.append(id, pw, err, bs);
-  else b.append(profBox, id, pw, err, bs);
+  else b.append(profBox, id, pw, emailIn, err, bs);
+  /* 구글·페이스북 로그인 (2026-09-08 대표님 지시, chaochao에서 이식).
+     둘 다 로그인 자체는 무료(OAuth)지만, 토큰을 확인하는 건 서버(Worker) 몫이고
+     그 코드는 이 저장소 밖에 있다. 지금은 버튼만 두고 누르면 "준비 중"이라고 정직하게 말한다. */
+  const social = el('div', 'socialrow');
+  [['구글로 계속하기', '🇬'], ['페이스북으로 계속하기', 'f']].forEach(([label, mark]) => {
+    const sb = el('button', 'ghost social');
+    sb.append(el('span', 'socialmark', mark), el('span', null, tr(label)));
+    sb.onclick = () => alert(tr('구글/페이스북 로그인은 준비 중입니다. 서버 쪽 작업이 끝나면 열립니다.'));
+    social.append(sb);
+  });
+  b.append(social);
   // 두 화면 사이를 오가는 문
   const sw = el('button', 'ghost');
   sw.style.width = '100%'; sw.style.marginTop = '10px';
@@ -2155,6 +2206,11 @@ function renderAwards() {
   };
   ac.append(ab);
   b.append(ac);
+  // 순위 — 예전엔 하단 탭 하나였는데 4탭 개편(2026-09-08)으로 여기(내 정보)로 옮겨왔다.
+  const rk = el('button', 'bigmenu');
+  rk.append(el('b', null, '순위'), el('span', 'exmeta', '지난주의 나와 비교'));
+  rk.onclick = creditEntry;
+  b.append(rk);
   if (S.acct) {
     const qb = el('div', 'planrow');
     qb.append(el('span', 'pk', tr('탈퇴')), el('span', 'pv', tr('계정과 진도를 지웁니다')));
@@ -4814,6 +4870,33 @@ function startLearn(d) {
   drawCard();
   // 제목은 버튼 이름과 같게 — 준비 날들은 주제만 (준비 N 표기는 뺀다)
   show('learn', typeof d.day === 'string' ? d.theme : label(d) + ' · ' + d.theme, true);
+  drawLessonTabs();
+}
+/* 학습 방법 탭 — 카드학습/강의/애니메이션/노래 (2026-09-08, chaochao에서 이식).
+   '하루5분' 탭으로 들어온 자동 진행 중에는 숨긴다 — 진행 흐름을 끊지 않기 위해서다. */
+function drawLessonTabs() {
+  const bar = $('#lessonTabs');
+  $('#card').hidden = false; $('#lessonExtra').hidden = true;
+  if (ACTIVE_TAB === 'daily') { bar.hidden = true; return; }
+  bar.hidden = false;
+  bar.textContent = '';
+  const modes = [['card', '카드 학습'], ['lecture', '강의'], ['anim', '애니메이션'], ['song', '노래']];
+  modes.forEach(([k, name]) => {
+    const btn = el('button', k === 'card' ? 'on' : '', name);
+    btn.onclick = () => {
+      [...bar.children].forEach(x => x.classList.remove('on'));
+      btn.classList.add('on');
+      const extra = $('#lessonExtra');
+      if (k === 'card') { $('#card').hidden = false; extra.hidden = true; drawCard(); }
+      else {
+        $('#card').hidden = true; extra.hidden = false;
+        extra.textContent = '';
+        extra.append(el('p', null, `${name} 학습은 아직 준비 중입니다.`));
+        extra.append(el('p', 'note', '곧 이 레슨의 단어·예문으로 만든 콘텐츠가 올라옵니다.'));
+      }
+    };
+    bar.append(btn);
+  });
 }
 
 /* 단어의 예문 — 새로 짓지 않고 그날 대화·바꿔말하기에서 그 단어가 든 문장을 꺼내 쓴다.
@@ -7214,7 +7297,7 @@ function drawHandQ(body, q) {
     const no = el('button', null, '✗ 틀렸어요');   no.onclick = () => mark(false);
     g.append(ok, no); body.append(g);
   };
-  if (aiReady()) {
+  if (HAND_AI && aiReady()) {
     const ai = el('button', 'primary', '채점받기');
     ai.onclick = () => {
       ai.disabled = true;
@@ -7325,7 +7408,7 @@ function sayOpts(target) {
   return [target, ...pick].sort(() => Math.random() - .5);
 }
 function judgeBtn(target, box, onDone) {
-  if (!canRecord() || !aiReady()) return null;
+  if (!canRecord() || !canLocalASR()) return null;
   const b = el('button', 'rec', '🎤 말하고 채점받기');
   b.onclick = async () => {
     if (REC.mr && REC.mr.state === 'recording') { REC.mr.stop(); return; }
@@ -7337,17 +7420,23 @@ function judgeBtn(target, box, onDone) {
     REC.mr = mr; REC.key = target;
     mr.ondataavailable = e => { if (e.data.size) chunks.push(e.data); };
     mr.onstop = async () => {
+      stopLocalASR();
       releaseMic();
       b.textContent = '🎤 말하고 채점받기';
       const url = URL.createObjectURL(new Blob(chunks, { type: mr.mimeType }));
       if (REC.url) URL.revokeObjectURL(REC.url);
       REC.url = url;
-      box.textContent = 'AI가 듣는 중…';
+      box.textContent = '폰이 듣는 중…';
       bumpSaid();
       try {
-        const b64 = await recToWav(url);
-        const { heard, ok } = await askSpeech(target, b64,
-          i => { box.textContent = `AI가 붐빕니다 — 다시 시도 중 (${i + 2}/3)…`; });
+        // 오직 폰으로만 판정한다 — 제미나이 호출 없음 (대표님 지시 2026-09-08)
+        if (!REC.localHeard) {
+          box.innerHTML = '<b>알아듣지 못했습니다.</b> 폰을 입 가까이 대고 조금 크게, 또박또박 다시 해 보세요.'
+            + '<span class="tonenote">높낮이는 아래 곡선이 봅니다.</span>';
+          onDone && onDone(null, true);
+          return;
+        }
+        const { heard, ok } = judgeLocalHeard(target, REC.localHeard);
         if (ok !== null) {                    // 판정을 미룬 것은 성적에 넣지 않는다
           S.stats.pronAll = (S.stats.pronAll || 0) + 1;
           if (ok) S.stats.pronOk = (S.stats.pronOk || 0) + 1;
@@ -7362,12 +7451,13 @@ function judgeBtn(target, box, onDone) {
           + '<span class="tonenote">높낮이는 아래 곡선이 봅니다.</span>';
         fxTone(ok === true);
         onDone && onDone(ok, true);   // null 이면 점수 없음 (AI가 매긴 것임을 알린다)
-      } catch (e) { box.textContent = 'AI 듣기 실패: ' + (e.message || ''); }
+      } catch (e) { box.textContent = '판정 실패: ' + (e.message || ''); }
     };
     const kill = liveRec(box, REC.stream, RECSEC(target),
                          () => { if (mr.state === 'recording') mr.stop(); });
     const prevStop = mr.onstop;
     mr.onstop = async e => { kill(); await prevStop(e); };
+    startLocalASR();
     mr.start();
     b.textContent = '■ 멈추기';
     setTimeout(() => { if (mr.state === 'recording') mr.stop(); }, RECSEC(target) * 1000);
@@ -8456,7 +8546,7 @@ function drawWrite() {
   const cl = el('button', 'ghost', '지우기');
   cl.onclick = () => { paper(); ctx.strokeStyle = '#16181d'; drew = false; };
   row.append(cl);
-  if (aiReady()) {
+  if (HAND_AI && aiReady()) {
     const ai = el('button', 'ghost', 'AI 선생님 점검');
     ai.onclick = () => {
       if (!drew) return;
@@ -8848,20 +8938,45 @@ function telex(word, ch) {
 $('#back').onclick = () => { const f = NAV.pop(); (f || renderHome)(); };
 $('#goMe').onclick = renderAwards;
 
-/* 하단 탭바 네 개 — MENUS_KO 중 상시 접근이 가장 필요한 넷(날마다 배우기는 홈 카드로 이미 있어 뺀다).
-   '홈' 탭은 예전 머리띠 #goHome 자리를 그대로 물려받는다 — 시험·퀴즈 도중 묻는 안전장치도 그대로. */
+/* 하단 탭바 네 개 — 하루5분·학습·시험·내 정보 (2026-09-08, chaochao 최신 구조 이식).
+   '하루5분'이 예전 '홈' 자리를 물려받는다 — 시험·퀴즈 도중 묻는 안전장치도 그대로. */
+function dailyFlowEntry() {
+  if (!COURSE) { renderHome(); return; }
+  const q = courseQueue(1);
+  if (q.length) startLearn(q[0]);
+  else renderHome();
+}
+function studyHubEntry() {
+  const b = $('#subBody');
+  b.textContent = '';
+  b.append(el('p', 'lede', '무엇을 배울까요?'));
+  const row = (t, sub, fn) => {
+    const btn = el('button', 'bigmenu');
+    btn.append(el('b', null, t), el('span', 'exmeta', sub));
+    btn.onclick = fn;
+    b.append(btn);
+  };
+  row('회화', '단어·문법·기본기 전체 목차', courseEntry);
+  row('단어장', '외운 단어 창고', wordbookEntry);
+  row('복습', '잊을 때 된 것을 다시 봅니다', () => reviewMenu('all'));
+  show('sub', '학습', true);
+}
 const TAB_ACTIONS = {
-  home: async () => {
+  daily: async () => {
     if (!$('#quiz').hidden && Q && Q.i > 0 &&
-        !await askYN(tr('풀던 문제를 그만두고 홈으로 갈까요?'), '홈으로')) return;
-    renderHome();
+        !await askYN(tr('풀던 문제를 그만두고 하루5분으로 갈까요?'), '이동'))
+      return;
+    dailyFlowEntry();
   },
+  study: studyHubEntry,
   exam: examEntry,
-  book: wordbookEntry,
-  cred: creditEntry,
+  me: renderAwards,
 };
 $('#tabbar').querySelectorAll('.tabbtn').forEach(btn => {
-  btn.onclick = () => TAB_ACTIONS[btn.dataset.tab] && TAB_ACTIONS[btn.dataset.tab]();
+  btn.onclick = () => {
+    ACTIVE_TAB = btn.dataset.tab;
+    TAB_ACTIONS[btn.dataset.tab] && TAB_ACTIONS[btn.dataset.tab]();
+  };
   btn.querySelector('span').textContent = tr(btn.querySelector('span').textContent);
 });
 

@@ -36,7 +36,11 @@
 
   <!-- 학습 -->
   <section id="learn" class="view" hidden>
+    <!-- 학습 방법 탭 — 카드 학습/강의/애니메이션/노래 (2026-09-08 대표님 지시, chaochao에서 이식).
+         하루5분(자동 진행)에서는 숨기고, 목차에서 레슨을 직접 골랐을 때만 보인다. -->
+    <div id="lessonTabs" class="lessontabs" hidden></div>
     <div id="card" class="card"></div>
+    <div id="lessonExtra" class="lessonextra" hidden></div>
     <!-- '‹ 이전 / 다음 ›' 을 뺐다 (대표님 지시) — **밀어서 넘긴다**.
          마지막 장에서만 단추가 나온다. 진도를 확정하는 자리라 실수로 밀려 넘어가면 안 된다. -->
     <!-- 화면 좌우에 붙박이 넘김 단추 (대표님 지시 2026-08-31).
@@ -122,23 +126,23 @@
 
 </main>
 
-<!-- 하단 탭바 — 이 앱의 진짜 대표 목적지 넷(MENUS_KO 중 우선순위 상위). 씬 전체 고정 껍데기라 index.html에 한 번만 둔다. -->
+<!-- 하단 탭바 — 하루5분·학습·시험·내 정보 (2026-09-08, chaochao 최신 구조 이식) -->
 <nav id="tabbar" aria-label="주요 이동">
-  <button class="tabbtn" data-tab="home" aria-label="홈">
-    <svg viewBox="0 0 24 24"><path d="M3.6 11.4 12 4.2l8.4 7.2"/><path d="M5.8 10.6V19a1 1 0 0 0 1 1h3.4v-4.6h3.6V20h3.4a1 1 0 0 0 1-1v-8.4"/></svg>
-    <span>홈</span>
+  <button class="tabbtn" data-tab="daily" aria-label="하루5분">
+    <svg viewBox="0 0 24 24"><path d="M13 2 4 14h6l-1 8 9-12h-6z"/></svg>
+    <span>하루5분</span>
   </button>
-  <button class="tabbtn" data-tab="exam" aria-label="모의고사">
+  <button class="tabbtn" data-tab="study" aria-label="학습">
+    <svg viewBox="0 0 24 24"><path d="M4 5.8c2.2-1 5-1 8 .3v13c-3-1.3-5.8-1.3-8-.3z"/><path d="M20 5.8c-2.2-1-5-1-8 .3v13c3-1.3 5.8-1.3 8-.3z"/></svg>
+    <span>학습</span>
+  </button>
+  <button class="tabbtn" data-tab="exam" aria-label="시험">
     <svg viewBox="0 0 24 24"><rect x="4.5" y="3.5" width="15" height="17" rx="2"/><path d="M8 8.2h8M8 12h8M8 15.8h5"/></svg>
-    <span>모의고사</span>
+    <span>시험</span>
   </button>
-  <button class="tabbtn" data-tab="book" aria-label="단어장">
-    <svg viewBox="0 0 24 24"><path d="M5 4.5h11a2 2 0 0 1 2 2V20l-3.5-2-3.5 2-3.5-2-3.5 2V6.5a2 2 0 0 1 2-2Z"/><path d="M9 8.5h6"/></svg>
-    <span>단어장</span>
-  </button>
-  <button class="tabbtn" data-tab="cred" aria-label="순위">
-    <svg viewBox="0 0 24 24"><path d="M8 20V11M12 20V4M16 20v-7"/></svg>
-    <span>순위</span>
+  <button class="tabbtn" data-tab="me" aria-label="내 정보">
+    <svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.6"/><path d="M4.8 20a7.2 7.2 0 0 1 14.4 0"/></svg>
+    <span>내 정보</span>
   </button>
 </nav>
 
