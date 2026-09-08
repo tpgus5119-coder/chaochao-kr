@@ -370,7 +370,7 @@ const UIVI = {
   '조각을 눌러 문장을 만들어 보세요': 'Nhấn các mảnh để ghép thành câu',
   '아래 조각을 눌러 보세요': 'Hãy nhấn các mảnh bên dưới',
   'N개 중 M개를 한 번에 맞혔어요': 'Bạn đúng M/N ngay lần đầu',
-  '보통 속도': 'Tốc độ thường', '느리게': 'Chậm lại',
+  '보통 속도': 'Tốc độ thường',
   '📚 배운 것 모두': '📚 Tất cả đã học', '★ 담은 것': '★ Đã lưu',
   '여기까지 배운 낱말 N개입니다': 'Bạn đã học N từ',
   '여기 있는 낱말로 복습하기': 'Ôn tập các từ này',
