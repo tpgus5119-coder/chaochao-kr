@@ -559,7 +559,7 @@ const UIVI = {
   '메신저': 'Tin nhắn', '내 정보': 'Của tôi', '이름': 'Tên', '지역': 'Vùng miền',
   '계정': 'Tài khoản', '가입': 'Đăng ký', '로그아웃': 'Đăng xuất',
   '로그인·가입': 'Đăng nhập / Đăng ký', '배울 언어': 'Ngôn ngữ học', '보호권': 'Khiên bảo vệ',
-  '아이디로 어느 폰에서든 <b>내 별명</b>가 따라옵니다.':
+  '아이디로 어느 폰에서든 <b>내 별명이</b> 따라옵니다.':
     'Đăng nhập để <b>biệt danh và câu lạc bộ</b> của bạn theo bạn trên mọi điện thoại.',
   '<b>처음 오셨군요!</b> 1분이면 됩니다 — 별명과 아이디만 정하면 끝.':
     '<b>Chào bạn mới!</b> Chỉ mất 1 phút — chọn biệt danh và tên đăng nhập là xong.',
@@ -1924,7 +1924,7 @@ function acctForm(gate, mode) {
   });
   b.append(langRow);
   b.append(el('p', 'lede', tr(mode === 'login'
-    ? '아이디로 어느 폰에서든 <b>내 별명</b>가 따라옵니다.'
+    ? '아이디로 어느 폰에서든 <b>내 별명이</b> 따라옵니다.'
     : '<b>처음 오셨군요!</b> 1분이면 됩니다 — 별명과 아이디만 정하면 끝.')));
   // 별명이 아직 없으면(첫 방문 가입) 여기서 같이 정한다 — 가입에 별명이 필요해서다
   const nickIn = el('input', 'keyin'); nickIn.type = 'text'; nickIn.maxLength = 10;
@@ -2438,6 +2438,17 @@ function drawKoHome() {
   head.append(el('div', 'kohtit', '베트남인을 위한 한국어'));
   head.append(el('div', 'kohsub', 'EPS-TOPIK · KIIP · TOPIK I 시험 대비'));
   plan.append(head);
+
+  // 인사말 카드(Stitch 시안의 그린 점+인사말 카드를 재현) — 사진은 안 쓴다(대표님 지시),
+  // 원형 아이콘으로 대신한다. 연속 학습일은 실제 데이터(streakDays())만 쓴다.
+  const greet = el('div', 'kogreet');
+  const gtxt = el('div', 'kogtxt');
+  const gbadge = el('div', 'kogbadge');
+  gbadge.append(el('span', 'kogdot'), el('span', null, tr('연속 학습') + ' ' + streakDays() + tr('일')));
+  gtxt.append(gbadge);
+  gtxt.append(el('div', 'kogh1', tr('안녕하세요') + ', ' + esc(S.nick || tr('학습자')) + tr('님!')));
+  greet.append(gtxt, el('div', 'kogicon', '🎓'));
+  plan.append(greet);
 
   // 이번 주 출석 — 월~일, 실제 출석 기록(S.act·weekDots())만 쓴다. 지어낸 표시 없음.
   plan.append(koWeekCard());

@@ -1843,6 +1843,22 @@ button.wex{width:100%; background:transparent; color:var(--fg); font:inherit; cu
 .wkcell.today .wkdot{outline:2px solid var(--accent); outline-offset:2px}
 .wkcell.future .wkdot{opacity:.45}
 
+/* ── 인사말 카드 (Stitch 시안 재현, 사진 대신 아이콘) ── */
+.kogreet{
+  grid-column:1 / -1; display:flex; align-items:center; justify-content:space-between; gap:12px;
+  background:var(--card); border:1px solid var(--line); border-radius:var(--radius-lg,14px);
+  padding:16px; margin-bottom:12px;
+}
+.kogtxt{min-width:0}
+.kogbadge{display:flex; align-items:center; gap:6px; font-size:13px; color:var(--dim); margin-bottom:4px}
+.kogdot{width:8px; height:8px; border-radius:50%; background:var(--ok); flex:0 0 auto}
+.kogh1{font-size:20px; font-weight:800; line-height:1.3}
+.kogicon{
+  width:56px; height:56px; border-radius:50%; flex:0 0 auto;
+  background:color-mix(in srgb, var(--accent) 12%, var(--card));
+  display:grid; place-items:center; font-size:28px;
+}
+
 /* ── 78일 과정 로드맵 (현재 위치 중심 4일) ── */
 .kroad{grid-column:1 / -1; position:relative; margin-bottom:12px; padding-left:4px}
 .krnode{position:relative; display:flex; gap:14px; padding:0 0 20px 20px; border-left:2px solid var(--line)}
@@ -1857,7 +1873,14 @@ button.wex{width:100%; background:transparent; color:var(--fg); font:inherit; cu
   width:44px; height:44px; left:-23px; top:-4px; font-size:16px;
   background:var(--accent); color:var(--accent-fg); border-color:transparent;
   outline:3px solid var(--line); outline-offset:2px;
+  animation:krpulse 1.8s ease-out infinite;
 }
+/* Stitch 시안의 "진행 중" 노드 펄스 링 재현 — 지금 어디를 배우고 있는지 눈에 띄게 */
+@keyframes krpulse{
+  0%{box-shadow:0 0 0 0 color-mix(in srgb, var(--accent) 35%, transparent)}
+  100%{box-shadow:0 0 0 12px color-mix(in srgb, var(--accent) 0%, transparent)}
+}
+@media (prefers-reduced-motion:reduce){.krnode.cur .krdot{animation:none}}
 .krnode.lock .krdot{opacity:.5}
 .krlabel{
   flex:1; min-width:0; background:var(--card); border:1px solid var(--line);
