@@ -1,6 +1,991 @@
 {
  "days": [
   {
+   "ts": "2026-09-11",
+   "day": "Nno=44037",
+   "track": "news",
+   "theme": "자동차 수리",
+   "title": "포드베트남, ‘에어백 결함’ 레인저 700대 리콜",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44037",
+   "cat": "경제",
+   "intro": "포드베트남이 에어백 결함으로 레인저 700여 대를 리콜합니다. 부품 교체는 무상으로 진행되며 2시간 정도 소요됩니다.",
+   "words": [
+    {
+     "vi": "ô tô",
+     "ko": "자동차",
+     "kr_read": "오 또",
+     "emoji": "🚗",
+     "en": "a red car",
+     "tones": [
+      {
+       "syl": "ô",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "tô",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-o-to.webp"
+    },
+    {
+     "vi": "xe tải",
+     "ko": "트럭",
+     "kr_read": "쌔 따이",
+     "emoji": "🛻",
+     "en": "a pickup truck",
+     "tones": [
+      {
+       "syl": "xe",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "tải",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-xe-tai.webp"
+    },
+    {
+     "vi": "kiểm tra",
+     "ko": "점검하다",
+     "kr_read": "끼엠 짜",
+     "emoji": "🔍",
+     "en": "a magnifying glass over a car",
+     "tones": [
+      {
+       "syl": "kiểm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tra",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-kiem-tra.webp"
+    },
+    {
+     "vi": "thay",
+     "ko": "교체하다",
+     "kr_read": "타이",
+     "emoji": "🔄",
+     "en": "rotating arrows sign",
+     "tones": [
+      {
+       "syl": "thay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-thay.webp"
+    },
+    {
+     "vi": "miễn phí",
+     "ko": "무상/무료",
+     "kr_read": "미엔 피",
+     "emoji": "🆓",
+     "en": "a free text tag",
+     "tones": [
+      {
+       "syl": "miễn",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      },
+      {
+       "syl": "phí",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-mien-phi.webp"
+    },
+    {
+     "vi": "an toàn",
+     "ko": "안전",
+     "kr_read": "안 또안",
+     "emoji": "🛡️",
+     "en": "a green shield",
+     "tones": [
+      {
+       "syl": "an",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "toàn",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-an-toan.webp"
+    }
+   ],
+   "dialog": {
+    "title": "자동차 수리",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Xe này kiểm tra mất bao lâu?",
+      "ko": "이 차 점검하는 데 얼마나 걸려요?",
+      "kr_read": "쌔 나이 끼엠 짜 멋 바오 러우",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Xe",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "kiểm",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tra",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "bao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "lâu?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Mất khoảng hai tiếng, miễn phí ạ.",
+      "ko": "약 2시간 걸리고 무상입니다.",
+      "kr_read": "멋 코앙 하이 띠엥 미엔 피 아",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Mất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "khoảng",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "hai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tiếng,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "miễn",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "phí",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ạ.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 33
+  },
+  {
+   "ts": "2026-09-11",
+   "day": "Nno=44036",
+   "track": "news",
+   "theme": "여행과 결제",
+   "title": "베트남 다낭, ‘아시아 재방문객 최선호 여행지’ 6위 올라…아고다",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44036",
+   "cat": "문화·생활",
+   "intro": "다낭이 아시아 재방문 여행지 6위에 올랐습니다. 관광객 증가로 식음료와 카드 결제도 늘었습니다.",
+   "words": [
+    {
+     "vi": "du lịch",
+     "ko": "여행",
+     "kr_read": "주 릭",
+     "emoji": "🧳",
+     "en": "a travel suitcase with wheels",
+     "tones": [
+      {
+       "syl": "du",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "lịch",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-du-lich.webp"
+    },
+    {
+     "vi": "thanh toán",
+     "ko": "결제하다",
+     "kr_read": "타인 또안",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "thanh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "toán",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "thẻ",
+     "ko": "카드",
+     "kr_read": "태",
+     "emoji": "💳",
+     "en": "a plastic credit card",
+     "tones": [
+      {
+       "syl": "thẻ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-the.webp"
+    },
+    {
+     "vi": "tiền mặt",
+     "ko": "현금",
+     "kr_read": "띠엔 맛",
+     "emoji": "💵",
+     "en": "paper cash money bills",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "mặt",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-tien-mat.webp"
+    },
+    {
+     "vi": "biển",
+     "ko": "바다",
+     "kr_read": "비엔",
+     "emoji": "🏖️",
+     "en": "a sandy tropical beach with blue ocean waves",
+     "tones": [
+      {
+       "syl": "biển",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-bien.webp"
+    },
+    {
+     "vi": "khách",
+     "ko": "손님",
+     "kr_read": "칵",
+     "emoji": "👤",
+     "en": "a customer standing in front of a counter",
+     "tones": [
+      {
+       "syl": "khách",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-khach.webp"
+    }
+   ],
+   "dialog": {
+    "title": "여행과 결제",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Ở đây có thanh toán thẻ không?",
+      "ko": "여기 카드 결제 되나요?",
+      "kr_read": "어 더이 꼬 타인 또안 태 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "đây",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thanh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "toán",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thẻ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Dạ có, thanh toán thẻ được ạ.",
+      "ko": "네, 카드 결제 가능해요.",
+      "kr_read": "자 꼬 타인 또안 태 드억 아",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Dạ",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thanh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "toán",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thẻ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "được",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "ạ.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 32
+  },
+  {
+   "ts": "2026-09-11",
+   "day": "Nno=44032",
+   "track": "news",
+   "theme": "비자와 거주",
+   "title": "베트남 호치민서 ‘불법체류’ 한국인 6명 추방…범죄연루 의혹도",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44032",
+   "cat": "일자리",
+   "intro": "호치민서 불법체류 한국인 6명이 추방됨. 비자 기한을 넘기고 거주신고도 안 함.",
+   "words": [
+    {
+     "vi": "hộ chiếu",
+     "ko": "여권",
+     "kr_read": "호 찌에우",
+     "emoji": "🛂",
+     "en": "a passport booklet with a blue cover",
+     "tones": [
+      {
+       "syl": "hộ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "chiếu",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-ho-chieu.webp"
+    },
+    {
+     "vi": "công an",
+     "ko": "공안 (경찰)",
+     "kr_read": "꽁 안",
+     "emoji": "👮",
+     "en": "a police officer in uniform standing",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "an",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-an.webp"
+    },
+    {
+     "vi": "tạm trú",
+     "ko": "임시 거주",
+     "kr_read": "땀 쭈",
+     "emoji": "🏠",
+     "en": "a small apartment building in a city",
+     "tones": [
+      {
+       "syl": "tạm",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "trú",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-tam-tru.webp"
+    },
+    {
+     "vi": "đăng ký",
+     "ko": "신고하다, 등록하다",
+     "kr_read": "당 끼",
+     "emoji": "📝",
+     "en": "a hand holding a pen filling out a form",
+     "tones": [
+      {
+       "syl": "đăng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ký",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-dang-ky.webp"
+    },
+    {
+     "vi": "kiểm tra",
+     "ko": "확인하다, 검사하다",
+     "kr_read": "끼엠 짜",
+     "emoji": "🔍",
+     "en": "a magnifying glass over an official document",
+     "tones": [
+      {
+       "syl": "kiểm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tra",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-kiem-tra.webp"
+    },
+    {
+     "vi": "máy tính",
+     "ko": "컴퓨터",
+     "kr_read": "마이 띤",
+     "emoji": "💻",
+     "en": "a modern laptop computer on an office desk",
+     "tones": [
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "tính",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-may-tinh.webp"
+    }
+   ],
+   "dialog": {
+    "title": "비자와 거주",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Anh đã đăng ký tạm trú chưa?",
+      "ko": "형, 임시 거주 신고 했어요?",
+      "kr_read": "아인 다 당 끼 땀 쭈 쯔어",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đã",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "đăng",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ký",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tạm",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "trú",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "chưa?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Tôi đăng ký ở công an rồi.",
+      "ko": "나 공안에 이미 등록했어.",
+      "kr_read": "또이 당 끼 어 꽁 안 조이",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đăng",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ký",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "an",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "rồi.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 31
+  },
+  {
+   "ts": "2026-09-11",
+   "day": "Nno=44031",
+   "track": "news",
+   "theme": "계좌 이체",
+   "title": "베트남, 부동산시행社 분양 시 대금결제 계좌이체 의무화…위반 시 과태료 최대 3억 동",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44031",
+   "cat": "경제",
+   "intro": "베트남에서 부동산 계약 대금의 현금 수령이 금지됩니다. 위반 시 시행사에 최대 3억 동의 과태료가 부과됩니다.",
+   "words": [
+    {
+     "vi": "tiền mặt",
+     "ko": "현금",
+     "kr_read": "띠엔 맛",
+     "emoji": "💵",
+     "en": "a stack of paper money banknotes",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "mặt",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-tien-mat.webp"
+    },
+    {
+     "vi": "chuyển khoản",
+     "ko": "계좌이체하다",
+     "kr_read": "쭈옌 코안",
+     "emoji": "📱",
+     "en": "a person sending money using a smartphone app",
+     "tones": [
+      {
+       "syl": "chuyển",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "khoản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-chuyen-khoan.webp"
+    },
+    {
+     "vi": "ngân hàng",
+     "ko": "은행",
+     "kr_read": "응언 항",
+     "emoji": "🏦",
+     "en": "an exterior view of a bank building",
+     "tones": [
+      {
+       "syl": "ngân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-ngan-hang.webp"
+    },
+    {
+     "vi": "hợp đồng",
+     "ko": "계약서",
+     "kr_read": "헙 동",
+     "emoji": "📄",
+     "en": "a printed business contract paper",
+     "tones": [
+      {
+       "syl": "hợp",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "đồng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-hop-dong.webp"
+    },
+    {
+     "vi": "căn hộ",
+     "ko": "아파트",
+     "kr_read": "깐 호",
+     "emoji": "🏢",
+     "en": "a tall residential apartment building",
+     "tones": [
+      {
+       "syl": "căn",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hộ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-can-ho.webp"
+    },
+    {
+     "vi": "tài khoản",
+     "ko": "계좌",
+     "kr_read": "따이 코안",
+     "emoji": "💳",
+     "en": "a plastic bank card",
+     "tones": [
+      {
+       "syl": "tài",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "khoản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-tai-khoan.webp"
+    }
+   ],
+   "dialog": {
+    "title": "계좌 이체",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Tôi trả bằng tiền mặt được không?",
+      "ko": "제가 현금으로 내도 되나요?",
+      "kr_read": "또이 짜 방 띠엔 맛 드억 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "trả",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "bằng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "mặt",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "được",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Không, bạn phải chuyển khoản nhé.",
+      "ko": "안 돼요, 계좌이체하셔야 해요.",
+      "kr_read": "콩 반 파이 쭈옌 코안 냬",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Không,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "bạn",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "phải",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "chuyển",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "khoản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 30
+  },
+  {
    "ts": "2026-09-10",
    "day": "Nxno=1898",
    "track": "news",
@@ -6919,5 +7904,5 @@
    "n": 1
   }
  ],
- "updated": "2026-09-12 00:03"
+ "updated": "2026-09-12 08:31"
 }
