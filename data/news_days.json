@@ -234,7 +234,7 @@
     ],
     "extra": []
    },
-   "n": 27
+   "n": 29
   },
   {
    "ts": "2026-09-10",
@@ -486,7 +486,7 @@
     ],
     "extra": []
    },
-   "n": 26
+   "n": 28
   },
   {
    "ts": "2026-09-10",
@@ -708,7 +708,237 @@
     ],
     "extra": []
    },
-   "n": 25
+   "n": 27
+  },
+  {
+   "ts": "2026-09-10",
+   "day": "Nno=44029",
+   "track": "news",
+   "theme": "베트남 여행",
+   "title": "‘아시아 최고’ 푸꾸옥, 외국인 여행객 급증에 관광수입 ‘짭짤’…8월 기준 41.7조 동 전년동기比 47.5%↑",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44029",
+   "cat": "경제",
+   "intro": "푸꾸옥 외국인 관광객이 급증해 관광 수입이 늘었습니다. 11월부터 4월까지 성수기로 고급 리조트를 육성합니다.",
+   "words": [
+    {
+     "vi": "đảo",
+     "ko": "섬",
+     "kr_read": "다오",
+     "emoji": "🏝️",
+     "en": "a tropical green island in the blue ocean",
+     "tones": [
+      {
+       "syl": "đảo",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-dao.webp"
+    },
+    {
+     "vi": "biển",
+     "ko": "바다",
+     "kr_read": "비엔",
+     "emoji": "🌊",
+     "en": "blue ocean waves hitting a sandy beach",
+     "tones": [
+      {
+       "syl": "biển",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-bien.webp"
+    },
+    {
+     "vi": "khách sạn",
+     "ko": "호텔",
+     "kr_read": "칵 싼",
+     "emoji": "🏨",
+     "en": "a modern hotel building",
+     "tones": [
+      {
+       "syl": "khách",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "sạn",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-khach-san.webp"
+    },
+    {
+     "vi": "du lịch",
+     "ko": "여행",
+     "kr_read": "주 릭",
+     "emoji": "🧳",
+     "en": "a travel suitcase with sunglasses and a passport",
+     "tones": [
+      {
+       "syl": "du",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "lịch",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-du-lich.webp"
+    },
+    {
+     "vi": "thời tiết",
+     "ko": "날씨",
+     "kr_read": "터이 띠엣",
+     "emoji": "☀️",
+     "en": "a bright sun shining in the sky",
+     "tones": [
+      {
+       "syl": "thời",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "tiết",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-thoi-tiet.webp"
+    },
+    {
+     "vi": "vé",
+     "ko": "표/티켓",
+     "kr_read": "배",
+     "emoji": "🎫",
+     "en": "a yellow paper ticket",
+     "tones": [
+      {
+       "syl": "vé",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-ve.webp"
+    }
+   ],
+   "dialog": {
+    "title": "베트남 여행",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Anh thích đi du lịch biển không?",
+      "ko": "바다로 여행 가는 거 좋아해요?",
+      "kr_read": "아인 틱 디 주 릭 비엔 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "thích",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "du",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "lịch",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "biển",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, biển ở đây rất đẹp.",
+      "ko": "네, 여기 바다는 정말 예뻐요.",
+      "kr_read": "꼬 비엔 어 더이 젓 댑",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "biển",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "đây",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đẹp.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 26
   },
   {
    "ts": "2026-09-10",
@@ -936,6 +1166,241 @@
         "name": "huyền",
         "ko": "낮게 내려감",
         "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 25
+  },
+  {
+   "ts": "2026-09-10",
+   "day": "Nno=44026",
+   "track": "news",
+   "theme": "교통 앱 파업",
+   "title": "“18km 갔는데 2,400원?” 그랩베트남 라이더, 12~13일 ‘앱끄기’ 단체행동 움직임 확산",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44026",
+   "cat": "경제",
+   "intro": "그랩 기사들이 운임 불만으로 앱을 끄는 12~13일 단체행동을 예고했습니다.",
+   "words": [
+    {
+     "vi": "tài xế",
+     "ko": "운전기사",
+     "kr_read": "따이 쎄",
+     "emoji": "👨‍✈️",
+     "en": "a car driver steering the wheel",
+     "tones": [
+      {
+       "syl": "tài",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "xế",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-tai-xe.webp"
+    },
+    {
+     "vi": "phí",
+     "ko": "요금",
+     "kr_read": "피",
+     "emoji": "💵",
+     "en": "paper money bills",
+     "tones": [
+      {
+       "syl": "phí",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-phi.webp"
+    },
+    {
+     "vi": "ô tô",
+     "ko": "자동차",
+     "kr_read": "오 또",
+     "emoji": "🚗",
+     "en": "a modern sedan car",
+     "tones": [
+      {
+       "syl": "ô",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "tô",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-o-to.webp"
+    },
+    {
+     "vi": "rẻ",
+     "ko": "저렴한",
+     "kr_read": "재",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "rẻ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "xe ôm",
+     "ko": "오토바이 택시",
+     "kr_read": "쌔 옴",
+     "emoji": "🏍️",
+     "en": "a person riding a motorbike taxi",
+     "tones": [
+      {
+       "syl": "xe",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ôm",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-xe-om.webp"
+    },
+    {
+     "vi": "giá",
+     "ko": "가격",
+     "kr_read": "자",
+     "emoji": "🏷️",
+     "en": "a price tag",
+     "tones": [
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-gia.webp"
+    }
+   ],
+   "dialog": {
+    "title": "교통 앱 파업",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Hôm nay gọi xe ôm rất khó.",
+      "ko": "오늘 오토바이 택시 부르기가 아주 어렵네요.",
+      "kr_read": "홈 나이 고이 쌔 옴 젓 코",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Hôm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "gọi",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "xe",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ôm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "khó.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vì nhiều tài xế không làm việc.",
+      "ko": "많은 운전기사들이 일하지 않기 때문이에요.",
+      "kr_read": "비 니에우 따이 쎄 콩 람 비엑",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vì",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "nhiều",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "tài",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "xế",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "việc.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
        }
       ],
       "gloss": []
@@ -6454,5 +6919,5 @@
    "n": 1
   }
  ],
- "updated": "2026-09-11 08:23"
+ "updated": "2026-09-12 00:03"
 }
