@@ -2,6 +2,259 @@
  "days": [
   {
    "ts": "2026-09-11",
+   "day": "Nno=44033",
+   "track": "news",
+   "theme": "주식 투자",
+   "title": "베트남, 8월 기준 신규 증권계좌 200만 개 순증…역대 네 번째 기록",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44033",
+   "cat": "경제",
+   "intro": "올해 베트남 신규 증권계좌 수가 200만 개를 돌파했습니다. 전체 계좌 수는 1,390만 개로 인구의 13.6%에 달합니다.",
+   "words": [
+    {
+     "vi": "tài khoản",
+     "ko": "계좌",
+     "kr_read": "따이 코안",
+     "emoji": "💳",
+     "en": "a plastic bank card",
+     "tones": [
+      {
+       "syl": "tài",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "khoản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-tai-khoan.webp"
+    },
+    {
+     "vi": "mở",
+     "ko": "개설하다",
+     "kr_read": "머",
+     "emoji": "🚪",
+     "en": "an open door",
+     "tones": [
+      {
+       "syl": "mở",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-mo.webp"
+    },
+    {
+     "vi": "đầu tư",
+     "ko": "투자하다",
+     "kr_read": "더우 뜨",
+     "emoji": "🪙",
+     "en": "a hand putting a coin into a piggy bank",
+     "tones": [
+      {
+       "syl": "đầu",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "tư",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-dau-tu.webp"
+    },
+    {
+     "vi": "lãi suất",
+     "ko": "금리",
+     "kr_read": "라이 쑤엇",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "lãi",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      },
+      {
+       "syl": "suất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "thị trường",
+     "ko": "시장",
+     "kr_read": "티 쯔엉",
+     "emoji": "🏪",
+     "en": "a busy outdoor market place",
+     "tones": [
+      {
+       "syl": "thị",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "trường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-thi-truong.webp"
+    },
+    {
+     "vi": "chứng khoán",
+     "ko": "주식",
+     "kr_read": "쯩 코안",
+     "emoji": "📈",
+     "en": "a stock market growth chart",
+     "tones": [
+      {
+       "syl": "chứng",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "khoán",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-chung-khoan.webp"
+    }
+   ],
+   "dialog": {
+    "title": "주식 투자",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Anh có đầu tư chứng khoán không?",
+      "ko": "형, 주식 투자하세요?",
+      "kr_read": "아인 꼬 더우 뜨 쯩 코안 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đầu",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "tư",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "chứng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "khoán",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, anh mới mở tài khoản tuần trước.",
+      "ko": "응, 형 지난주에 계좌 개설했어.",
+      "kr_read": "꼬 아인 머이 머 따이 코안 뚜언 쯔억",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mới",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tài",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "khoản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tuần",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "trước.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 34
+  },
+  {
+   "ts": "2026-09-11",
    "day": "Nno=44037",
    "track": "news",
    "theme": "자동차 수리",
@@ -7904,5 +8157,5 @@
    "n": 1
   }
  ],
- "updated": "2026-09-12 08:31"
+ "updated": "2026-09-12 22:54"
 }
