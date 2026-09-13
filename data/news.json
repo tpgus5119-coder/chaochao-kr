@@ -1,6 +1,22 @@
 {
- "updated": "2026-09-13 23:47",
+ "updated": "2026-09-14 08:18",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "Canadian seafood imports surge 40% as lobster, snow crab gain favor in Vietnam",
+   "u": "https://e.vnexpress.net/news/business/economy/canadian-seafood-imports-surge-40-as-lobster-snow-crab-gain-favor-in-vietnam-5119725.html",
+   "d": "09월 13일",
+   "ts": "2026-09-13",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "PM urges Indian groups to invest in clean energy, infrastructure in Vietnam",
+   "u": "https://e.vnexpress.net/news/news/politics/pm-urges-indian-groups-to-invest-in-clean-energy-infrastructure-in-vietnam-5119669.html",
+   "d": "09월 13일",
+   "ts": "2026-09-13",
+   "care": 14
+  },
   {
    "s": "인사이드비나",
    "t": "Vietnam proposes workday swap to create 4-day weekend for Culture Day holiday in November",
@@ -491,38 +507,6 @@
    "d": "09월 07일",
    "ts": "2026-09-07",
    "care": 8
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam gains market share as China’s 3rd biggest vegetable, fruit supplier",
-   "u": "https://e.vnexpress.net/news/business/economy/vietnam-gains-market-share-as-china-s-3rd-biggest-vegetable-fruit-supplier-5116163.html",
-   "d": "09월 06일",
-   "ts": "2026-09-06",
-   "care": 17
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnamese fruit gains stronger foothold in global markets",
-   "u": "https://e.vnexpress.net/news/business/economy/vietnamese-fruit-gains-stronger-foothold-in-global-markets-5116649.html",
-   "d": "09월 06일",
-   "ts": "2026-09-06",
-   "care": 17
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Why some Vietnamese workers are afraid to leave the office on time",
-   "u": "https://e.vnexpress.net/news/life/trend/why-some-vietnamese-workers-are-afraid-to-leave-the-office-on-time-5116084.html",
-   "d": "09월 06일",
-   "ts": "2026-09-06",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Durian exports expected to hit $4B this year",
-   "u": "https://e.vnexpress.net/news/business/economy/durian-exports-expected-to-hit-4b-this-year-5116635.html",
-   "d": "09월 06일",
-   "ts": "2026-09-06",
-   "care": 13
   }
  ]
 }
