@@ -222,7 +222,261 @@
     ],
     "extra": []
    },
-   "n": 33
+   "n": 36
+  },
+  {
+   "ts": "2026-09-14",
+   "day": "Nno=44046",
+   "track": "news",
+   "theme": "휴대폰 예약",
+   "title": "베트남, ‘아이폰18’ 하루 만에 사전예약 30만 건 돌파…전작대비 3배↑",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44046",
+   "cat": "경제",
+   "intro": "베트남 아이폰18 사전예약 하루 만에 30만 건 돌파 인기 모델은 품절로 배송 지연 예상",
+   "words": [
+    {
+     "vi": "đặt trước",
+     "ko": "예약하다/사전예약",
+     "kr_read": "닷 쯔억",
+     "emoji": "📅",
+     "en": "a calendar icon with a checkmark",
+     "tones": [
+      {
+       "syl": "đặt",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "trước",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-dat-truoc.webp"
+    },
+    {
+     "vi": "màu sắc",
+     "ko": "색상",
+     "kr_read": "마우 싹",
+     "emoji": "🎨",
+     "en": "colorful paint splatters on a canvas",
+     "tones": [
+      {
+       "syl": "màu",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "sắc",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-mau-sac.webp"
+    },
+    {
+     "vi": "giá cả",
+     "ko": "가격",
+     "kr_read": "자 까",
+     "emoji": "🏷️",
+     "en": "a price tag",
+     "tones": [
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "cả",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-gia-ca.webp"
+    },
+    {
+     "vi": "giao hàng",
+     "ko": "배송/배달",
+     "kr_read": "자오 항",
+     "emoji": "📦",
+     "en": "a cardboard box delivered on a doorstep",
+     "tones": [
+      {
+       "syl": "giao",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-giao-hang.webp"
+    },
+    {
+     "vi": "mới",
+     "ko": "새로운",
+     "kr_read": "머이",
+     "emoji": "✨",
+     "en": "a shining sparkling star",
+     "tones": [
+      {
+       "syl": "mới",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-moi.webp"
+    },
+    {
+     "vi": "điện thoại",
+     "ko": "전화기/휴대폰",
+     "kr_read": "디엔 토아이",
+     "emoji": "📱",
+     "en": "a modern smartphone screen glowing",
+     "tones": [
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "thoại",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-dien-thoai.webp"
+    }
+   ],
+   "dialog": {
+    "title": "휴대폰 예약",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Anh ơi, điện thoại mới này bao nhiêu?",
+      "ko": "형, 이 새 휴대폰 얼마예요?",
+      "kr_read": "아인 어이 디엔 토아이 머이 나이 바오 니에우",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ơi,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "điện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "thoại",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "mới",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "bao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nhiêu?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Giá đắt lắm, phải đặt trước ạ.",
+      "ko": "값이 아주 비싸요, 예약해야 해요.",
+      "kr_read": "자 닷 람 파이 닷 쯔억 아",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Giá",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đắt",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "lắm,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "phải",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "đặt",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "trước",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ạ.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 35
   },
   {
    "ts": "2026-09-14",
@@ -445,7 +699,7 @@
     ],
     "extra": []
    },
-   "n": 32
+   "n": 34
   },
   {
    "ts": "2026-09-14",
@@ -697,7 +951,234 @@
     ],
     "extra": []
    },
-   "n": 31
+   "n": 33
+  },
+  {
+   "ts": "2026-09-14",
+   "day": "Nno=44049",
+   "track": "news",
+   "theme": "오래된 학교",
+   "title": "[뉴스로 보는 베트남어] 호찌민시 최고(最古) 150년 명문 '레꿔돈 학교'",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44049",
+   "cat": "문화·생활",
+   "intro": "호찌민시에서 가장 오래된 레꿔돈 학교가 150년 역사를 맞았습니다. 캄보디아 국왕 등 유명 인물이 다닌 유서 깊은 공립학교입니다.",
+   "words": [
+    {
+     "vi": "trường",
+     "ko": "학교",
+     "kr_read": "쯔엉",
+     "emoji": "🏫",
+     "en": "a school building",
+     "tones": [
+      {
+       "syl": "trường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-truong.webp"
+    },
+    {
+     "vi": "học",
+     "ko": "공부하다, 배우다",
+     "kr_read": "혹",
+     "emoji": "📖",
+     "en": "a student studying with a book",
+     "tones": [
+      {
+       "syl": "học",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-hoc.webp"
+    },
+    {
+     "vi": "từng",
+     "ko": "한때 ~한 적 있다",
+     "kr_read": "뜽",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "từng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "lâu đời",
+     "ko": "역사가 오래되다",
+     "kr_read": "러우 더이",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "lâu",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "đời",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "nổi tiếng",
+     "ko": "유명하다",
+     "kr_read": "노이 띠엥",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "nổi",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tiếng",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "học sinh",
+     "ko": "학생",
+     "kr_read": "혹 씬",
+     "emoji": "🧑‍🎓",
+     "en": "a student with a backpack",
+     "tones": [
+      {
+       "syl": "học",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "sinh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-hoc-sinh.webp"
+    }
+   ],
+   "dialog": {
+    "title": "오래된 학교",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Trường này rất lâu đời phải không?",
+      "ko": "이 학교는 아주 오래되었지요?",
+      "kr_read": "쯔엉 나이 젓 러우 더이 파이 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Trường",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "lâu",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đời",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "phải",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vâng, trường này rất nổi tiếng.",
+      "ko": "네, 이 학교는 아주 유명해요.",
+      "kr_read": "벙 쯔엉 나이 젓 노이 띠엥",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vâng,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "trường",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nổi",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tiếng.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 32
   },
   {
    "ts": "2026-09-14",
@@ -902,6 +1383,254 @@
         "name": "sắc",
         "ko": "짧게 올라감",
         "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 31
+  },
+  {
+   "ts": "2026-09-14",
+   "day": "Nno=44048",
+   "track": "news",
+   "theme": "새 사장님",
+   "title": "빈그룹, 총수 장·차남 빈패스트·GSM 대표 선임…오너 2세 경영 보폭 확대",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44048",
+   "cat": "경제",
+   "intro": "빈그룹 회장 자녀들이 핵심 계열사 대표로 선임되며 2세 경영을 본격화합니다.",
+   "words": [
+    {
+     "vi": "công ty",
+     "ko": "회사",
+     "kr_read": "꽁 띠",
+     "emoji": "🏢",
+     "en": "a modern office building with glass windows",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ty",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-ty.webp"
+    },
+    {
+     "vi": "chủ tịch",
+     "ko": "회장",
+     "kr_read": "쭈 띡",
+     "emoji": "👤",
+     "en": "a male leader standing in an office",
+     "tones": [
+      {
+       "syl": "chủ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tịch",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-chu-tich.webp"
+    },
+    {
+     "vi": "xe điện",
+     "ko": "전기차",
+     "kr_read": "쌔 디엔",
+     "emoji": "🚗",
+     "en": "a modern white electric car",
+     "tones": [
+      {
+       "syl": "xe",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-xe-dien.webp"
+    },
+    {
+     "vi": "giám đốc",
+     "ko": "사장",
+     "kr_read": "잠 독",
+     "emoji": "👔",
+     "en": "a businessman in a suit smiling",
+     "tones": [
+      {
+       "syl": "giám",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "đốc",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-giam-doc.webp"
+    },
+    {
+     "vi": "con trai",
+     "ko": "아들",
+     "kr_read": "꼰 짜이",
+     "emoji": "👦",
+     "en": "a young boy smiling",
+     "tones": [
+      {
+       "syl": "con",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "trai",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-con-trai.webp"
+    },
+    {
+     "vi": "mới",
+     "ko": "새로운",
+     "kr_read": "머이",
+     "emoji": "🆕",
+     "en": "a shiny blue new sign",
+     "tones": [
+      {
+       "syl": "mới",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-moi.webp"
+    }
+   ],
+   "dialog": {
+    "title": "새 사장님",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Giám đốc mới của công ty là ai?",
+      "ko": "우리 회사의 새 사장님이 누구예요?",
+      "kr_read": "잠 독 머이 꾸어 꽁 띠 라 아이",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Giám",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đốc",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mới",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "của",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "là",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "ai?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Là con trai của chủ tịch.",
+      "ko": "회장님의 아들이에요.",
+      "kr_read": "라 꼰 짜이 꾸어 쭈 띡",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Là",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "con",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "trai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "của",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "chủ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tịch.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
        }
       ],
       "gloss": []
@@ -7858,5 +8587,5 @@
    "n": 1
   }
  ],
- "updated": "2026-09-15 01:50"
+ "updated": "2026-09-15 09:01"
 }
