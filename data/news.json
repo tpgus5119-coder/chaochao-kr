@@ -1,6 +1,62 @@
 {
- "updated": "2026-09-16 08:36",
+ "updated": "2026-09-17 00:17",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "Metro construction triggers 3-km traffic jam at HCMC airport gateway",
+   "u": "https://e.vnexpress.net/photo/traffic/metro-construction-triggers-3-km-traffic-jam-at-hcmc-airport-gateway-5120873.html",
+   "d": "09월 16일",
+   "ts": "2026-09-16",
+   "care": 21
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Central Ho Chi Minh City streets to go one-way for 3 years for metro construction",
+   "u": "https://e.vnexpress.net/news/news/traffic/central-ho-chi-minh-city-streets-to-go-one-way-for-3-years-for-metro-construction-5120781.html",
+   "d": "09월 16일",
+   "ts": "2026-09-16",
+   "care": 19
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam's durian industry shifts from volume to value",
+   "u": "https://e.vnexpress.net/news/business/economy/vietnam-s-durian-industry-shifts-from-volume-to-value-5120447.html",
+   "d": "09월 16일",
+   "ts": "2026-09-16",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Four celebrities to host food reality show exploring 10 Vietnamese destinations",
+   "u": "https://e.vnexpress.net/news/life/four-celebrities-to-host-food-reality-show-exploring-10-vietnamese-destinations-5120535.html",
+   "d": "09월 16일",
+   "ts": "2026-09-16",
+   "care": 15
+  },
+  {
+   "s": "인사이드비나",
+   "t": "호치민시, ‘버스·지하철’ 통합승차권 도입 추진…120분 내 무제한 환승",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44065",
+   "d": "09월 16일",
+   "ts": "2026-09-16",
+   "care": 15
+  },
+  {
+   "s": "인사이드비나",
+   "t": "한국 극장 '반토막' 날 때 역대 최대 쓴 베트남…CGV '사상 최대', 롯데도 가세",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44054",
+   "d": "09월 16일",
+   "ts": "2026-09-16",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "日 이온그룹, 연내 베트남 쇼핑몰 5곳 신규 개장예정…진출 12년 만 최대 확장세",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44070",
+   "d": "09월 16일",
+   "ts": "2026-09-16",
+   "care": 14
+  },
   {
    "s": "인사이드비나",
    "t": "Ho Chi Minh City in need of 70,000 skilled workers to build its metro network",
@@ -8,14 +64,6 @@
    "d": "09월 15일",
    "ts": "2026-09-15",
    "care": 24
-  },
-  {
-   "s": "인사이드비나",
-   "t": "맨파워 “베트남, 아태·중동서 가장 낙관적인 ‘채용시장’”…숙련인재 확보는 ‘글쎄’",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44057",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 21
   },
   {
    "s": "인사이드비나",
@@ -27,16 +75,24 @@
   },
   {
    "s": "인사이드비나",
-   "t": "베트남 중앙銀, ‘연준 FOMC’ 앞두고 기준환율 인상…2만5,617동 ‘사상 최고치’",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44059",
+   "t": "인사이드비나·한양대 산학협력단, 베트남 인재양성 위한 업무협약 체결",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44060",
    "d": "09월 15일",
    "ts": "2026-09-15",
    "care": 15
   },
   {
    "s": "인사이드비나",
-   "t": "인사이드비나·한양대 산학협력단, 베트남 인재양성 위한 업무협약 체결",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44060",
+   "t": "맨파워 “베트남, 아태·중동서 가장 낙관적인 ‘채용시장’”…숙련인재 확보는 ‘글쎄’",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44057",
+   "d": "09월 15일",
+   "ts": "2026-09-15",
+   "care": 21
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남 중앙銀, ‘연준 FOMC’ 앞두고 기준환율 인상…2만5,617동 ‘사상 최고치’",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44059",
    "d": "09월 15일",
    "ts": "2026-09-15",
    "care": 15
@@ -420,94 +476,6 @@
    "d": "09월 10일",
    "ts": "2026-09-10",
    "care": 12
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Southeast Asia’s richest man Pham Nhat Vuong surpasses Samsung, Alibaba billionaires in wealth",
-   "u": "https://e.vnexpress.net/news/business/billionaires/southeast-asia-s-richest-man-pham-nhat-vuong-surpasses-samsung-alibaba-billionaires-in-wealth-5118014.html",
-   "d": "09월 09일",
-   "ts": "2026-09-09",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnamese, Russian leaders call for stronger trade cooperation",
-   "u": "https://e.vnexpress.net/news/news/politics/vietnamese-russian-leaders-call-for-stronger-trade-cooperation-5118166.html",
-   "d": "09월 09일",
-   "ts": "2026-09-09",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Rapper joins handover of Hope Library in Vietnam's mountainous school",
-   "u": "https://e.vnexpress.net/news/news/rapper-joins-handover-of-hope-library-in-vietnam-s-mountainous-school-5117480.html",
-   "d": "09월 09일",
-   "ts": "2026-09-09",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Volcanic eruption disrupts Vietnamese travelers' journeys from Indonesia",
-   "u": "https://e.vnexpress.net/news/travel/volcanic-eruption-disrupts-vietnamese-travelers-journeys-from-indonesia-5118452.html",
-   "d": "09월 09일",
-   "ts": "2026-09-09",
-   "care": 8
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남 소비자금융 6개社 상반기 세전익 4조 동 전년동기比 37%↑…’업계 1위’ FE크레딧은 ‘주춤’",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44003",
-   "d": "09월 09일",
-   "ts": "2026-09-09",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Bac A Bank expands digital banking to support growth",
-   "u": "https://e.vnexpress.net/news/business/bac-a-bank-expands-digital-banking-to-support-growth-5118362.html",
-   "d": "09월 09일",
-   "ts": "2026-09-09",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam's 3 biggest international airports among Asia-Pacific's most improved in air connectivity",
-   "u": "https://e.vnexpress.net/news/news/traffic/vietnam-s-3-biggest-international-airports-among-asia-pacific-s-most-improved-in-air-connectivity-5118082.html",
-   "d": "09월 09일",
-   "ts": "2026-09-09",
-   "care": 12
-  },
-  {
-   "s": "인사이드비나",
-   "t": "대우건설, 하노이 시장과 손잡고 베트남 인프라 투자 보폭 확대",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44013",
-   "d": "09월 09일",
-   "ts": "2026-09-09",
-   "care": 18
-  },
-  {
-   "s": "인사이드비나",
-   "t": "또람 베트남 주석, 러시아 총리와 회담...\"교역·투자 협력 돌파구 마련\"",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1897",
-   "d": "09월 09일",
-   "ts": "2026-09-09",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남, 신설법인 증가 속 자본 규모도 ‘껑충’…8월 기준 평균 자본액 124억 동 26.4%↑",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44002",
-   "d": "09월 09일",
-   "ts": "2026-09-09",
-   "care": 12
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남, 인도산 ‘세라믹·포세린타일’ 반덤핑관세 최종 판정…5.55~45.3%",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44008",
-   "d": "09월 09일",
-   "ts": "2026-09-09",
-   "care": 8
   }
  ]
 }
