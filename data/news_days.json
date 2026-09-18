@@ -1,6 +1,224 @@
 {
  "days": [
   {
+   "ts": "2026-09-18",
+   "day": "Nno=44085",
+   "track": "news",
+   "theme": "과일 가격",
+   "title": "베트남, ‘두리안값’ 최고 30% 큰 폭 반등…견조한 수요 속 공급 감소 영향",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44085",
+   "cat": "경제",
+   "intro": "공급 감소와 중국 수요로 인해 베트남 두리안 가격이 급등했습니다.",
+   "words": [
+    {
+     "vi": "sầu riêng",
+     "ko": "두리안",
+     "kr_read": "써우 지엥",
+     "emoji": "🍈",
+     "en": "a whole spiked durian fruit",
+     "tones": [
+      {
+       "syl": "sầu",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "riêng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-sau-rieng.webp"
+    },
+    {
+     "vi": "giá",
+     "ko": "가격",
+     "kr_read": "자",
+     "emoji": "🏷️",
+     "en": "a price tag with numbers",
+     "tones": [
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-gia.webp"
+    },
+    {
+     "vi": "chợ",
+     "ko": "시장",
+     "kr_read": "쩌",
+     "emoji": "🏪",
+     "en": "an outdoor bustling Asian market",
+     "tones": [
+      {
+       "syl": "chợ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-cho.webp"
+    },
+    {
+     "vi": "tăng",
+     "ko": "오르다",
+     "kr_read": "땅",
+     "emoji": "📈",
+     "en": "a simple line chart showing an upward trend",
+     "tones": [
+      {
+       "syl": "tăng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-tang.webp"
+    },
+    {
+     "vi": "giảm",
+     "ko": "내리다",
+     "kr_read": "잠",
+     "emoji": "📉",
+     "en": "a simple line chart showing a downward trend",
+     "tones": [
+      {
+       "syl": "giảm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-giam.webp"
+    },
+    {
+     "vi": "bán",
+     "ko": "팔다",
+     "kr_read": "반",
+     "emoji": "🛒",
+     "en": "a market vendor selling fruits",
+     "tones": [
+      {
+       "syl": "bán",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-ban.webp"
+    }
+   ],
+   "dialog": {
+    "title": "과일 가격",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Sầu riêng này giá bao nhiêu?",
+      "ko": "이 두리안은 가격이 얼마인가요?",
+      "kr_read": "써우 지엥 나이 자 바오 니에우",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Sầu",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "riêng",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "giá",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "bao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nhiêu?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Hôm nay giá tăng rồi, đắt lắm.",
+      "ko": "오늘 가격이 올랐어요, 아주 비쌉니다.",
+      "kr_read": "홈 나이 자 땅 조이 닷 람",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Hôm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "giá",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tăng",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "rồi,",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "đắt",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "lắm.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 29
+  },
+  {
    "ts": "2026-09-17",
    "day": "Nno=44079",
    "track": "news",
@@ -6617,5 +6835,5 @@
    "n": 1
   }
  ],
- "updated": "2026-09-19 00:20"
+ "updated": "2026-09-19 08:32"
 }
