@@ -234,7 +234,7 @@
     ],
     "extra": []
    },
-   "n": 23
+   "n": 25
   },
   {
    "ts": "2026-09-22",
@@ -494,7 +494,242 @@
     ],
     "extra": []
    },
-   "n": 22
+   "n": 24
+  },
+  {
+   "ts": "2026-09-22",
+   "day": "Nno=44116",
+   "track": "news",
+   "theme": "사기 주의",
+   "title": "[강정한 변호사의 베트남 리걸클리닉] 베트남인 보이스피싱 수거책, 징역 4년이 2년으로 감형된 이유",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44116",
+   "cat": "경제",
+   "intro": "베트남인 보이스피싱 수거책이 법률 검토를 통해 징역 2년으로 감형됐다.",
+   "words": [
+    {
+     "vi": "tiền",
+     "ko": "돈",
+     "kr_read": "띠엔",
+     "emoji": "💵",
+     "en": "a stack of paper cash",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-tien.webp"
+    },
+    {
+     "vi": "tiền mặt",
+     "ko": "현금",
+     "kr_read": "띠엔 맛",
+     "emoji": "💵",
+     "en": "paper money banknotes in hand",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "mặt",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-tien-mat.webp"
+    },
+    {
+     "vi": "luật sư",
+     "ko": "변호사",
+     "kr_read": "루엇 쓰",
+     "emoji": "👨‍⚖️",
+     "en": "a lawyer holding legal documents",
+     "tones": [
+      {
+       "syl": "luật",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "sư",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-luat-su.webp"
+    },
+    {
+     "vi": "lừa đảo",
+     "ko": "사기",
+     "kr_read": "르어 다오",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "lừa",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "đảo",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "nhận",
+     "ko": "받다",
+     "kr_read": "년",
+     "emoji": "📥",
+     "en": "a person receiving a parcel",
+     "tones": [
+      {
+       "syl": "nhận",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-nhan.webp"
+    },
+    {
+     "vi": "gửi",
+     "ko": "보내다",
+     "kr_read": "그이",
+     "emoji": "📤",
+     "en": "a hand putting a letter into a mailbox",
+     "tones": [
+      {
+       "syl": "gửi",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-gui.webp"
+    }
+   ],
+   "dialog": {
+    "title": "사기 주의",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Bạn giúp tôi nhận tiền này nhé?",
+      "ko": "이 돈 좀 대신 받아줄래요?",
+      "kr_read": "반 줍 또이 년 띠엔 나이 냬",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Bạn",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "giúp",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nhận",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "nhé?",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Không được, cẩn thận bị lừa đấy.",
+      "ko": "안 돼요, 사기당하지 않게 조심해요.",
+      "kr_read": "콩 드억 껀 턴 비 르어 더이",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Không",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "được,",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "cẩn",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "thận",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "bị",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "lừa",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "đấy.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 23
   },
   {
    "ts": "2026-09-22",
@@ -741,7 +976,7 @@
     ],
     "extra": []
    },
-   "n": 21
+   "n": 22
   },
   {
    "ts": "2026-09-22",
@@ -970,7 +1205,7 @@
     ],
     "extra": []
    },
-   "n": 20
+   "n": 21
   },
   {
    "ts": "2026-09-22",
@@ -1206,7 +1441,7 @@
     ],
     "extra": []
    },
-   "n": 19
+   "n": 20
   },
   {
    "ts": "2026-09-21",
@@ -1430,7 +1665,7 @@
     ],
     "extra": []
    },
-   "n": 18
+   "n": 19
   },
   {
    "ts": "2026-09-21",
@@ -1672,7 +1907,7 @@
     ],
     "extra": []
    },
-   "n": 17
+   "n": 18
   },
   {
    "ts": "2026-09-21",
@@ -1911,7 +2146,7 @@
     ],
     "extra": []
    },
-   "n": 16
+   "n": 17
   },
   {
    "ts": "2026-09-21",
@@ -2122,7 +2357,7 @@
     ],
     "extra": []
    },
-   "n": 15
+   "n": 16
   },
   {
    "ts": "2026-09-21",
@@ -2358,7 +2593,7 @@
     ],
     "extra": []
    },
-   "n": 14
+   "n": 15
   },
   {
    "ts": "2026-09-21",
@@ -2608,7 +2843,7 @@
     ],
     "extra": []
    },
-   "n": 13
+   "n": 14
   },
   {
    "ts": "2026-09-21",
@@ -2852,6 +3087,235 @@
        },
        {
         "syl": "lai.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 13
+  },
+  {
+   "ts": "2026-09-21",
+   "day": "Nno=44100",
+   "track": "news",
+   "theme": "과일값 폭락",
+   "title": "베트남, 용과값 폭락에 농가 한숨만…kg당 2,000동 전년比 90% 내려",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44100",
+   "cat": "경제",
+   "intro": "베트남 용과 가격이 전년 대비 최대 90% 폭락했습니다. 중국 수출 감소와 공급 급증으로 농가 손실이 커졌습니다.",
+   "words": [
+    {
+     "vi": "thanh long",
+     "ko": "용과",
+     "kr_read": "타인 롱",
+     "emoji": "🍈",
+     "en": "a fresh pink dragon fruit with green scales",
+     "tones": [
+      {
+       "syl": "thanh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "long",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-thanh-long.webp"
+    },
+    {
+     "vi": "chợ",
+     "ko": "시장",
+     "kr_read": "쩌",
+     "emoji": "🏪",
+     "en": "a busy outdoor fruit market in Vietnam",
+     "tones": [
+      {
+       "syl": "chợ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-cho.webp"
+    },
+    {
+     "vi": "nông dân",
+     "ko": "농민",
+     "kr_read": "농 전",
+     "emoji": "👨‍🌾",
+     "en": "a Vietnamese farmer wearing a conical leaf hat",
+     "tones": [
+      {
+       "syl": "nông",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "dân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-nong-dan.webp"
+    },
+    {
+     "vi": "giá",
+     "ko": "가격",
+     "kr_read": "자",
+     "emoji": "🏷️",
+     "en": "a price tag on fresh fruit",
+     "tones": [
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-gia.webp"
+    },
+    {
+     "vi": "hoa quả",
+     "ko": "과일",
+     "kr_read": "호아 꽈",
+     "emoji": "🍎",
+     "en": "a basket filled with fresh tropical fruits",
+     "tones": [
+      {
+       "syl": "hoa",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "quả",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-hoa-qua.webp"
+    },
+    {
+     "vi": "rẻ",
+     "ko": "싸다",
+     "kr_read": "재",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "rẻ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    }
+   ],
+   "dialog": {
+    "title": "과일값 폭락",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Quả thanh long này bao nhiêu?",
+      "ko": "이 용과는 얼마예요?",
+      "kr_read": "꽈 타인 롱 나이 바오 니에우",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Quả",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "thanh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "long",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "bao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nhiêu?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Rất rẻ, chỉ năm nghìn một cân.",
+      "ko": "아주 싸요, 1킬로에 5천 동뿐이에요.",
+      "kr_read": "젓 재 찌 남 응인 못 껀",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "rẻ,",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "chỉ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "năm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nghìn",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "một",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "cân.",
         "name": "ngang",
         "ko": "평평하게 그대로",
         "shape": "—"
@@ -5450,5 +5914,5 @@
    "n": 1
   }
  ],
- "updated": "2026-09-23 00:27"
+ "updated": "2026-09-23 08:51"
 }
