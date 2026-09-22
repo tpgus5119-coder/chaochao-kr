@@ -1,6 +1,86 @@
 {
- "updated": "2026-09-22 09:14",
+ "updated": "2026-09-23 00:21",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "Ho Chi Minh City seeks to convert 4.6 hectares of protective mangrove forest for $3.9B metro developed by Vingroup company",
+   "u": "https://e.vnexpress.net/news/news/environment/ho-chi-minh-city-seeks-to-convert-4-6-hectares-of-protective-mangrove-forest-for-3-9b-metro-developed-by-vingroup-company-5123016.html",
+   "d": "09월 22일",
+   "ts": "2026-09-22",
+   "care": 20
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남서 ‘오토바이 곡예운전’ 러시아女, 영구추방 당해",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44112",
+   "d": "09월 22일",
+   "ts": "2026-09-22",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Living Exhibition opens Vietnam Festival of Creativity & Design 2026",
+   "u": "https://e.vnexpress.net/news/news/living-exhibition-opens-vietnam-festival-of-creativity-design-2026-5122896.html",
+   "d": "09월 22일",
+   "ts": "2026-09-22",
+   "care": 15
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남 호치민서 대규모 마약조직 적발…한국인 5명 포함돼",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44113",
+   "d": "09월 22일",
+   "ts": "2026-09-22",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam top leader outlines foreign policy priorities, growth ambitions in Bloomberg TV interview",
+   "u": "https://e.vnexpress.net/news/news/politics/vietnam-top-leader-outlines-foreign-policy-priorities-growth-ambitions-in-bloomberg-tv-interview-5123463.html",
+   "d": "09월 22일",
+   "ts": "2026-09-22",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam, US close to reaching reciprocal trade agreement",
+   "u": "https://e.vnexpress.net/news/business/economy/vietnam-us-close-to-reaching-reciprocal-trade-agreement-5123167.html",
+   "d": "09월 22일",
+   "ts": "2026-09-22",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "[여기는 베트남] 롱탄공항, 12월 1일 상업운항 앞두고 마지막 스퍼트...9월부터 시험운영",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1907",
+   "d": "09월 22일",
+   "ts": "2026-09-22",
+   "care": 13
+  },
+  {
+   "s": "인사이드비나",
+   "t": "美R3리튬 “베트남 내 배터리재활용 생태계 구축 희망”…회장, 베트남 부총리와 회담",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44117",
+   "d": "09월 22일",
+   "ts": "2026-09-22",
+   "care": 12
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남, ‘부실채권’ 처리 위한 국영 자산관리社 설립…자본금 5조 동",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44118",
+   "d": "09월 22일",
+   "ts": "2026-09-22",
+   "care": 11
+  },
+  {
+   "s": "인사이드비나",
+   "t": "HCMC restaurant owner claims cop pockets $67,000 in prostitution protection scam",
+   "u": "https://e.vnexpress.net/news/news/crime/hcmc-restaurant-owner-claims-cop-pockets-67-000-in-prostitution-protection-scam-5122438.html",
+   "d": "09월 21일",
+   "ts": "2026-09-21",
+   "care": 14
+  },
   {
    "s": "인사이드비나",
    "t": "베트남증시, ‘이머징마켓’ 편입…美뱅가드 25억 달러 패시브자금 유입",
@@ -21,14 +101,6 @@
    "s": "인사이드비나",
    "t": "벤가드, 베트남 증시에 25억달러 투자...FTSE 러셀 승격에 글로벌 자금 유입 본격화",
    "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1906",
-   "d": "09월 21일",
-   "ts": "2026-09-21",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "HCMC restaurant owner claims cop pockets $67,000 in prostitution protection scam",
-   "u": "https://e.vnexpress.net/news/news/crime/hcmc-restaurant-owner-claims-cop-pockets-67-000-in-prostitution-protection-scam-5122438.html",
    "d": "09월 21일",
    "ts": "2026-09-21",
    "care": 14
@@ -378,119 +450,6 @@
    "d": "09월 16일",
    "ts": "2026-09-16",
    "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Ho Chi Minh City in need of 70,000 skilled workers to build its metro network",
-   "u": "https://e.vnexpress.net/news/news/traffic/ho-chi-minh-city-in-need-of-70-000-skilled-workers-to-build-its-metro-network-5120010.html",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 24
-  },
-  {
-   "s": "인사이드비나",
-   "t": "China welcomes 23 million visa-free foreign tourists in 8 months",
-   "u": "https://e.vnexpress.net/news/travel/places/china-welcomes-23-million-visa-free-foreign-tourists-in-8-months-5119919.html",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Food reality show debuts at Vietnam iContent 2026",
-   "u": "https://e.vnexpress.net/news/life/food-reality-show-debuts-at-vietnam-icontent-2026-5120392.html",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "빈패스트, ‘귀신의 달’ 뚫고 8월 전기차 2만 대 인도…24개월 연속 시장 1위",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44056",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 10
-  },
-  {
-   "s": "인사이드비나",
-   "t": "미국, 베트남산 ‘신발·가방’ 최대 소비국 유지…8월 기준 수입액 80억 달러",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44052",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 9
-  },
-  {
-   "s": "인사이드비나",
-   "t": "인사이드비나·한양대 산학협력단, 베트남 인재양성 위한 업무협약 체결",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44060",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "맨파워 “베트남, 아태·중동서 가장 낙관적인 ‘채용시장’”…숙련인재 확보는 ‘글쎄’",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44057",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 21
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남 중앙銀, ‘연준 FOMC’ 앞두고 기준환율 인상…2만5,617동 ‘사상 최고치’",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44059",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Ba Na Hills launches Mid-Autumn Festival activities, offers 50% youth discount",
-   "u": "https://e.vnexpress.net/news/travel/ba-na-hills-launches-mid-autumn-festival-activities-offers-50-youth-discount-5120462.html",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "From dating app to marriage: Russian woman builds new life with Vietnamese husband",
-   "u": "https://e.vnexpress.net/news/life/trend/from-dating-app-to-marriage-russian-woman-builds-new-life-with-vietnamese-husband-5117423.html",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "‘귀신의 달’ 베트남, 신차 판매량 ‘뚝’…8월 4.8만 대 연중 두 번째 최저치",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44053",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
-   "t": "일론 머스크의 테슬라, 베트남 법인 설립…’빈패스트’ 독주체제 판도 바뀌나?",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44051",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남, 올해 ‘외국인관광객’ 최고 2,700만 명 유치 목표…2030년 5,000만 명",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44055",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 14,
-   "cat": "문화"
-  },
-  {
-   "s": "인사이드비나",
-   "t": "호치민시, 2026~27학년도 초중고생 ‘건강보험료’ 면제…대학생 50% 지원",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44058",
-   "d": "09월 15일",
-   "ts": "2026-09-15",
-   "care": 9
   }
  ]
 }
