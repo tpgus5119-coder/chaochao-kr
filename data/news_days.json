@@ -222,6 +222,236 @@
     ],
     "extra": []
    },
+   "n": 25
+  },
+  {
+   "ts": "2026-09-23",
+   "day": "Nno=44128",
+   "track": "news",
+   "theme": "은행 예금",
+   "title": "베트남, ‘요구불예금’ 4개 분기 연속 뒷걸음질…6월 말 기준 1,220조 동 전년동기比 10%↓",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44128",
+   "cat": "경제",
+   "intro": "베트남 요구불예금은 감소했지만 총 예금은 늘었다. 고금리로 가계 예금이 증가하고 계좌 수가 최고다.",
+   "words": [
+    {
+     "vi": "ngân hàng",
+     "ko": "은행",
+     "kr_read": "응언 항",
+     "emoji": "🏦",
+     "en": "a bank building",
+     "tones": [
+      {
+       "syl": "ngân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-ngan-hang.webp"
+    },
+    {
+     "vi": "tài khoản",
+     "ko": "계좌",
+     "kr_read": "따이 코안",
+     "emoji": "📝",
+     "en": "a bank statement or account book",
+     "tones": [
+      {
+       "syl": "tài",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "khoản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-tai-khoan.webp"
+    },
+    {
+     "vi": "gửi",
+     "ko": "예금하다/보내다",
+     "kr_read": "그이",
+     "emoji": "⬆️",
+     "en": "an arrow pointing up",
+     "tones": [
+      {
+       "syl": "gửi",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-gui.webp"
+    },
+    {
+     "vi": "rút",
+     "ko": "인출하다/빼다",
+     "kr_read": "줏",
+     "emoji": "⬇️",
+     "en": "an arrow pointing down",
+     "tones": [
+      {
+       "syl": "rút",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-rut.webp"
+    },
+    {
+     "vi": "thẻ",
+     "ko": "카드",
+     "kr_read": "태",
+     "emoji": "💳",
+     "en": "a credit card",
+     "tones": [
+      {
+       "syl": "thẻ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-the.webp"
+    },
+    {
+     "vi": "thanh toán",
+     "ko": "결제",
+     "kr_read": "타인 또안",
+     "emoji": "✅",
+     "en": "a check mark",
+     "tones": [
+      {
+       "syl": "thanh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "toán",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-thanh-toan.webp"
+    }
+   ],
+   "dialog": {
+    "title": "은행 예금",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Tôi muốn mở tài khoản ngân hàng.",
+      "ko": "저는 은행 계좌를 만들고 싶어요.",
+      "kr_read": "또이 무온 머 따이 코안 응언 항",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "muốn",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tài",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "khoản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "ngân",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hàng.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Để gửi tiền lãi cao à?",
+      "ko": "높은 이자로 돈을 예금하려고요?",
+      "kr_read": "데 그이 띠엔 라이 까오 아",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Để",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "gửi",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "lãi",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "cao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "à?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
    "n": 24
   },
   {
@@ -5656,5 +5886,5 @@
    "n": 1
   }
  ],
- "updated": "2026-09-24 00:21"
+ "updated": "2026-09-24 08:55"
 }
