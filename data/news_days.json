@@ -192,7 +192,7 @@
     ],
     "extra": []
    },
-   "n": 22
+   "n": 23
   },
   {
    "ts": "2026-09-24",
@@ -392,7 +392,7 @@
     ],
     "extra": []
    },
-   "n": 21
+   "n": 22
   },
   {
    "ts": "2026-09-23",
@@ -609,6 +609,218 @@
         "name": "hỏi",
         "ko": "내렸다 올림",
         "shape": "∨"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 21
+  },
+  {
+   "ts": "2026-09-23",
+   "day": "Nno=44134",
+   "track": "news",
+   "theme": "항공 도입",
+   "title": "베트남 썬푸꾸옥항공, 첫 광동체 ‘에어버스A330’ 인도 받아…내년 60대까지 기단 확대 목표",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44134",
+   "cat": "문화·생활",
+   "intro": "신생 항공사 썬푸꾸옥항공이 첫 A330을 도입했다. 내년까지 보유 기체를 대폭 확대할 계획이다.",
+   "words": [
+    {
+     "vi": "ghế",
+     "ko": "좌석",
+     "kr_read": "게",
+     "emoji": "💺",
+     "en": "an airplane seat",
+     "tones": [
+      {
+       "syl": "ghế",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-ghe.webp"
+    },
+    {
+     "vi": "vé",
+     "ko": "표",
+     "kr_read": "배",
+     "emoji": "🎫",
+     "en": "a paper ticket",
+     "tones": [
+      {
+       "syl": "vé",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-ve.webp"
+    },
+    {
+     "vi": "năm",
+     "ko": "해",
+     "kr_read": "남",
+     "emoji": "📅",
+     "en": "a calendar showing a year",
+     "tones": [
+      {
+       "syl": "năm",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-nam.webp"
+    },
+    {
+     "vi": "lớn",
+     "ko": "큰",
+     "kr_read": "런",
+     "emoji": "🐘",
+     "en": "a very big animal",
+     "tones": [
+      {
+       "syl": "lớn",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-lon.webp"
+    },
+    {
+     "vi": "máy bay",
+     "ko": "비행기",
+     "kr_read": "마이 바이",
+     "emoji": "✈️",
+     "en": "an airplane flying in the sky",
+     "tones": [
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "bay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-may-bay.webp"
+    },
+    {
+     "vi": "mới",
+     "ko": "새로운",
+     "kr_read": "머이",
+     "emoji": "✨",
+     "en": "a shiny new object",
+     "tones": [
+      {
+       "syl": "mới",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-moi.webp"
+    }
+   ],
+   "dialog": {
+    "title": "항공 도입",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Máy bay mới này lớn không?",
+      "ko": "이 새 비행기는 큽니까?",
+      "kr_read": "마이 바이 머이 나이 런 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "bay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mới",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "lớn",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vâng, máy bay này rất lớn.",
+      "ko": "네, 이 비행기는 아주 큽니다.",
+      "kr_read": "벙 마이 바이 나이 젓 런",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vâng,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "bay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "lớn.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
        }
       ],
       "gloss": []
@@ -5108,5 +5320,5 @@
    "n": 1
   }
  ],
- "updated": "2026-09-25 00:48"
+ "updated": "2026-09-25 09:02"
 }
