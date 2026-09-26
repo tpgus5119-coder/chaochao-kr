@@ -1,10 +1,58 @@
 {
- "updated": "2026-09-26 23:53",
+ "updated": "2026-09-27 08:44",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "American fine-dining steakhouse to open first Asia restaurant in Ho Chi Minh City",
+   "u": "https://e.vnexpress.net/news/travel/food-recipes/american-fine-dining-steakhouse-to-open-first-asia-restaurant-in-ho-chi-minh-city-5117485.html",
+   "d": "09월 26일",
+   "ts": "2026-09-26",
+   "care": 18
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Ha Giang man goes from motorbike driver to tourism entrepreneur",
+   "u": "https://e.vnexpress.net/news/travel/places/ha-giang-man-goes-from-motorbike-driver-to-tourism-entrepreneur-5120438.html",
+   "d": "09월 26일",
+   "ts": "2026-09-26",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "These are the best fine dining restaurants in Vietnam",
+   "u": "https://e.vnexpress.net/photo/food-recipes/these-are-the-best-fine-dining-restaurants-in-vietnam-5124218.html",
+   "d": "09월 26일",
+   "ts": "2026-09-26",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Indian man dies after motorbike collides with van on Da Lat pass",
+   "u": "https://e.vnexpress.net/news/news/traffic/indian-man-dies-after-motorbike-collides-with-van-on-da-lat-pass-5125063.html",
+   "d": "09월 26일",
+   "ts": "2026-09-26",
+   "care": 13
+  },
   {
    "s": "인사이드비나",
    "t": "221 passengers evacuate Air Seoul flight to Vietnam after fire breaks out in bag, power bank suspected",
    "u": "https://e.vnexpress.net/news/news/traffic/221-passengers-evacuate-air-seoul-flight-to-vietnam-after-fire-breaks-out-in-bag-power-bank-suspected-5124838.html",
+   "d": "09월 25일",
+   "ts": "2026-09-25",
+   "care": 13
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Hanoi's oldest hotel: A century of change, with guests from Charlie Chaplin to Donald Trump",
+   "u": "https://e.vnexpress.net/photo/places/hanois-oldest-hotel-a-century-of-change-with-guests-from-charlie-chaplin-to-donald-trump-5120529.html",
+   "d": "09월 25일",
+   "ts": "2026-09-25",
+   "care": 13
+  },
+  {
+   "s": "인사이드비나",
+   "t": "From cassava-stretched meals to Hanoi pastry kitchen: Hmong baker supports family of 10",
+   "u": "https://e.vnexpress.net/news/life/trend/from-cassava-stretched-meals-to-hanoi-pastry-kitchen-hmong-baker-supports-family-of-10-5118740.html",
    "d": "09월 25일",
    "ts": "2026-09-25",
    "care": 13
@@ -418,70 +466,6 @@
    "u": "https://e.vnexpress.net/photo/places/11-most-beautiful-destinations-in-vietnam-according-to-uk-newspaper-5120784.html",
    "d": "09월 20일",
    "ts": "2026-09-20",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam faces tourism labor shortage",
-   "u": "https://e.vnexpress.net/news/travel/vietnam-faces-tourism-labor-shortage-5120443.html",
-   "d": "09월 19일",
-   "ts": "2026-09-19",
-   "care": 17
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Man killed in HCMC after falling tree branch crushes motorbike during thunderstorm",
-   "u": "https://e.vnexpress.net/news/news/environment/man-killed-in-hcmc-after-falling-tree-branch-crushes-motorbike-during-thunderstorm-5122129.html",
-   "d": "09월 19일",
-   "ts": "2026-09-19",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Patients pack Ho Chi Minh City's largest hospital from dawn as daily visits top 10,000",
-   "u": "https://e.vnexpress.net/photo/news/patients-pack-ho-chi-minh-citys-largest-hospital-from-dawn-as-daily-visits-top-10000-5121380.html",
-   "d": "09월 19일",
-   "ts": "2026-09-19",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnamese student gives up Western plans to follow his sister to 'China's MIT'",
-   "u": "https://e.vnexpress.net/news/news/education/vietnamese-student-gives-up-western-plans-to-follow-his-sister-to-china-s-mit-5121134.html",
-   "d": "09월 19일",
-   "ts": "2026-09-19",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
-   "t": "4 Vietnamese restaurants removed from Tripadvisor list of Asia's best fine-dining",
-   "u": "https://e.vnexpress.net/news/travel/food-recipes/4-vietnamese-restaurants-removed-from-tripadvisor-list-of-asia-s-best-fine-dining-5120797.html",
-   "d": "09월 19일",
-   "ts": "2026-09-19",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "25-year-old restaurant chain Crystal Jade closes 3 Singapore outlets in one month, 5 so far this year",
-   "u": "https://e.vnexpress.net/news/business/companies/25-year-old-restaurant-chain-crystal-jade-closes-3-singapore-outlets-in-one-month-5-so-far-this-year-5121652.html",
-   "d": "09월 19일",
-   "ts": "2026-09-19",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Pressure to own home, car before marriage takes toll on young Vietnamese",
-   "u": "https://e.vnexpress.net/news/life/trend/pressure-to-own-home-car-before-marriage-takes-toll-on-young-vietnamese-5118888.html",
-   "d": "09월 19일",
-   "ts": "2026-09-19",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
-   "t": "World's second largest asset manager Vanguard to pour $2.5B into Vietnam stocks",
-   "u": "https://e.vnexpress.net/news/business/markets/world-s-second-largest-asset-manager-vanguard-to-pour-2-5b-into-vietnam-stocks-5122151.html",
-   "d": "09월 19일",
-   "ts": "2026-09-19",
    "care": 13
   }
  ]
