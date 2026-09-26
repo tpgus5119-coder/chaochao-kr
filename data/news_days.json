@@ -210,6 +210,253 @@
     ],
     "extra": []
    },
+   "n": 25
+  },
+  {
+   "ts": "2026-09-25",
+   "day": "Nxno=1910",
+   "track": "news",
+   "theme": "무역과 운송",
+   "title": "베트남-캐나다, ‘전략적 파트너십’으로 관계 격상...무역·AI·에너지 협력 확대",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1910",
+   "cat": "문화·생활",
+   "intro": "베트남과 캐나다가 전략적 파트너십을 맺었습니다. 무역과 첨단기술, 항공 협력을 확대하기로 했습니다.",
+   "words": [
+    {
+     "vi": "hàng hóa",
+     "ko": "화물, 물품",
+     "kr_read": "항 호아",
+     "emoji": "📦",
+     "en": "stacked cardboard boxes in a warehouse",
+     "tones": [
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "hóa",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-hang-hoa.webp"
+    },
+    {
+     "vi": "vận chuyển",
+     "ko": "운송하다",
+     "kr_read": "번 쭈옌",
+     "emoji": "🚚",
+     "en": "a logistics delivery truck on the road",
+     "tones": [
+      {
+       "syl": "vận",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "chuyển",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-van-chuyen.webp"
+    },
+    {
+     "vi": "hợp tác",
+     "ko": "협력하다",
+     "kr_read": "헙 딱",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "hợp",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "tác",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "công nghệ",
+     "ko": "기술",
+     "kr_read": "꽁 응에",
+     "emoji": "💻",
+     "en": "a modern laptop displaying technology data",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "nghệ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-cong-nghe.webp"
+    },
+    {
+     "vi": "năng lượng",
+     "ko": "에너지",
+     "kr_read": "낭 르엉",
+     "emoji": "⚡",
+     "en": "solar panels and wind turbines",
+     "tones": [
+      {
+       "syl": "năng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "lượng",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-nang-luong.webp"
+    },
+    {
+     "vi": "đối tác",
+     "ko": "거래처, 파트너",
+     "kr_read": "도이 딱",
+     "emoji": "🤝",
+     "en": "two business partners shaking hands",
+     "tones": [
+      {
+       "syl": "đối",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "tác",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-doi-tac.webp"
+    }
+   ],
+   "dialog": {
+    "title": "무역과 운송",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Hàng này gửi bằng máy bay à?",
+      "ko": "이 물건 비행기로 보내요?",
+      "kr_read": "항 나이 그이 방 마이 바이 아",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Hàng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "gửi",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "bằng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "bay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "à?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vâng, gửi cho đối tác mới.",
+      "ko": "네, 새 거래처에 보내요.",
+      "kr_read": "벙 그이 쪼 도이 딱 머이",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vâng,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "gửi",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "cho",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đối",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tác",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mới.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
    "n": 24
   },
   {
@@ -5536,5 +5783,5 @@
    "n": 1
   }
  ],
- "updated": "2026-09-26 09:06"
+ "updated": "2026-09-27 00:00"
 }
