@@ -2,6 +2,246 @@
  "days": [
   {
    "ts": "2026-09-30",
+   "day": "Nno=44164",
+   "track": "news",
+   "theme": "아웃렛 쇼핑",
+   "title": "베트남, 2030년까지 첫 ‘아웃렛’ 센터 개장 추진…자국상품 최대 40% 구성",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44164",
+   "cat": "경제",
+   "intro": "베트남이 2030년까지 첫 아웃렛 센터 조성을 추진합니다. 매장 상품 중 베트남산 비중을 최대 40%로 채울 계획입니다.",
+   "words": [
+    {
+     "vi": "mua sắm",
+     "ko": "쇼핑하다",
+     "kr_read": "무어 쌈",
+     "emoji": "🛍️",
+     "en": "a person holding colorful shopping bags",
+     "tones": [
+      {
+       "syl": "mua",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "sắm",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-mua-sam.webp"
+    },
+    {
+     "vi": "cửa hàng",
+     "ko": "매장, 가게",
+     "kr_read": "끄어 항",
+     "emoji": "🏪",
+     "en": "a clothing store entrance with mannequins",
+     "tones": [
+      {
+       "syl": "cửa",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-cua-hang.webp"
+    },
+    {
+     "vi": "sản phẩm",
+     "ko": "제품, 상품",
+     "kr_read": "싼 펌",
+     "emoji": "📦",
+     "en": "cardboard boxes with factory goods",
+     "tones": [
+      {
+       "syl": "sản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "phẩm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-san-pham.webp"
+    },
+    {
+     "vi": "giá",
+     "ko": "가격",
+     "kr_read": "자",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "thương hiệu",
+     "ko": "브랜드",
+     "kr_read": "트엉 히에우",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "thương",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hiệu",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "giảm giá",
+     "ko": "할인하다",
+     "kr_read": "잠 자",
+     "emoji": "🏷️",
+     "en": "a red sale tag with percent sign",
+     "tones": [
+      {
+       "syl": "giảm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-giam-gia.webp"
+    }
+   ],
+   "dialog": {
+    "title": "아웃렛 쇼핑",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Cửa hàng này có giảm giá không?",
+      "ko": "이 매장 할인하나요?",
+      "kr_read": "끄어 항 나이 꼬 잠 자 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Cửa",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "hàng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "giảm",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "giá",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, quần áo này rất rẻ.",
+      "ko": "네, 이 옷은 아주 저렴해요.",
+      "kr_read": "꼬 꾸언 아오 나이 젓 재",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "quần",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "áo",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "rẻ.",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 23
+  },
+  {
+   "ts": "2026-09-30",
    "day": "Nno=44173",
    "track": "news",
    "theme": "베트남 여행",
@@ -234,7 +474,7 @@
     ],
     "extra": []
    },
-   "n": 21
+   "n": 22
   },
   {
    "ts": "2026-09-30",
@@ -464,7 +704,7 @@
     ],
     "extra": []
    },
-   "n": 20
+   "n": 21
   },
   {
    "ts": "2026-09-30",
@@ -680,6 +920,206 @@
         "name": "ngang",
         "ko": "평평하게 그대로",
         "shape": "—"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 20
+  },
+  {
+   "ts": "2026-09-30",
+   "day": "Nno=44166",
+   "track": "news",
+   "theme": "다리 건설",
+   "title": "베트남, ‘깟라이·롱흥대교’ 동시 착공…동나이-호치민시 연결",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44166",
+   "cat": "정치",
+   "intro": "베트남 호치민-동나이 연결 '깟라이·롱흥대교' 동시 착공 도시 간 연결성 강화 및 교통난 해소에 크게 기여할 전망",
+   "words": [
+    {
+     "vi": "nối",
+     "ko": "연결하다",
+     "kr_read": "노이",
+     "emoji": "🔗",
+     "en": "two things connected",
+     "tones": [
+      {
+       "syl": "nối",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-noi.webp"
+    },
+    {
+     "vi": "thành phố",
+     "ko": "도시",
+     "kr_read": "타인 포",
+     "emoji": "🏙️",
+     "en": "a city skyline",
+     "tones": [
+      {
+       "syl": "thành",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "phố",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-thanh-pho.webp"
+    },
+    {
+     "vi": "sông",
+     "ko": "강",
+     "kr_read": "쏭",
+     "emoji": "🏞️",
+     "en": "a river",
+     "tones": [
+      {
+       "syl": "sông",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-song.webp"
+    },
+    {
+     "vi": "cầu",
+     "ko": "다리",
+     "kr_read": "꺼우",
+     "emoji": "🌉",
+     "en": "a bridge",
+     "tones": [
+      {
+       "syl": "cầu",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-cau.webp"
+    },
+    {
+     "vi": "đường",
+     "ko": "길, 도로",
+     "kr_read": "드엉",
+     "emoji": "🛣️",
+     "en": "a road",
+     "tones": [
+      {
+       "syl": "đường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-duong.webp"
+    },
+    {
+     "vi": "đi",
+     "ko": "가다",
+     "kr_read": "디",
+     "emoji": "🚶",
+     "en": "a person walking",
+     "tones": [
+      {
+       "syl": "đi",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-di.webp"
+    }
+   ],
+   "dialog": {
+    "title": "다리 건설",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Cầu này mới không?",
+      "ko": "이 다리 새로 지은 거예요?",
+      "kr_read": "꺼우 나이 머이 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Cầu",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "mới",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vâng, cầu mới. Nối thành phố.",
+      "ko": "네, 새 다리예요. 도시를 연결해요.",
+      "kr_read": "벙 꺼우 머이 노이 타인 포",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vâng,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "cầu",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "mới.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "Nối",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thành",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "phố.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
        }
       ],
       "gloss": []
@@ -4828,5 +5268,5 @@
    "n": 1
   }
  ],
- "updated": "2026-10-01 01:46"
+ "updated": "2026-10-01 09:49"
 }
