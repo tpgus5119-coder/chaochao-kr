@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-04 08:59",
+ "updated": "2026-10-05 00:38",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "Students rethink ‘American dream’ as costs rise and visa rules tighten",
+   "u": "https://e.vnexpress.net/news/news/education/students-rethink-american-dream-as-costs-rise-and-visa-rules-tighten-5128206.html",
+   "d": "10월 04일",
+   "ts": "2026-10-04",
+   "care": 18
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Job interview no-shows spark debate over professional etiquette",
+   "u": "https://e.vnexpress.net/news/life/trend/job-interview-no-shows-spark-debate-over-professional-etiquette-5124276.html",
+   "d": "10월 04일",
+   "ts": "2026-10-04",
+   "care": 15
+  },
   {
    "s": "인사이드비나",
    "t": "2 central HCMC roads to become one-way from Oct 10 for metro construction",
@@ -32,6 +48,14 @@
    "d": "10월 03일",
    "ts": "2026-10-03",
    "care": 13
+  },
+  {
+   "s": "인사이드비나",
+   "t": "This Japanese restaurant in HCMC serves only breakfast",
+   "u": "https://e.vnexpress.net/photo/food-recipes/this-japanese-restaurant-in-hcmc-serves-only-breakfast-5126014.html",
+   "d": "10월 03일",
+   "ts": "2026-10-03",
+   "care": 11
   },
   {
    "s": "인사이드비나",
@@ -426,38 +450,6 @@
    "d": "09월 28일",
    "ts": "2026-09-28",
    "care": 19
-  },
-  {
-   "s": "인사이드비나",
-   "t": "In Da Nang's Tam Tien, sunrise brings fish market to life",
-   "u": "https://e.vnexpress.net/photo/places/in-da-nangs-tam-tien-sunrise-brings-fish-market-to-life-5102135.html",
-   "d": "09월 27일",
-   "ts": "2026-09-27",
-   "care": 18
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Nam A Bank secures $60M from FMO for green finance, small businesses",
-   "u": "https://e.vnexpress.net/news/business/nam-a-bank-secures-60m-from-fmo-for-green-finance-small-businesses-5125345.html",
-   "d": "09월 27일",
-   "ts": "2026-09-27",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam reaches highest tourism development ranking since Covid",
-   "u": "https://e.vnexpress.net/news/travel/vietnam-reaches-highest-tourism-development-ranking-since-covid-5125070.html",
-   "d": "09월 27일",
-   "ts": "2026-09-27",
-   "care": 11
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Taiwan's largest e-scooter maker sets up battery-swap stations in Vietnam",
-   "u": "https://e.vnexpress.net/news/news/traffic/taiwan-s-largest-e-scooter-maker-sets-up-battery-swap-stations-in-vietnam-5124910.html",
-   "d": "09월 27일",
-   "ts": "2026-09-27",
-   "care": 13
   }
  ]
 }
