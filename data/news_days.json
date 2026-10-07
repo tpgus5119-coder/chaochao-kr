@@ -2,6 +2,259 @@
  "days": [
   {
    "ts": "2026-10-06",
+   "day": "Nno=44199",
+   "track": "news",
+   "theme": "수출과 수입",
+   "title": "베트남, ‘대외무역’ 큰 폭 증가세…9월 기준 8,880.2억 달러 전년동기比 30.4%↑",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44199",
+   "cat": "경제",
+   "intro": "베트남의 올해 수출입 총액이 크게 늘었습니다. 수입이 크게 증가하며 무역수지는 적자를 기록했습니다.",
+   "words": [
+    {
+     "vi": "xuất khẩu",
+     "ko": "수출하다",
+     "kr_read": "쑤엇 커우",
+     "emoji": "🚢",
+     "en": "a large cargo ship leaving a port",
+     "tones": [
+      {
+       "syl": "xuất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "khẩu",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-xuat-khau.webp"
+    },
+    {
+     "vi": "nhập khẩu",
+     "ko": "수입하다",
+     "kr_read": "녑 커우",
+     "emoji": "📦",
+     "en": "shipping containers unloaded at a port",
+     "tones": [
+      {
+       "syl": "nhập",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "khẩu",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-nhap-khau.webp"
+    },
+    {
+     "vi": "hàng hóa",
+     "ko": "상품, 화물",
+     "kr_read": "항 호아",
+     "emoji": "📦",
+     "en": "cardboard boxes stacked on wooden pallets",
+     "tones": [
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "hóa",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-hang-hoa.webp"
+    },
+    {
+     "vi": "máy móc",
+     "ko": "기계",
+     "kr_read": "마이 목",
+     "emoji": "⚙️",
+     "en": "heavy industrial machinery inside a factory",
+     "tones": [
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "móc",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-may-moc.webp"
+    },
+    {
+     "vi": "phụ tùng",
+     "ko": "부품",
+     "kr_read": "푸 뚱",
+     "emoji": "🔧",
+     "en": "metal spare parts and tools on a table",
+     "tones": [
+      {
+       "syl": "phụ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "tùng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-phu-tung.webp"
+    },
+    {
+     "vi": "thị trường",
+     "ko": "시장",
+     "kr_read": "티 쯔엉",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "thị",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "trường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    }
+   ],
+   "dialog": {
+    "title": "수출과 수입",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Công ty có xuất khẩu hàng không?",
+      "ko": "회사가 물건을 수출하나요?",
+      "kr_read": "꽁 띠 꼬 쑤엇 커우 항 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "xuất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "khẩu",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "hàng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, xuất khẩu sang Mỹ rất nhiều.",
+      "ko": "네, 미국으로 많이 수출해요.",
+      "kr_read": "꼬 쑤엇 커우 쌍 미 젓 니에우",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "xuất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "khẩu",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "sang",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "Mỹ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhiều.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 28
+  },
+  {
+   "ts": "2026-10-06",
    "day": "Nno=44204",
    "track": "news",
    "theme": "불법 돼지고기",
@@ -222,7 +475,7 @@
     ],
     "extra": []
    },
-   "n": 26
+   "n": 27
   },
   {
    "ts": "2026-10-06",
@@ -440,7 +693,7 @@
     ],
     "extra": []
    },
-   "n": 25
+   "n": 26
   },
   {
    "ts": "2026-10-06",
@@ -650,6 +903,260 @@
         "name": "ngang",
         "ko": "평평하게 그대로",
         "shape": "—"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 25
+  },
+  {
+   "ts": "2026-10-06",
+   "day": "Nno=44198",
+   "track": "news",
+   "theme": "공장 투자",
+   "title": "베트남, 9월 기준 ‘외국인투자’ 유치 500억 달러 돌파…5년간 동기 최고치",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44198",
+   "cat": "경제",
+   "intro": "베트남 외국인 투자가 500억 달러를 넘으며 5년 만에 최고치를 기록했습니다. 가공·제조업 부문 비중이 가장 높았으며 한국은 투자국 2위를 차지했습니다.",
+   "words": [
+    {
+     "vi": "đầu tư",
+     "ko": "투자하다",
+     "kr_read": "더우 뜨",
+     "emoji": "📈",
+     "en": "a rising financial stock bar chart",
+     "tones": [
+      {
+       "syl": "đầu",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "tư",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-dau-tu.webp"
+    },
+    {
+     "vi": "nhiều",
+     "ko": "많은",
+     "kr_read": "니에우",
+     "emoji": "📦",
+     "en": "many cardboard boxes stacked together",
+     "tones": [
+      {
+       "syl": "nhiều",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-nhieu.webp"
+    },
+    {
+     "vi": "nhà máy",
+     "ko": "공장",
+     "kr_read": "냐 마이",
+     "emoji": "🏭",
+     "en": "a modern factory building",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-nha-may.webp"
+    },
+    {
+     "vi": "công ty",
+     "ko": "회사",
+     "kr_read": "꽁 띠",
+     "emoji": "🏢",
+     "en": "a modern office building",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ty",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-ty.webp"
+    },
+    {
+     "vi": "sản xuất",
+     "ko": "생산하다",
+     "kr_read": "싼 쑤엇",
+     "emoji": "⚙️",
+     "en": "assembly line gears in a factory",
+     "tones": [
+      {
+       "syl": "sản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "xuất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-san-xuat.webp"
+    },
+    {
+     "vi": "công nhân",
+     "ko": "근로자",
+     "kr_read": "꽁 년",
+     "emoji": "👷",
+     "en": "a factory worker wearing a hard hat",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "nhân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-nhan.webp"
+    }
+   ],
+   "dialog": {
+    "title": "공장 투자",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Công ty mình mở nhà máy mới à?",
+      "ko": "우리 회사가 새 공장을 열어요?",
+      "kr_read": "꽁 띠 민 머 냐 마이 머이 아",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mình",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "mở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "nhà",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mới",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "à?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vâng, công ty đầu tư rất nhiều.",
+      "ko": "네, 회사가 투자를 많이 해요.",
+      "kr_read": "벙 꽁 띠 더우 뜨 젓 니에우",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vâng,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đầu",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "tư",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhiều.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
        }
       ],
       "gloss": []
@@ -6253,5 +6760,5 @@
    "n": 1
   }
  ],
- "updated": "2026-10-07 02:16"
+ "updated": "2026-10-07 10:01"
 }
