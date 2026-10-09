@@ -2,6 +2,253 @@
  "days": [
   {
    "ts": "2026-10-08",
+   "day": "Nno=44221",
+   "track": "news",
+   "theme": "청년 고용",
+   "title": "베트남, 3분기 ‘쉬었음 청년’ 160만 명…전체 청년층 11% 웃돌아",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44221",
+   "cat": "경제",
+   "intro": "베트남 3분기 청년 니트족이 160만 명에 달했습니다. 이는 전체 청년층의 11%를 웃도는 수치입니다.",
+   "words": [
+    {
+     "vi": "thanh niên",
+     "ko": "청년",
+     "kr_read": "타인 니엔",
+     "emoji": "🧑‍💼",
+     "en": "a young Asian man in office wear",
+     "tones": [
+      {
+       "syl": "thanh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "niên",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-thanh-nien.webp"
+    },
+    {
+     "vi": "việc làm",
+     "ko": "일자리",
+     "kr_read": "비엑 람",
+     "emoji": "💼",
+     "en": "a leather briefcase",
+     "tones": [
+      {
+       "syl": "việc",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "làm",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-viec-lam.webp"
+    },
+    {
+     "vi": "thất nghiệp",
+     "ko": "실업",
+     "kr_read": "텃 응이엡",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "thất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "nghiệp",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "nông thôn",
+     "ko": "농촌",
+     "kr_read": "농 톤",
+     "emoji": "🌾",
+     "en": "a green rice field in Vietnam",
+     "tones": [
+      {
+       "syl": "nông",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "thôn",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-nong-thon.webp"
+    },
+    {
+     "vi": "tìm",
+     "ko": "찾다",
+     "kr_read": "띰",
+     "emoji": "🔍",
+     "en": "a magnifying glass",
+     "tones": [
+      {
+       "syl": "tìm",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-tim.webp"
+    },
+    {
+     "vi": "học sinh",
+     "ko": "학생",
+     "kr_read": "혹 씬",
+     "emoji": "🧑‍🎓",
+     "en": "a student wearing a graduation cap",
+     "tones": [
+      {
+       "syl": "học",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "sinh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-hoc-sinh.webp"
+    }
+   ],
+   "dialog": {
+    "title": "청년 고용",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Công ty có tuyển nhân viên không?",
+      "ko": "회사에서 직원 채용하나요?",
+      "kr_read": "꽁 띠 꼬 뚜옌 년 비엔 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tuyển",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "nhân",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "viên",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, công ty đang tuyển thanh niên.",
+      "ko": "네, 회사는 청년을 채용하고 있어요.",
+      "kr_read": "꼬 꽁 띠 당 뚜옌 타인 니엔",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đang",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tuyển",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "thanh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "niên.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 28
+  },
+  {
+   "ts": "2026-10-08",
    "day": "Nno=44219",
    "track": "news",
    "theme": "월급과 소득",
@@ -6567,5 +6814,5 @@
    "n": 1
   }
  ],
- "updated": "2026-10-09 02:52"
+ "updated": "2026-10-09 10:37"
 }
