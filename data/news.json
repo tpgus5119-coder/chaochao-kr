@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-12 09:42",
+ "updated": "2026-10-13 05:06",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "베트남 빈패스트, 9월 전기차 판매량 ‘2만3,000여 대’…25개월 연속 시장 1위",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44238",
+   "d": "10월 12일",
+   "ts": "2026-10-12",
+   "care": 20
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Earning more, feeling less: the quiet burnout of young Vietnamese workers",
+   "u": "https://e.vnexpress.net/news/life/wellness/earning-more-feeling-less-the-quiet-burnout-of-young-vietnamese-workers-5121054.html",
+   "d": "10월 12일",
+   "ts": "2026-10-12",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "빈패스트, 미국서 ‘전기버스 플랫폼’ 출시…2028년 1분기 첫 인도",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44242",
+   "d": "10월 12일",
+   "ts": "2026-10-12",
+   "care": 15
+  },
+  {
+   "s": "인사이드비나",
+   "t": "[기획] 베트남 세제 불확실성에 한국 기업 긴장...부가세 환급·이전가격 과세가 변수",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1925",
+   "d": "10월 12일",
+   "ts": "2026-10-12",
+   "care": 15
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남 최남단 까마우공항, 개보수 마치고 내달 재개장…폐쇄 1년여 만",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44241",
+   "d": "10월 12일",
+   "ts": "2026-10-12",
+   "care": 12
+  },
   {
    "s": "인사이드비나",
    "t": "Vietnamese trainees face debt, exploitation in Europe's largest economy despite promise of free training",
@@ -35,19 +75,19 @@
   },
   {
    "s": "인사이드비나",
-   "t": "Vietnam must ensure tax policy stability to retain and attract foreign investors: officials",
-   "u": "https://e.vnexpress.net/news/business/economy/vietnam-must-ensure-tax-policy-stability-to-retain-and-attract-foreign-investors-officials-5130952.html",
-   "d": "10월 11일",
-   "ts": "2026-10-11",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
    "t": "Southeast Asian capital sees travel interest spike for Eurovision Asia Grand Final",
    "u": "https://e.vnexpress.net/news/travel/places/southeast-asian-capital-sees-travel-interest-spike-for-eurovision-asia-grand-final-5130363.html",
    "d": "10월 11일",
    "ts": "2026-10-11",
    "care": 11
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam must ensure tax policy stability to retain and attract foreign investors: officials",
+   "u": "https://e.vnexpress.net/news/business/economy/vietnam-must-ensure-tax-policy-stability-to-retain-and-attract-foreign-investors-officials-5130952.html",
+   "d": "10월 11일",
+   "ts": "2026-10-11",
+   "care": 15
   },
   {
    "s": "인사이드비나",
@@ -385,63 +425,6 @@
    "d": "10월 06일",
    "ts": "2026-10-06",
    "care": 12
-  },
-  {
-   "s": "인사이드비나",
-   "t": "The hidden mental toll of chasing 'passive income' through affiliate marketing",
-   "u": "https://e.vnexpress.net/news/life/trend/the-hidden-mental-toll-of-chasing-passive-income-through-affiliate-marketing-5126124.html",
-   "d": "10월 05일",
-   "ts": "2026-10-05",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Dollar up against dong on black market",
-   "u": "https://e.vnexpress.net/news/business/markets/dollar-up-against-dong-on-black-market-5128526.html",
-   "d": "10월 05일",
-   "ts": "2026-10-05",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남, ‘문화의 날’ 1일 휴무 확정…11월 24일",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44196",
-   "d": "10월 05일",
-   "ts": "2026-10-05",
-   "care": 20,
-   "cat": "문화"
-  },
-  {
-   "s": "인사이드비나",
-   "t": "[베트남 주간 이슈] 12년 걸린 고속도로 개통에 증시 대통합까지…베트남에 '판'이 깔린다",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44197",
-   "d": "10월 05일",
-   "ts": "2026-10-05",
-   "care": 19
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Da Nang man arrested in $30,000 larceny from foreign tourist",
-   "u": "https://e.vnexpress.net/news/travel/da-nang-man-arrested-in-30-000-larceny-from-foreign-tourist-5128434.html",
-   "d": "10월 05일",
-   "ts": "2026-10-05",
-   "care": 9
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남, 3분기 경제성장률 9.95% ’연중 최고치’…두 자릿수 성장 총력",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44194",
-   "d": "10월 05일",
-   "ts": "2026-10-05",
-   "care": 20
-  },
-  {
-   "s": "인사이드비나",
-   "t": "[김유호 변호사의 베트남법] 베트남 한인 기업인과 근로자를 위한 2026 베트남 노동법 핵심 가이드 (3)",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1918",
-   "d": "10월 05일",
-   "ts": "2026-10-05",
-   "care": 17
   }
  ]
 }
