@@ -222,7 +222,7 @@
     ],
     "extra": []
    },
-   "n": 23
+   "n": 24
   },
   {
    "ts": "2026-10-13",
@@ -488,7 +488,7 @@
     ],
     "extra": []
    },
-   "n": 22
+   "n": 23
   },
   {
    "ts": "2026-10-13",
@@ -735,6 +735,221 @@
         "name": "huyền",
         "ko": "낮게 내려감",
         "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 22
+  },
+  {
+   "ts": "2026-10-13",
+   "day": "Nno=44251",
+   "track": "news",
+   "theme": "아파트 시장",
+   "title": "베트남 하노이시, 아파트 분양시장 ‘꽁꽁’…3분기 흡수율 31% 불과",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44251",
+   "cat": "경제",
+   "intro": "하노이 아파트 분양 시장이 얼어붙어 흡수율이 급락했습니다. 높은 금리와 공급 과잉으로 실수요자 매수 망설입니다.",
+   "words": [
+    {
+     "vi": "căn hộ",
+     "ko": "아파트",
+     "kr_read": "깐 호",
+     "emoji": "🏢",
+     "en": "a tall apartment building",
+     "tones": [
+      {
+       "syl": "căn",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hộ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-can-ho.webp"
+    },
+    {
+     "vi": "nhà",
+     "ko": "집",
+     "kr_read": "냐",
+     "emoji": "🏠",
+     "en": "a house",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-nha.webp"
+    },
+    {
+     "vi": "giá",
+     "ko": "가격",
+     "kr_read": "자",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "tiền",
+     "ko": "돈",
+     "kr_read": "띠엔",
+     "emoji": "💰",
+     "en": "a stack of money bills",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-tien.webp"
+    },
+    {
+     "vi": "cao",
+     "ko": "높다",
+     "kr_read": "까오",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "cao",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "thấp",
+     "ko": "낮다",
+     "kr_read": "텁",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "thấp",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    }
+   ],
+   "dialog": {
+    "title": "아파트 시장",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Căn hộ này giá cao không?",
+      "ko": "이 아파트 가격이 높나요?",
+      "kr_read": "깐 호 나이 자 까오 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Căn",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hộ",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "giá",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "cao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vâng, căn hộ mới nhiều tiền lắm.",
+      "ko": "네, 새 아파트는 돈이 많이 들어요.",
+      "kr_read": "벙 깐 호 머이 니에우 띠엔 람",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vâng,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "căn",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hộ",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "mới",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhiều",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "lắm.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
        }
       ],
       "gloss": []
@@ -5551,5 +5766,5 @@
    "n": 1
   }
  ],
- "updated": "2026-10-14 02:58"
+ "updated": "2026-10-14 09:36"
 }
