@@ -2,6 +2,229 @@
  "days": [
   {
    "ts": "2026-10-14",
+   "day": "Nno=44266",
+   "track": "news",
+   "theme": "전기 오토바이",
+   "title": "베트남, ‘오토바이’ 생산 큰 폭 증가 속 전기이륜차 비중 확대…9월 기준 300만 대 돌파",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44266",
+   "cat": "경제",
+   "intro": "베트남 오토바이 생산량이 300만 대를 넘었다. 시장에서 친환경 전기 오토바이 비중이 커지고 있다.",
+   "words": [
+    {
+     "vi": "xe máy",
+     "ko": "오토바이",
+     "kr_read": "쌔 마이",
+     "emoji": "🛵",
+     "en": "a motor scooter parked on the street",
+     "tones": [
+      {
+       "syl": "xe",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-xe-may.webp"
+    },
+    {
+     "vi": "xe điện",
+     "ko": "전기 오토바이",
+     "kr_read": "쌔 디엔",
+     "emoji": "🛵",
+     "en": "a modern electric scooter",
+     "tones": [
+      {
+       "syl": "xe",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-xe-dien.webp"
+    },
+    {
+     "vi": "mới",
+     "ko": "새로운",
+     "kr_read": "머이",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "mới",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "pin",
+     "ko": "배터리",
+     "kr_read": "삔",
+     "emoji": "🔋",
+     "en": "a rechargeable battery",
+     "tones": [
+      {
+       "syl": "pin",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-pin.webp"
+    },
+    {
+     "vi": "sạc",
+     "ko": "충전하다",
+     "kr_read": "싹",
+     "emoji": "🔌",
+     "en": "an electric charger plug plugged into a port",
+     "tones": [
+      {
+       "syl": "sạc",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-sac.webp"
+    },
+    {
+     "vi": "đi làm",
+     "ko": "출근하다",
+     "kr_read": "디 람",
+     "emoji": "💼",
+     "en": "an office worker going to work",
+     "tones": [
+      {
+       "syl": "đi",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "làm",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-di-lam.webp"
+    }
+   ],
+   "dialog": {
+    "title": "전기 오토바이",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Anh đi làm bằng xe gì?",
+      "ko": "형은 무슨 차로 출근해요?",
+      "kr_read": "아인 디 람 방 쌔 지",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "bằng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "xe",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "gì?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Tôi đi làm bằng xe điện.",
+      "ko": "저는 전기 오토바이로 출근해요.",
+      "kr_read": "또이 디 람 방 쌔 디엔",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "bằng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "xe",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "điện.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 24
+  },
+  {
+   "ts": "2026-10-14",
    "day": "Nno=44258",
    "track": "news",
    "theme": "인력 채용",
@@ -229,6 +452,489 @@
         "name": "huyền",
         "ko": "낮게 내려감",
         "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 23
+  },
+  {
+   "ts": "2026-10-14",
+   "day": "Nno=44263",
+   "track": "news",
+   "theme": "수출 주문 증가",
+   "title": "UOB, 베트남 경제성장률 전망치 8.5→9.2% 상향 조정",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44263",
+   "cat": "경제",
+   "intro": "UOB가 베트남 경제성장률 전망을 상향했습니다. 제조업 회복과 수출 증가가 성장을 이끌었습니다.",
+   "words": [
+    {
+     "vi": "đơn hàng",
+     "ko": "주문",
+     "kr_read": "던 항",
+     "emoji": "📦",
+     "en": "cardboard shipping boxes stacked on a wooden pallet",
+     "tones": [
+      {
+       "syl": "đơn",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-don-hang.webp"
+    },
+    {
+     "vi": "sản xuất",
+     "ko": "생산하다",
+     "kr_read": "싼 쑤엇",
+     "emoji": "⚙️",
+     "en": "workers assembling electronic parts on a conveyor belt",
+     "tones": [
+      {
+       "syl": "sản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "xuất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-san-xuat.webp"
+    },
+    {
+     "vi": "xuất khẩu",
+     "ko": "수출하다",
+     "kr_read": "쑤엇 커우",
+     "emoji": "🚢",
+     "en": "a large cargo container ship sailing at sea",
+     "tones": [
+      {
+       "syl": "xuất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "khẩu",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-xuat-khau.webp"
+    },
+    {
+     "vi": "kinh tế",
+     "ko": "경제",
+     "kr_read": "낀 떼",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "kinh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "tế",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "nhà máy",
+     "ko": "공장",
+     "kr_read": "냐 마이",
+     "emoji": "🏭",
+     "en": "a modern manufacturing factory building exterior",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-nha-may.webp"
+    },
+    {
+     "vi": "công việc",
+     "ko": "일, 업무",
+     "kr_read": "꽁 비엑",
+     "emoji": "💼",
+     "en": "an office desk with a laptop and paperwork",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "việc",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-cong-viec.webp"
+    }
+   ],
+   "dialog": {
+    "title": "수출 주문 증가",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Dạo này nhà máy có bận không?",
+      "ko": "요즘 공장 많이 바빠요?",
+      "kr_read": "자오 나이 냐 마이 꼬 번 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Dạo",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "nhà",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "bận",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, đơn hàng xuất khẩu tăng nhiều.",
+      "ko": "네, 수출 주문이 많이 늘었어요.",
+      "kr_read": "꼬 던 항 쑤엇 커우 땅 니에우",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đơn",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hàng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "xuất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "khẩu",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tăng",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nhiều.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 22
+  },
+  {
+   "ts": "2026-10-14",
+   "day": "Nno=44267",
+   "track": "news",
+   "theme": "무비자 여행",
+   "title": "베트남, ‘냐짱’ 방문 중국 단체관광객 내년까지 30일간 비자면제",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44267",
+   "cat": "일자리",
+   "intro": "베트남 칸화성이 중국 단체 관광객에게 최대 30일간 무비자 입국을 허용합니다.",
+   "words": [
+    {
+     "vi": "visa",
+     "ko": "비자",
+     "kr_read": "비 싸",
+     "emoji": "📄",
+     "en": "a visa stamp on a page",
+     "tones": [
+      {
+       "syl": "visa",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-visa.webp"
+    },
+    {
+     "vi": "hộ chiếu",
+     "ko": "여권",
+     "kr_read": "호 찌에우",
+     "emoji": "🛂",
+     "en": "a passport booklet",
+     "tones": [
+      {
+       "syl": "hộ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "chiếu",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-ho-chieu.webp"
+    },
+    {
+     "vi": "du lịch",
+     "ko": "여행",
+     "kr_read": "주 릭",
+     "emoji": "🧳",
+     "en": "a travel suitcase",
+     "tones": [
+      {
+       "syl": "du",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "lịch",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-du-lich.webp"
+    },
+    {
+     "vi": "sân bay",
+     "ko": "공항",
+     "kr_read": "썬 바이",
+     "emoji": "🛫",
+     "en": "an airport terminal building",
+     "tones": [
+      {
+       "syl": "sân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "bay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-san-bay.webp"
+    },
+    {
+     "vi": "máy bay",
+     "ko": "비행기",
+     "kr_read": "마이 바이",
+     "emoji": "✈️",
+     "en": "an airplane in the blue sky",
+     "tones": [
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "bay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-may-bay.webp"
+    },
+    {
+     "vi": "biển",
+     "ko": "바다",
+     "kr_read": "비엔",
+     "emoji": "🌊",
+     "en": "blue ocean waves and sandy beach",
+     "tones": [
+      {
+       "syl": "biển",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-bien.webp"
+    }
+   ],
+   "dialog": {
+    "title": "무비자 여행",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Đi du lịch có cần visa không?",
+      "ko": "여행 갈 때 비자 필요해요?",
+      "kr_read": "디 주 릭 꼬 껀 비 싸 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Đi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "du",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "lịch",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "cần",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "visa",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Không, không cần visa đâu.",
+      "ko": "아니요, 비자 필요 없어요.",
+      "kr_read": "콩 콩 껀 비 싸 더우",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Không,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "không",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "cần",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "visa",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đâu.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
        }
       ],
       "gloss": []
@@ -5049,5 +5755,5 @@
    "n": 1
   }
  ],
- "updated": "2026-10-15 00:45"
+ "updated": "2026-10-15 09:05"
 }
