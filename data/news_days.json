@@ -257,7 +257,230 @@
     ],
     "extra": []
    },
-   "n": 29
+   "n": 31
+  },
+  {
+   "ts": "2026-10-16",
+   "day": "Nno=44278",
+   "track": "news",
+   "theme": "사무실 업무",
+   "title": "베트남 진출 유럽기업 10곳 중 6곳 ‘경영성과 좋음’…3분기 BCI 78.3",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44278",
+   "cat": "경제",
+   "intro": "유럽 기업의 64%가 베트남 경영 성과를 긍정적으로 평가했습니다. 다만 복잡한 행정 절차와 서류 작업은 큰 부담으로 꼽혔습니다.",
+   "words": [
+    {
+     "vi": "giấy tờ",
+     "ko": "서류",
+     "kr_read": "저이 떠",
+     "emoji": "📄",
+     "en": "a stack of paper documents on a desk",
+     "tones": [
+      {
+       "syl": "giấy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "tờ",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-giay-to.webp"
+    },
+    {
+     "vi": "thị trường",
+     "ko": "시장",
+     "kr_read": "티 쯔엉",
+     "emoji": "🏪",
+     "en": "a busy local market with shops",
+     "tones": [
+      {
+       "syl": "thị",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "trường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-thi-truong.webp"
+    },
+    {
+     "vi": "nhanh",
+     "ko": "빠르다",
+     "kr_read": "나인",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "nhanh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "công ty",
+     "ko": "회사",
+     "kr_read": "꽁 띠",
+     "emoji": "🏢",
+     "en": "a modern company office building",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ty",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-ty.webp"
+    },
+    {
+     "vi": "công việc",
+     "ko": "일, 업무",
+     "kr_read": "꽁 비엑",
+     "emoji": "💼",
+     "en": "a person working at an office desk",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "việc",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-cong-viec.webp"
+    },
+    {
+     "vi": "giám đốc",
+     "ko": "사장, 이사",
+     "kr_read": "잠 독",
+     "emoji": "👨‍💼",
+     "en": "a business director wearing a suit",
+     "tones": [
+      {
+       "syl": "giám",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "đốc",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-giam-doc.webp"
+    }
+   ],
+   "dialog": {
+    "title": "사무실 업무",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Giấy tờ này xong chưa?",
+      "ko": "이 서류 다 끝났어요?",
+      "kr_read": "저이 떠 나이 쏭 쯔어",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Giấy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tờ",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "xong",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "chưa?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Giám đốc kiểm tra rồi.",
+      "ko": "사장님이 확인하셨어요.",
+      "kr_read": "잠 독 끼엠 짜 조이",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Giám",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đốc",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "kiểm",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tra",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "rồi.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 30
   },
   {
    "ts": "2026-10-16",
@@ -469,7 +692,7 @@
     ],
     "extra": []
    },
-   "n": 28
+   "n": 29
   },
   {
    "ts": "2026-10-16",
@@ -709,6 +932,253 @@
         "name": "sắc",
         "ko": "짧게 올라감",
         "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 28
+  },
+  {
+   "ts": "2026-10-16",
+   "day": "Nno=44254",
+   "track": "news",
+   "theme": "법률과 협조",
+   "title": "마약 매매·소지 혐의 징역 2년, 수사협조 입증으로 집행유예 이끌어내 [강정한 변호사의 베트남 리걸클리닉]",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44254",
+   "cat": "경제",
+   "intro": "마약 사건서 구체적 수사 협조 입증으로 피고인이 징역형 집행유예를 선고받았다.",
+   "words": [
+    {
+     "vi": "luật sư",
+     "ko": "변호사",
+     "kr_read": "루엇 쓰",
+     "emoji": "🧑‍⚖️",
+     "en": "a lawyer in a suit holding legal files",
+     "tones": [
+      {
+       "syl": "luật",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "sư",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-luat-su.webp"
+    },
+    {
+     "vi": "giúp đỡ",
+     "ko": "도움을 주다",
+     "kr_read": "줍 더",
+     "emoji": "🤝",
+     "en": "two people shaking hands to help each other",
+     "tones": [
+      {
+       "syl": "giúp",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "đỡ",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      }
+     ],
+     "img": "n-giup-do.webp"
+    },
+    {
+     "vi": "thông tin",
+     "ko": "정보",
+     "kr_read": "통 띤",
+     "emoji": "📄",
+     "en": "a printed document page with information",
+     "tones": [
+      {
+       "syl": "thông",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "tin",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-thong-tin.webp"
+    },
+    {
+     "vi": "điện thoại",
+     "ko": "전화기",
+     "kr_read": "디엔 토아이",
+     "emoji": "📱",
+     "en": "a modern smartphone with a lit screen",
+     "tones": [
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "thoại",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-dien-thoai.webp"
+    },
+    {
+     "vi": "sự thật",
+     "ko": "사실",
+     "kr_read": "쓰 텃",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "sự",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "thật",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "phiên dịch",
+     "ko": "통역",
+     "kr_read": "피엔 직",
+     "emoji": "🗣️",
+     "en": "a translator speaking next to another person",
+     "tones": [
+      {
+       "syl": "phiên",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "dịch",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-phien-dich.webp"
+    }
+   ],
+   "dialog": {
+    "title": "법률과 협조",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Tôi cần người phiên dịch giúp đỡ.",
+      "ko": "저를 도와줄 통역사가 필요해요.",
+      "kr_read": "또이 껀 응으어이 피엔 직 줍 더",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "cần",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "người",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "phiên",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "dịch",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "giúp",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đỡ.",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Được, tôi sẽ gọi cho bạn.",
+      "ko": "네, 제가 전화해 드릴게요.",
+      "kr_read": "드억 또이 쌔 고이 쪼 반",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Được,",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "sẽ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "gọi",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "cho",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "bạn.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
        }
       ],
       "gloss": []
@@ -6788,5 +7258,5 @@
    "n": 1
   }
  ],
- "updated": "2026-10-17 00:12"
+ "updated": "2026-10-17 08:51"
 }
