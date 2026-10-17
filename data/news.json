@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-17 23:02",
+ "updated": "2026-10-18 08:17",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam targets at least 10% GDP growth in 2027",
+   "u": "https://e.vnexpress.net/news/business/economy/vietnam-targets-at-least-10-gdp-growth-in-2027-5133546.html",
+   "d": "10월 17일",
+   "ts": "2026-10-17",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Ho Chi Minh City metro line stops running for 1 hour after power outage",
+   "u": "https://e.vnexpress.net/news/news/traffic/ho-chi-minh-city-metro-line-stops-running-for-1-hour-after-power-outage-5133529.html",
+   "d": "10월 17일",
+   "ts": "2026-10-17",
+   "care": 15
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Hidden spy chip turns up in crypto wallet bought in Singapore, triggers investigation across 7 Asian markets",
+   "u": "https://e.vnexpress.net/news/news/hidden-spy-chip-turns-up-in-crypto-wallet-bought-in-singapore-triggers-investigation-across-7-asian-markets-5132785.html",
+   "d": "10월 17일",
+   "ts": "2026-10-17",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "IPP Travel Retail opens Travel Essentials store at Cam Ranh airport",
+   "u": "https://e.vnexpress.net/news/travel/ipp-travel-retail-opens-travel-essentials-store-at-cam-ranh-airport-5133207.html",
+   "d": "10월 17일",
+   "ts": "2026-10-17",
+   "care": 13
+  },
   {
    "s": "인사이드비나",
    "t": "Vietnam's visa-free policy for Chinese tour groups strengthens its edge in Southeast Asia's tourism race",
@@ -489,54 +521,6 @@
    "d": "10월 11일",
    "ts": "2026-10-11",
    "care": 11
-  },
-  {
-   "s": "인사이드비나",
-   "t": "How Australia's tighter visa rules might affect international students' study and migration pathways",
-   "u": "https://e.vnexpress.net/news/news/education/how-australia-s-tighter-visa-rules-might-affect-international-students-study-and-migration-pathways-5128838.html",
-   "d": "10월 10일",
-   "ts": "2026-10-10",
-   "care": 18
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Da Nang accommodation options cater to different travel needs",
-   "u": "https://e.vnexpress.net/news/travel/da-nang-accommodation-options-cater-to-different-travel-needs-5128640.html",
-   "d": "10월 10일",
-   "ts": "2026-10-10",
-   "care": 17
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Why are Korean visitors to Vietnam declining?",
-   "u": "https://e.vnexpress.net/news/travel/why-are-korean-visitors-to-vietnam-declining-5130559.html",
-   "d": "10월 10일",
-   "ts": "2026-10-10",
-   "care": 17
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Residents wade through half-meter floodwaters as year's highest tide swamps Ho Chi Minh City streets",
-   "u": "https://e.vnexpress.net/photo/environment/residents-wade-through-half-meter-floodwaters-as-years-highest-tide-swamps-ho-chi-minh-city-streets-5130788.html",
-   "d": "10월 10일",
-   "ts": "2026-10-10",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Hanoi kicks off $4.94B investment push across 18 key projects",
-   "u": "https://e.vnexpress.net/news/news/traffic/hanoi-kicks-off-4-94b-investment-push-across-18-key-projects-5130649.html",
-   "d": "10월 10일",
-   "ts": "2026-10-10",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "HCMC teen with IELTS 9.0 and top English awards for gifted students chooses teaching career",
-   "u": "https://e.vnexpress.net/news/news/education/hcmc-teen-with-ielts-9-0-and-top-english-awards-for-gifted-students-chooses-teaching-career-5128345.html",
-   "d": "10월 10일",
-   "ts": "2026-10-10",
-   "care": 10
   }
  ]
 }
