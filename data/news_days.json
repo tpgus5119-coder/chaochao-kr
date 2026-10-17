@@ -2,6 +2,247 @@
  "days": [
   {
    "ts": "2026-10-16",
+   "day": "Nno=44280",
+   "track": "news",
+   "theme": "휴대폰 수출",
+   "title": "베트남, 휴대폰 수출 급증세…9월 기준 518억 달러 전년동기比 20%↑",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44280",
+   "cat": "경제",
+   "intro": "베트남의 휴대폰 수출액이 크게 늘었습니다. 주로 중국, 미국, 한국으로 수출합니다.",
+   "words": [
+    {
+     "vi": "điện thoại",
+     "ko": "휴대폰",
+     "kr_read": "디엔 토아이",
+     "emoji": "📱",
+     "en": "a modern smartphone on a desk",
+     "tones": [
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "thoại",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-dien-thoai.webp"
+    },
+    {
+     "vi": "linh kiện",
+     "ko": "부품",
+     "kr_read": "린 끼엔",
+     "emoji": "⚙️",
+     "en": "small electronic circuit components",
+     "tones": [
+      {
+       "syl": "linh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "kiện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-linh-kien.webp"
+    },
+    {
+     "vi": "xuất khẩu",
+     "ko": "수출하다",
+     "kr_read": "쑤엇 커우",
+     "emoji": "🚢",
+     "en": "a container cargo ship at sea",
+     "tones": [
+      {
+       "syl": "xuất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "khẩu",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-xuat-khau.webp"
+    },
+    {
+     "vi": "sản xuất",
+     "ko": "생산하다",
+     "kr_read": "싼 쑤엇",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "sản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "xuất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "tăng",
+     "ko": "증가하다",
+     "kr_read": "땅",
+     "emoji": "📈",
+     "en": "a green arrow pointing up on a financial chart",
+     "tones": [
+      {
+       "syl": "tăng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-tang.webp"
+    },
+    {
+     "vi": "nhà máy",
+     "ko": "공장",
+     "kr_read": "냐 마이",
+     "emoji": "🏭",
+     "en": "a large manufacturing factory building",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-nha-may.webp"
+    }
+   ],
+   "dialog": {
+    "title": "휴대폰 수출",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Nhà máy sản xuất điện thoại à?",
+      "ko": "공장에서 휴대폰을 생산하나요?",
+      "kr_read": "냐 마이 싼 쑤엇 디엔 토아이 아",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Nhà",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "sản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "xuất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "điện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "thoại",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "à?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vâng, sản xuất để xuất khẩu.",
+      "ko": "네, 수출하려고 생산해요.",
+      "kr_read": "벙 싼 쑤엇 데 쑤엇 커우",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vâng,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "sản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "xuất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "để",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "xuất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "khẩu.",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 33
+  },
+  {
+   "ts": "2026-10-16",
    "day": "Nno=44276",
    "track": "news",
    "theme": "현지 생산",
@@ -250,6 +491,223 @@
         "name": "sắc",
         "ko": "짧게 올라감",
         "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 32
+  },
+  {
+   "ts": "2026-10-16",
+   "day": "Nno=44279",
+   "track": "news",
+   "theme": "원자재 수입",
+   "title": "베트남, 중국 등 4개국산 ‘폴리에스터필라멘트사’ 반덤핑관세 5년 연장",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44279",
+   "cat": "경제",
+   "intro": "베트남이 4개국산 합성섬유사에 대해 반덤핑 관세를 5년 더 연장했습니다.",
+   "words": [
+    {
+     "vi": "nhập khẩu",
+     "ko": "수입하다",
+     "kr_read": "녑 커우",
+     "emoji": "🚢",
+     "en": "a cargo ship carrying containers at sea",
+     "tones": [
+      {
+       "syl": "nhập",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "khẩu",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-nhap-khau.webp"
+    },
+    {
+     "vi": "giá",
+     "ko": "가격",
+     "kr_read": "자",
+     "emoji": "🏷️",
+     "en": "a price tag with numbers",
+     "tones": [
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-gia.webp"
+    },
+    {
+     "vi": "kiểm tra",
+     "ko": "확인하다, 검사하다",
+     "kr_read": "끼엠 짜",
+     "emoji": "📋",
+     "en": "a clipboard with a checklist paper",
+     "tones": [
+      {
+       "syl": "kiểm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tra",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-kiem-tra.webp"
+    },
+    {
+     "vi": "sợi",
+     "ko": "실, 원사",
+     "kr_read": "써이",
+     "emoji": "🧵",
+     "en": "a spool of sewing thread",
+     "tones": [
+      {
+       "syl": "sợi",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-soi.webp"
+    },
+    {
+     "vi": "vải",
+     "ko": "천, 원단",
+     "kr_read": "바이",
+     "emoji": "🧶",
+     "en": "colorful rolls of fabric cloth",
+     "tones": [
+      {
+       "syl": "vải",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-vai.webp"
+    },
+    {
+     "vi": "thuế",
+     "ko": "세금, 관세",
+     "kr_read": "투에",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "thuế",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    }
+   ],
+   "dialog": {
+    "title": "원자재 수입",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Giá sợi này có đắt không?",
+      "ko": "이 실 가격 비싸요?",
+      "kr_read": "자 써이 나이 꼬 닷 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Giá",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "sợi",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đắt",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, giá nhập khẩu đắt hơn.",
+      "ko": "네, 수입 가격이 더 비싸요.",
+      "kr_read": "꼬 자 녑 커우 닷 헌",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "giá",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhập",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "khẩu",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "đắt",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "hơn.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
        }
       ],
       "gloss": []
@@ -7258,5 +7716,5 @@
    "n": 1
   }
  ],
- "updated": "2026-10-17 08:51"
+ "updated": "2026-10-17 23:06"
 }
