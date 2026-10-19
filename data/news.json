@@ -1,21 +1,61 @@
 {
- "updated": "2026-10-19 08:27",
+ "updated": "2026-10-20 02:20",
  "items": [
   {
    "s": "인사이드비나",
-   "t": "[기획] 베트남, 2027년 성장률 10% 승부수...한국 기업에 기회인가 부담인가",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1930",
-   "d": "10월 18일",
-   "ts": "2026-10-18",
+   "t": "베트남 내년 경제성장률 최소 10% 목표…총리, 정기국회 개회식서 보고",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44286",
+   "d": "10월 19일",
+   "ts": "2026-10-19",
+   "care": 20
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남, ‘유럽자유무역연합’과 FTA 체결…연간 교역액 20억 달러",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44288",
+   "d": "10월 19일",
+   "ts": "2026-10-19",
+   "care": 19
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남 부총리 “은행권, 대출금리 최고 2%p 인하해야”…중앙은행 총재에 직접 지시",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44289",
+   "d": "10월 19일",
+   "ts": "2026-10-19",
+   "care": 19
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Company of Southeast Asia’s richest man halves land rent to expand domestic supplier network",
+   "u": "https://e.vnexpress.net/news/business/companies/company-of-southeast-asia-s-richest-man-halves-land-rent-to-expand-domestic-supplier-network-5133498.html",
+   "d": "10월 19일",
+   "ts": "2026-10-19",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam wins for best food festival at World Culinary Awards",
+   "u": "https://e.vnexpress.net/news/travel/food-recipes/vietnam-wins-for-best-food-festival-at-world-culinary-awards-5134223.html",
+   "d": "10월 19일",
+   "ts": "2026-10-19",
    "care": 15
   },
   {
    "s": "인사이드비나",
-   "t": "[에디터's 이슈] '2017년 이후 완전 봉쇄'된 베트남의 외국계 '은행 법인 인가'...\"IBK기업은행 9년만에 돌파\"",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1931",
-   "d": "10월 18일",
-   "ts": "2026-10-18",
+   "t": "[심층] 베트남 중앙은행 총재에 부총리도 강경 '대출 금리 낮추라'...\"그 배경과 베트남의 경제 숙제\"",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1932",
+   "d": "10월 19일",
+   "ts": "2026-10-19",
    "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnamese students win gold, silver medals at Al-Fergani International Physics Olympiad",
+   "u": "https://e.vnexpress.net/news/news/education/vietnamese-students-win-gold-silver-medals-at-al-fergani-international-physics-olympiad-5134011.html",
+   "d": "10월 19일",
+   "ts": "2026-10-19",
+   "care": 9
   },
   {
    "s": "인사이드비나",
@@ -35,19 +75,35 @@
   },
   {
    "s": "인사이드비나",
-   "t": "Why one trip to Vietnam brings visitors back for more",
-   "u": "https://e.vnexpress.net/news/travel/why-one-trip-to-vietnam-brings-visitors-back-for-more-vnepre-5129820.html",
-   "d": "10월 18일",
-   "ts": "2026-10-18",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
    "t": "Vietnamese student lands lead-author paper at AI conference that rejects 73% of submissions",
    "u": "https://e.vnexpress.net/news/news/education/vietnamese-student-lands-lead-author-paper-at-ai-conference-that-rejects-73-of-submissions-5126828.html",
    "d": "10월 18일",
    "ts": "2026-10-18",
    "care": 8
+  },
+  {
+   "s": "인사이드비나",
+   "t": "[기획] 베트남, 2027년 성장률 10% 승부수...한국 기업에 기회인가 부담인가",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1930",
+   "d": "10월 18일",
+   "ts": "2026-10-18",
+   "care": 15
+  },
+  {
+   "s": "인사이드비나",
+   "t": "[에디터's 이슈] '2017년 이후 완전 봉쇄'된 베트남의 외국계 '은행 법인 인가'...\"IBK기업은행 9년만에 돌파\"",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1931",
+   "d": "10월 18일",
+   "ts": "2026-10-18",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Why one trip to Vietnam brings visitors back for more",
+   "u": "https://e.vnexpress.net/news/travel/why-one-trip-to-vietnam-brings-visitors-back-for-more-vnepre-5129820.html",
+   "d": "10월 18일",
+   "ts": "2026-10-18",
+   "care": 13
   },
   {
    "s": "인사이드비나",
@@ -457,78 +513,6 @@
    "d": "10월 13일",
    "ts": "2026-10-13",
    "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남, ‘암호화폐’ 시장 규모 동남아 2위…연간 1,220억 달러",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44237",
-   "d": "10월 12일",
-   "ts": "2026-10-12",
-   "care": 20
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Earning more, feeling less: the quiet burnout of young Vietnamese workers",
-   "u": "https://e.vnexpress.net/news/life/wellness/earning-more-feeling-less-the-quiet-burnout-of-young-vietnamese-workers-5121054.html",
-   "d": "10월 12일",
-   "ts": "2026-10-12",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "HCMC flood-control project turns roadside homes into ‘basements’",
-   "u": "https://e.vnexpress.net/photo/trend/hcmc-flood-control-project-turns-roadside-homes-into-basements-5131173.html",
-   "d": "10월 12일",
-   "ts": "2026-10-12",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남, '증권·이커머스·SNS' 등 12개 분야 연내 VNeID 연동 의무화",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44235",
-   "d": "10월 12일",
-   "ts": "2026-10-12",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
-   "t": "현대車, 베트남 신차 판매량 큰 폭 ‘반등’…9월 4,000대 육박 전월比 32%↑",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44236",
-   "d": "10월 12일",
-   "ts": "2026-10-12",
-   "care": 12
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남 빈패스트, 9월 전기차 판매량 ‘2만3,000여 대’…25개월 연속 시장 1위",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44238",
-   "d": "10월 12일",
-   "ts": "2026-10-12",
-   "care": 20
-  },
-  {
-   "s": "인사이드비나",
-   "t": "빈패스트, 미국서 ‘전기버스 플랫폼’ 출시…2028년 1분기 첫 인도",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44242",
-   "d": "10월 12일",
-   "ts": "2026-10-12",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "[기획] 베트남 세제 불확실성에 한국 기업 긴장...부가세 환급·이전가격 과세가 변수",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1925",
-   "d": "10월 12일",
-   "ts": "2026-10-12",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남 최남단 까마우공항, 개보수 마치고 내달 재개장…폐쇄 1년여 만",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44241",
-   "d": "10월 12일",
-   "ts": "2026-10-12",
-   "care": 12
   }
  ]
 }
