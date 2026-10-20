@@ -1,6 +1,87 @@
 {
- "updated": "2026-10-20 09:30",
+ "updated": "2026-10-21 00:33",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "베트남 車시장, ‘전기차·하이브리드’ 등 전동화차량이 대세…9월 기준 비중 39.1% 2년 새 22%p↑",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44297",
+   "d": "10월 20일",
+   "ts": "2026-10-20",
+   "care": 22
+  },
+  {
+   "s": "인사이드비나",
+   "t": "France’s Alstom gets $900M order from Vingroup for Hanoi metro trains",
+   "u": "https://e.vnexpress.net/news/business/companies/france-s-alstom-gets-900m-order-from-vingroup-for-hanoi-metro-trains-5134472.html",
+   "d": "10월 20일",
+   "ts": "2026-10-20",
+   "care": 19
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Plants wilt, 40 people hospitalized after suspected chlorine leak at Hanoi scrapyard",
+   "u": "https://e.vnexpress.net/news/news/environment/plants-wilt-40-people-hospitalized-after-suspected-chlorine-leak-at-hanoi-scrapyard-5134695.html",
+   "d": "10월 20일",
+   "ts": "2026-10-20",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "[여기는 베트남] 호치민시, 2030년까지 연중 80% 이상 대기질 ‘양호·보통’ 목표...오토바이 배출가스 관리 강화",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1933",
+   "d": "10월 20일",
+   "ts": "2026-10-20",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "HS효성, 다낭 車 카펫신공장 1억 달러 투자…원사부터 카펫까지 한 곳서 만든다",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44301",
+   "d": "10월 20일",
+   "ts": "2026-10-20",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Citi, Vietcombank leaders discuss financing, capital market cooperation",
+   "u": "https://e.vnexpress.net/news/business/citi-vietcombank-leaders-discuss-financing-capital-market-cooperation-5134647.html",
+   "d": "10월 20일",
+   "ts": "2026-10-20",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Failing to find work at home, Vietnamese guest workers choose to leave again",
+   "u": "https://e.vnexpress.net/news/news/failing-to-find-work-at-home-vietnamese-guest-workers-choose-to-leave-again-5132661.html",
+   "d": "10월 20일",
+   "ts": "2026-10-20",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "[베트남 돋보기] 베트남 '목욕탕 의자'와 서울 '달빛야장'…'노점 경제' 갈림길",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44295",
+   "d": "10월 20일",
+   "ts": "2026-10-20",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남 푸꾸옥, ‘온라인 여행사기’ 집중단속…연말까지 3개월간",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44304",
+   "d": "10월 20일",
+   "ts": "2026-10-20",
+   "care": 13,
+   "cat": "문화"
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam wins for best food festival at World Culinary Awards",
+   "u": "https://e.vnexpress.net/news/travel/food-recipes/vietnam-wins-for-best-food-festival-at-world-culinary-awards-5134223.html",
+   "d": "10월 19일",
+   "ts": "2026-10-19",
+   "care": 15
+  },
   {
    "s": "인사이드비나",
    "t": "베트남 내년 경제성장률 최소 10% 목표…총리, 정기국회 개회식서 보고",
@@ -32,14 +113,6 @@
    "d": "10월 19일",
    "ts": "2026-10-19",
    "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam wins for best food festival at World Culinary Awards",
-   "u": "https://e.vnexpress.net/news/travel/food-recipes/vietnam-wins-for-best-food-festival-at-world-culinary-awards-5134223.html",
-   "d": "10월 19일",
-   "ts": "2026-10-19",
-   "care": 15
   },
   {
    "s": "인사이드비나",
@@ -425,102 +498,6 @@
    "d": "10월 14일",
    "ts": "2026-10-14",
    "care": 17
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam waives visas for Chinese tour groups to Nha Trang",
-   "u": "https://e.vnexpress.net/news/travel/visa/vietnam-waives-visas-for-chinese-tour-groups-to-nha-trang-5131497.html",
-   "d": "10월 13일",
-   "ts": "2026-10-13",
-   "care": 19
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Ho Chi Minh City to eliminate 28 traffic bottlenecks by 2030",
-   "u": "https://e.vnexpress.net/news/news/traffic/ho-chi-minh-city-to-eliminate-28-traffic-bottlenecks-by-2030-5131662.html",
-   "d": "10월 13일",
-   "ts": "2026-10-13",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Hanoi adds greenery to transport infrastructure to reduce urban heat",
-   "u": "https://e.vnexpress.net/photo/traffic/hanoi-adds-greenery-to-transport-infrastructure-to-reduce-urban-heat-5130898.html",
-   "d": "10월 13일",
-   "ts": "2026-10-13",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam carriers gear up for tourism boom with new Asia, Europe services",
-   "u": "https://e.vnexpress.net/news/travel/vietnam-carriers-gear-up-for-tourism-boom-with-new-asia-europe-services-5129484.html",
-   "d": "10월 13일",
-   "ts": "2026-10-13",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Victims of Apax Leaders English school boss's $327M fraud rise to 10,123",
-   "u": "https://e.vnexpress.net/news/news/crime/victims-of-apax-leaders-english-school-boss-s-327m-fraud-rise-to-10-123-5131394.html",
-   "d": "10월 13일",
-   "ts": "2026-10-13",
-   "care": 9
-  },
-  {
-   "s": "인사이드비나",
-   "t": "US hikes pepper imports from Vietnam, slashes purchases from elsewhere",
-   "u": "https://e.vnexpress.net/news/business/economy/us-hikes-pepper-imports-from-vietnam-slashes-purchases-from-elsewhere-5131167.html",
-   "d": "10월 13일",
-   "ts": "2026-10-13",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "More police, fewer snatchers: Tourists say Vietnam feels safer",
-   "u": "https://e.vnexpress.net/news/travel/more-police-fewer-snatchers-tourists-say-vietnam-feels-safer-vnepre-5127872.html",
-   "d": "10월 13일",
-   "ts": "2026-10-13",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남 하노이시, 아파트 분양시장 ‘꽁꽁’…3분기 흡수율 31% 불과",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44251",
-   "d": "10월 13일",
-   "ts": "2026-10-13",
-   "care": 12
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남 롱탄신공항, 19일까지 항행장비 '비행검사'…12월 개항 앞두고 주요 시스템 점검",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44245",
-   "d": "10월 13일",
-   "ts": "2026-10-13",
-   "care": 19
-  },
-  {
-   "s": "인사이드비나",
-   "t": "러시아, 베트남에 ‘무비자’ 입국 허용…최장 30일간",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44249",
-   "d": "10월 13일",
-   "ts": "2026-10-13",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남 항공시장, ‘국제유가’ 변동성 불구 두 자릿수 성장…올해 여객 9,400만 명 전망",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44247",
-   "d": "10월 13일",
-   "ts": "2026-10-13",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "\"월세방 산다고 조롱 말라\" 베트남 발칵 뒤집은 '셋방공주' 뭐길래 [베트남 이슈 줌인]",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44248",
-   "d": "10월 13일",
-   "ts": "2026-10-13",
-   "care": 16
   }
  ]
 }
