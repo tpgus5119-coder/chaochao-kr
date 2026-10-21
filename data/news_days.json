@@ -2,6 +2,265 @@
  "days": [
   {
    "ts": "2026-10-20",
+   "day": "Nno=44303",
+   "track": "news",
+   "theme": "하노이 지하철",
+   "title": "빈그룹, 佛알스톰에 ‘도시철도’ 전동차 8억 유로 첫 주문…하노이 5개 노선 200편성",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44303",
+   "cat": "경제",
+   "intro": "빈그룹이 하노이 도시철도 전동차 200편성을 주문했습니다. 프랑스 알스톰사와 8억 유로 규모의 계약을 맺었습니다.",
+   "words": [
+    {
+     "vi": "nhà máy",
+     "ko": "공장",
+     "kr_read": "냐 마이",
+     "emoji": "🏭",
+     "en": "a large modern factory building",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-nha-may.webp"
+    },
+    {
+     "vi": "lắp ráp",
+     "ko": "조립하다",
+     "kr_read": "랍 잡",
+     "emoji": "🔩",
+     "en": "hands assembling metal parts with a tool",
+     "tones": [
+      {
+       "syl": "lắp",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "ráp",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-lap-rap.webp"
+    },
+    {
+     "vi": "hợp đồng",
+     "ko": "계약서",
+     "kr_read": "헙 동",
+     "emoji": "📄",
+     "en": "a printed contract paper with a pen on desk",
+     "tones": [
+      {
+       "syl": "hợp",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "đồng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-hop-dong.webp"
+    },
+    {
+     "vi": "công nghệ",
+     "ko": "기술",
+     "kr_read": "꽁 응에",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "nghệ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "tàu điện",
+     "ko": "전철",
+     "kr_read": "따우 디엔",
+     "emoji": "🚆",
+     "en": "a modern metro electric train",
+     "tones": [
+      {
+       "syl": "tàu",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-tau-dien.webp"
+    },
+    {
+     "vi": "nhà ga",
+     "ko": "역",
+     "kr_read": "냐 가",
+     "emoji": "🚉",
+     "en": "a clean subway station platform",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "ga",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-nha-ga.webp"
+    }
+   ],
+   "dialog": {
+    "title": "하노이 지하철",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Đi làm bằng tàu điện có nhanh không?",
+      "ko": "전철 타고 출근하면 빨라요?",
+      "kr_read": "디 람 방 따우 디엔 꼬 나인 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Đi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "bằng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "tàu",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "điện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhanh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Rất nhanh và an toàn anh nhé.",
+      "ko": "아주 빠르고 안전해요.",
+      "kr_read": "젓 나인 바 안 또안 아인 냬",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhanh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "và",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "an",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "toàn",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 38
+  },
+  {
+   "ts": "2026-10-20",
    "day": "Nno=44297",
    "track": "news",
    "theme": "전기차 인기",
@@ -202,7 +461,247 @@
     ],
     "extra": []
    },
-   "n": 33
+   "n": 37
+  },
+  {
+   "ts": "2026-10-20",
+   "day": "Nno=44296",
+   "track": "news",
+   "theme": "은행 금리",
+   "title": "베트남 중앙銀 총재 “신규 외 기존 대출도 금리 인하해야”…금리 조정 거듭 촉구",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44296",
+   "cat": "경제",
+   "intro": "베트남 중앙은행이 은행권에 대출 금리 인하를 거듭 촉구했습니다. 이에 주요 국영상업은행들이 대출 금리를 최대 2% 내렸습니다.",
+   "words": [
+    {
+     "vi": "ngân hàng",
+     "ko": "은행",
+     "kr_read": "응언 항",
+     "emoji": "🏦",
+     "en": "a bank building with glass doors",
+     "tones": [
+      {
+       "syl": "ngân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-ngan-hang.webp"
+    },
+    {
+     "vi": "khách hàng",
+     "ko": "고객",
+     "kr_read": "칵 항",
+     "emoji": "👤",
+     "en": "a customer standing in front of a counter",
+     "tones": [
+      {
+       "syl": "khách",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-khach-hang.webp"
+    },
+    {
+     "vi": "lãi suất",
+     "ko": "금리, 이율",
+     "kr_read": "라이 쑤엇",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "lãi",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      },
+      {
+       "syl": "suất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "gửi tiền",
+     "ko": "예금하다",
+     "kr_read": "그이 띠엔",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "gửi",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "tiền",
+     "ko": "돈",
+     "kr_read": "띠엔",
+     "emoji": "💵",
+     "en": "a bundle of paper banknotes",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-tien.webp"
+    },
+    {
+     "vi": "công ty",
+     "ko": "회사",
+     "kr_read": "꽁 띠",
+     "emoji": "🏢",
+     "en": "a modern office building",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ty",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-ty.webp"
+    }
+   ],
+   "dialog": {
+    "title": "은행 금리",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Lãi suất ngân hàng giảm rồi à?",
+      "ko": "은행 금리가 내렸어요?",
+      "kr_read": "라이 쑤엇 응언 항 잠 조이 아",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Lãi",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "suất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ngân",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hàng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "giảm",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "rồi",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "à?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vâng, lãi suất vay giảm rồi.",
+      "ko": "네, 대출 금리가 내렸어요.",
+      "kr_read": "벙 라이 쑤엇 바이 잠 조이",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vâng,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "lãi",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "suất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "vay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "giảm",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "rồi.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 36
   },
   {
    "ts": "2026-10-20",
@@ -448,7 +947,7 @@
     ],
     "extra": []
    },
-   "n": 32
+   "n": 35
   },
   {
    "ts": "2026-10-20",
@@ -674,6 +1173,699 @@
         "name": "hỏi",
         "ko": "내렸다 올림",
         "shape": "∨"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 34
+  },
+  {
+   "ts": "2026-10-20",
+   "day": "Nno=44298",
+   "track": "news",
+   "theme": "비행기 기내식",
+   "title": "베트남항공, ‘세계 최고 기내식’ 수상…아시아 항공사 최초",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44298",
+   "cat": "문화·생활",
+   "intro": "베트남항공이 세계 최고의 기내식 항공사로 선정되었습니다. 아시아 항공사 최초로 전통 요리 기내식의 우수성을 인정받았습니다.",
+   "words": [
+    {
+     "vi": "món ăn",
+     "ko": "음식",
+     "kr_read": "몬 안",
+     "emoji": "🍲",
+     "en": "a bowl of warm delicious food",
+     "tones": [
+      {
+       "syl": "món",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "ăn",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-mon-an.webp"
+    },
+    {
+     "vi": "phở",
+     "ko": "쌀국수",
+     "kr_read": "퍼",
+     "emoji": "🍜",
+     "en": "a bowl of Vietnamese noodle soup",
+     "tones": [
+      {
+       "syl": "phở",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-pho.webp"
+    },
+    {
+     "vi": "cơm",
+     "ko": "밥",
+     "kr_read": "껌",
+     "emoji": "🍚",
+     "en": "a bowl of cooked white rice",
+     "tones": [
+      {
+       "syl": "cơm",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-com.webp"
+    },
+    {
+     "vi": "thực đơn",
+     "ko": "메뉴판",
+     "kr_read": "특 던",
+     "emoji": "📜",
+     "en": "a restaurant food menu",
+     "tones": [
+      {
+       "syl": "thực",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "đơn",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-thuc-don.webp"
+    },
+    {
+     "vi": "máy bay",
+     "ko": "비행기",
+     "kr_read": "마이 바이",
+     "emoji": "✈️",
+     "en": "an airplane flying in the blue sky",
+     "tones": [
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "bay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-may-bay.webp"
+    },
+    {
+     "vi": "ngon",
+     "ko": "맛있다",
+     "kr_read": "응온",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "ngon",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    }
+   ],
+   "dialog": {
+    "title": "비행기 기내식",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Anh ăn cơm hay ăn phở?",
+      "ko": "밥을 드시겠어요, 쌀국수를 드시겠어요?",
+      "kr_read": "아인 안 껌 하이 안 퍼",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ăn",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "cơm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ăn",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "phở?",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Cho tôi một bát phở bò.",
+      "ko": "소고기 쌀국수 한 그릇 주세요.",
+      "kr_read": "쪼 또이 못 밧 퍼 보",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Cho",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "một",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "bát",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "phở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "bò.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 33
+  },
+  {
+   "ts": "2026-10-20",
+   "day": "Nno=44299",
+   "track": "news",
+   "theme": "불꽃놀이",
+   "title": "하노이시, ‘베트남 문화의 날’ 불꽃놀이 행사 계획…내달 24일",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44299",
+   "cat": "사회",
+   "intro": "하노이시가 문화의 날에 불꽃놀이를 엽니다. 11월 24일 대형 콘서트와 함께 진행됩니다.",
+   "words": [
+    {
+     "vi": "pháo hoa",
+     "ko": "불꽃놀이",
+     "kr_read": "파오 호아",
+     "emoji": "🎆",
+     "en": "fireworks exploding in the night sky",
+     "tones": [
+      {
+       "syl": "pháo",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "hoa",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-phao-hoa.webp"
+    },
+    {
+     "vi": "địa điểm",
+     "ko": "장소",
+     "kr_read": "디어 디엠",
+     "emoji": "📍",
+     "en": "a red pin on a street map",
+     "tones": [
+      {
+       "syl": "địa",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "điểm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-dia-diem.webp"
+    },
+    {
+     "vi": "an toàn",
+     "ko": "안전",
+     "kr_read": "안 또안",
+     "emoji": "⛑️",
+     "en": "a yellow safety helmet",
+     "tones": [
+      {
+       "syl": "an",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "toàn",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-an-toan.webp"
+    },
+    {
+     "vi": "văn hóa",
+     "ko": "문화",
+     "kr_read": "반 호아",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "văn",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hóa",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "xem",
+     "ko": "보다",
+     "kr_read": "쌤",
+     "emoji": "👁️",
+     "en": "a person watching something",
+     "tones": [
+      {
+       "syl": "xem",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-xem.webp"
+    },
+    {
+     "vi": "tối nay",
+     "ko": "오늘 밤",
+     "kr_read": "또이 나이",
+     "emoji": "🌙",
+     "en": "a crescent moon in the night sky",
+     "tones": [
+      {
+       "syl": "tối",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "nay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-toi-nay.webp"
+    }
+   ],
+   "dialog": {
+    "title": "불꽃놀이",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Tối nay có pháo hoa không?",
+      "ko": "오늘 밤에 불꽃놀이 해요?",
+      "kr_read": "또이 나이 꼬 파오 호아 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Tối",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "pháo",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "hoa",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, ở đó đông người lắm.",
+      "ko": "네, 거기 사람 정말 많아요.",
+      "kr_read": "꼬 어 도 동 응으어이 람",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "đó",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đông",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "người",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "lắm.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 32
+  },
+  {
+   "ts": "2026-10-20",
+   "day": "Nxno=1933",
+   "track": "news",
+   "theme": "대기질 개선",
+   "title": "[여기는 베트남] 호치민시, 2030년까지 연중 80% 이상 대기질 ‘양호·보통’ 목표...오토바이 배출가스 관리 강화",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1933",
+   "cat": "문화·생활",
+   "intro": "호치민시는 2030년까지 대기질 개선을 목표로 합니다. 오토바이 배출가스를 규제하고 대중교통을 확대합니다.",
+   "words": [
+    {
+     "vi": "xe máy",
+     "ko": "오토바이",
+     "kr_read": "쌔 마이",
+     "emoji": "🛵",
+     "en": "a motor scooter on the street",
+     "tones": [
+      {
+       "syl": "xe",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-xe-may.webp"
+    },
+    {
+     "vi": "ô tô",
+     "ko": "자동차",
+     "kr_read": "오 또",
+     "emoji": "🚗",
+     "en": "a modern sedan car",
+     "tones": [
+      {
+       "syl": "ô",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "tô",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-o-to.webp"
+    },
+    {
+     "vi": "xe buýt",
+     "ko": "버스",
+     "kr_read": "쌔 부잇",
+     "emoji": "🚌",
+     "en": "a city bus",
+     "tones": [
+      {
+       "syl": "xe",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "buýt",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-xe-buyt.webp"
+    },
+    {
+     "vi": "bụi",
+     "ko": "먼지",
+     "kr_read": "부이",
+     "emoji": "🌫️",
+     "en": "gray dust cloud in the air",
+     "tones": [
+      {
+       "syl": "bụi",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-bui.webp"
+    },
+    {
+     "vi": "không khí",
+     "ko": "공기",
+     "kr_read": "콩 키",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "không",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "khí",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "sạch",
+     "ko": "깨끗하다",
+     "kr_read": "싹",
+     "emoji": "✨",
+     "en": "a sparkling clean floor",
+     "tones": [
+      {
+       "syl": "sạch",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-sach.webp"
+    }
+   ],
+   "dialog": {
+    "title": "대기질 개선",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Hôm nay không khí không tốt.",
+      "ko": "오늘 공기가 좋지 않아요.",
+      "kr_read": "홈 나이 콩 키 콩 똣",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Hôm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "không",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "khí",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tốt.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Nhiều bụi quá, nên đi xe buýt.",
+      "ko": "먼지가 너무 많으니 버스를 타세요.",
+      "kr_read": "니에우 부이 꽈 넨 디 쌔 부잇",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Nhiều",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "bụi",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "quá,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nên",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "xe",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "buýt.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
        }
       ],
       "gloss": []
@@ -7666,5 +8858,5 @@
    "n": 1
   }
  ],
- "updated": "2026-10-21 00:51"
+ "updated": "2026-10-21 09:10"
 }
