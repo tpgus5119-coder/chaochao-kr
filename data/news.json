@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22 00:50",
+ "updated": "2026-10-22 09:06",
  "items": [
   {
    "s": "인사이드비나",
@@ -11,27 +11,11 @@
   },
   {
    "s": "인사이드비나",
-   "t": "[베트남 주간 이슈] SK 원유 터지고 UOB VN성장률 9.2% 상향…베트남, 모빌리티·디지털 타고 거침없는 질주",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44319",
-   "d": "10월 21일",
-   "ts": "2026-10-21",
-   "care": 19
-  },
-  {
-   "s": "인사이드비나",
    "t": "EU provides $11.2M to extend Hanoi metro line",
    "u": "https://e.vnexpress.net/news/news/traffic/eu-provides-11-2m-to-extend-hanoi-metro-line-5134711.html",
    "d": "10월 21일",
    "ts": "2026-10-21",
    "care": 19
-  },
-  {
-   "s": "인사이드비나",
-   "t": "호치민시 ‘사이공강 보행교’ 내년 뗏(설)연휴 개통…21일 주교량 연결",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44312",
-   "d": "10월 21일",
-   "ts": "2026-10-21",
-   "care": 17
   },
   {
    "s": "인사이드비나",
@@ -51,11 +35,43 @@
   },
   {
    "s": "인사이드비나",
+   "t": "베트남, 가정용전기에 ‘시간대별 요금제’ 도입 추진…전력법 개정안 국회 제출",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44316",
+   "d": "10월 21일",
+   "ts": "2026-10-21",
+   "care": 13
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남 썬푸꾸옥항공, 인도행 첫 직항편 개설…12월부터 주 5회 왕복 운항",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44317",
+   "d": "10월 21일",
+   "ts": "2026-10-21",
+   "care": 13
+  },
+  {
+   "s": "인사이드비나",
    "t": "Singapore billionaire Forrest Li's Sea plans new cloud business, IPO for financial services arm",
    "u": "https://e.vnexpress.net/news/business/companies/singapore-billionaire-forrest-li-s-sea-plans-new-cloud-business-ipo-for-financial-services-arm-5134642.html",
    "d": "10월 21일",
    "ts": "2026-10-21",
    "care": 12
+  },
+  {
+   "s": "인사이드비나",
+   "t": "[베트남 주간 이슈] SK 원유 터지고 UOB VN성장률 9.2% 상향…베트남, 모빌리티·디지털 타고 거침없는 질주",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44319",
+   "d": "10월 21일",
+   "ts": "2026-10-21",
+   "care": 19
+  },
+  {
+   "s": "인사이드비나",
+   "t": "호치민시 ‘사이공강 보행교’ 내년 뗏(설)연휴 개통…21일 주교량 연결",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44312",
+   "d": "10월 21일",
+   "ts": "2026-10-21",
+   "care": 17
   },
   {
    "s": "인사이드비나",
