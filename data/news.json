@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-24 23:13",
+ "updated": "2026-10-25 08:30",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam's $13B airport Long Thanh short of skilled workers two months before opening",
+   "u": "https://e.vnexpress.net/news/news/traffic/vietnam-s-13b-airport-long-thanh-short-of-skilled-workers-two-months-before-opening-5136130.html",
+   "d": "10월 24일",
+   "ts": "2026-10-24",
+   "care": 17
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Beijer Electronics, AVA Vietnam partner with HCM-UTE to advance industrial automation education",
+   "u": "https://e.vnexpress.net/news/business/beijer-electronics-ava-vietnam-partner-with-hcm-ute-to-advance-industrial-automation-education-5135567.html",
+   "d": "10월 24일",
+   "ts": "2026-10-24",
+   "care": 15
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Ho Chi Minh City plans public schools with higher English bar than most Vietnamese universities",
+   "u": "https://e.vnexpress.net/news/news/education/ho-chi-minh-city-plans-public-schools-with-higher-english-bar-than-most-vietnamese-universities-5136147.html",
+   "d": "10월 24일",
+   "ts": "2026-10-24",
+   "care": 11
+  },
+  {
+   "s": "인사이드비나",
+   "t": "11 school sanitation facilities inaugurated in Son La",
+   "u": "https://e.vnexpress.net/news/news/11-school-sanitation-facilities-inaugurated-in-son-la-5136372.html",
+   "d": "10월 24일",
+   "ts": "2026-10-24",
+   "care": 8
+  },
   {
    "s": "인사이드비나",
    "t": "Vietnamese businesses in France fear ruin as riots disrupt livelihoods",
@@ -8,6 +40,14 @@
    "d": "10월 23일",
    "ts": "2026-10-23",
    "care": 17
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Companies increasingly require employees to use up annual leave",
+   "u": "https://e.vnexpress.net/news/life/trend/companies-increasingly-require-employees-to-use-up-annual-leave-5131182.html",
+   "d": "10월 23일",
+   "ts": "2026-10-23",
+   "care": 15
   },
   {
    "s": "인사이드비나",
@@ -444,38 +484,6 @@
    "d": "10월 18일",
    "ts": "2026-10-18",
    "care": 8
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam targets at least 10% GDP growth in 2027",
-   "u": "https://e.vnexpress.net/news/business/economy/vietnam-targets-at-least-10-gdp-growth-in-2027-5133546.html",
-   "d": "10월 17일",
-   "ts": "2026-10-17",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Ho Chi Minh City metro line stops running for 1 hour after power outage",
-   "u": "https://e.vnexpress.net/news/news/traffic/ho-chi-minh-city-metro-line-stops-running-for-1-hour-after-power-outage-5133529.html",
-   "d": "10월 17일",
-   "ts": "2026-10-17",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Hidden spy chip turns up in crypto wallet bought in Singapore, triggers investigation across 7 Asian markets",
-   "u": "https://e.vnexpress.net/news/news/hidden-spy-chip-turns-up-in-crypto-wallet-bought-in-singapore-triggers-investigation-across-7-asian-markets-5132785.html",
-   "d": "10월 17일",
-   "ts": "2026-10-17",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "IPP Travel Retail opens Travel Essentials store at Cam Ranh airport",
-   "u": "https://e.vnexpress.net/news/travel/ipp-travel-retail-opens-travel-essentials-store-at-cam-ranh-airport-5133207.html",
-   "d": "10월 17일",
-   "ts": "2026-10-17",
-   "care": 13
   }
  ]
 }
