@@ -234,7 +234,7 @@
     ],
     "extra": []
    },
-   "n": 30
+   "n": 34
   },
   {
    "ts": "2026-10-23",
@@ -487,7 +487,7 @@
     ],
     "extra": []
    },
-   "n": 29
+   "n": 33
   },
   {
    "ts": "2026-10-23",
@@ -674,7 +674,7 @@
     ],
     "extra": []
    },
-   "n": 28
+   "n": 32
   },
   {
    "ts": "2026-10-23",
@@ -928,7 +928,7 @@
     ],
     "extra": []
    },
-   "n": 27
+   "n": 31
   },
   {
    "ts": "2026-10-23",
@@ -1170,7 +1170,672 @@
     ],
     "extra": []
    },
-   "n": 26
+   "n": 30
+  },
+  {
+   "ts": "2026-10-23",
+   "day": "Nno=44302",
+   "track": "news",
+   "theme": "가족과 양육",
+   "title": "한국인-베트남인 부부가 이혼하면 아이의 양육권은 누가 정할까? [양원준 변호사의 리걸 비나]",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44302",
+   "cat": "경제",
+   "intro": "한-베 부부 이혼 시 양육권은 아이의 복리를 기준으로 정합니다. 갈등이 생기면 국경 문제로 복잡해져 조기 협의가 중요합니다.",
+   "words": [
+    {
+     "vi": "con",
+     "ko": "아이, 자녀",
+     "kr_read": "꼰",
+     "emoji": "👶",
+     "en": "a cute little child",
+     "tones": [
+      {
+       "syl": "con",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-con.webp"
+    },
+    {
+     "vi": "mẹ",
+     "ko": "어머니, 엄마",
+     "kr_read": "매",
+     "emoji": "👩",
+     "en": "a smiling Asian mother",
+     "tones": [
+      {
+       "syl": "mẹ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-me.webp"
+    },
+    {
+     "vi": "bố",
+     "ko": "아버지, 아빠",
+     "kr_read": "보",
+     "emoji": "👨",
+     "en": "a smiling Asian father",
+     "tones": [
+      {
+       "syl": "bố",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-bo.webp"
+    },
+    {
+     "vi": "gia đình",
+     "ko": "가족",
+     "kr_read": "자 딘",
+     "emoji": "👨‍👩‍👦",
+     "en": "a happy family standing together",
+     "tones": [
+      {
+       "syl": "gia",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "đình",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-gia-dinh.webp"
+    },
+    {
+     "vi": "nuôi",
+     "ko": "키우다, 기르다",
+     "kr_read": "누오이",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "nuôi",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "nói chuyện",
+     "ko": "이야기하다",
+     "kr_read": "노이 쭈옌",
+     "emoji": "🗣️",
+     "en": "two people talking face to face",
+     "tones": [
+      {
+       "syl": "nói",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "chuyện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-noi-chuyen.webp"
+    }
+   ],
+   "dialog": {
+    "title": "가족과 양육",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Ai nuôi con giúp bạn?",
+      "ko": "누가 아이 돌보는 걸 도와주나요?",
+      "kr_read": "아이 누오이 꼰 줍 반",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Ai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nuôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "con",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "giúp",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "bạn?",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Mẹ tôi giúp nuôi con.",
+      "ko": "저희 어머니가 아이를 돌봐주세요.",
+      "kr_read": "매 또이 줍 누오이 꼰",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Mẹ",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "giúp",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nuôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "con.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 29
+  },
+  {
+   "ts": "2026-10-23",
+   "day": "Nno=44336",
+   "track": "news",
+   "theme": "가을 여행지",
+   "title": "베트남, ‘세계 15대 가을여행지’ 4위 꼽혀…론리플래닛",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44336",
+   "cat": "문화·생활",
+   "intro": "베트남이 세계 15대 가을 여행지 4위에 선정되었다. 론리플래닛은 가을을 베트남 여행 최적기로 추천했다.",
+   "words": [
+    {
+     "vi": "mùa thu",
+     "ko": "가을",
+     "kr_read": "무어 투",
+     "emoji": "🍂",
+     "en": "autumn leaves falling from a tree",
+     "tones": [
+      {
+       "syl": "mùa",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "thu",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-mua-thu.webp"
+    },
+    {
+     "vi": "du lịch",
+     "ko": "여행",
+     "kr_read": "주 릭",
+     "emoji": "🧳",
+     "en": "a travel suitcase",
+     "tones": [
+      {
+       "syl": "du",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "lịch",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-du-lich.webp"
+    },
+    {
+     "vi": "thời tiết",
+     "ko": "날씨",
+     "kr_read": "터이 띠엣",
+     "emoji": "🌤️",
+     "en": "sun partially covered by a cloud",
+     "tones": [
+      {
+       "syl": "thời",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "tiết",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-thoi-tiet.webp"
+    },
+    {
+     "vi": "mát mẻ",
+     "ko": "선선하다",
+     "kr_read": "맛 매",
+     "emoji": "🍃",
+     "en": "green leaves fluttering in the wind",
+     "tones": [
+      {
+       "syl": "mát",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "mẻ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-mat-me.webp"
+    },
+    {
+     "vi": "đi",
+     "ko": "가다",
+     "kr_read": "디",
+     "emoji": "🚶",
+     "en": "a person walking forward",
+     "tones": [
+      {
+       "syl": "đi",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-di.webp"
+    },
+    {
+     "vi": "mưa",
+     "ko": "비",
+     "kr_read": "므어",
+     "emoji": "🌧️",
+     "en": "rain falling from a cloud",
+     "tones": [
+      {
+       "syl": "mưa",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-mua.webp"
+    }
+   ],
+   "dialog": {
+    "title": "가을 여행지",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Mùa thu đi du lịch được không?",
+      "ko": "가을에 여행 가기 괜찮아요?",
+      "kr_read": "무어 투 디 주 릭 드억 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Mùa",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "thu",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "du",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "lịch",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "được",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Được chứ, thời tiết rất mát mẻ.",
+      "ko": "그럼요, 날씨가 매우 선선해요.",
+      "kr_read": "드억 쯔 터이 띠엣 젓 맛 매",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Được",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "chứ,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thời",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "tiết",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mát",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mẻ.",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 28
+  },
+  {
+   "ts": "2026-10-22",
+   "day": "Nno=44328",
+   "track": "news",
+   "theme": "회사 소식",
+   "title": "베트남 ICT대기업 FPT, 3분기 역대 최대 실적…순익 2.7조 동",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44328",
+   "cat": "경제",
+   "intro": "베트남 ICT대기업 FPT가 3분기 역대 최대 순이익을 기록했습니다. 기술 부문 성장이 실적 개선을 이끌었습니다.",
+   "words": [
+    {
+     "vi": "công ty",
+     "ko": "회사",
+     "kr_read": "꽁 띠",
+     "emoji": "🏢",
+     "en": "an office building",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ty",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-ty.webp"
+    },
+    {
+     "vi": "có",
+     "ko": "있다, 가지다",
+     "kr_read": "꼬",
+     "emoji": "✅",
+     "en": "a check mark",
+     "tones": [
+      {
+       "syl": "có",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-co.webp"
+    },
+    {
+     "vi": "làm",
+     "ko": "일하다, 하다",
+     "kr_read": "람",
+     "emoji": "👷",
+     "en": "a person working",
+     "tones": [
+      {
+       "syl": "làm",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-lam.webp"
+    },
+    {
+     "vi": "tiền",
+     "ko": "돈",
+     "kr_read": "띠엔",
+     "emoji": "💰",
+     "en": "a stack of money",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-tien.webp"
+    },
+    {
+     "vi": "tốt",
+     "ko": "좋다",
+     "kr_read": "똣",
+     "emoji": "👍",
+     "en": "a thumbs up sign",
+     "tones": [
+      {
+       "syl": "tốt",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-tot.webp"
+    },
+    {
+     "vi": "nhiều",
+     "ko": "많다",
+     "kr_read": "니에우",
+     "emoji": "➕",
+     "en": "a plus sign",
+     "tones": [
+      {
+       "syl": "nhiều",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-nhieu.webp"
+    }
+   ],
+   "dialog": {
+    "title": "회사 소식",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Công ty có tốt không?",
+      "ko": "회사 괜찮나요?",
+      "kr_read": "꽁 띠 꼬 똣 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tốt",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, công ty bây giờ làm rất tốt.",
+      "ko": "네, 회사가 지금 아주 잘 하고 있어요.",
+      "kr_read": "꼬 꽁 띠 버이 저 람 젓 똣",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "bây",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "giờ",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tốt.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 27
   },
   {
    "ts": "2026-10-22",
@@ -1390,6 +2055,230 @@
        },
        {
         "syl": "đồng.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 26
+  },
+  {
+   "ts": "2026-10-22",
+   "day": "Nno=44329",
+   "track": "news",
+   "theme": "해외 송금",
+   "title": "호치민시, ‘해외송금’ 수취액 3분기 반등…28억 달러 전분기比 39.5%↑",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44329",
+   "cat": "경제",
+   "intro": "호치민시의 3분기 해외 송금액이 반등했습니다. 연간 송금액은 전년보다 줄어들 전망입니다.",
+   "words": [
+    {
+     "vi": "ngân hàng",
+     "ko": "은행",
+     "kr_read": "응언 항",
+     "emoji": "🏦",
+     "en": "a classic bank building with large columns",
+     "tones": [
+      {
+       "syl": "ngân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-ngan-hang.webp"
+    },
+    {
+     "vi": "chuyển tiền",
+     "ko": "송금하다",
+     "kr_read": "쭈옌 띠엔",
+     "emoji": "💸",
+     "en": "a smartphone showing a money transfer screen",
+     "tones": [
+      {
+       "syl": "chuyển",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-chuyen-tien.webp"
+    },
+    {
+     "vi": "đô la",
+     "ko": "달러",
+     "kr_read": "도 라",
+     "emoji": "💵",
+     "en": "a US dollar banknote",
+     "tones": [
+      {
+       "syl": "đô",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "la",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-do-la.webp"
+    },
+    {
+     "vi": "tăng",
+     "ko": "증가하다",
+     "kr_read": "땅",
+     "emoji": "📈",
+     "en": "a chart with an upward trending arrow",
+     "tones": [
+      {
+       "syl": "tăng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-tang.webp"
+    },
+    {
+     "vi": "giảm",
+     "ko": "감소하다",
+     "kr_read": "잠",
+     "emoji": "📉",
+     "en": "a chart with a downward trending arrow",
+     "tones": [
+      {
+       "syl": "giảm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-giam.webp"
+    },
+    {
+     "vi": "tiền",
+     "ko": "돈",
+     "kr_read": "띠엔",
+     "emoji": "💵",
+     "en": "a stack of paper money banknotes",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-tien.webp"
+    }
+   ],
+   "dialog": {
+    "title": "해외 송금",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Anh gửi tiền về nhà chưa?",
+      "ko": "집에 돈은 송금하셨어요?",
+      "kr_read": "아인 그이 띠엔 베 냐 쯔어",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "gửi",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "về",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "nhà",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "chưa?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Tôi gửi qua ngân hàng rồi.",
+      "ko": "네, 은행을 통해 보냈어요.",
+      "kr_read": "또이 그이 꽈 응언 항 조이",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "gửi",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "qua",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ngân",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hàng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "rồi.",
         "name": "huyền",
         "ko": "낮게 내려감",
         "shape": "＼"
@@ -7037,5 +7926,5 @@
    "n": 1
   }
  ],
- "updated": "2026-10-24 00:54"
+ "updated": "2026-10-24 09:05"
 }

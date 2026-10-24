@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-24 00:37",
+ "updated": "2026-10-24 08:55",
  "items": [
   {
    "s": "인사이드비나",
-   "t": "빈그룹, 필리핀 연산 20만 대 규모 전기차공장 건설 추진…5억 달러 투자",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44333",
+   "t": "한국인-베트남인 부부가 이혼하면 아이의 양육권은 누가 정할까? [양원준 변호사의 리걸 비나]",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44302",
    "d": "10월 23일",
    "ts": "2026-10-23",
-   "care": 24
+   "care": 23
   },
   {
    "s": "인사이드비나",
@@ -16,6 +16,23 @@
    "d": "10월 23일",
    "ts": "2026-10-23",
    "care": 17
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남, ‘세계 15대 가을여행지’ 4위 꼽혀…론리플래닛",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44336",
+   "d": "10월 23일",
+   "ts": "2026-10-23",
+   "care": 10,
+   "cat": "문화"
+  },
+  {
+   "s": "인사이드비나",
+   "t": "빈그룹, 필리핀 연산 20만 대 규모 전기차공장 건설 추진…5억 달러 투자",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44333",
+   "d": "10월 23일",
+   "ts": "2026-10-23",
+   "care": 24
   },
   {
    "s": "인사이드비나",
@@ -84,19 +101,27 @@
   },
   {
    "s": "인사이드비나",
-   "t": "베트남 증시, 이틀 연속 상승...VN지수 6개월여 만에 최고치",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1934",
-   "d": "10월 22일",
-   "ts": "2026-10-22",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
    "t": "호치민시, ‘해외송금’ 수취액 3분기 반등…28억 달러 전분기比 39.5%↑",
    "u": "https://www.insidevina.com/news/articleView.html?idxno=44329",
    "d": "10월 22일",
    "ts": "2026-10-22",
    "care": 12
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남 ICT대기업 FPT, 3분기 역대 최대 실적…순익 2.7조 동",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44328",
+   "d": "10월 22일",
+   "ts": "2026-10-22",
+   "care": 10
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남 증시, 이틀 연속 상승...VN지수 6개월여 만에 최고치",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1934",
+   "d": "10월 22일",
+   "ts": "2026-10-22",
+   "care": 13
   },
   {
    "s": "인사이드비나",
