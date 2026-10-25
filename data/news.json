@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-25 23:44",
+ "updated": "2026-10-26 08:26",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "Urban workers leave home before dawn to secure parking spots at work",
+   "u": "https://e.vnexpress.net/news/life/trend/urban-workers-leave-home-before-dawn-to-secure-parking-spots-at-work-5136075.html",
+   "d": "10월 25일",
+   "ts": "2026-10-25",
+   "care": 15
+  },
+  {
+   "s": "인사이드비나",
+   "t": "호치민시, 공립학교 영어교육 기준 대폭 강화...고교생 B2 목표",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1935",
+   "d": "10월 25일",
+   "ts": "2026-10-25",
+   "care": 11
+  },
   {
    "s": "인사이드비나",
    "t": "Vietnam's $13B airport Long Thanh short of skilled workers two months before opening",
@@ -16,6 +32,14 @@
    "d": "10월 24일",
    "ts": "2026-10-24",
    "care": 15
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam Airlines to launch direct Da Nang-Singapore flights on Nov 17",
+   "u": "https://e.vnexpress.net/news/news/traffic/vietnam-airlines-to-launch-direct-da-nang-singapore-flights-on-nov-17-5136340.html",
+   "d": "10월 24일",
+   "ts": "2026-10-24",
+   "care": 14
   },
   {
    "s": "인사이드비나",
@@ -428,62 +452,6 @@
    "d": "10월 19일",
    "ts": "2026-10-19",
    "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam Airlines beats Singapore Airlines, Qatar Airways to win food award",
-   "u": "https://e.vnexpress.net/news/travel/food-recipes/vietnam-airlines-beats-singapore-airlines-qatar-airways-to-win-food-award-5133310.html",
-   "d": "10월 18일",
-   "ts": "2026-10-18",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "5 Vietnamese villages where tourism keeps tradition alive",
-   "u": "https://e.vnexpress.net/photo/places/5-vietnamese-villages-where-tourism-keeps-tradition-alive-5127616.html",
-   "d": "10월 18일",
-   "ts": "2026-10-18",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnamese student lands lead-author paper at AI conference that rejects 73% of submissions",
-   "u": "https://e.vnexpress.net/news/news/education/vietnamese-student-lands-lead-author-paper-at-ai-conference-that-rejects-73-of-submissions-5126828.html",
-   "d": "10월 18일",
-   "ts": "2026-10-18",
-   "care": 8
-  },
-  {
-   "s": "인사이드비나",
-   "t": "[기획] 베트남, 2027년 성장률 10% 승부수...한국 기업에 기회인가 부담인가",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1930",
-   "d": "10월 18일",
-   "ts": "2026-10-18",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "[에디터's 이슈] '2017년 이후 완전 봉쇄'된 베트남의 외국계 '은행 법인 인가'...\"IBK기업은행 9년만에 돌파\"",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1931",
-   "d": "10월 18일",
-   "ts": "2026-10-18",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Why one trip to Vietnam brings visitors back for more",
-   "u": "https://e.vnexpress.net/news/travel/why-one-trip-to-vietnam-brings-visitors-back-for-more-vnepre-5129820.html",
-   "d": "10월 18일",
-   "ts": "2026-10-18",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Fields Medalist Ngo Bao Chau grants scholarships to 9 Vietnamese math students in quest to develop Asian talents",
-   "u": "https://e.vnexpress.net/news/news/education/fields-medalist-ngo-bao-chau-grants-scholarships-to-9-vietnamese-math-students-in-quest-to-develop-asian-talents-5133652.html",
-   "d": "10월 18일",
-   "ts": "2026-10-18",
-   "care": 8
   }
  ]
 }
