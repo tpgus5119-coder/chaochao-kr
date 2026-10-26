@@ -1,6 +1,87 @@
 {
- "updated": "2026-10-26 08:26",
+ "updated": "2026-10-27 02:07",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "베트남, 외국인근로자 '노동허가 면제' 18개 유형 확정…12월 5일 시행",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44344",
+   "d": "10월 26일",
+   "ts": "2026-10-26",
+   "care": 25
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남 롱탄신공항, 여객터미널 등 핵심사업 인력난에 지연 우려…12월 개항 ‘빨간불’",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44345",
+   "d": "10월 26일",
+   "ts": "2026-10-26",
+   "care": 21
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnamese students top South Korea's visa overstayers with over 26,200 cases",
+   "u": "https://e.vnexpress.net/news/news/education/vietnamese-students-top-south-korea-s-visa-overstayers-with-over-26-200-cases-5136384.html",
+   "d": "10월 26일",
+   "ts": "2026-10-26",
+   "care": 20
+  },
+  {
+   "s": "인사이드비나",
+   "t": "빅뱅, ‘하노이 공연’ 경제적 파급효과 8,000억 동 전망…블랙핑크 넘어서",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44346",
+   "d": "10월 26일",
+   "ts": "2026-10-26",
+   "care": 20
+  },
+  {
+   "s": "인사이드비나",
+   "t": "또람 베트남 서기장, EU·벨기에 순방 마무리…\"투자·반도체 협력 확대\"",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1936",
+   "d": "10월 26일",
+   "ts": "2026-10-26",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남 진출 30년 신풍제약…'흑자 선전' 뒤에 숨은 성장 한계와 품질 과제 [베트남 진출기업 해부]",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44324",
+   "d": "10월 26일",
+   "ts": "2026-10-26",
+   "care": 15
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남, '아시아 최고 미식 여행지' 한국에 내줬다…월드컬리너리어워즈",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44352",
+   "d": "10월 26일",
+   "ts": "2026-10-26",
+   "care": 15,
+   "cat": "문화"
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남 소비재 대기업 마산그룹, 편의점 브랜드 ‘윈온’ 론칭",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44351",
+   "d": "10월 26일",
+   "ts": "2026-10-26",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Thailand targets Vietnam, Singapore in Southeast Asia tourism push",
+   "u": "https://e.vnexpress.net/news/travel/thailand-targets-vietnam-singapore-in-southeast-asia-tourism-push-5136776.html",
+   "d": "10월 26일",
+   "ts": "2026-10-26",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남서 ‘100억 원대’ 로또 당첨자 1명 탄생…확률 2898만분의 1",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44348",
+   "d": "10월 26일",
+   "ts": "2026-10-26",
+   "care": 11
+  },
   {
    "s": "인사이드비나",
    "t": "Urban workers leave home before dawn to secure parking spots at work",
@@ -388,70 +469,6 @@
    "ts": "2026-10-20",
    "care": 13,
    "cat": "문화"
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam wins for best food festival at World Culinary Awards",
-   "u": "https://e.vnexpress.net/news/travel/food-recipes/vietnam-wins-for-best-food-festival-at-world-culinary-awards-5134223.html",
-   "d": "10월 19일",
-   "ts": "2026-10-19",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남 내년 경제성장률 최소 10% 목표…총리, 정기국회 개회식서 보고",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44286",
-   "d": "10월 19일",
-   "ts": "2026-10-19",
-   "care": 20
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남 부총리 “은행권, 대출금리 최고 2%p 인하해야”…중앙은행 총재에 직접 지시",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44289",
-   "d": "10월 19일",
-   "ts": "2026-10-19",
-   "care": 19
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남, ‘유럽자유무역연합’과 FTA 체결…연간 교역액 20억 달러",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44288",
-   "d": "10월 19일",
-   "ts": "2026-10-19",
-   "care": 19
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Company of Southeast Asia’s richest man halves land rent to expand domestic supplier network",
-   "u": "https://e.vnexpress.net/news/business/companies/company-of-southeast-asia-s-richest-man-halves-land-rent-to-expand-domestic-supplier-network-5133498.html",
-   "d": "10월 19일",
-   "ts": "2026-10-19",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "하노이시, 2030년까지 도시철도 5개 노선 완공·운영 목표…빈홈 컨소시엄 턴키 수주",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44293",
-   "d": "10월 19일",
-   "ts": "2026-10-19",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnamese students win gold, silver medals at Al-Fergani International Physics Olympiad",
-   "u": "https://e.vnexpress.net/news/news/education/vietnamese-students-win-gold-silver-medals-at-al-fergani-international-physics-olympiad-5134011.html",
-   "d": "10월 19일",
-   "ts": "2026-10-19",
-   "care": 9
-  },
-  {
-   "s": "인사이드비나",
-   "t": "[심층] 베트남 중앙은행 총재에 부총리도 강경 '대출 금리 낮추라'...\"그 배경과 베트남의 경제 숙제\"",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1932",
-   "d": "10월 19일",
-   "ts": "2026-10-19",
-   "care": 14
   }
  ]
 }
