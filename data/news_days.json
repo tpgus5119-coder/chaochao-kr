@@ -252,7 +252,7 @@
     ],
     "extra": []
    },
-   "n": 34
+   "n": 36
   },
   {
    "ts": "2026-10-26",
@@ -487,7 +487,230 @@
     ],
     "extra": []
    },
-   "n": 33
+   "n": 35
+  },
+  {
+   "ts": "2026-10-26",
+   "day": "Nno=44348",
+   "track": "news",
+   "theme": "복권 당첨",
+   "title": "베트남서 ‘100억 원대’ 로또 당첨자 1명 탄생…확률 2898만분의 1",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44348",
+   "cat": "사회",
+   "intro": "베트남에서 100억 원대 로또 당첨자가 탄생했습니다. 비엣로트 복권 수익은 지방정부 공공사업에 쓰입니다.",
+   "words": [
+    {
+     "vi": "xổ số",
+     "ko": "복권",
+     "kr_read": "쏘 쏘",
+     "emoji": "🎟️",
+     "en": "a lottery ticket",
+     "tones": [
+      {
+       "syl": "xổ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "số",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-xo-so.webp"
+    },
+    {
+     "vi": "thuế",
+     "ko": "세금",
+     "kr_read": "투에",
+     "emoji": "🧾",
+     "en": "a tax receipt",
+     "tones": [
+      {
+       "syl": "thuế",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-thue.webp"
+    },
+    {
+     "vi": "số",
+     "ko": "숫자/번호",
+     "kr_read": "쏘",
+     "emoji": "#️⃣",
+     "en": "a number on a dial",
+     "tones": [
+      {
+       "syl": "số",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-so.webp"
+    },
+    {
+     "vi": "may mắn",
+     "ko": "행운",
+     "kr_read": "마이 만",
+     "emoji": "🍀",
+     "en": "a four-leaf clover",
+     "tones": [
+      {
+       "syl": "may",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "mắn",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-may-man.webp"
+    },
+    {
+     "vi": "có",
+     "ko": "있다",
+     "kr_read": "꼬",
+     "emoji": "✅",
+     "en": "",
+     "tones": [
+      {
+       "syl": "có",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "tiền",
+     "ko": "돈",
+     "kr_read": "띠엔",
+     "emoji": "💰",
+     "en": "a stack of money bills",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-tien.webp"
+    }
+   ],
+   "dialog": {
+    "title": "복권 당첨",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Ở đây có bán xổ số không?",
+      "ko": "여기 복권 팔아요?",
+      "kr_read": "어 더이 꼬 반 쏘 쏘 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Ở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "đây",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "bán",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "xổ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "số",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vâng, có. Anh/chị mua mấy số?",
+      "ko": "네, 있어요. 몇 장 사세요?",
+      "kr_read": "벙 꼬 아인 찌 무어 머이 쏘",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vâng,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "Anh/chị",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "mua",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mấy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "số?",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 34
   },
   {
    "ts": "2026-10-26",
@@ -716,6 +939,253 @@
         "name": "sắc",
         "ko": "짧게 올라감",
         "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 33
+  },
+  {
+   "ts": "2026-10-26",
+   "day": "Nno=44344",
+   "track": "news",
+   "theme": "노동 허가",
+   "title": "베트남, 외국인근로자 '노동허가 면제' 18개 유형 확정…12월 5일 시행",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44344",
+   "cat": "일자리",
+   "intro": "베트남이 외국인 노동허가 면제 대상을 18개 유형으로 확대해 12월 시행한다.",
+   "words": [
+    {
+     "vi": "lao động",
+     "ko": "노동",
+     "kr_read": "라오 동",
+     "emoji": "👷",
+     "en": "a construction worker wearing a hard hat",
+     "tones": [
+      {
+       "syl": "lao",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "động",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-lao-dong.webp"
+    },
+    {
+     "vi": "giấy phép",
+     "ko": "허가증",
+     "kr_read": "저이 팹",
+     "emoji": "📄",
+     "en": "an official paper document with a red stamp",
+     "tones": [
+      {
+       "syl": "giấy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "phép",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-giay-phep.webp"
+    },
+    {
+     "vi": "miễn",
+     "ko": "면제하다",
+     "kr_read": "미엔",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "miễn",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      }
+     ]
+    },
+    {
+     "vi": "công ty",
+     "ko": "회사",
+     "kr_read": "꽁 띠",
+     "emoji": "🏢",
+     "en": "a tall modern office building",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ty",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-ty.webp"
+    },
+    {
+     "vi": "người nước ngoài",
+     "ko": "외국인",
+     "kr_read": "응으어이 느억 응오아이",
+     "emoji": "🧑‍💼",
+     "en": "a businessman holding a passport",
+     "tones": [
+      {
+       "syl": "người",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "nước",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "ngoài",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-nguoi-nuoc-ngoai.webp"
+    },
+    {
+     "vi": "ký",
+     "ko": "서명하다",
+     "kr_read": "끼",
+     "emoji": "✍️",
+     "en": "a hand signing a paper document with a pen",
+     "tones": [
+      {
+       "syl": "ký",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-ky.webp"
+    }
+   ],
+   "dialog": {
+    "title": "노동 허가",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Anh có giấy phép lao động chưa?",
+      "ko": "형은 노동 허가증이 있나요?",
+      "kr_read": "아인 꼬 저이 팹 라오 동 쯔어",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "giấy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "phép",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "lao",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "động",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "chưa?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Tôi có rồi, công ty làm rồi.",
+      "ko": "저는 있어요, 회사가 만들어 줬어요.",
+      "kr_read": "또이 꼬 조이 꽁 띠 람 조이",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "rồi,",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "rồi.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
        }
       ],
       "gloss": []
@@ -7964,5 +8434,5 @@
    "n": 1
   }
  ],
- "updated": "2026-10-27 02:20"
+ "updated": "2026-10-27 09:44"
 }
