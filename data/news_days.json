@@ -2,6 +2,198 @@
  "days": [
   {
    "ts": "2026-10-27",
+   "day": "Nno=44363",
+   "track": "news",
+   "theme": "항공편",
+   "title": "베트남항공, 다낭-싱가포르 신규 취항…내달 17일 첫 운항",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44363",
+   "cat": "문화·생활",
+   "intro": "베트남항공, 다낭-싱가포르 직항 노선 신규 취항 11월 17일부터 매일 운항, 주 42회로 증편",
+   "words": [
+    {
+     "vi": "giờ",
+     "ko": "시간",
+     "kr_read": "저",
+     "emoji": "⏰",
+     "en": "a clock",
+     "tones": [
+      {
+       "syl": "giờ",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-gio.webp"
+    },
+    {
+     "vi": "tháng",
+     "ko": "달",
+     "kr_read": "탕",
+     "emoji": "🗓️",
+     "en": "a calendar month",
+     "tones": [
+      {
+       "syl": "tháng",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-thang.webp"
+    },
+    {
+     "vi": "có",
+     "ko": "있다",
+     "kr_read": "꼬",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "có",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "đi",
+     "ko": "가다",
+     "kr_read": "디",
+     "emoji": "🚶",
+     "en": "a person walking",
+     "tones": [
+      {
+       "syl": "đi",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-di.webp"
+    },
+    {
+     "vi": "đến",
+     "ko": "오다",
+     "kr_read": "덴",
+     "emoji": "🚶‍♀️",
+     "en": "a person arriving",
+     "tones": [
+      {
+       "syl": "đến",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-den.webp"
+    },
+    {
+     "vi": "mấy",
+     "ko": "몇",
+     "kr_read": "머이",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "mấy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    }
+   ],
+   "dialog": {
+    "title": "항공편",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Mấy giờ xe buýt đi?",
+      "ko": "몇 시에 버스가 가나요?",
+      "kr_read": "머이 저 쌔 부잇 디",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Mấy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "giờ",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "xe",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "buýt",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đi?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Mỗi ngày 8 giờ đi.",
+      "ko": "매일 8시에 갑니다.",
+      "kr_read": "모이 응아이 저 디",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Mỗi",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "ngày",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "8",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "giờ",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "đi.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 31
+  },
+  {
+   "ts": "2026-10-27",
    "day": "Nno=44362",
    "track": "news",
    "theme": "전기 오토바이",
@@ -7051,5 +7243,5 @@
    "n": 1
   }
  ],
- "updated": "2026-10-28 01:16"
+ "updated": "2026-10-28 09:41"
 }
