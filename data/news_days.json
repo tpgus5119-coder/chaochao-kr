@@ -1,6 +1,464 @@
 {
  "days": [
   {
+   "ts": "2026-10-28",
+   "day": "Nxno=1938",
+   "track": "news",
+   "theme": "전기세 인하",
+   "title": "[여기는 베트남] 11월부터 전기요금 인하 추진...휘발유 특별소비세도 0% 검토",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1938",
+   "cat": "문화·생활",
+   "intro": "베트남 정부가 전기요금 인하를 추진합니다. 휘발유 특별소비세 감면도 함께 검토합니다.",
+   "words": [
+    {
+     "vi": "tiền điện",
+     "ko": "전기요금",
+     "kr_read": "띠엔 디엔",
+     "emoji": "💡",
+     "en": "a bright electric light bulb",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-tien-dien.webp"
+    },
+    {
+     "vi": "xăng",
+     "ko": "휘발유",
+     "kr_read": "쌍",
+     "emoji": "⛽",
+     "en": "a fuel pump at a gas station",
+     "tones": [
+      {
+       "syl": "xăng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-xang.webp"
+    },
+    {
+     "vi": "giảm giá",
+     "ko": "가격 인하",
+     "kr_read": "잠 자",
+     "emoji": "🏷️",
+     "en": "a discount tag on a product",
+     "tones": [
+      {
+       "syl": "giảm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-giam-gia.webp"
+    },
+    {
+     "vi": "chi phí",
+     "ko": "비용",
+     "kr_read": "찌 피",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "chi",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "phí",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "điện",
+     "ko": "전기",
+     "kr_read": "디엔",
+     "emoji": "⚡",
+     "en": "an electric power lightning icon",
+     "tones": [
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-dien.webp"
+    },
+    {
+     "vi": "chính phủ",
+     "ko": "정부",
+     "kr_read": "찐 푸",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "chính",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "phủ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    }
+   ],
+   "dialog": {
+    "title": "전기세 인하",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Tháng sau tiền điện có giảm không?",
+      "ko": "다음 달에 전기요금 내려가요?",
+      "kr_read": "탕 싸우 띠엔 디엔 꼬 잠 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Tháng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "sau",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "điện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "giảm",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, tiền điện sẽ giảm nhiều.",
+      "ko": "네, 전기요금이 많이 내릴 거예요.",
+      "kr_read": "꼬 띠엔 디엔 쌔 잠 니에우",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "điện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "sẽ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "giảm",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "nhiều.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 28
+  },
+  {
+   "ts": "2026-10-28",
+   "day": "Nno=44365",
+   "track": "news",
+   "theme": "베트남 공장",
+   "title": "\"아세안 CMO 거점 호언장담하더니\"…JW중외제약, 베트남 '유비팜' 7년차 존재감 미미 [베트남 진출기업 해부]",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44365",
+   "cat": "경제",
+   "intro": "JW중외제약, 베트남 진출 7년째 뚜렷한 성과 부진 해외 생산 기지 역할 미미, 유비팜 손실도 증가",
+   "words": [
+    {
+     "vi": "thuốc",
+     "ko": "약",
+     "kr_read": "투옥",
+     "emoji": "💊",
+     "en": "A pill",
+     "tones": [
+      {
+       "syl": "thuốc",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-thuoc.webp"
+    },
+    {
+     "vi": "nhà máy",
+     "ko": "공장",
+     "kr_read": "냐 마이",
+     "emoji": "🏭",
+     "en": "A factory building",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-nha-may.webp"
+    },
+    {
+     "vi": "giá",
+     "ko": "가격",
+     "kr_read": "자",
+     "emoji": "💲",
+     "en": "A price tag",
+     "tones": [
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-gia.webp"
+    },
+    {
+     "vi": "lỗ",
+     "ko": "손실",
+     "kr_read": "로",
+     "emoji": "📉",
+     "en": "A downward trend graph",
+     "tones": [
+      {
+       "syl": "lỗ",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      }
+     ],
+     "img": "n-lo.webp"
+    },
+    {
+     "vi": "sản xuất",
+     "ko": "생산하다",
+     "kr_read": "싼 쑤엇",
+     "emoji": "⚙️",
+     "en": "Gears turning",
+     "tones": [
+      {
+       "syl": "sản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "xuất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-san-xuat.webp"
+    },
+    {
+     "vi": "thị trường",
+     "ko": "시장",
+     "kr_read": "티 쯔엉",
+     "emoji": "🏪",
+     "en": "A busy market street",
+     "tones": [
+      {
+       "syl": "thị",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "trường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-thi-truong.webp"
+    }
+   ],
+   "dialog": {
+    "title": "베트남 공장",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Nhà máy này sản xuất thuốc không?",
+      "ko": "이 공장은 약을 생산하나요?",
+      "kr_read": "냐 마이 나이 싼 쑤엇 투옥 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Nhà",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "sản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "xuất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thuốc",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vâng, chúng tôi làm thuốc.",
+      "ko": "네, 저희는 약을 만듭니다.",
+      "kr_read": "벙 쭝 또이 람 투옥",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vâng,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "chúng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "thuốc.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 27
+  },
+  {
    "ts": "2026-10-27",
    "day": "Nno=44363",
    "track": "news",
@@ -190,7 +648,7 @@
     ],
     "extra": []
    },
-   "n": 31
+   "n": 26
   },
   {
    "ts": "2026-10-27",
@@ -432,7 +890,7 @@
     ],
     "extra": []
    },
-   "n": 30
+   "n": 25
   },
   {
    "ts": "2026-10-27",
@@ -674,7 +1132,7 @@
     ],
     "extra": []
    },
-   "n": 29
+   "n": 24
   },
   {
    "ts": "2026-10-27",
@@ -930,7 +1388,7 @@
     ],
     "extra": []
    },
-   "n": 28
+   "n": 23
   },
   {
    "ts": "2026-10-26",
@@ -1184,7 +1642,7 @@
     ],
     "extra": []
    },
-   "n": 27
+   "n": 22
   },
   {
    "ts": "2026-10-26",
@@ -1419,7 +1877,7 @@
     ],
     "extra": []
    },
-   "n": 26
+   "n": 21
   },
   {
    "ts": "2026-10-26",
@@ -1642,7 +2100,7 @@
     ],
     "extra": []
    },
-   "n": 25
+   "n": 20
   },
   {
    "ts": "2026-10-26",
@@ -1878,7 +2336,7 @@
     ],
     "extra": []
    },
-   "n": 24
+   "n": 19
   },
   {
    "ts": "2026-10-26",
@@ -2125,7 +2583,7 @@
     ],
     "extra": []
    },
-   "n": 23
+   "n": 18
   },
   {
    "ts": "2026-10-26",
@@ -2366,7 +2824,7 @@
     ],
     "extra": []
    },
-   "n": 22
+   "n": 17
   },
   {
    "ts": "2026-10-26",
@@ -2595,7 +3053,7 @@
     ],
     "extra": []
    },
-   "n": 21
+   "n": 16
   },
   {
    "ts": "2026-10-26",
@@ -2835,7 +3293,7 @@
     ],
     "extra": []
    },
-   "n": 20
+   "n": 15
   },
   {
    "ts": "2026-10-25",
@@ -3071,7 +3529,7 @@
     ],
     "extra": []
    },
-   "n": 19
+   "n": 14
   },
   {
    "ts": "2026-10-23",
@@ -3307,7 +3765,7 @@
     ],
     "extra": []
    },
-   "n": 18
+   "n": 13
   },
   {
    "ts": "2026-10-23",
@@ -3560,7 +4018,7 @@
     ],
     "extra": []
    },
-   "n": 17
+   "n": 12
   },
   {
    "ts": "2026-10-23",
@@ -3747,7 +4205,7 @@
     ],
     "extra": []
    },
-   "n": 16
+   "n": 11
   },
   {
    "ts": "2026-10-23",
@@ -4001,7 +4459,7 @@
     ],
     "extra": []
    },
-   "n": 15
+   "n": 10
   },
   {
    "ts": "2026-10-23",
@@ -4243,7 +4701,7 @@
     ],
     "extra": []
    },
-   "n": 14
+   "n": 9
   },
   {
    "ts": "2026-10-23",
@@ -4448,7 +4906,7 @@
     ],
     "extra": []
    },
-   "n": 13
+   "n": 8
   },
   {
    "ts": "2026-10-23",
@@ -4690,7 +5148,7 @@
     ],
     "extra": []
    },
-   "n": 12
+   "n": 7
   },
   {
    "ts": "2026-10-22",
@@ -4908,7 +5366,7 @@
     ],
     "extra": []
    },
-   "n": 11
+   "n": 6
   },
   {
    "ts": "2026-10-22",
@@ -5138,7 +5596,7 @@
     ],
     "extra": []
    },
-   "n": 10
+   "n": 5
   },
   {
    "ts": "2026-10-22",
@@ -5362,7 +5820,7 @@
     ],
     "extra": []
    },
-   "n": 9
+   "n": 4
   },
   {
    "ts": "2026-10-22",
@@ -5633,7 +6091,7 @@
     ],
     "extra": []
    },
-   "n": 8
+   "n": 3
   },
   {
    "ts": "2026-10-22",
@@ -5850,7 +6308,7 @@
     ],
     "extra": []
    },
-   "n": 7
+   "n": 2
   },
   {
    "ts": "2026-10-22",
@@ -6085,1163 +6543,8 @@
     ],
     "extra": []
    },
-   "n": 6
-  },
-  {
-   "ts": "2026-10-21",
-   "day": "Nno=44317",
-   "track": "news",
-   "theme": "항공편",
-   "title": "베트남 썬푸꾸옥항공, 인도행 첫 직항편 개설…12월부터 주 5회 왕복 운항",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44317",
-   "cat": "문화·생활",
-   "intro": "썬푸꾸옥항공이 푸꾸옥-인도 아메다바드 직항편을 개설합니다. 12월부터 주 5회 운항하며, 인도 관광객 증가가 기대됩니다.",
-   "words": [
-    {
-     "vi": "sân bay",
-     "ko": "공항",
-     "kr_read": "썬 바이",
-     "emoji": "🛫",
-     "en": "an airport building with a runway",
-     "tones": [
-      {
-       "syl": "sân",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "bay",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-san-bay.webp"
-    },
-    {
-     "vi": "đến",
-     "ko": "도착하다",
-     "kr_read": "덴",
-     "emoji": "📍",
-     "en": "an arrow pointing to a destination",
-     "tones": [
-      {
-       "syl": "đến",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-den.webp"
-    },
-    {
-     "vi": "hành lý",
-     "ko": "수하물",
-     "kr_read": "하인 리",
-     "emoji": "🧳",
-     "en": "a suitcase",
-     "tones": [
-      {
-       "syl": "hành",
-       "name": "huyền",
-       "ko": "낮게 내려감",
-       "shape": "＼"
-      },
-      {
-       "syl": "lý",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-hanh-ly.webp"
-    },
-    {
-     "vi": "có",
-     "ko": "있다, 가지다",
-     "kr_read": "꼬",
-     "emoji": "✔️",
-     "en": "a checkmark",
-     "tones": [
-      {
-       "syl": "có",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-co.webp"
-    },
-    {
-     "vi": "chuyến bay",
-     "ko": "비행편",
-     "kr_read": "쭈옌 바이",
-     "emoji": "✈️",
-     "en": "an airplane flying",
-     "tones": [
-      {
-       "syl": "chuyến",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      },
-      {
-       "syl": "bay",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-chuyen-bay.webp"
-    },
-    {
-     "vi": "vé",
-     "ko": "표",
-     "kr_read": "배",
-     "emoji": "🎟️",
-     "en": "a paper ticket",
-     "tones": [
-      {
-       "syl": "vé",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-ve.webp"
-    }
-   ],
-   "dialog": {
-    "title": "항공편",
-    "emoji": "📰",
-    "lines": [
-     {
-      "vi": "Có chuyến bay thẳng không?",
-      "ko": "직항편이 있나요?",
-      "kr_read": "꼬 쭈옌 바이 탕 콩",
-      "who": "A",
-      "tones": [
-       {
-        "syl": "Có",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "chuyến",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "bay",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "thẳng",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       },
-       {
-        "syl": "không?",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       }
-      ],
-      "gloss": []
-     },
-     {
-      "vi": "Vâng, có chuyến bay thẳng ạ.",
-      "ko": "네, 직항편이 있습니다.",
-      "kr_read": "벙 꼬 쭈옌 바이 탕 아",
-      "who": "B",
-      "tones": [
-       {
-        "syl": "Vâng,",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "có",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "chuyến",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "bay",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "thẳng",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       },
-       {
-        "syl": "ạ.",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       }
-      ],
-      "gloss": []
-     }
-    ],
-    "extra": []
-   },
-   "n": 5
-  },
-  {
-   "ts": "2026-10-21",
-   "day": "Nno=44316",
-   "track": "news",
-   "theme": "전기 요금",
-   "title": "베트남, 가정용전기에 ‘시간대별 요금제’ 도입 추진…전력법 개정안 국회 제출",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44316",
-   "cat": "정치",
-   "intro": "베트남이 가정용 전기요금에 시간대별 요금제 도입을 추진한다. 현재는 공장과 사업장에만 시간대별 요금이 적용되고 있다.",
-   "words": [
-    {
-     "vi": "điện",
-     "ko": "전기",
-     "kr_read": "디엔",
-     "emoji": "⚡",
-     "en": "a lightning bolt",
-     "tones": [
-      {
-       "syl": "điện",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      }
-     ],
-     "img": "n-dien.webp"
-    },
-    {
-     "vi": "giờ",
-     "ko": "시간",
-     "kr_read": "저",
-     "emoji": "⏰",
-     "en": "a wall clock",
-     "tones": [
-      {
-       "syl": "giờ",
-       "name": "huyền",
-       "ko": "낮게 내려감",
-       "shape": "＼"
-      }
-     ],
-     "img": "n-gio.webp"
-    },
-    {
-     "vi": "mới",
-     "ko": "새로운",
-     "kr_read": "머이",
-     "emoji": "✨",
-     "en": "a sparkling star",
-     "tones": [
-      {
-       "syl": "mới",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-moi.webp"
-    },
-    {
-     "vi": "luật",
-     "ko": "법",
-     "kr_read": "루엇",
-     "emoji": "⚖️",
-     "en": "a balance scale",
-     "tones": [
-      {
-       "syl": "luật",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      }
-     ],
-     "img": "n-luat.webp"
-    },
-    {
-     "vi": "nước",
-     "ko": "국가",
-     "kr_read": "느억",
-     "emoji": "🇻🇳",
-     "en": "a national flag",
-     "tones": [
-      {
-       "syl": "nước",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-nuoc.webp"
-    },
-    {
-     "vi": "tiền điện",
-     "ko": "전기요금",
-     "kr_read": "띠엔 디엔",
-     "emoji": "🧾",
-     "en": "an electricity bill",
-     "tones": [
-      {
-       "syl": "tiền",
-       "name": "huyền",
-       "ko": "낮게 내려감",
-       "shape": "＼"
-      },
-      {
-       "syl": "điện",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      }
-     ],
-     "img": "n-tien-dien.webp"
-    }
-   ],
-   "dialog": {
-    "title": "전기 요금",
-    "emoji": "📰",
-    "lines": [
-     {
-      "vi": "Nhà xưởng bật điện chưa?",
-      "ko": "공장에 전기 켰어요?",
-      "kr_read": "냐 쓰엉 벗 디엔 쯔어",
-      "who": "A",
-      "tones": [
-       {
-        "syl": "Nhà",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "xưởng",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       },
-       {
-        "syl": "bật",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       },
-       {
-        "syl": "điện",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       },
-       {
-        "syl": "chưa?",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       }
-      ],
-      "gloss": []
-     },
-     {
-      "vi": "Rồi, bật từ sáng sớm.",
-      "ko": "네, 이른 아침부터 켰어요.",
-      "kr_read": "조이 벗 뜨 쌍 썸",
-      "who": "B",
-      "tones": [
-       {
-        "syl": "Rồi,",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "bật",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       },
-       {
-        "syl": "từ",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "sáng",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "sớm.",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       }
-      ],
-      "gloss": []
-     }
-    ],
-    "extra": []
-   },
-   "n": 4
-  },
-  {
-   "ts": "2026-10-21",
-   "day": "Nno=44312",
-   "track": "news",
-   "theme": "보행교 개통",
-   "title": "호치민시 ‘사이공강 보행교’ 내년 뗏(설)연휴 개통…21일 주교량 연결",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44312",
-   "cat": "정치",
-   "intro": "호치민 사이공강 보행교가 내년 뗏 연휴에 개통될 예정입니다. 현재 공정률 90%로 주교량 연결 및 마무리 공사를 진행합니다.",
-   "words": [
-    {
-     "vi": "cầu",
-     "ko": "다리",
-     "kr_read": "꺼우",
-     "emoji": "🌉",
-     "en": "a long bridge over a river",
-     "tones": [
-      {
-       "syl": "cầu",
-       "name": "huyền",
-       "ko": "낮게 내려감",
-       "shape": "＼"
-      }
-     ],
-     "img": "n-cau.webp"
-    },
-    {
-     "vi": "sông",
-     "ko": "강",
-     "kr_read": "쏭",
-     "emoji": "🌊",
-     "en": "a wide river with calm water",
-     "tones": [
-      {
-       "syl": "sông",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-song.webp"
-    },
-    {
-     "vi": "xe đạp",
-     "ko": "자전거",
-     "kr_read": "쌔 답",
-     "emoji": "🚲",
-     "en": "a bicycle parked near a bridge",
-     "tones": [
-      {
-       "syl": "xe",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "đạp",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      }
-     ],
-     "img": "n-xe-dap.webp"
-    },
-    {
-     "vi": "xem",
-     "ko": "보다",
-     "kr_read": "쌤",
-     "emoji": "👀",
-     "en": "a pair of eyes looking forward",
-     "tones": [
-      {
-       "syl": "xem",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-xem.webp"
-    },
-    {
-     "vi": "mới",
-     "ko": "새로운",
-     "kr_read": "머이",
-     "emoji": "",
-     "en": "",
-     "tones": [
-      {
-       "syl": "mới",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ]
-    },
-    {
-     "vi": "đi bộ",
-     "ko": "걷다",
-     "kr_read": "디 보",
-     "emoji": "🚶",
-     "en": "a person walking on a path",
-     "tones": [
-      {
-       "syl": "đi",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "bộ",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      }
-     ],
-     "img": "n-di-bo.webp"
-    }
-   ],
-   "dialog": {
-    "title": "보행교 개통",
-    "emoji": "📰",
-    "lines": [
-     {
-      "vi": "Cây cầu mới này khi nào xong?",
-      "ko": "이 새 다리는 언제 완성돼요?",
-      "kr_read": "꺼이 꺼우 머이 나이 키 나오 쏭",
-      "who": "A",
-      "tones": [
-       {
-        "syl": "Cây",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "cầu",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "mới",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "này",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "khi",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "nào",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "xong?",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       }
-      ],
-      "gloss": []
-     },
-     {
-      "vi": "Đến Tết sẽ xong bạn nhé.",
-      "ko": "설날이 되면 완성될 거예요.",
-      "kr_read": "덴 뗏 쌔 쏭 반 냬",
-      "who": "B",
-      "tones": [
-       {
-        "syl": "Đến",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "Tết",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "sẽ",
-        "name": "ngã",
-        "ko": "끊었다 올림",
-        "shape": "∿"
-       },
-       {
-        "syl": "xong",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "bạn",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       },
-       {
-        "syl": "nhé.",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       }
-      ],
-      "gloss": []
-     }
-    ],
-    "extra": []
-   },
-   "n": 3
-  },
-  {
-   "ts": "2026-10-21",
-   "day": "Nno=44315",
-   "track": "news",
-   "theme": "모빌리티쇼",
-   "title": "베트남, 국제 모빌리티쇼 ‘VNMS 2026’ 12월 하노이서 개최…시승·모터스포츠·가족 체험 확대",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44315",
-   "cat": "문화·생활",
-   "intro": "12월 5~6일 하노이에서 모빌리티쇼가 열립니다. 시승 체험과 가족 프로그램 등 행사가 다채롭습니다.",
-   "words": [
-    {
-     "vi": "xe",
-     "ko": "자동차",
-     "kr_read": "쌔",
-     "emoji": "🚗",
-     "en": "a modern sedan car",
-     "tones": [
-      {
-       "syl": "xe",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-xe.webp"
-    },
-    {
-     "vi": "xe máy",
-     "ko": "오토바이",
-     "kr_read": "쌔 마이",
-     "emoji": "🛵",
-     "en": "a motorized scooter",
-     "tones": [
-      {
-       "syl": "xe",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "máy",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-xe-may.webp"
-    },
-    {
-     "vi": "lái xe",
-     "ko": "운전하다",
-     "kr_read": "라이 쌔",
-     "emoji": "🏎️",
-     "en": "a person steering a car wheel",
-     "tones": [
-      {
-       "syl": "lái",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      },
-      {
-       "syl": "xe",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-lai-xe.webp"
-    },
-    {
-     "vi": "gia đình",
-     "ko": "가족",
-     "kr_read": "자 딘",
-     "emoji": "👨‍👩‍👧‍👦",
-     "en": "a happy father, mother, and child",
-     "tones": [
-      {
-       "syl": "gia",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "đình",
-       "name": "huyền",
-       "ko": "낮게 내려감",
-       "shape": "＼"
-      }
-     ],
-     "img": "n-gia-dinh.webp"
-    },
-    {
-     "vi": "giảm giá",
-     "ko": "할인",
-     "kr_read": "잠 자",
-     "emoji": "🏷️",
-     "en": "a red sale tag with a percentage sign",
-     "tones": [
-      {
-       "syl": "giảm",
-       "name": "hỏi",
-       "ko": "내렸다 올림",
-       "shape": "∨"
-      },
-      {
-       "syl": "giá",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-giam-gia.webp"
-    },
-    {
-     "vi": "trẻ em",
-     "ko": "어린이",
-     "kr_read": "째 앰",
-     "emoji": "🧒",
-     "en": "a young boy and girl playing",
-     "tones": [
-      {
-       "syl": "trẻ",
-       "name": "hỏi",
-       "ko": "내렸다 올림",
-       "shape": "∨"
-      },
-      {
-       "syl": "em",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-tre-em.webp"
-    }
-   ],
-   "dialog": {
-    "title": "모빌리티쇼",
-    "emoji": "📰",
-    "lines": [
-     {
-      "vi": "Anh có đi xem triển lãm xe không?",
-      "ko": "당신은 자동차 전시회 보러 가나요?",
-      "kr_read": "아인 꼬 디 쌤 찌엔 람 쌔 콩",
-      "who": "A",
-      "tones": [
-       {
-        "syl": "Anh",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "có",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "đi",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "xem",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "triển",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       },
-       {
-        "syl": "lãm",
-        "name": "ngã",
-        "ko": "끊었다 올림",
-        "shape": "∿"
-       },
-       {
-        "syl": "xe",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "không?",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       }
-      ],
-      "gloss": []
-     },
-     {
-      "vi": "Có, tôi muốn mua xe máy mới.",
-      "ko": "네, 저는 새 오토바이를 사고 싶어요.",
-      "kr_read": "꼬 또이 무온 무어 쌔 마이 머이",
-      "who": "B",
-      "tones": [
-       {
-        "syl": "Có,",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "tôi",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "muốn",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "mua",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "xe",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "máy",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "mới.",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       }
-      ],
-      "gloss": []
-     }
-    ],
-    "extra": []
-   },
-   "n": 2
-  },
-  {
-   "ts": "2026-10-21",
-   "day": "Nno=44319",
-   "track": "news",
-   "theme": "대기 오염",
-   "title": "[베트남 주간 이슈] SK 원유 터지고 UOB VN성장률 9.2% 상향…베트남, 모빌리티·디지털 타고 거침없는 질주",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44319",
-   "cat": "경제",
-   "intro": "베트남의 올해 경제성장률 전망이 9.2%로 대폭 상향되었습니다. 빠른 성장과 함께 대기오염과 부동산 양극화도 심화되고 있습니다.",
-   "words": [
-    {
-     "vi": "ô nhiễm",
-     "ko": "오염",
-     "kr_read": "오 니엠",
-     "emoji": "🌫️",
-     "en": "grey smog over city buildings",
-     "tones": [
-      {
-       "syl": "ô",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "nhiễm",
-       "name": "ngã",
-       "ko": "끊었다 올림",
-       "shape": "∿"
-      }
-     ],
-     "img": "n-o-nhiem.webp"
-    },
-    {
-     "vi": "mùa khô",
-     "ko": "건기",
-     "kr_read": "무어 코",
-     "emoji": "☀️",
-     "en": "dry cracked earth under bright sun",
-     "tones": [
-      {
-       "syl": "mùa",
-       "name": "huyền",
-       "ko": "낮게 내려감",
-       "shape": "＼"
-      },
-      {
-       "syl": "khô",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-mua-kho.webp"
-    },
-    {
-     "vi": "xe máy",
-     "ko": "오토바이",
-     "kr_read": "쌔 마이",
-     "emoji": "🛵",
-     "en": "a motor scooter",
-     "tones": [
-      {
-       "syl": "xe",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "máy",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-xe-may.webp"
-    },
-    {
-     "vi": "ô tô",
-     "ko": "자동차",
-     "kr_read": "오 또",
-     "emoji": "🚗",
-     "en": "a modern passenger car",
-     "tones": [
-      {
-       "syl": "ô",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "tô",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-o-to.webp"
-    },
-    {
-     "vi": "không khí",
-     "ko": "공기",
-     "kr_read": "콩 키",
-     "emoji": "🌬️",
-     "en": "breeze moving through green trees",
-     "tones": [
-      {
-       "syl": "không",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "khí",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-khong-khi.webp"
-    },
-    {
-     "vi": "khẩu trang",
-     "ko": "마스크",
-     "kr_read": "커우 짱",
-     "emoji": "😷",
-     "en": "a medical face mask",
-     "tones": [
-      {
-       "syl": "khẩu",
-       "name": "hỏi",
-       "ko": "내렸다 올림",
-       "shape": "∨"
-      },
-      {
-       "syl": "trang",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-khau-trang.webp"
-    }
-   ],
-   "dialog": {
-    "title": "대기 오염",
-    "emoji": "📰",
-    "lines": [
-     {
-      "vi": "Hôm nay không khí xấu quá nhỉ?",
-      "ko": "오늘 공기가 너무 나쁘네요, 그렇죠?",
-      "kr_read": "홈 나이 콩 키 써우 꽈 니",
-      "who": "A",
-      "tones": [
-       {
-        "syl": "Hôm",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "nay",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "không",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "khí",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "xấu",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "quá",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "nhỉ?",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       }
-      ],
-      "gloss": []
-     },
-     {
-      "vi": "Đúng rồi, anh nhớ đeo khẩu trang nhé.",
-      "ko": "맞아요, 마스크 꼭 착용하세요.",
-      "kr_read": "둥 조이 아인 녀 대오 커우 짱 냬",
-      "who": "B",
-      "tones": [
-       {
-        "syl": "Đúng",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "rồi,",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "anh",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "nhớ",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "đeo",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "khẩu",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       },
-       {
-        "syl": "trang",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "nhé.",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       }
-      ],
-      "gloss": []
-     }
-    ],
-    "extra": []
-   },
    "n": 1
   }
  ],
- "updated": "2026-10-28 09:41"
+ "updated": "2026-10-29 02:09"
 }
