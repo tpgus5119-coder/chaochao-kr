@@ -1,14 +1,6 @@
 {
- "updated": "2026-10-29 01:59",
+ "updated": "2026-10-29 10:08",
  "items": [
-  {
-   "s": "인사이드비나",
-   "t": "[여기는 베트남] 11월부터 전기요금 인하 추진...휘발유 특별소비세도 0% 검토",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1938",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 16
-  },
   {
    "s": "인사이드비나",
    "t": "Priority bus lanes proposed on Ho Chi Minh City - Long Thanh Airport routes",
@@ -27,11 +19,11 @@
   },
   {
    "s": "인사이드비나",
-   "t": "\"아세안 CMO 거점 호언장담하더니\"…JW중외제약, 베트남 '유비팜' 7년차 존재감 미미 [베트남 진출기업 해부]",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44365",
+   "t": "Always on call: Vietnamese workers struggle to disconnect during annual leave",
+   "u": "https://e.vnexpress.net/news/life/trend/always-on-call-vietnamese-workers-struggle-to-disconnect-during-annual-leave-5136931.html",
    "d": "10월 28일",
    "ts": "2026-10-28",
-   "care": 15
+   "care": 16
   },
   {
    "s": "인사이드비나",
@@ -59,11 +51,35 @@
   },
   {
    "s": "인사이드비나",
+   "t": "BigBang concert brings Hanoi $29M in tourism revenue",
+   "u": "https://e.vnexpress.net/news/travel/bigbang-concert-brings-hanoi-29m-in-tourism-revenue-5137577.html",
+   "d": "10월 28일",
+   "ts": "2026-10-28",
+   "care": 10
+  },
+  {
+   "s": "인사이드비나",
    "t": "Vietnam coffee king’s eldest son becomes deputy CEO of mother’s company",
    "u": "https://e.vnexpress.net/news/business/companies/vietnam-coffee-king-s-eldest-son-becomes-deputy-ceo-of-mother-s-company-5137747.html",
    "d": "10월 28일",
    "ts": "2026-10-28",
    "care": 10
+  },
+  {
+   "s": "인사이드비나",
+   "t": "[여기는 베트남] 11월부터 전기요금 인하 추진...휘발유 특별소비세도 0% 검토",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1938",
+   "d": "10월 28일",
+   "ts": "2026-10-28",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "\"아세안 CMO 거점 호언장담하더니\"…JW중외제약, 베트남 '유비팜' 7년차 존재감 미미 [베트남 진출기업 해부]",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44365",
+   "d": "10월 28일",
+   "ts": "2026-10-28",
+   "care": 15
   },
   {
    "s": "인사이드비나",

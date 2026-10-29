@@ -2,6 +2,212 @@
  "days": [
   {
    "ts": "2026-10-28",
+   "day": "Nno=44371",
+   "track": "news",
+   "theme": "회사 실적",
+   "title": "베트남 보드카하노이 제조社, 3분기 흑자 전환…상장 이후 최대 분기 실적",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44371",
+   "cat": "경제",
+   "intro": "베트남 보드카 회사 할리코, 3분기 흑자 전환에 성공했습니다. 상장 후 최대 실적을 기록했으며, 매출 증가와 원가 절감 덕분입니다.",
+   "words": [
+    {
+     "vi": "tăng",
+     "ko": "증가하다",
+     "kr_read": "땅",
+     "emoji": "📈",
+     "en": "an upward trend line graph",
+     "tones": [
+      {
+       "syl": "tăng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-tang.webp"
+    },
+    {
+     "vi": "giảm",
+     "ko": "감소하다, 줄이다",
+     "kr_read": "잠",
+     "emoji": "📉",
+     "en": "a downward trend line graph",
+     "tones": [
+      {
+       "syl": "giảm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-giam.webp"
+    },
+    {
+     "vi": "lãi",
+     "ko": "이익, 이자",
+     "kr_read": "라이",
+     "emoji": "💰",
+     "en": "a money bag",
+     "tones": [
+      {
+       "syl": "lãi",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      }
+     ],
+     "img": "n-lai.webp"
+    },
+    {
+     "vi": "tiền",
+     "ko": "돈",
+     "kr_read": "띠엔",
+     "emoji": "💸",
+     "en": "a stack of money",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-tien.webp"
+    },
+    {
+     "vi": "làm",
+     "ko": "하다, 일하다",
+     "kr_read": "람",
+     "emoji": "🧑‍🏭",
+     "en": "a factory worker in uniform",
+     "tones": [
+      {
+       "syl": "làm",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-lam.webp"
+    },
+    {
+     "vi": "mua",
+     "ko": "사다",
+     "kr_read": "무어",
+     "emoji": "🛍️",
+     "en": "a shopping bag",
+     "tones": [
+      {
+       "syl": "mua",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-mua.webp"
+    }
+   ],
+   "dialog": {
+    "title": "회사 실적",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Công ty này làm rượu à?",
+      "ko": "이 회사 술 만들어요?",
+      "kr_read": "꽁 띠 나이 람 즈어우 아",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "rượu",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "à?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Đúng rồi, họ bán rất nhiều.",
+      "ko": "네, 많이 팔아요.",
+      "kr_read": "둥 조이 호 반 젓 니에우",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Đúng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "rồi,",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "họ",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "bán",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhiều.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 31
+  },
+  {
+   "ts": "2026-10-28",
    "day": "Nxno=1938",
    "track": "news",
    "theme": "전기세 인하",
@@ -232,7 +438,231 @@
     ],
     "extra": []
    },
-   "n": 28
+   "n": 30
+  },
+  {
+   "ts": "2026-10-28",
+   "day": "Nno=44370",
+   "track": "news",
+   "theme": "전기 요금",
+   "title": "베트남 부총리 “내달부터 전기요금 인하 검토하라” 지시…석유제품 특소세는 0%",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44370",
+   "cat": "정치",
+   "intro": "베트남 정부가 다음 달부터 전기요금 인하를 추진합니다. 휘발유 특별소비세도 0%로 낮출 계획입니다.",
+   "words": [
+    {
+     "vi": "điện",
+     "ko": "전기",
+     "kr_read": "디엔",
+     "emoji": "⚡",
+     "en": "a bright yellow lightning bolt",
+     "tones": [
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-dien.webp"
+    },
+    {
+     "vi": "tiền điện",
+     "ko": "전기 요금",
+     "kr_read": "띠엔 디엔",
+     "emoji": "🧾",
+     "en": "an electricity bill paper",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-tien-dien.webp"
+    },
+    {
+     "vi": "xăng",
+     "ko": "휘발유",
+     "kr_read": "쌍",
+     "emoji": "⛽",
+     "en": "a gas station fuel pump",
+     "tones": [
+      {
+       "syl": "xăng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-xang.webp"
+    },
+    {
+     "vi": "giá",
+     "ko": "가격",
+     "kr_read": "자",
+     "emoji": "🏷️",
+     "en": "a simple price tag",
+     "tones": [
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-gia.webp"
+    },
+    {
+     "vi": "giảm",
+     "ko": "내리다, 줄다",
+     "kr_read": "잠",
+     "emoji": "📉",
+     "en": "a red downward arrow graph",
+     "tones": [
+      {
+       "syl": "giảm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-giam.webp"
+    },
+    {
+     "vi": "tăng",
+     "ko": "오르다, 늘다",
+     "kr_read": "땅",
+     "emoji": "📈",
+     "en": "a green upward arrow graph",
+     "tones": [
+      {
+       "syl": "tăng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-tang.webp"
+    }
+   ],
+   "dialog": {
+    "title": "전기 요금",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Tháng sau tiền điện có giảm không?",
+      "ko": "다음 달에 전기 요금 내려요?",
+      "kr_read": "탕 싸우 띠엔 디엔 꼬 잠 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Tháng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "sau",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "điện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "giảm",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, nghe nói tiền điện sắp giảm.",
+      "ko": "네, 전기 요금이 곧 내린대요.",
+      "kr_read": "꼬 응애 노이 띠엔 디엔 쌉 잠",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nghe",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nói",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "điện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "sắp",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "giảm.",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 29
   },
   {
    "ts": "2026-10-28",
@@ -446,6 +876,248 @@
        },
        {
         "syl": "thuốc.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 28
+  },
+  {
+   "ts": "2026-10-28",
+   "day": "Nno=44366",
+   "track": "news",
+   "theme": "공연과 관광",
+   "title": "하노이시 “빅뱅 콘서트, 경제적 파급효과 7,500억 동”…이틀간 22만 명 다녀가",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44366",
+   "cat": "사회",
+   "intro": "빅뱅 하노이 공연으로 7,500억 동 효과 이틀간 관광객 22만 명 방문, 호텔 만실",
+   "words": [
+    {
+     "vi": "khách sạn",
+     "ko": "호텔",
+     "kr_read": "칵 싼",
+     "emoji": "🏨",
+     "en": "a hotel building",
+     "tones": [
+      {
+       "syl": "khách",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "sạn",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-khach-san.webp"
+    },
+    {
+     "vi": "du lịch",
+     "ko": "여행, 관광",
+     "kr_read": "주 릭",
+     "emoji": "🧳",
+     "en": "a travel suitcase",
+     "tones": [
+      {
+       "syl": "du",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "lịch",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-du-lich.webp"
+    },
+    {
+     "vi": "tiền",
+     "ko": "돈",
+     "kr_read": "띠엔",
+     "emoji": "💵",
+     "en": "paper banknotes",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-tien.webp"
+    },
+    {
+     "vi": "thành phố",
+     "ko": "도시",
+     "kr_read": "타인 포",
+     "emoji": "🏙️",
+     "en": "a city skyline",
+     "tones": [
+      {
+       "syl": "thành",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "phố",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-thanh-pho.webp"
+    },
+    {
+     "vi": "vé",
+     "ko": "표, 티켓",
+     "kr_read": "배",
+     "emoji": "🎫",
+     "en": "a concert ticket",
+     "tones": [
+      {
+       "syl": "vé",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-ve.webp"
+    },
+    {
+     "vi": "ca nhạc",
+     "ko": "음악 공연",
+     "kr_read": "까 냑",
+     "emoji": "🎤",
+     "en": "a microphone on stage",
+     "tones": [
+      {
+       "syl": "ca",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "nhạc",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-ca-nhac.webp"
+    }
+   ],
+   "dialog": {
+    "title": "공연과 관광",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Cuối tuần này khách sạn còn phòng không?",
+      "ko": "이번 주말에 호텔 방 남아있나요?",
+      "kr_read": "꾸오이 뚜언 나이 칵 싼 꼰 퐁 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Cuối",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tuần",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "khách",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "sạn",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "còn",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "phòng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Hết phòng rồi, đông khách lắm.",
+      "ko": "방이 다 찼어요, 손님이 정말 많아요.",
+      "kr_read": "헷 퐁 조이 동 칵 람",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Hết",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "phòng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "rồi,",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "đông",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "khách",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "lắm.",
         "name": "sắc",
         "ko": "짧게 올라감",
         "shape": "／"
@@ -6546,5 +7218,5 @@
    "n": 1
   }
  ],
- "updated": "2026-10-29 02:09"
+ "updated": "2026-10-29 10:17"
 }
