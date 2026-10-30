@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30 02:16",
+ "updated": "2026-10-30 10:14",
  "items": [
   {
    "s": "인사이드비나",
@@ -16,6 +16,14 @@
    "d": "10월 29일",
    "ts": "2026-10-29",
    "care": 17
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Company director's unsafe design led to Japanese boy's drowning at Vietnam 5-star resort: police",
+   "u": "https://e.vnexpress.net/news/news/crime/company-director-s-unsafe-design-led-to-japanese-boy-s-drowning-at-vietnam-5-star-resort-police-5138497.html",
+   "d": "10월 29일",
+   "ts": "2026-10-29",
+   "care": 10
   },
   {
    "s": "인사이드비나",
@@ -43,14 +51,6 @@
   },
   {
    "s": "인사이드비나",
-   "t": "Company director's unsafe design led to Japanese boy's drowning at Vietnam 5-star resort: police",
-   "u": "https://e.vnexpress.net/news/news/crime/company-director-s-unsafe-design-led-to-japanese-boy-s-drowning-at-vietnam-5-star-resort-police-5138497.html",
-   "d": "10월 29일",
-   "ts": "2026-10-29",
-   "care": 10
-  },
-  {
-   "s": "인사이드비나",
    "t": "JW중외제약 베트남 '유비팜', 진출 7년 차 생산 기반 안착…PIC/S 인증·CMO 본격화 시동 [베트남 진출기업 해부]",
    "u": "https://www.insidevina.com/news/articleView.html?idxno=44365",
    "d": "10월 28일",
@@ -72,6 +72,22 @@
    "d": "10월 28일",
    "ts": "2026-10-28",
    "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "‘高금리’ 호치민시서부버스터미널, 본업보다 예금이자 ‘짭짤’…3분기 금융익 59.1억 동 64%↑",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44373",
+   "d": "10월 28일",
+   "ts": "2026-10-28",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "BigBang concert brings Hanoi $29M in tourism revenue",
+   "u": "https://e.vnexpress.net/news/travel/bigbang-concert-brings-hanoi-29m-in-tourism-revenue-5137577.html",
+   "d": "10월 28일",
+   "ts": "2026-10-28",
+   "care": 10
   },
   {
    "s": "인사이드비나",
@@ -112,14 +128,6 @@
    "d": "10월 28일",
    "ts": "2026-10-28",
    "care": 11
-  },
-  {
-   "s": "인사이드비나",
-   "t": "BigBang concert brings Hanoi $29M in tourism revenue",
-   "u": "https://e.vnexpress.net/news/travel/bigbang-concert-brings-hanoi-29m-in-tourism-revenue-5137577.html",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 10
   },
   {
    "s": "인사이드비나",
