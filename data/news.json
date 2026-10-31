@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-31 09:57",
+ "updated": "2026-11-01 00:58",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam set to overtake Southeast Asia's largest economy in GDP per capita this year",
+   "u": "https://e.vnexpress.net/news/business/economy/vietnam-set-to-overtake-southeast-asia-s-largest-economy-in-gdp-per-capita-this-year-5138797.html",
+   "d": "10월 31일",
+   "ts": "2026-10-31",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "[베트남 경제동향] 올해 1인당 GDP 인도네시아 추월 전망...동남아 경제 판도 변화",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1940",
+   "d": "10월 31일",
+   "ts": "2026-10-31",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "The Coca-Cola Foundation, IUCN seek business opportunities in ecosystem restoration",
+   "u": "https://e.vnexpress.net/news/business/the-coca-cola-foundation-iucn-seek-business-opportunities-in-ecosystem-restoration-5138874.html",
+   "d": "10월 31일",
+   "ts": "2026-10-31",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Moroccan student's journey from knowing only the local words for 'hello' to becoming Vietnam's top maritime navigation graduate",
+   "u": "https://e.vnexpress.net/news/news/education/moroccan-student-s-journey-from-knowing-only-the-local-words-for-hello-to-becoming-vietnam-s-top-maritime-navigation-graduate-5138307.html",
+   "d": "10월 31일",
+   "ts": "2026-10-31",
+   "care": 13
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Travel + Leisure, Lonely Planet recommend November visits to Ha Long",
+   "u": "https://e.vnexpress.net/news/travel/travel-leisure-lonely-planet-recommend-november-visits-to-ha-long-5138722.html",
+   "d": "10월 31일",
+   "ts": "2026-10-31",
+   "care": 13
+  },
   {
    "s": "인사이드비나",
    "t": "China foreign arrivals rise 15.6% amid visa-free push",
@@ -21,6 +61,14 @@
    "s": "인사이드비나",
    "t": "Old growth model cannot make Vietnam rich: World Bank official",
    "u": "https://e.vnexpress.net/news/business/old-growth-model-cannot-make-vietnam-rich-world-bank-official-5138858.html",
+   "d": "10월 30일",
+   "ts": "2026-10-30",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam trade crosses $1 trillion for first time",
+   "u": "https://e.vnexpress.net/news/business/economy/vietnam-trade-crosses-1-trillion-for-first-time-5138655.html",
    "d": "10월 30일",
    "ts": "2026-10-30",
    "care": 14
@@ -385,46 +433,6 @@
    "d": "10월 25일",
    "ts": "2026-10-25",
    "care": 11
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam's $13B airport Long Thanh short of skilled workers two months before opening",
-   "u": "https://e.vnexpress.net/news/news/traffic/vietnam-s-13b-airport-long-thanh-short-of-skilled-workers-two-months-before-opening-5136130.html",
-   "d": "10월 24일",
-   "ts": "2026-10-24",
-   "care": 17
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Beijer Electronics, AVA Vietnam partner with HCM-UTE to advance industrial automation education",
-   "u": "https://e.vnexpress.net/news/business/beijer-electronics-ava-vietnam-partner-with-hcm-ute-to-advance-industrial-automation-education-5135567.html",
-   "d": "10월 24일",
-   "ts": "2026-10-24",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam Airlines to launch direct Da Nang-Singapore flights on Nov 17",
-   "u": "https://e.vnexpress.net/news/news/traffic/vietnam-airlines-to-launch-direct-da-nang-singapore-flights-on-nov-17-5136340.html",
-   "d": "10월 24일",
-   "ts": "2026-10-24",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Ho Chi Minh City plans public schools with higher English bar than most Vietnamese universities",
-   "u": "https://e.vnexpress.net/news/news/education/ho-chi-minh-city-plans-public-schools-with-higher-english-bar-than-most-vietnamese-universities-5136147.html",
-   "d": "10월 24일",
-   "ts": "2026-10-24",
-   "care": 11
-  },
-  {
-   "s": "인사이드비나",
-   "t": "11 school sanitation facilities inaugurated in Son La",
-   "u": "https://e.vnexpress.net/news/news/11-school-sanitation-facilities-inaugurated-in-son-la-5136372.html",
-   "d": "10월 24일",
-   "ts": "2026-10-24",
-   "care": 8
   }
  ]
 }
