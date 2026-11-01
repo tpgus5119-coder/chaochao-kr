@@ -1,18 +1,26 @@
 {
- "updated": "2026-11-01 09:17",
+ "updated": "2026-11-02 02:01",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "Company of Southeast Asia’s richest man posts first $1B quarterly profit",
+   "u": "https://e.vnexpress.net/news/business/companies/company-of-southeast-asia-s-richest-man-posts-first-1b-quarterly-profit-5139068.html",
+   "d": "11월 01일",
+   "ts": "2026-11-01",
+   "care": 13
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam lowers electricity price, first time in almost 20 years",
+   "u": "https://e.vnexpress.net/news/business/economy/vietnam-lowers-electricity-price-first-time-in-almost-20-years-5139302.html",
+   "d": "11월 01일",
+   "ts": "2026-11-01",
+   "care": 13
+  },
   {
    "s": "인사이드비나",
    "t": "Vietnam set to overtake Southeast Asia's largest economy in GDP per capita this year",
    "u": "https://e.vnexpress.net/news/business/economy/vietnam-set-to-overtake-southeast-asia-s-largest-economy-in-gdp-per-capita-this-year-5138797.html",
-   "d": "10월 31일",
-   "ts": "2026-10-31",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "[베트남 경제동향] 올해 1인당 GDP 인도네시아 추월 전망...동남아 경제 판도 변화",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1940",
    "d": "10월 31일",
    "ts": "2026-10-31",
    "care": 16
@@ -40,6 +48,22 @@
    "d": "10월 31일",
    "ts": "2026-10-31",
    "care": 13
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Lonely Planet's 10 must-visit destinations in Vietnam have most bases covered",
+   "u": "https://e.vnexpress.net/photo/places/lonely-planets-10-must-visit-destinations-in-vietnam-have-most-bases-covered-5135140.html",
+   "d": "10월 31일",
+   "ts": "2026-10-31",
+   "care": 13
+  },
+  {
+   "s": "인사이드비나",
+   "t": "[베트남 경제동향] 올해 1인당 GDP 인도네시아 추월 전망...동남아 경제 판도 변화",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1940",
+   "d": "10월 31일",
+   "ts": "2026-10-31",
+   "care": 16
   },
   {
    "s": "인사이드비나",
@@ -417,22 +441,6 @@
    "d": "10월 26일",
    "ts": "2026-10-26",
    "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Urban workers leave home before dawn to secure parking spots at work",
-   "u": "https://e.vnexpress.net/news/life/trend/urban-workers-leave-home-before-dawn-to-secure-parking-spots-at-work-5136075.html",
-   "d": "10월 25일",
-   "ts": "2026-10-25",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "호치민시, 공립학교 영어교육 기준 대폭 강화...고교생 B2 목표",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1935",
-   "d": "10월 25일",
-   "ts": "2026-10-25",
-   "care": 11
   }
  ]
 }
