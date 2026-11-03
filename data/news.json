@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-03 05:38",
+ "updated": "2026-11-03 12:00",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam needs $300B in annual investment, productivity gains to achieve double-digit growth",
+   "u": "https://e.vnexpress.net/news/business/economy/vietnam-needs-300b-in-annual-investment-productivity-gains-to-achieve-double-digit-growth-5139710.html",
+   "d": "11월 02일",
+   "ts": "2026-11-02",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "AppotaPay showcases payment solutions for retailers, restaurant chains at VIFS 2026",
+   "u": "https://e.vnexpress.net/news/business/appotapay-showcases-payment-solutions-for-retailers-restaurant-chains-at-vifs-2026-5138675.html",
+   "d": "11월 02일",
+   "ts": "2026-11-02",
+   "care": 15
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Ho Chi Minh City well positioned to become connected growth hub: WEF CEO",
+   "u": "https://e.vnexpress.net/news/business/ho-chi-minh-city-well-positioned-to-become-connected-growth-hub-wef-ceo-5139368.html",
+   "d": "11월 02일",
+   "ts": "2026-11-02",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "빈그룹 총수, 빈패스트에 4.4억 달러 추가 투자…우선주 매입",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44409",
+   "d": "11월 02일",
+   "ts": "2026-11-02",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam must be more strategically proactive amid global uncertainty: PM",
+   "u": "https://e.vnexpress.net/news/business/vietnam-must-be-more-strategically-proactive-amid-global-uncertainty-pm-5139375.html",
+   "d": "11월 02일",
+   "ts": "2026-11-02",
+   "care": 13
+  },
   {
    "s": "인사이드비나",
    "t": "\"1440억 쏟아부었는데 매출 0원\"… 삼일제약 베트남 공장, 상업생산 지연에 고정비 속앓이 [베트남 진출기업 해부]",
@@ -35,38 +75,6 @@
   },
   {
    "s": "인사이드비나",
-   "t": "Vietnam needs $300B in annual investment, productivity gains to achieve double-digit growth",
-   "u": "https://e.vnexpress.net/news/business/economy/vietnam-needs-300b-in-annual-investment-productivity-gains-to-achieve-double-digit-growth-5139710.html",
-   "d": "11월 02일",
-   "ts": "2026-11-02",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "AppotaPay showcases payment solutions for retailers, restaurant chains at VIFS 2026",
-   "u": "https://e.vnexpress.net/news/business/appotapay-showcases-payment-solutions-for-retailers-restaurant-chains-at-vifs-2026-5138675.html",
-   "d": "11월 02일",
-   "ts": "2026-11-02",
-   "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Ho Chi Minh City well positioned to become connected growth hub: WEF CEO",
-   "u": "https://e.vnexpress.net/news/business/ho-chi-minh-city-well-positioned-to-become-connected-growth-hub-wef-ceo-5139368.html",
-   "d": "11월 02일",
-   "ts": "2026-11-02",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam must be more strategically proactive amid global uncertainty: PM",
-   "u": "https://e.vnexpress.net/news/business/vietnam-must-be-more-strategically-proactive-amid-global-uncertainty-pm-5139375.html",
-   "d": "11월 02일",
-   "ts": "2026-11-02",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
    "t": "베트남 닥락성, 4억달러 규모 수상태양광 발전소 승인...452MW 전력 생산 추진",
    "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1941",
    "d": "11월 02일",
@@ -75,16 +83,16 @@
   },
   {
    "s": "인사이드비나",
-   "t": "Vietnam lowers electricity price, first time in almost 20 years",
-   "u": "https://e.vnexpress.net/news/business/economy/vietnam-lowers-electricity-price-first-time-in-almost-20-years-5139302.html",
+   "t": "Company of Southeast Asia’s richest man posts first $1B quarterly profit",
+   "u": "https://e.vnexpress.net/news/business/companies/company-of-southeast-asia-s-richest-man-posts-first-1b-quarterly-profit-5139068.html",
    "d": "11월 01일",
    "ts": "2026-11-01",
    "care": 13
   },
   {
    "s": "인사이드비나",
-   "t": "Company of Southeast Asia’s richest man posts first $1B quarterly profit",
-   "u": "https://e.vnexpress.net/news/business/companies/company-of-southeast-asia-s-richest-man-posts-first-1b-quarterly-profit-5139068.html",
+   "t": "Vietnam lowers electricity price, first time in almost 20 years",
+   "u": "https://e.vnexpress.net/news/business/economy/vietnam-lowers-electricity-price-first-time-in-almost-20-years-5139302.html",
    "d": "11월 01일",
    "ts": "2026-11-01",
    "care": 13
