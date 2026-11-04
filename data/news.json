@@ -1,6 +1,63 @@
 {
- "updated": "2026-11-04 10:33",
+ "updated": "2026-11-05 03:24",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "베트남 ICT대기업 FPT, 북부 ‘반도체’ 공장 시험가동…테스트·패키징 등 후공정",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44425",
+   "d": "11월 04일",
+   "ts": "2026-11-04",
+   "care": 25
+  },
+  {
+   "s": "인사이드비나",
+   "t": "셀트리온, 베트남 '직판 승부수' 통했다...\"비중은 0.05%지만 성장세는 8.6배\" [베트남 진출기업 해부]",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44414",
+   "d": "11월 04일",
+   "ts": "2026-11-04",
+   "care": 21
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남, 내년도 지역별 최저임금 평균 7.8% 인상…정부 시행령",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44421",
+   "d": "11월 04일",
+   "ts": "2026-11-04",
+   "care": 19
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Companies look to absorb 1,600 workers laid off after HCMC-based Danish shoe factory closes",
+   "u": "https://e.vnexpress.net/news/news/companies-look-to-absorb-1-600-workers-laid-off-after-hcmc-based-danish-shoe-factory-closes-5140660.html",
+   "d": "11월 04일",
+   "ts": "2026-11-04",
+   "care": 17
+  },
+  {
+   "s": "인사이드비나",
+   "t": "‘고물가 장기화’ 베트남, 10월에도 5% 물가상승 지속…연료가격 상승 영향",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44423",
+   "d": "11월 04일",
+   "ts": "2026-11-04",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "“땡큐 빅뱅” 베트남, 외래관광객 급증…10월 기준 1,950만 명 전년동기比 13.8%↑",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44424",
+   "d": "11월 04일",
+   "ts": "2026-11-04",
+   "care": 14,
+   "cat": "문화"
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Fansipan festival to showcase nearly 70 succulent varieties",
+   "u": "https://e.vnexpress.net/news/travel/fansipan-festival-to-showcase-nearly-70-succulent-varieties-5140359.html",
+   "d": "11월 04일",
+   "ts": "2026-11-04",
+   "care": 11
+  },
   {
    "s": "인사이드비나",
    "t": "Danish footwear company shuts Vietnam factory, 1,600 workers lose jobs",
@@ -8,22 +65,6 @@
    "d": "11월 03일",
    "ts": "2026-11-03",
    "care": 22
-  },
-  {
-   "s": "인사이드비나",
-   "t": "'일감이 없네' 덴마크 신발社 에코, 호치민시 공장 가동중단…직원 1,600여 명 ‘날벼락’",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44420",
-   "d": "11월 03일",
-   "ts": "2026-11-03",
-   "care": 21
-  },
-  {
-   "s": "인사이드비나",
-   "t": "덴마크 신발 브랜드 에코, 베트남 공장 폐쇄...근로자 1,600여 명 일자리 잃어",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1942",
-   "d": "11월 03일",
-   "ts": "2026-11-03",
-   "care": 19
   },
   {
    "s": "인사이드비나",
@@ -40,6 +81,22 @@
    "d": "11월 03일",
    "ts": "2026-11-03",
    "care": 17
+  },
+  {
+   "s": "인사이드비나",
+   "t": "'일감이 없네' 덴마크 신발社 에코, 호치민시 공장 가동중단…직원 1,600여 명 ‘날벼락’",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44420",
+   "d": "11월 03일",
+   "ts": "2026-11-03",
+   "care": 21
+  },
+  {
+   "s": "인사이드비나",
+   "t": "덴마크 신발 브랜드 에코, 베트남 공장 폐쇄...근로자 1,600여 명 일자리 잃어",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1942",
+   "d": "11월 03일",
+   "ts": "2026-11-03",
+   "care": 19
   },
   {
    "s": "인사이드비나",
@@ -344,94 +401,6 @@
    "d": "10월 29일",
    "ts": "2026-10-29",
    "care": 12
-  },
-  {
-   "s": "인사이드비나",
-   "t": "JW중외제약 베트남 '유비팜', 진출 7년 차 생산 기반 안착…PIC/S 인증·CMO 본격화 시동 [베트남 진출기업 해부]",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44365",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 21
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Priority bus lanes proposed on Ho Chi Minh City - Long Thanh Airport routes",
-   "u": "https://e.vnexpress.net/news/news/traffic/priority-bus-lanes-proposed-on-ho-chi-minh-city-long-thanh-airport-routes-5137842.html",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Roche Vietnam funds clean water, rural bridge projects through employee donations",
-   "u": "https://e.vnexpress.net/news/life/roche-vietnam-funds-clean-water-rural-bridge-projects-through-employee-donations-5136834.html",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "‘高금리’ 호치민시서부버스터미널, 본업보다 예금이자 ‘짭짤’…3분기 금융익 59.1억 동 64%↑",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44373",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "BigBang concert brings Hanoi $29M in tourism revenue",
-   "u": "https://e.vnexpress.net/news/travel/bigbang-concert-brings-hanoi-29m-in-tourism-revenue-5137577.html",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 10
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam coffee king’s eldest son becomes deputy CEO of mother’s company",
-   "u": "https://e.vnexpress.net/news/business/companies/vietnam-coffee-king-s-eldest-son-becomes-deputy-ceo-of-mother-s-company-5137747.html",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 10
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Always on call: Vietnamese workers struggle to disconnect during annual leave",
-   "u": "https://e.vnexpress.net/news/life/trend/always-on-call-vietnamese-workers-struggle-to-disconnect-during-annual-leave-5136931.html",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 16
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남 부총리 “내달부터 전기요금 인하 검토하라” 지시…석유제품 특소세는 0%",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44370",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "베트남 보드카하노이 제조社, 3분기 흑자 전환…상장 이후 최대 분기 실적",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44371",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 13
-  },
-  {
-   "s": "인사이드비나",
-   "t": "하노이시 “빅뱅 콘서트, 경제적 파급효과 7,500억 동”…이틀간 22만 명 다녀가",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44366",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 11
-  },
-  {
-   "s": "인사이드비나",
-   "t": "[여기는 베트남] 11월부터 전기요금 인하 추진...휘발유 특별소비세도 0% 검토",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1938",
-   "d": "10월 28일",
-   "ts": "2026-10-28",
-   "care": 16
   }
  ]
 }
