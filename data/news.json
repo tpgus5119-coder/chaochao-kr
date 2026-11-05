@@ -1,22 +1,6 @@
 {
- "updated": "2026-11-05 03:24",
+ "updated": "2026-11-05 10:36",
  "items": [
-  {
-   "s": "인사이드비나",
-   "t": "베트남 ICT대기업 FPT, 북부 ‘반도체’ 공장 시험가동…테스트·패키징 등 후공정",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44425",
-   "d": "11월 04일",
-   "ts": "2026-11-04",
-   "care": 25
-  },
-  {
-   "s": "인사이드비나",
-   "t": "셀트리온, 베트남 '직판 승부수' 통했다...\"비중은 0.05%지만 성장세는 8.6배\" [베트남 진출기업 해부]",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44414",
-   "d": "11월 04일",
-   "ts": "2026-11-04",
-   "care": 21
-  },
   {
    "s": "인사이드비나",
    "t": "베트남, 내년도 지역별 최저임금 평균 7.8% 인상…정부 시행령",
@@ -35,6 +19,46 @@
   },
   {
    "s": "인사이드비나",
+   "t": "HCMC to build 2 pedestrian bridges over busy downtown street to Saigon River park",
+   "u": "https://e.vnexpress.net/news/news/traffic/hcmc-to-build-2-pedestrian-bridges-over-busy-downtown-street-to-saigon-river-park-5140543.html",
+   "d": "11월 04일",
+   "ts": "2026-11-04",
+   "care": 16
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Fansipan festival to showcase nearly 70 succulent varieties",
+   "u": "https://e.vnexpress.net/news/travel/fansipan-festival-to-showcase-nearly-70-succulent-varieties-5140359.html",
+   "d": "11월 04일",
+   "ts": "2026-11-04",
+   "care": 11
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam, South Korea shine amid uneven Asia-Pacific tourism recovery",
+   "u": "https://e.vnexpress.net/news/travel/vietnam-south-korea-shine-amid-uneven-asia-pacific-tourism-recovery-5140194.html",
+   "d": "11월 04일",
+   "ts": "2026-11-04",
+   "care": 11
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남 ICT대기업 FPT, 북부 ‘반도체’ 공장 시험가동…테스트·패키징 등 후공정",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44425",
+   "d": "11월 04일",
+   "ts": "2026-11-04",
+   "care": 25
+  },
+  {
+   "s": "인사이드비나",
+   "t": "셀트리온, 베트남 '직판 승부수' 통했다...\"비중은 0.05%지만 성장세는 8.6배\" [베트남 진출기업 해부]",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44414",
+   "d": "11월 04일",
+   "ts": "2026-11-04",
+   "care": 21
+  },
+  {
+   "s": "인사이드비나",
    "t": "‘고물가 장기화’ 베트남, 10월에도 5% 물가상승 지속…연료가격 상승 영향",
    "u": "https://www.insidevina.com/news/articleView.html?idxno=44423",
    "d": "11월 04일",
@@ -49,14 +73,6 @@
    "ts": "2026-11-04",
    "care": 14,
    "cat": "문화"
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Fansipan festival to showcase nearly 70 succulent varieties",
-   "u": "https://e.vnexpress.net/news/travel/fansipan-festival-to-showcase-nearly-70-succulent-varieties-5140359.html",
-   "d": "11월 04일",
-   "ts": "2026-11-04",
-   "care": 11
   },
   {
    "s": "인사이드비나",
@@ -84,6 +100,22 @@
   },
   {
    "s": "인사이드비나",
+   "t": "Vietnam posts back-to-back monthly trade surpluses",
+   "u": "https://e.vnexpress.net/news/business/economy/vietnam-posts-back-to-back-monthly-trade-surpluses-5140266.html",
+   "d": "11월 03일",
+   "ts": "2026-11-03",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남, 내년부터 ‘중고전자제품’ 수입금지…휴대폰·컴퓨터·카메라 등",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44412",
+   "d": "11월 03일",
+   "ts": "2026-11-03",
+   "care": 12
+  },
+  {
+   "s": "인사이드비나",
    "t": "'일감이 없네' 덴마크 신발社 에코, 호치민시 공장 가동중단…직원 1,600여 명 ‘날벼락’",
    "u": "https://www.insidevina.com/news/articleView.html?idxno=44420",
    "d": "11월 03일",
@@ -105,14 +137,6 @@
    "d": "11월 03일",
    "ts": "2026-11-03",
    "care": 15
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Vietnam posts back-to-back monthly trade surpluses",
-   "u": "https://e.vnexpress.net/news/business/economy/vietnam-posts-back-to-back-monthly-trade-surpluses-5140266.html",
-   "d": "11월 03일",
-   "ts": "2026-11-03",
-   "care": 14
   },
   {
    "s": "인사이드비나",

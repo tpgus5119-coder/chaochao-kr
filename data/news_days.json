@@ -222,7 +222,7 @@
     ],
     "extra": []
    },
-   "n": 23
+   "n": 24
   },
   {
    "ts": "2026-11-04",
@@ -457,7 +457,7 @@
     ],
     "extra": []
    },
-   "n": 22
+   "n": 23
   },
   {
    "ts": "2026-11-04",
@@ -657,7 +657,7 @@
     ],
     "extra": []
    },
-   "n": 21
+   "n": 22
   },
   {
    "ts": "2026-11-04",
@@ -903,6 +903,248 @@
         "name": "ngã",
         "ko": "끊었다 올림",
         "shape": "∿"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 21
+  },
+  {
+   "ts": "2026-11-03",
+   "day": "Nno=44412",
+   "track": "news",
+   "theme": "중고 금지",
+   "title": "베트남, 내년부터 ‘중고전자제품’ 수입금지…휴대폰·컴퓨터·카메라 등",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44412",
+   "cat": "경제",
+   "intro": "베트남, 내년부터 중고 휴대전화·컴퓨터 등 중고 전자제품 수입을 전면 금지합니다.",
+   "words": [
+    {
+     "vi": "cũ",
+     "ko": "중고의",
+     "kr_read": "꾸",
+     "emoji": "⚙️",
+     "en": "an old gear",
+     "tones": [
+      {
+       "syl": "cũ",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      }
+     ],
+     "img": "n-cu.webp"
+    },
+    {
+     "vi": "mới",
+     "ko": "새로운",
+     "kr_read": "머이",
+     "emoji": "✨",
+     "en": "a shining new object",
+     "tones": [
+      {
+       "syl": "mới",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-moi.webp"
+    },
+    {
+     "vi": "điện thoại",
+     "ko": "휴대폰",
+     "kr_read": "디엔 토아이",
+     "emoji": "📱",
+     "en": "a mobile phone",
+     "tones": [
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "thoại",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-dien-thoai.webp"
+    },
+    {
+     "vi": "máy tính",
+     "ko": "컴퓨터",
+     "kr_read": "마이 띤",
+     "emoji": "💻",
+     "en": "a laptop computer",
+     "tones": [
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "tính",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-may-tinh.webp"
+    },
+    {
+     "vi": "máy ảnh",
+     "ko": "카메라",
+     "kr_read": "마이 아인",
+     "emoji": "📸",
+     "en": "a camera lens",
+     "tones": [
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "ảnh",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-may-anh.webp"
+    },
+    {
+     "vi": "nhập",
+     "ko": "수입하다",
+     "kr_read": "녑",
+     "emoji": "📦",
+     "en": "a box with an arrow pointing in",
+     "tones": [
+      {
+       "syl": "nhập",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-nhap.webp"
+    }
+   ],
+   "dialog": {
+    "title": "중고 금지",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Tôi mang điện thoại cũ được không?",
+      "ko": "제 중고 휴대폰 가지고 갈 수 있어요?",
+      "kr_read": "또이 망 디엔 토아이 꾸 드억 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mang",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "điện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "thoại",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "cũ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "được",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Không, năm sau điện thoại cũ bị cấm.",
+      "ko": "아니요, 내년부터 중고 휴대폰은 금지예요.",
+      "kr_read": "콩 남 싸우 디엔 토아이 꾸 비 껌",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Không,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "năm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "sau",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "điện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "thoại",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "cũ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "bị",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "cấm.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
        }
       ],
       "gloss": []
@@ -5429,5 +5671,5 @@
    "n": 1
   }
  ],
- "updated": "2026-11-05 03:34"
+ "updated": "2026-11-05 10:47"
 }
