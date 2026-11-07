@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-07 02:49",
+ "updated": "2026-11-07 10:03",
  "items": [
+  {
+   "s": "인사이드비나",
+   "t": "‘김동원 체제’ 한화생명, 국내 첫 베트남 생보사 진출 17년차 성적은?",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44443",
+   "d": "11월 06일",
+   "ts": "2026-11-06",
+   "care": 20
+  },
+  {
+   "s": "인사이드비나",
+   "t": "알면 쉽다! 베트남 회계/세무[67] – 베트남, 왜 맥주는 싸고 소주는 비쌀까",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44452",
+   "d": "11월 06일",
+   "ts": "2026-11-06",
+   "care": 19
+  },
+  {
+   "s": "인사이드비나",
+   "t": "'Asia's best island' Phu Quoc tops winter holiday wish lists of South Korean families",
+   "u": "https://e.vnexpress.net/news/travel/places/asia-s-best-island-phu-quoc-tops-winter-holiday-wish-lists-of-south-korean-families-5140706.html",
+   "d": "11월 06일",
+   "ts": "2026-11-06",
+   "care": 19
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Former Scottish judo star rebuilds life 10 years after near-fatal Vietnam accident",
+   "u": "https://e.vnexpress.net/news/life/trend/former-scottish-judo-star-rebuilds-life-10-years-after-near-fatal-vietnam-accident-5141481.html",
+   "d": "11월 06일",
+   "ts": "2026-11-06",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "China buys 96% of Vietnam’s durian exports",
+   "u": "https://e.vnexpress.net/news/business/economy/china-buys-96-of-vietnam-s-durian-exports-5141054.html",
+   "d": "11월 06일",
+   "ts": "2026-11-06",
+   "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Students recount moments of panic as fire engulfs Hanoi school, killing one",
+   "u": "https://e.vnexpress.net/news/news/students-recount-moments-of-panic-as-fire-engulfs-hanoi-school-killing-one-5141651.html",
+   "d": "11월 06일",
+   "ts": "2026-11-06",
+   "care": 13
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남, 두리안 수출 中 의존도 ‘심각’…9월 기준 33억 달러 전체 96% 육박",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44447",
+   "d": "11월 06일",
+   "ts": "2026-11-06",
+   "care": 13
+  },
+  {
+   "s": "인사이드비나",
+   "t": "From chance encounters to wedding vows: Russian model's love story with Hanoi man",
+   "u": "https://e.vnexpress.net/news/life/trend/from-chance-encounters-to-wedding-vows-russian-model-s-love-story-with-hanoi-man-5137941.html",
+   "d": "11월 06일",
+   "ts": "2026-11-06",
+   "care": 13
+  },
+  {
+   "s": "인사이드비나",
+   "t": "Vietnam responds to other countries advising their citizens to stock up on emergency supplies",
+   "u": "https://e.vnexpress.net/news/news/politics/vietnam-responds-to-other-countries-advising-their-citizens-to-stock-up-on-emergency-supplies-5141452.html",
+   "d": "11월 06일",
+   "ts": "2026-11-06",
+   "care": 13
+  },
   {
    "s": "인사이드비나",
    "t": "[베트남 주간 이슈] 테슬라 둥지 틀고 삼성 칩 태웠다…무역 1조 달러 신기록과 '중진국 덫'",
@@ -27,14 +99,6 @@
   },
   {
    "s": "인사이드비나",
-   "t": "'Asia's best island' Phu Quoc tops winter holiday wish lists of South Korean families",
-   "u": "https://e.vnexpress.net/news/travel/places/asia-s-best-island-phu-quoc-tops-winter-holiday-wish-lists-of-south-korean-families-5140706.html",
-   "d": "11월 06일",
-   "ts": "2026-11-06",
-   "care": 19
-  },
-  {
-   "s": "인사이드비나",
    "t": "하노이서 제1회 한-베트남 AI·반도체 콘퍼런스 12~13일 개최…VKAISS 2026",
    "u": "https://www.insidevina.com/news/articleView.html?idxno=44446",
    "d": "11월 06일",
@@ -43,35 +107,11 @@
   },
   {
    "s": "인사이드비나",
-   "t": "Former Scottish judo star rebuilds life 10 years after near-fatal Vietnam accident",
-   "u": "https://e.vnexpress.net/news/life/trend/former-scottish-judo-star-rebuilds-life-10-years-after-near-fatal-vietnam-accident-5141481.html",
-   "d": "11월 06일",
-   "ts": "2026-11-06",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "China buys 96% of Vietnam’s durian exports",
-   "u": "https://e.vnexpress.net/news/business/economy/china-buys-96-of-vietnam-s-durian-exports-5141054.html",
-   "d": "11월 06일",
-   "ts": "2026-11-06",
-   "care": 14
-  },
-  {
-   "s": "인사이드비나",
    "t": "베트남 국영 섬유의류社 비나텍스, 실적 호조…9월 기준 연결익 1.5조 동 육박",
    "u": "https://www.insidevina.com/news/articleView.html?idxno=44449",
    "d": "11월 06일",
    "ts": "2026-11-06",
    "care": 14
-  },
-  {
-   "s": "인사이드비나",
-   "t": "Students recount moments of panic as fire engulfs Hanoi school, killing one",
-   "u": "https://e.vnexpress.net/news/news/students-recount-moments-of-panic-as-fire-engulfs-hanoi-school-killing-one-5141651.html",
-   "d": "11월 06일",
-   "ts": "2026-11-06",
-   "care": 13
   },
   {
    "s": "인사이드비나",
