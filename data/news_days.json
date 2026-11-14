@@ -216,7 +216,7 @@
     ],
     "extra": []
    },
-   "n": 30
+   "n": 31
   },
   {
    "ts": "2026-11-13",
@@ -451,7 +451,7 @@
     ],
     "extra": []
    },
-   "n": 29
+   "n": 30
   },
   {
    "ts": "2026-11-13",
@@ -685,6 +685,266 @@
         "name": "nặng",
         "ko": "짧고 무겁게",
         "shape": "↓"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 29
+  },
+  {
+   "ts": "2026-11-13",
+   "day": "Nno=44498",
+   "track": "news",
+   "theme": "손해배상",
+   "title": "한국서 숨진 베트남 근로자, 배상금 한국 소득 적용할까? [양원준 변호사의 리걸 비나]",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44498",
+   "cat": "일자리",
+   "intro": "한국 내 베트남 근로자 사망·중상 시 손해배상 기준 논의 체류 기간에 따라 한국, 베트남 소득 기준으로 차등 적용",
+   "words": [
+    {
+     "vi": "làm việc",
+     "ko": "일하다",
+     "kr_read": "람 비엑",
+     "emoji": "👩‍🏭",
+     "en": "a person working",
+     "tones": [
+      {
+       "syl": "làm",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "việc",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-lam-viec.webp"
+    },
+    {
+     "vi": "tiền",
+     "ko": "돈",
+     "kr_read": "띠엔",
+     "emoji": "💸",
+     "en": "a stack of banknotes",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-tien.webp"
+    },
+    {
+     "vi": "tai nạn",
+     "ko": "사고",
+     "kr_read": "따이 난",
+     "emoji": "💥",
+     "en": "an impact crash",
+     "tones": [
+      {
+       "syl": "tai",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "nạn",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-tai-nan.webp"
+    },
+    {
+     "vi": "bảo hiểm",
+     "ko": "보험",
+     "kr_read": "바오 히엠",
+     "emoji": "📄",
+     "en": "an insurance policy document",
+     "tones": [
+      {
+       "syl": "bảo",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "hiểm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-bao-hiem.webp"
+    },
+    {
+     "vi": "nhà máy",
+     "ko": "공장",
+     "kr_read": "냐 마이",
+     "emoji": "🏭",
+     "en": "a factory building",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-nha-may.webp"
+    },
+    {
+     "vi": "đau",
+     "ko": "아프다 / 다치다",
+     "kr_read": "다우",
+     "emoji": "🤕",
+     "en": "a person holding their head in pain",
+     "tones": [
+      {
+       "syl": "đau",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-dau.webp"
+    }
+   ],
+   "dialog": {
+    "title": "손해배상",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Nếu tôi làm việc nhà máy bị đau thì sao?",
+      "ko": "제가 공장에서 일하다 다치면요?",
+      "kr_read": "네우 또이 람 비엑 냐 마이 비 다우 티 싸오",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Nếu",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "việc",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "nhà",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "bị",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "đau",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "thì",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "sao?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Anh có thể nhận tiền bảo hiểm.",
+      "ko": "보험으로 돈 받을 수 있어요.",
+      "kr_read": "아인 꼬 테 년 띠엔 바오 히엠",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thể",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "nhận",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "bảo",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "hiểm.",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
        }
       ],
       "gloss": []
@@ -7182,5 +7442,5 @@
    "n": 1
   }
  ],
- "updated": "2026-11-14 03:31"
+ "updated": "2026-11-14 10:50"
 }
