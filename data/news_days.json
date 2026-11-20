@@ -251,6 +251,463 @@
     ],
     "extra": []
    },
+   "n": 29
+  },
+  {
+   "ts": "2026-11-19",
+   "day": "Nno=44543",
+   "track": "news",
+   "theme": "스마트폰 구매",
+   "title": "‘동남아 유일’ 베트남, 3분기 스마트폰 출하량 1% 증가…샤오미 삼성전자 제치고 1위 올라",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44543",
+   "cat": "경제",
+   "intro": "3분기 베트남 스마트폰 출하량이 동남아에서 유일하게 늘었습니다. 샤오미가 삼성을 제치고 처음으로 현지 점유율 1위에 올랐습니다.",
+   "words": [
+    {
+     "vi": "linh kiện",
+     "ko": "부품",
+     "kr_read": "린 끼엔",
+     "emoji": "⚙️",
+     "en": "small electronic spare parts",
+     "tones": [
+      {
+       "syl": "linh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "kiện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-linh-kien.webp"
+    },
+    {
+     "vi": "giá",
+     "ko": "가격",
+     "kr_read": "자",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "tăng",
+     "ko": "오르다",
+     "kr_read": "땅",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "tăng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "điện thoại",
+     "ko": "휴대전화",
+     "kr_read": "디엔 토아이",
+     "emoji": "📱",
+     "en": "a smartphone on a table",
+     "tones": [
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "thoại",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-dien-thoai.webp"
+    },
+    {
+     "vi": "máy",
+     "ko": "기계",
+     "kr_read": "마이",
+     "emoji": "💻",
+     "en": "a laptop computer on a desk",
+     "tones": [
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-may.webp"
+    },
+    {
+     "vi": "mua",
+     "ko": "사다",
+     "kr_read": "무어",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "mua",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    }
+   ],
+   "dialog": {
+    "title": "스마트폰 구매",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Bạn mới mua điện thoại à?",
+      "ko": "새 휴대전화 샀어요?",
+      "kr_read": "반 머이 무어 디엔 토아이 아",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Bạn",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "mới",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mua",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "điện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "thoại",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "à?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vâng, giá bây giờ khá rẻ.",
+      "ko": "네, 지금 가격이 꽤 싸요.",
+      "kr_read": "벙 자 버이 저 카 재",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vâng,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "giá",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "bây",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "giờ",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "khá",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "rẻ.",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 28
+  },
+  {
+   "ts": "2026-11-19",
+   "day": "Nno=44545",
+   "track": "news",
+   "theme": "베트남 복권",
+   "title": "“같은 숫자 7개, 자리만 바뀌었다”…베트남 로또 2등 15명 '무더기 당첨'",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44545",
+   "cat": "사회",
+   "intro": "베트남에서 로또 2등 당첨자가 15명이나 나왔습니다. 7개 숫자가 자리만 바뀌어 출제된 결과입니다.",
+   "words": [
+    {
+     "vi": "vé số",
+     "ko": "복권",
+     "kr_read": "배 쏘",
+     "emoji": "🎟️",
+     "en": "a paper lottery ticket",
+     "tones": [
+      {
+       "syl": "vé",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "số",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-ve-so.webp"
+    },
+    {
+     "vi": "trúng",
+     "ko": "당첨되다, 맞히다",
+     "kr_read": "쭝",
+     "emoji": "🎯",
+     "en": "a target hit in the center",
+     "tones": [
+      {
+       "syl": "trúng",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-trung.webp"
+    },
+    {
+     "vi": "số",
+     "ko": "숫자, 번호",
+     "kr_read": "쏘",
+     "emoji": "🔢",
+     "en": "numbers on a grid paper",
+     "tones": [
+      {
+       "syl": "số",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-so.webp"
+    },
+    {
+     "vi": "may mắn",
+     "ko": "행운",
+     "kr_read": "마이 만",
+     "emoji": "🍀",
+     "en": "a green four leaf clover",
+     "tones": [
+      {
+       "syl": "may",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "mắn",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-may-man.webp"
+    },
+    {
+     "vi": "người",
+     "ko": "사람",
+     "kr_read": "응으어이",
+     "emoji": "👤",
+     "en": "a simple human silhouette",
+     "tones": [
+      {
+       "syl": "người",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-nguoi.webp"
+    },
+    {
+     "vi": "tiền",
+     "ko": "돈",
+     "kr_read": "띠엔",
+     "emoji": "💵",
+     "en": "stack of paper money",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-tien.webp"
+    }
+   ],
+   "dialog": {
+    "title": "베트남 복권",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Hôm nay anh có mua vé số không?",
+      "ko": "오늘 복권 샀어요?",
+      "kr_read": "홈 나이 아인 꼬 무어 배 쏘 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Hôm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mua",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "vé",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "số",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, tôi mua một tờ thử may mắn.",
+      "ko": "네, 재미 삼아 한 장 샀어요.",
+      "kr_read": "꼬 또이 무어 못 떠 트 마이 만",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mua",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "một",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "tờ",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "thử",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "may",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mắn.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
    "n": 27
   },
   {
@@ -6493,5 +6950,5 @@
    "n": 1
   }
  ],
- "updated": "2026-11-20 04:40"
+ "updated": "2026-11-20 11:43"
 }
