@@ -258,7 +258,7 @@
     ],
     "extra": []
    },
-   "n": 26
+   "n": 28
   },
   {
    "ts": "2026-11-20",
@@ -499,6 +499,475 @@
         "name": "nặng",
         "ko": "짧고 무겁게",
         "shape": "↓"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 27
+  },
+  {
+   "ts": "2026-11-20",
+   "day": "Nno=44558",
+   "track": "news",
+   "theme": "신공항 개항",
+   "title": "ACV “롱탄신공항, 12월 24일 1단계 개항” 재확인…베트남항공·비엣젯항공 일 30편 운항",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44558",
+   "cat": "정치",
+   "intro": "롱탄신공항이 12월 24일 1단계 개항합니다. 베트남항공 등이 하루 30편을 운항합니다.",
+   "words": [
+    {
+     "vi": "sân bay",
+     "ko": "공항",
+     "kr_read": "썬 바이",
+     "emoji": "✈️",
+     "en": "an international airport terminal building",
+     "tones": [
+      {
+       "syl": "sân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "bay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-san-bay.webp"
+    },
+    {
+     "vi": "đường",
+     "ko": "도로",
+     "kr_read": "드엉",
+     "emoji": "🛣️",
+     "en": "a multi-lane modern highway road",
+     "tones": [
+      {
+       "syl": "đường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-duong.webp"
+    },
+    {
+     "vi": "an toàn",
+     "ko": "안전",
+     "kr_read": "안 또안",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "an",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "toàn",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "giờ",
+     "ko": "시간",
+     "kr_read": "저",
+     "emoji": "⏰",
+     "en": "a modern wall clock showing time",
+     "tones": [
+      {
+       "syl": "giờ",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-gio.webp"
+    },
+    {
+     "vi": "máy bay",
+     "ko": "비행기",
+     "kr_read": "마이 바이",
+     "emoji": "✈️",
+     "en": "a commercial passenger airplane flying",
+     "tones": [
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "bay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-may-bay.webp"
+    },
+    {
+     "vi": "vé máy bay",
+     "ko": "비행기 표",
+     "kr_read": "배 마이 바이",
+     "emoji": "🎫",
+     "en": "an airline boarding pass ticket",
+     "tones": [
+      {
+       "syl": "vé",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "bay",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-ve-may-bay.webp"
+    }
+   ],
+   "dialog": {
+    "title": "신공항 개항",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Sân bay mới mở cửa chưa?",
+      "ko": "새 공항이 문을 열었나요?",
+      "kr_read": "썬 바이 머이 머 끄어 쯔어",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Sân",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "bay",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mới",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "cửa",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "chưa?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Tháng sau mới mở cửa.",
+      "ko": "다음 달에 문을 열어요.",
+      "kr_read": "탕 싸우 머이 머 끄어",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Tháng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "sau",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mới",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mở",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "cửa.",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 26
+  },
+  {
+   "ts": "2026-11-20",
+   "day": "Nno=44557",
+   "track": "news",
+   "theme": "수산물 수출",
+   "title": "베트남, 수산물 수출 호조…10월 기준 100억 달러 돌파 전년동기比 12%↑",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44557",
+   "cat": "경제",
+   "intro": "올해 베트남 수산물 수출액이 100억 달러를 넘었습니다. 연말 수요 증가로 연간 120억 달러 달성이 기대됩니다.",
+   "words": [
+    {
+     "vi": "con tôm",
+     "ko": "새우",
+     "kr_read": "꼰 똠",
+     "emoji": "🦐",
+     "en": "a fresh shrimp",
+     "tones": [
+      {
+       "syl": "con",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "tôm",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-con-tom.webp"
+    },
+    {
+     "vi": "con cua",
+     "ko": "게",
+     "kr_read": "꼰 꾸어",
+     "emoji": "🦀",
+     "en": "a red crab",
+     "tones": [
+      {
+       "syl": "con",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "cua",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-con-cua.webp"
+    },
+    {
+     "vi": "xuất khẩu",
+     "ko": "수출",
+     "kr_read": "쑤엇 커우",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "xuất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "khẩu",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ]
+    },
+    {
+     "vi": "thị trường",
+     "ko": "시장",
+     "kr_read": "티 쯔엉",
+     "emoji": "🏪",
+     "en": "a busy local market",
+     "tones": [
+      {
+       "syl": "thị",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "trường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-thi-truong.webp"
+    },
+    {
+     "vi": "chất lượng",
+     "ko": "품질",
+     "kr_read": "쩟 르엉",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "chất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "lượng",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "hải sản",
+     "ko": "해산물",
+     "kr_read": "하이 싼",
+     "emoji": "🦐",
+     "en": "fresh seafood display",
+     "tones": [
+      {
+       "syl": "hải",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "sản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-hai-san.webp"
+    }
+   ],
+   "dialog": {
+    "title": "수산물 수출",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Tôm xuất khẩu có đắt không?",
+      "ko": "수출용 새우는 비싼가요?",
+      "kr_read": "똠 쑤엇 커우 꼬 닷 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Tôm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "xuất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "khẩu",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đắt",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Không đắt, giá cả rất tốt.",
+      "ko": "비싸지 않아요, 가격이 아주 좋아요.",
+      "kr_read": "콩 닷 자 까 젓 똣",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Không",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đắt,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "giá",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "cả",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tốt.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
        }
       ],
       "gloss": []
@@ -6280,5 +6749,5 @@
    "n": 1
   }
  ],
- "updated": "2026-11-21 04:20"
+ "updated": "2026-11-21 12:00"
 }
