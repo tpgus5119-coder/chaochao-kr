@@ -2,6 +2,246 @@
  "days": [
   {
    "ts": "2026-11-20",
+   "day": "Nno=44553",
+   "track": "news",
+   "theme": "좋은 직장",
+   "title": "‘2026년 베트남 일하기 좋은 직장 100곳’에 韓기업 대거 포함…CJ푸드·오리온 등",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44553",
+   "cat": "경제",
+   "intro": "2026년 베트남 일하기 좋은 100대 기업 발표. CJ, 오리온 등 한국계 기업 10곳 포함.",
+   "words": [
+    {
+     "vi": "nhà máy",
+     "ko": "공장",
+     "kr_read": "냐 마이",
+     "emoji": "🏭",
+     "en": "a large factory building with chimneys",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-nha-may.webp"
+    },
+    {
+     "vi": "làm việc",
+     "ko": "일하다",
+     "kr_read": "람 비엑",
+     "emoji": "🧑‍💻",
+     "en": "a person working at a laptop desk",
+     "tones": [
+      {
+       "syl": "làm",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "việc",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-lam-viec.webp"
+    },
+    {
+     "vi": "nhân viên",
+     "ko": "직원",
+     "kr_read": "년 비엔",
+     "emoji": "👔",
+     "en": "an office worker wearing a suit",
+     "tones": [
+      {
+       "syl": "nhân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "viên",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-nhan-vien.webp"
+    },
+    {
+     "vi": "môi trường",
+     "ko": "환경",
+     "kr_read": "모이 쯔엉",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "môi",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "trường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ]
+    },
+    {
+     "vi": "phát triển",
+     "ko": "발전하다",
+     "kr_read": "팟 찌엔",
+     "emoji": "📈",
+     "en": "a line chart going up",
+     "tones": [
+      {
+       "syl": "phát",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "triển",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-phat-trien.webp"
+    },
+    {
+     "vi": "chọn",
+     "ko": "선택하다",
+     "kr_read": "쫀",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "chọn",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    }
+   ],
+   "dialog": {
+    "title": "좋은 직장",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Công ty này làm việc tốt không?",
+      "ko": "이 회사는 일하기 좋아요?",
+      "kr_read": "꽁 띠 나이 람 비엑 똣 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "việc",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "tốt",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Môi trường làm việc rất tốt.",
+      "ko": "일하는 환경이 아주 좋아요.",
+      "kr_read": "모이 쯔엉 람 비엑 젓 똣",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Môi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "trường",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "làm",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "việc",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tốt.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 30
+  },
+  {
+   "ts": "2026-11-20",
    "day": "Nno=44562",
    "track": "news",
    "theme": "전기 오토바이",
@@ -258,7 +498,7 @@
     ],
     "extra": []
    },
-   "n": 28
+   "n": 29
   },
   {
    "ts": "2026-11-20",
@@ -506,7 +746,7 @@
     ],
     "extra": []
    },
-   "n": 27
+   "n": 28
   },
   {
    "ts": "2026-11-20",
@@ -735,7 +975,7 @@
     ],
     "extra": []
    },
-   "n": 26
+   "n": 27
   },
   {
    "ts": "2026-11-20",
@@ -975,7 +1215,7 @@
     ],
     "extra": []
    },
-   "n": 25
+   "n": 26
   },
   {
    "ts": "2026-11-20",
@@ -1214,6 +1454,266 @@
         "name": "ngang",
         "ko": "평평하게 그대로",
         "shape": "—"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 25
+  },
+  {
+   "ts": "2026-11-20",
+   "day": "Nno=44554",
+   "track": "news",
+   "theme": "공휴일 휴무",
+   "title": "베트남 “연휴 조성 위한 근무일 교환 법제화 불가”…노동법 개정안",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44554",
+   "cat": "일자리",
+   "intro": "베트남 내무부가 연휴 교환 일률 적용 법제화에 반대했습니다. 공휴일은 기업 여건에 맞춰 유연하게 조정할 방침입니다.",
+   "words": [
+    {
+     "vi": "nghỉ lễ",
+     "ko": "공휴일 휴무",
+     "kr_read": "응이 레",
+     "emoji": "📅",
+     "en": "a calendar with a holiday date marked",
+     "tones": [
+      {
+       "syl": "nghỉ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "lễ",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      }
+     ],
+     "img": "n-nghi-le.webp"
+    },
+    {
+     "vi": "lịch làm",
+     "ko": "근무 일정",
+     "kr_read": "릭 람",
+     "emoji": "📋",
+     "en": "a work schedule printed on paper",
+     "tones": [
+      {
+       "syl": "lịch",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "làm",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-lich-lam.webp"
+    },
+    {
+     "vi": "sản xuất",
+     "ko": "생산하다",
+     "kr_read": "싼 쑤엇",
+     "emoji": "🏭",
+     "en": "a factory building",
+     "tones": [
+      {
+       "syl": "sản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "xuất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-san-xuat.webp"
+    },
+    {
+     "vi": "tuần sau",
+     "ko": "다음 주",
+     "kr_read": "뚜언 싸우",
+     "emoji": "🗓️",
+     "en": "a desktop calendar",
+     "tones": [
+      {
+       "syl": "tuần",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "sau",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-tuan-sau.webp"
+    },
+    {
+     "vi": "công ty",
+     "ko": "회사",
+     "kr_read": "꽁 띠",
+     "emoji": "🏢",
+     "en": "a tall office building",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ty",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-ty.webp"
+    },
+    {
+     "vi": "ngày nghỉ",
+     "ko": "쉬는 날",
+     "kr_read": "응아이 응이",
+     "emoji": "🏖️",
+     "en": "a lounge chair under a sun umbrella",
+     "tones": [
+      {
+       "syl": "ngày",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "nghỉ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-ngay-nghi.webp"
+    }
+   ],
+   "dialog": {
+    "title": "공휴일 휴무",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Tuần sau công ty có nghỉ lễ không?",
+      "ko": "다음 주에 회사는 공휴일에 쉬나요?",
+      "kr_read": "뚜언 싸우 꽁 띠 꼬 응이 레 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Tuần",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "sau",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nghỉ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "lễ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, tuần sau chúng ta nghỉ lễ.",
+      "ko": "네, 다음 주에 우리 쉬어요.",
+      "kr_read": "꼬 뚜언 싸우 쭝 따 응이 레",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tuần",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "sau",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "chúng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ta",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "nghỉ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "lễ.",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
        }
       ],
       "gloss": []
@@ -6749,5 +7249,5 @@
    "n": 1
   }
  ],
- "updated": "2026-11-21 12:00"
+ "updated": "2026-11-22 03:20"
 }
