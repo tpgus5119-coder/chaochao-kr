@@ -1,6 +1,242 @@
 {
  "days": [
   {
+   "ts": "2026-11-21",
+   "day": "Nxno=1955",
+   "track": "news",
+   "theme": "은행 송금",
+   "title": "KB증권 베트남법인서 414억동(약 21억원) '수상한 분산 송금 사고'...\"베트남 현지 자금관리 도마에\" [한-베 현지 사태 돋보기]",
+   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1955",
+   "cat": "사회",
+   "intro": "KB증권 베트남법인 계좌에서 414억 동이 외부로 유출되었습니다. 현지 은행 수십 개 계좌로 분산 송금되어 조사가 진행 중입니다.",
+   "words": [
+    {
+     "vi": "ngân hàng",
+     "ko": "은행",
+     "kr_read": "응언 항",
+     "emoji": "🏦",
+     "en": "a modern bank building",
+     "tones": [
+      {
+       "syl": "ngân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-ngan-hang.webp"
+    },
+    {
+     "vi": "tài khoản",
+     "ko": "계좌",
+     "kr_read": "따이 코안",
+     "emoji": "💳",
+     "en": "a plastic bank card",
+     "tones": [
+      {
+       "syl": "tài",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "khoản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-tai-khoan.webp"
+    },
+    {
+     "vi": "chuyển tiền",
+     "ko": "송금하다",
+     "kr_read": "쭈옌 띠엔",
+     "emoji": "📱",
+     "en": "a person sending money using a smartphone",
+     "tones": [
+      {
+       "syl": "chuyển",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-chuyen-tien.webp"
+    },
+    {
+     "vi": "kiểm tra",
+     "ko": "확인하다",
+     "kr_read": "끼엠 짜",
+     "emoji": "📋",
+     "en": "a person checking items on a clipboard",
+     "tones": [
+      {
+       "syl": "kiểm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tra",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-kiem-tra.webp"
+    },
+    {
+     "vi": "công ty",
+     "ko": "회사",
+     "kr_read": "꽁 띠",
+     "emoji": "🏢",
+     "en": "a modern office building",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ty",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-ty.webp"
+    },
+    {
+     "vi": "mật khẩu",
+     "ko": "비밀번호",
+     "kr_read": "멋 커우",
+     "emoji": "🔒",
+     "en": "a metal padlock",
+     "tones": [
+      {
+       "syl": "mật",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "khẩu",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-mat-khau.webp"
+    }
+   ],
+   "dialog": {
+    "title": "은행 송금",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Em đã chuyển tiền chưa?",
+      "ko": "돈 송금 이미 했어요?",
+      "kr_read": "앰 다 쭈옌 띠엔 쯔어",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Em",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đã",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "chuyển",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "chưa?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Em vừa chuyển tiền rồi ạ.",
+      "ko": "저 방금 송금했어요.",
+      "kr_read": "앰 브어 쭈옌 띠엔 조이 아",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Em",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "vừa",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "chuyển",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "rồi",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "ạ.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 31
+  },
+  {
    "ts": "2026-11-20",
    "day": "Nno=44553",
    "track": "news",
@@ -7249,5 +7485,5 @@
    "n": 1
   }
  ],
- "updated": "2026-11-22 03:20"
+ "updated": "2026-11-22 10:42"
 }
