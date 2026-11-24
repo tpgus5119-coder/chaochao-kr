@@ -1,6 +1,1702 @@
 {
  "days": [
   {
+   "ts": "2026-11-24",
+   "day": "Nno=44581",
+   "track": "news",
+   "theme": "증권사 순위",
+   "title": "베트남 진출 20년 앞둔 미래에셋證, 한투에 '한국계 1위' 내줬다 [베트남 진출기업 해부]",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44581",
+   "cat": "경제",
+   "intro": "미래에셋증권 베트남법인이 한국계 1위 자리를 한국투자증권에 내줬습니다. 위탁매매 수수료 감소와 신용공여 잔액 정체로 점유율 순위가 밀렸습니다.",
+   "words": [
+    {
+     "vi": "công ty",
+     "ko": "회사",
+     "kr_read": "꽁 띠",
+     "emoji": "🏢",
+     "en": "an office building",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ty",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-ty.webp"
+    },
+    {
+     "vi": "tiền",
+     "ko": "돈",
+     "kr_read": "띠엔",
+     "emoji": "💵",
+     "en": "paper money bills",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-tien.webp"
+    },
+    {
+     "vi": "chứng khoán",
+     "ko": "증권",
+     "kr_read": "쯩 코안",
+     "emoji": "📈",
+     "en": "a stock market chart on a screen",
+     "tones": [
+      {
+       "syl": "chứng",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "khoán",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-chung-khoan.webp"
+    },
+    {
+     "vi": "thị trường",
+     "ko": "시장",
+     "kr_read": "티 쯔엉",
+     "emoji": "🏪",
+     "en": "a busy store market",
+     "tones": [
+      {
+       "syl": "thị",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "trường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-thi-truong.webp"
+    },
+    {
+     "vi": "đầu tư",
+     "ko": "투자하다",
+     "kr_read": "더우 뜨",
+     "emoji": "💰",
+     "en": "a piggy bank with gold coins",
+     "tones": [
+      {
+       "syl": "đầu",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "tư",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-dau-tu.webp"
+    },
+    {
+     "vi": "giảm",
+     "ko": "감소하다",
+     "kr_read": "잠",
+     "emoji": "📉",
+     "en": "a red arrow pointing downward on a chart",
+     "tones": [
+      {
+       "syl": "giảm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-giam.webp"
+    }
+   ],
+   "dialog": {
+    "title": "증권사 순위",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Công ty mình đứng đầu thị trường à?",
+      "ko": "우리 회사가 시장 1위예요?",
+      "kr_read": "꽁 띠 민 등 더우 티 쯔엉 아",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mình",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "đứng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "đầu",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "thị",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "trường",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "à?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Không, bây giờ đứng thứ hai rồi.",
+      "ko": "아니요, 지금은 2위예요.",
+      "kr_read": "콩 버이 저 등 트 하이 조이",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Không,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "bây",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "giờ",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "đứng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thứ",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "hai",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "rồi.",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 30
+  },
+  {
+   "ts": "2026-11-24",
+   "day": "Nno=44574",
+   "track": "news",
+   "theme": "중소기업 지원",
+   "title": "베트남, 내년부터 신설 中企 법인세·산단임대료 지원…중소기업진흥법",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44574",
+   "cat": "정치",
+   "intro": "베트남이 내년부터 중소기업 법인세 감면과 산단 임대료를 지원합니다. 개정 중기업법은 세제 혜택과 공공조달 참여 확대 등을 담았습니다.",
+   "words": [
+    {
+     "vi": "thuế",
+     "ko": "세금",
+     "kr_read": "투에",
+     "emoji": "💵",
+     "en": "a tax payment paper",
+     "tones": [
+      {
+       "syl": "thuế",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-thue.webp"
+    },
+    {
+     "vi": "tiền thuê",
+     "ko": "임대료",
+     "kr_read": "띠엔 투에",
+     "emoji": "🔑",
+     "en": "a house key on money bills",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "thuê",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-tien-thue.webp"
+    },
+    {
+     "vi": "hỗ trợ",
+     "ko": "지원하다",
+     "kr_read": "호 쩌",
+     "emoji": "🤝",
+     "en": "two people shaking hands",
+     "tones": [
+      {
+       "syl": "hỗ",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      },
+      {
+       "syl": "trợ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-ho-tro.webp"
+    },
+    {
+     "vi": "hợp đồng",
+     "ko": "계약서",
+     "kr_read": "헙 동",
+     "emoji": "📄",
+     "en": "a signed contract document",
+     "tones": [
+      {
+       "syl": "hợp",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "đồng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-hop-dong.webp"
+    },
+    {
+     "vi": "nhà nước",
+     "ko": "국가",
+     "kr_read": "냐 느억",
+     "emoji": "🏛️",
+     "en": "a government building with pillars",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "nước",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-nha-nuoc.webp"
+    },
+    {
+     "vi": "công ty",
+     "ko": "회사",
+     "kr_read": "꽁 띠",
+     "emoji": "🏢",
+     "en": "a modern office building",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ty",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-ty.webp"
+    }
+   ],
+   "dialog": {
+    "title": "중소기업 지원",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Công ty có được hỗ trợ tiền thuê không?",
+      "ko": "회사가 임대료 지원을 받을 수 있나요?",
+      "kr_read": "꽁 띠 꼬 드억 호 쩌 띠엔 투에 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "được",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "hỗ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "trợ",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "thuê",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, sang năm sẽ được hỗ trợ.",
+      "ko": "네, 내년에 지원을 받을 거예요.",
+      "kr_read": "꼬 쌍 남 쌔 드억 호 쩌",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "sang",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "năm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "sẽ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "được",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "hỗ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "trợ.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 29
+  },
+  {
+   "ts": "2026-11-24",
+   "day": "Nno=44580",
+   "track": "news",
+   "theme": "전기 요금 개정",
+   "title": "베트남, 가정용에도 ‘시간대별 전기요금’ 적용 ‘초읽기’…개정 전력법",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44580",
+   "cat": "정치",
+   "intro": "베트남 가정용 전기요금에 시간대별 차등 요금제가 도입됩니다. 개정 전력법은 내년 6월부터 단계적으로 시행될 예정입니다.",
+   "words": [
+    {
+     "vi": "điện",
+     "ko": "전기",
+     "kr_read": "디엔",
+     "emoji": "⚡",
+     "en": "an electric lightning bolt icon",
+     "tones": [
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-dien.webp"
+    },
+    {
+     "vi": "tiền điện",
+     "ko": "전기 요금",
+     "kr_read": "띠엔 디엔",
+     "emoji": "💸",
+     "en": "an electricity bill paper",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "điện",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-tien-dien.webp"
+    },
+    {
+     "vi": "giá",
+     "ko": "가격",
+     "kr_read": "자",
+     "emoji": "🏷️",
+     "en": "a price tag",
+     "tones": [
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-gia.webp"
+    },
+    {
+     "vi": "dùng",
+     "ko": "사용하다",
+     "kr_read": "중",
+     "emoji": "🔌",
+     "en": "a plug in an electrical outlet",
+     "tones": [
+      {
+       "syl": "dùng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-dung.webp"
+    },
+    {
+     "vi": "giờ",
+     "ko": "시간",
+     "kr_read": "저",
+     "emoji": "⏰",
+     "en": "a wall clock showing time",
+     "tones": [
+      {
+       "syl": "giờ",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-gio.webp"
+    },
+    {
+     "vi": "tiết kiệm",
+     "ko": "절약하다",
+     "kr_read": "띠엣 끼엠",
+     "emoji": "🪙",
+     "en": "a pink piggy bank",
+     "tones": [
+      {
+       "syl": "tiết",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "kiệm",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-tiet-kiem.webp"
+    }
+   ],
+   "dialog": {
+    "title": "전기 요금 개정",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Tiền điện tháng này đắt quá!",
+      "ko": "이번 달 전기 요금이 너무 비싸요!",
+      "kr_read": "띠엔 디엔 탕 나이 닷 꽈",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "điện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "tháng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "đắt",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "quá!",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Chúng ta phải tiết kiệm điện.",
+      "ko": "우리는 전기를 절약해야 해요.",
+      "kr_read": "쭝 따 파이 띠엣 끼엠 디엔",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Chúng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ta",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "phải",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "tiết",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "kiệm",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "điện.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 28
+  },
+  {
+   "ts": "2026-11-24",
+   "day": "Nno=44579",
+   "track": "news",
+   "theme": "신공장 착공",
+   "title": "베트남 하이퐁, 1.6조 동 규모 ‘희토류’ 정제공장 착공…연간 1만 톤 생산",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44579",
+   "cat": "공장·산업",
+   "intro": "베트남 하이퐁에 1.6조 동 규모 희토류 공장이 착공됐습니다. 고순도 소재를 직접 생산해 첨단 공급망에 참여할 계획입니다.",
+   "words": [
+    {
+     "vi": "nhà máy",
+     "ko": "공장",
+     "kr_read": "냐 마이",
+     "emoji": "🏭",
+     "en": "a large industrial factory building",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-nha-may.webp"
+    },
+    {
+     "vi": "khởi công",
+     "ko": "착공하다",
+     "kr_read": "커이 꽁",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "khởi",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    },
+    {
+     "vi": "sản xuất",
+     "ko": "생산하다",
+     "kr_read": "싼 쑤엇",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "sản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "xuất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "vật liệu",
+     "ko": "소재 / 재료",
+     "kr_read": "벗 리에우",
+     "emoji": "🧱",
+     "en": "a stack of raw construction materials",
+     "tones": [
+      {
+       "syl": "vật",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "liệu",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-vat-lieu.webp"
+    },
+    {
+     "vi": "công nghệ",
+     "ko": "기술",
+     "kr_read": "꽁 응에",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "nghệ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "môi trường",
+     "ko": "환경",
+     "kr_read": "모이 쯔엉",
+     "emoji": "🌳",
+     "en": "a green park with fresh trees",
+     "tones": [
+      {
+       "syl": "môi",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "trường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-moi-truong.webp"
+    }
+   ],
+   "dialog": {
+    "title": "신공장 착공",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Nhà máy này sản xuất gì?",
+      "ko": "이 공장은 무엇을 생산하나요?",
+      "kr_read": "냐 마이 나이 싼 쑤엇 지",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Nhà",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "sản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "xuất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "gì?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Chúng tôi sản xuất vật liệu mới.",
+      "ko": "저희는 새 소재를 생산합니다.",
+      "kr_read": "쭝 또이 싼 쑤엇 벗 리에우 머이",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Chúng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tôi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "sản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "xuất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "vật",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "liệu",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "mới.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 27
+  },
+  {
+   "ts": "2026-11-24",
+   "day": "Nno=44578",
+   "track": "news",
+   "theme": "뗏 위로금 지원",
+   "title": "호치민시, 관내 근로자 37만 명 대상 뗏(설) 위로금 전달…총 3,700억 동",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44578",
+   "cat": "일자리",
+   "intro": "호치민시가 근로자 37만 명에게 뗏 위로금을 지급합니다. 노조는 현금 지원과 귀향표 제공 등 복지를 추진합니다.",
+   "words": [
+    {
+     "vi": "công nhân",
+     "ko": "근로자",
+     "kr_read": "꽁 년",
+     "emoji": "👷",
+     "en": "a factory worker in uniform",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "nhân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-nhan.webp"
+    },
+    {
+     "vi": "quà",
+     "ko": "선물",
+     "kr_read": "꽈",
+     "emoji": "🎁",
+     "en": "a wrapped gift box with a ribbon",
+     "tones": [
+      {
+       "syl": "quà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-qua.webp"
+    },
+    {
+     "vi": "tiền thưởng",
+     "ko": "상여금",
+     "kr_read": "띠엔 트엉",
+     "emoji": "💵",
+     "en": "a stack of paper money banknotes",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "thưởng",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-tien-thuong.webp"
+    },
+    {
+     "vi": "vé xe",
+     "ko": "버스 표",
+     "kr_read": "배 쌔",
+     "emoji": "🎫",
+     "en": "a paper bus ticket",
+     "tones": [
+      {
+       "syl": "vé",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "xe",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-ve-xe.webp"
+    },
+    {
+     "vi": "hỗ trợ",
+     "ko": "지원하다",
+     "kr_read": "호 쩌",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "hỗ",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      },
+      {
+       "syl": "trợ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ]
+    },
+    {
+     "vi": "công ty",
+     "ko": "회사",
+     "kr_read": "꽁 띠",
+     "emoji": "🏢",
+     "en": "a modern office company building",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ty",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-ty.webp"
+    }
+   ],
+   "dialog": {
+    "title": "뗏 위로금 지원",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Công ty có hỗ trợ vé xe Tết không?",
+      "ko": "회사에서 뗏 버스표를 지원해주나요?",
+      "kr_read": "꽁 띠 꼬 호 쩌 배 쌔 뗏 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "hỗ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "trợ",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "vé",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "xe",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "Tết",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, công ty sẽ tặng vé xe.",
+      "ko": "네, 회사에서 버스표를 줄 거예요.",
+      "kr_read": "꼬 꽁 띠 쌔 땅 배 쌔",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "sẽ",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "tặng",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "vé",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "xe.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 26
+  },
+  {
+   "ts": "2026-11-24",
+   "day": "Nno=44573",
+   "track": "news",
+   "theme": "공장 실적",
+   "title": "삼성베트남 생산법인 4社, 9월까지 매출 83.4조 원 전년동기比 23.8%↑…전사 비중 16%대",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44573",
+   "cat": "경제",
+   "intro": "삼성 베트남 4개 법인 9월 누적 매출 83.4조 원 전년 동기 대비 23.8% 증가하며 16% 비중 차지",
+   "words": [
+    {
+     "vi": "nhà máy",
+     "ko": "공장",
+     "kr_read": "냐 마이",
+     "emoji": "🏭",
+     "en": "a large modern factory building",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-nha-may.webp"
+    },
+    {
+     "vi": "sản xuất",
+     "ko": "생산하다",
+     "kr_read": "싼 쑤엇",
+     "emoji": "⚙️",
+     "en": "a factory assembly line manufacturing products",
+     "tones": [
+      {
+       "syl": "sản",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "xuất",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-san-xuat.webp"
+    },
+    {
+     "vi": "doanh thu",
+     "ko": "매출",
+     "kr_read": "조아인 투",
+     "emoji": "📈",
+     "en": "a financial bar chart showing increasing revenue",
+     "tones": [
+      {
+       "syl": "doanh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "thu",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-doanh-thu.webp"
+    },
+    {
+     "vi": "lợi nhuận",
+     "ko": "순이익",
+     "kr_read": "러이 누연",
+     "emoji": "💰",
+     "en": "stacks of gold coins and money bags",
+     "tones": [
+      {
+       "syl": "lợi",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "nhuận",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-loi-nhuan.webp"
+    },
+    {
+     "vi": "tăng",
+     "ko": "증가하다",
+     "kr_read": "땅",
+     "emoji": "⬆️",
+     "en": "a green arrow pointing up on a financial graph",
+     "tones": [
+      {
+       "syl": "tăng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-tang.webp"
+    },
+    {
+     "vi": "giảm",
+     "ko": "감소하다",
+     "kr_read": "잠",
+     "emoji": "⬇️",
+     "en": "a red arrow pointing down on a financial graph",
+     "tones": [
+      {
+       "syl": "giảm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-giam.webp"
+    }
+   ],
+   "dialog": {
+    "title": "공장 실적",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Doanh thu tháng này thế nào?",
+      "ko": "이번 달 매출은 어때요?",
+      "kr_read": "조아인 투 탕 나이 테 나오",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Doanh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "thu",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tháng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "thế",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nào?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Tháng này doanh thu tăng ạ.",
+      "ko": "이번 달 매출은 늘었어요.",
+      "kr_read": "탕 나이 조아인 투 땅 아",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Tháng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "doanh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "thu",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tăng",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ạ.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 25
+  },
+  {
+   "ts": "2026-11-24",
+   "day": "Nno=44576",
+   "track": "news",
+   "theme": "가스 사고",
+   "title": "베트남 하노이 먹자골목서 가스폭발 추정 사고…사상자 잇따라",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44576",
+   "cat": "사회",
+   "intro": "하노이 식당에서 가스 폭발 추정 사고 발생 건물 붕괴로 최소 2명 사망·6명 부상",
+   "words": [
+    {
+     "vi": "bình gas",
+     "ko": "가스통",
+     "kr_read": "빈 가",
+     "emoji": "⛽",
+     "en": "a steel gas cylinder bottle",
+     "tones": [
+      {
+       "syl": "bình",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "gas",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-binh-gas.webp"
+    },
+    {
+     "vi": "nhà hàng",
+     "ko": "식당",
+     "kr_read": "냐 항",
+     "emoji": "🍽️",
+     "en": "a small local restaurant front",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-nha-hang.webp"
+    },
+    {
+     "vi": "cảnh sát",
+     "ko": "경찰",
+     "kr_read": "까인 쌋",
+     "emoji": "👮",
+     "en": "a police officer in uniform",
+     "tones": [
+      {
+       "syl": "cảnh",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "sát",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-canh-sat.webp"
+    },
+    {
+     "vi": "cứu hỏa",
+     "ko": "소방대",
+     "kr_read": "끄우 호아",
+     "emoji": "🚒",
+     "en": "a red fire truck",
+     "tones": [
+      {
+       "syl": "cứu",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "hỏa",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-cuu-hoa.webp"
+    },
+    {
+     "vi": "tai nạn",
+     "ko": "사고",
+     "kr_read": "따이 난",
+     "emoji": "💥",
+     "en": "an accident scene with broken glass",
+     "tones": [
+      {
+       "syl": "tai",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "nạn",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-tai-nan.webp"
+    },
+    {
+     "vi": "nguy hiểm",
+     "ko": "위험하다",
+     "kr_read": "응우이 히엠",
+     "emoji": "⚠️",
+     "en": "a yellow warning sign with an exclamation mark",
+     "tones": [
+      {
+       "syl": "nguy",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hiểm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-nguy-hiem.webp"
+    }
+   ],
+   "dialog": {
+    "title": "가스 사고",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Chuyện gì xảy ra thế?",
+      "ko": "무슨 일이 일어났어요?",
+      "kr_read": "쭈옌 지 싸이 자 테",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Chuyện",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "gì",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "xảy",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "ra",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "thế?",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có nổ gas, phải cẩn thận.",
+      "ko": "가스 폭발이 있어서 조심해야 해요.",
+      "kr_read": "꼬 노 가 파이 껀 턴",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nổ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "gas,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "phải",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "cẩn",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "thận.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 24
+  },
+  {
    "ts": "2026-11-23",
    "day": "Nno=44566",
    "track": "news",
@@ -251,7 +1947,7 @@
     ],
     "extra": []
    },
-   "n": 27
+   "n": 23
   },
   {
    "ts": "2026-11-23",
@@ -503,7 +2199,7 @@
     ],
     "extra": []
    },
-   "n": 26
+   "n": 22
   },
   {
    "ts": "2026-11-23",
@@ -745,7 +2441,7 @@
     ],
     "extra": []
    },
-   "n": 25
+   "n": 21
   },
   {
    "ts": "2026-11-23",
@@ -951,7 +2647,7 @@
     ],
     "extra": []
    },
-   "n": 24
+   "n": 20
   },
   {
    "ts": "2026-11-23",
@@ -1210,7 +2906,7 @@
     ],
     "extra": []
    },
-   "n": 23
+   "n": 19
   },
   {
    "ts": "2026-11-23",
@@ -1457,7 +3153,7 @@
     ],
     "extra": []
    },
-   "n": 22
+   "n": 18
   },
   {
    "ts": "2026-11-22",
@@ -1728,7 +3424,7 @@
     ],
     "extra": []
    },
-   "n": 21
+   "n": 17
   },
   {
    "ts": "2026-11-21",
@@ -1964,7 +3660,7 @@
     ],
     "extra": []
    },
-   "n": 20
+   "n": 16
   },
   {
    "ts": "2026-11-20",
@@ -2204,7 +3900,7 @@
     ],
     "extra": []
    },
-   "n": 19
+   "n": 15
   },
   {
    "ts": "2026-11-20",
@@ -2464,7 +4160,7 @@
     ],
     "extra": []
    },
-   "n": 18
+   "n": 14
   },
   {
    "ts": "2026-11-20",
@@ -2712,7 +4408,7 @@
     ],
     "extra": []
    },
-   "n": 17
+   "n": 13
   },
   {
    "ts": "2026-11-20",
@@ -2941,7 +4637,7 @@
     ],
     "extra": []
    },
-   "n": 16
+   "n": 12
   },
   {
    "ts": "2026-11-20",
@@ -3181,7 +4877,7 @@
     ],
     "extra": []
    },
-   "n": 15
+   "n": 11
   },
   {
    "ts": "2026-11-20",
@@ -3427,7 +5123,7 @@
     ],
     "extra": []
    },
-   "n": 14
+   "n": 10
   },
   {
    "ts": "2026-11-20",
@@ -3687,7 +5383,7 @@
     ],
     "extra": []
    },
-   "n": 13
+   "n": 9
   },
   {
    "ts": "2026-11-19",
@@ -3940,7 +5636,7 @@
     ],
     "extra": []
    },
-   "n": 12
+   "n": 8
   },
   {
    "ts": "2026-11-19",
@@ -4155,7 +5851,7 @@
     ],
     "extra": []
    },
-   "n": 11
+   "n": 7
   },
   {
    "ts": "2026-11-19",
@@ -4397,7 +6093,7 @@
     ],
     "extra": []
    },
-   "n": 10
+   "n": 6
   },
   {
    "ts": "2026-11-19",
@@ -4651,7 +6347,7 @@
     ],
     "extra": []
    },
-   "n": 9
+   "n": 5
   },
   {
    "ts": "2026-11-19",
@@ -4910,7 +6606,7 @@
     ],
     "extra": []
    },
-   "n": 8
+   "n": 4
   },
   {
    "ts": "2026-11-18",
@@ -5116,7 +6812,7 @@
     ],
     "extra": []
    },
-   "n": 7
+   "n": 3
   },
   {
    "ts": "2026-11-18",
@@ -5363,7 +7059,7 @@
     ],
     "extra": []
    },
-   "n": 6
+   "n": 2
   },
   {
    "ts": "2026-11-18",
@@ -5587,987 +7283,8 @@
     ],
     "extra": []
    },
-   "n": 5
-  },
-  {
-   "ts": "2026-11-17",
-   "day": "Nxno=1953",
-   "track": "news",
-   "theme": "은행 거래",
-   "title": "베트남, 은행권 AI 금융거래 감독 강화...고위험 거래 기준 마련",
-   "u": "http://www.vietnamkoreatimes.com/news/articleView.html?idxno=1953",
-   "cat": "경제",
-   "intro": "베트남 중앙은행이 AI 금융거래 감독을 강화합니다. 금액에 따라 거래 위험 등급과 한도가 적용됩니다.",
-   "words": [
-    {
-     "vi": "ngân hàng",
-     "ko": "은행",
-     "kr_read": "응언 항",
-     "emoji": "🏦",
-     "en": "a modern bank building",
-     "tones": [
-      {
-       "syl": "ngân",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "hàng",
-       "name": "huyền",
-       "ko": "낮게 내려감",
-       "shape": "＼"
-      }
-     ],
-     "img": "n-ngan-hang.webp"
-    },
-    {
-     "vi": "hạn mức",
-     "ko": "한도",
-     "kr_read": "한 믁",
-     "emoji": "📈",
-     "en": "a bar chart showing levels",
-     "tones": [
-      {
-       "syl": "hạn",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      },
-      {
-       "syl": "mức",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-han-muc.webp"
-    },
-    {
-     "vi": "an toàn",
-     "ko": "안전",
-     "kr_read": "안 또안",
-     "emoji": "🛡️",
-     "en": "a shiny metal shield",
-     "tones": [
-      {
-       "syl": "an",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "toàn",
-       "name": "huyền",
-       "ko": "낮게 내려감",
-       "shape": "＼"
-      }
-     ],
-     "img": "n-an-toan.webp"
-    },
-    {
-     "vi": "kiểm tra",
-     "ko": "확인",
-     "kr_read": "끼엠 짜",
-     "emoji": "🔍",
-     "en": "a magnifying glass",
-     "tones": [
-      {
-       "syl": "kiểm",
-       "name": "hỏi",
-       "ko": "내렸다 올림",
-       "shape": "∨"
-      },
-      {
-       "syl": "tra",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-kiem-tra.webp"
-    },
-    {
-     "vi": "tiền",
-     "ko": "돈",
-     "kr_read": "띠엔",
-     "emoji": "💵",
-     "en": "a stack of banknotes",
-     "tones": [
-      {
-       "syl": "tiền",
-       "name": "huyền",
-       "ko": "낮게 내려감",
-       "shape": "＼"
-      }
-     ],
-     "img": "n-tien.webp"
-    },
-    {
-     "vi": "tài khoản",
-     "ko": "계좌",
-     "kr_read": "따이 코안",
-     "emoji": "💳",
-     "en": "a plastic credit card",
-     "tones": [
-      {
-       "syl": "tài",
-       "name": "huyền",
-       "ko": "낮게 내려감",
-       "shape": "＼"
-      },
-      {
-       "syl": "khoản",
-       "name": "hỏi",
-       "ko": "내렸다 올림",
-       "shape": "∨"
-      }
-     ],
-     "img": "n-tai-khoan.webp"
-    }
-   ],
-   "dialog": {
-    "title": "은행 거래",
-    "emoji": "📰",
-    "lines": [
-     {
-      "vi": "Tôi không chuyển tiền được.",
-      "ko": "돈을 보낼 수 없어요.",
-      "kr_read": "또이 콩 쭈옌 띠엔 드억",
-      "who": "A",
-      "tones": [
-       {
-        "syl": "Tôi",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "không",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "chuyển",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       },
-       {
-        "syl": "tiền",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "được.",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       }
-      ],
-      "gloss": []
-     },
-     {
-      "vi": "Hãy kiểm tra hạn mức tài khoản.",
-      "ko": "계좌 한도를 확인해 보세요.",
-      "kr_read": "하이 끼엠 짜 한 믁 따이 코안",
-      "who": "B",
-      "tones": [
-       {
-        "syl": "Hãy",
-        "name": "ngã",
-        "ko": "끊었다 올림",
-        "shape": "∿"
-       },
-       {
-        "syl": "kiểm",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       },
-       {
-        "syl": "tra",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "hạn",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       },
-       {
-        "syl": "mức",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "tài",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "khoản.",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       }
-      ],
-      "gloss": []
-     }
-    ],
-    "extra": []
-   },
-   "n": 4
-  },
-  {
-   "ts": "2026-11-17",
-   "day": "Nno=44524",
-   "track": "news",
-   "theme": "베트남 협력",
-   "title": "베트남·칠레, ‘전략적 동반자 관계’ 격상…정치·경제·농업·과학기술 등 6대 협력 축 설정",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44524",
-   "cat": "정치",
-   "intro": "베트남과 칠레가 양국 관계를 '전략적 동반자 관계'로 격상했습니다. 정치, 경제 등 6대 협력 축을 설정하여 양국 기업 기회를 확대합니다.",
-   "words": [
-    {
-     "vi": "hợp tác",
-     "ko": "협력",
-     "kr_read": "헙 딱",
-     "emoji": "🤝",
-     "en": "two hands shaking",
-     "tones": [
-      {
-       "syl": "hợp",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      },
-      {
-       "syl": "tác",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-hop-tac.webp"
-    },
-    {
-     "vi": "kinh tế",
-     "ko": "경제",
-     "kr_read": "낀 떼",
-     "emoji": "📈",
-     "en": "a stock market graph",
-     "tones": [
-      {
-       "syl": "kinh",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "tế",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-kinh-te.webp"
-    },
-    {
-     "vi": "đầu tư",
-     "ko": "투자",
-     "kr_read": "더우 뜨",
-     "emoji": "💰",
-     "en": "a stack of money",
-     "tones": [
-      {
-       "syl": "đầu",
-       "name": "huyền",
-       "ko": "낮게 내려감",
-       "shape": "＼"
-      },
-      {
-       "syl": "tư",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-dau-tu.webp"
-    },
-    {
-     "vi": "thương mại",
-     "ko": "무역",
-     "kr_read": "트엉 마이",
-     "emoji": "🚢",
-     "en": "a cargo ship",
-     "tones": [
-      {
-       "syl": "thương",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "mại",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      }
-     ],
-     "img": "n-thuong-mai.webp"
-    },
-    {
-     "vi": "nông nghiệp",
-     "ko": "농업",
-     "kr_read": "농 응이엡",
-     "emoji": "🌾",
-     "en": "a rice field",
-     "tones": [
-      {
-       "syl": "nông",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "nghiệp",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      }
-     ],
-     "img": "n-nong-nghiep.webp"
-    },
-    {
-     "vi": "công ty",
-     "ko": "회사",
-     "kr_read": "꽁 띠",
-     "emoji": "🏢",
-     "en": "a company building",
-     "tones": [
-      {
-       "syl": "công",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "ty",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-cong-ty.webp"
-    }
-   ],
-   "dialog": {
-    "title": "베트남 협력",
-    "emoji": "📰",
-    "lines": [
-     {
-      "vi": "Bạn làm việc ở công ty này?",
-      "ko": "당신은 이 회사에서 일하나요?",
-      "kr_read": "반 람 비엑 어 꽁 띠 나이",
-      "who": "A",
-      "tones": [
-       {
-        "syl": "Bạn",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       },
-       {
-        "syl": "làm",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "việc",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       },
-       {
-        "syl": "ở",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       },
-       {
-        "syl": "công",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "ty",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "này?",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       }
-      ],
-      "gloss": []
-     },
-     {
-      "vi": "Vâng, tôi làm việc ở đây. Chúng ta hợp tác.",
-      "ko": "네, 저는 여기서 일해요. 우리 협력해요.",
-      "kr_read": "벙 또이 람 비엑 어 더이 쭝 따 헙 딱",
-      "who": "B",
-      "tones": [
-       {
-        "syl": "Vâng,",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "tôi",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "làm",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "việc",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       },
-       {
-        "syl": "ở",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       },
-       {
-        "syl": "đây.",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "Chúng",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "ta",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "hợp",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       },
-       {
-        "syl": "tác.",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       }
-      ],
-      "gloss": []
-     }
-    ],
-    "extra": []
-   },
-   "n": 3
-  },
-  {
-   "ts": "2026-11-17",
-   "day": "Nno=44528",
-   "track": "news",
-   "theme": "베트남 건강 관리",
-   "title": "‘뚱뚱해지는’ 베트남, 당뇨병 환자 급증세…전체 환자 55% 합병증 진행",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44528",
-   "cat": "사회",
-   "intro": "베트남 내 당뇨병 환자가 급증하며 55%가 합병증을 앓고 있습니다. 도시화와 비만, 운동 부족이 주요 원인으로 정기 검진이 권고됩니다.",
-   "words": [
-    {
-     "vi": "tiểu đường",
-     "ko": "당뇨",
-     "kr_read": "띠에우 드엉",
-     "emoji": "",
-     "en": "",
-     "tones": [
-      {
-       "syl": "tiểu",
-       "name": "hỏi",
-       "ko": "내렸다 올림",
-       "shape": "∨"
-      },
-      {
-       "syl": "đường",
-       "name": "huyền",
-       "ko": "낮게 내려감",
-       "shape": "＼"
-      }
-     ]
-    },
-    {
-     "vi": "bệnh viện",
-     "ko": "병원",
-     "kr_read": "벤 비엔",
-     "emoji": "🏥",
-     "en": "a hospital building with a red cross",
-     "tones": [
-      {
-       "syl": "bệnh",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      },
-      {
-       "syl": "viện",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      }
-     ],
-     "img": "n-benh-vien.webp"
-    },
-    {
-     "vi": "sức khỏe",
-     "ko": "건강",
-     "kr_read": "쓱 코애",
-     "emoji": "💪",
-     "en": "a person doing a strong pose",
-     "tones": [
-      {
-       "syl": "sức",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      },
-      {
-       "syl": "khỏe",
-       "name": "hỏi",
-       "ko": "내렸다 올림",
-       "shape": "∨"
-      }
-     ],
-     "img": "n-suc-khoe.webp"
-    },
-    {
-     "vi": "tập thể dục",
-     "ko": "운동하다",
-     "kr_read": "떱 테 죽",
-     "emoji": "🏃",
-     "en": "a person jogging in a park",
-     "tones": [
-      {
-       "syl": "tập",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      },
-      {
-       "syl": "thể",
-       "name": "hỏi",
-       "ko": "내렸다 올림",
-       "shape": "∨"
-      },
-      {
-       "syl": "dục",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      }
-     ],
-     "img": "n-tap-the-duc.webp"
-    },
-    {
-     "vi": "thuốc",
-     "ko": "약",
-     "kr_read": "투옥",
-     "emoji": "💊",
-     "en": "medical pills and capsules",
-     "tones": [
-      {
-       "syl": "thuốc",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-thuoc.webp"
-    },
-    {
-     "vi": "kiểm tra",
-     "ko": "검사/확인",
-     "kr_read": "끼엠 짜",
-     "emoji": "📋",
-     "en": "a medical report on a clipboard",
-     "tones": [
-      {
-       "syl": "kiểm",
-       "name": "hỏi",
-       "ko": "내렸다 올림",
-       "shape": "∨"
-      },
-      {
-       "syl": "tra",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-kiem-tra.webp"
-    }
-   ],
-   "dialog": {
-    "title": "베트남 건강 관리",
-    "emoji": "📰",
-    "lines": [
-     {
-      "vi": "Anh uống cà phê ít đường thôi.",
-      "ko": "커피에 설탕 적게 넣어서 드세요.",
-      "kr_read": "아인 우옹 까 페 잇 드엉 토이",
-      "who": "A",
-      "tones": [
-       {
-        "syl": "Anh",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "uống",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "cà",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "phê",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "ít",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "đường",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "thôi.",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       }
-      ],
-      "gloss": []
-     },
-     {
-      "vi": "Vâng, tôi sợ bệnh tiểu đường.",
-      "ko": "네, 저는 당뇨병이 무서워요.",
-      "kr_read": "벙 또이 써 벤 띠에우 드엉",
-      "who": "B",
-      "tones": [
-       {
-        "syl": "Vâng,",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "tôi",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "sợ",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       },
-       {
-        "syl": "bệnh",
-        "name": "nặng",
-        "ko": "짧고 무겁게",
-        "shape": "↓"
-       },
-       {
-        "syl": "tiểu",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       },
-       {
-        "syl": "đường.",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       }
-      ],
-      "gloss": []
-     }
-    ],
-    "extra": []
-   },
-   "n": 2
-  },
-  {
-   "ts": "2026-11-17",
-   "day": "Nno=44523",
-   "track": "news",
-   "theme": "기업 소식",
-   "title": "베트남 최대 철강社 호아팟그룹, 재생에너지 회사 설립…자본금 6,500억 동",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44523",
-   "cat": "경제",
-   "intro": "베트남 최대 철강사 호아팟그룹이 재생에너지 사업에 진출하며 철강 외 사업 확장으로 큰 매출을 기록.",
-   "words": [
-    {
-     "vi": "công ty",
-     "ko": "회사",
-     "kr_read": "꽁 띠",
-     "emoji": "🏢",
-     "en": "a modern office building",
-     "tones": [
-      {
-       "syl": "công",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "ty",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-cong-ty.webp"
-    },
-    {
-     "vi": "kinh doanh",
-     "ko": "사업",
-     "kr_read": "낀 조아인",
-     "emoji": "💼",
-     "en": "a business briefcase",
-     "tones": [
-      {
-       "syl": "kinh",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "doanh",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      }
-     ],
-     "img": "n-kinh-doanh.webp"
-    },
-    {
-     "vi": "năng lượng",
-     "ko": "에너지",
-     "kr_read": "낭 르엉",
-     "emoji": "⚡",
-     "en": "a lightning bolt icon",
-     "tones": [
-      {
-       "syl": "năng",
-       "name": "ngang",
-       "ko": "평평하게 그대로",
-       "shape": "—"
-      },
-      {
-       "syl": "lượng",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      }
-     ],
-     "img": "n-nang-luong.webp"
-    },
-    {
-     "vi": "điện",
-     "ko": "전기",
-     "kr_read": "디엔",
-     "emoji": "💡",
-     "en": "a bright light bulb",
-     "tones": [
-      {
-       "syl": "điện",
-       "name": "nặng",
-       "ko": "짧고 무겁게",
-       "shape": "↓"
-      }
-     ],
-     "img": "n-dien.webp"
-    },
-    {
-     "vi": "sắt",
-     "ko": "철",
-     "kr_read": "쌋",
-     "emoji": "⚙️",
-     "en": "a metal gear",
-     "tones": [
-      {
-       "syl": "sắt",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-sat.webp"
-    },
-    {
-     "vi": "sản xuất",
-     "ko": "생산하다",
-     "kr_read": "싼 쑤엇",
-     "emoji": "🏭",
-     "en": "a large factory with smoke stacks",
-     "tones": [
-      {
-       "syl": "sản",
-       "name": "hỏi",
-       "ko": "내렸다 올림",
-       "shape": "∨"
-      },
-      {
-       "syl": "xuất",
-       "name": "sắc",
-       "ko": "짧게 올라감",
-       "shape": "／"
-      }
-     ],
-     "img": "n-san-xuat.webp"
-    }
-   ],
-   "dialog": {
-    "title": "기업 소식",
-    "emoji": "📰",
-    "lines": [
-     {
-      "vi": "Công ty này sản xuất gì?",
-      "ko": "이 회사는 무엇을 생산하나요?",
-      "kr_read": "꽁 띠 나이 싼 쑤엇 지",
-      "who": "A",
-      "tones": [
-       {
-        "syl": "Công",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "ty",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "này",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       },
-       {
-        "syl": "sản",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       },
-       {
-        "syl": "xuất",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "gì?",
-        "name": "huyền",
-        "ko": "낮게 내려감",
-        "shape": "＼"
-       }
-      ],
-      "gloss": []
-     },
-     {
-      "vi": "Công ty sản xuất sắt.",
-      "ko": "회사는 철을 생산해요.",
-      "kr_read": "꽁 띠 싼 쑤엇 쌋",
-      "who": "B",
-      "tones": [
-       {
-        "syl": "Công",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "ty",
-        "name": "ngang",
-        "ko": "평평하게 그대로",
-        "shape": "—"
-       },
-       {
-        "syl": "sản",
-        "name": "hỏi",
-        "ko": "내렸다 올림",
-        "shape": "∨"
-       },
-       {
-        "syl": "xuất",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       },
-       {
-        "syl": "sắt.",
-        "name": "sắc",
-        "ko": "짧게 올라감",
-        "shape": "／"
-       }
-      ],
-      "gloss": []
-     }
-    ],
-    "extra": []
-   },
    "n": 1
   }
  ],
- "updated": "2026-11-24 14:33"
+ "updated": "2026-11-25 06:17"
 }
