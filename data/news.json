@@ -1,39 +1,30 @@
 {
- "updated": "2026-11-24 07:23",
+ "updated": "2026-11-24 14:26",
  "items": [
-  {
-   "s": "인사이드비나",
-   "t": "베트남, ‘11월 24일 문화의 날’ 법정공휴일…규정 위반 시 과태료 최대 4,000만 동",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44568",
-   "d": "11월 23일",
-   "ts": "2026-11-23",
-   "care": 23,
-   "cat": "문화"
-  },
-  {
-   "s": "인사이드비나",
-   "t": "빈그룹, 호치민시에 베트남 최대 규모 ‘사회주택단지’ 착공…4.5만 세대",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44570",
-   "d": "11월 23일",
-   "ts": "2026-11-23",
-   "care": 19
-  },
   {
    "s": "인사이드비나",
    "t": "베트남 아파트 매수한 외국인 중 절반은 ‘한국인’",
    "u": "https://www.insidevina.com/news/articleView.html?idxno=44566",
    "d": "11월 23일",
    "ts": "2026-11-23",
-   "care": 17
+   "care": 23
   },
   {
    "s": "인사이드비나",
-   "t": "베트남, ‘문화의 날 및 상이군인·열사의 날’ 등 법정공휴일 2일 추가…年공휴일 11→13일",
-   "u": "https://www.insidevina.com/news/articleView.html?idxno=44565",
+   "t": "베트남, ‘11월 24일 문화의 날’ 법정공휴일…규정 위반 시 과태료 최대 4,000만 동",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44568",
    "d": "11월 23일",
    "ts": "2026-11-23",
    "care": 17,
    "cat": "문화"
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남, '북남고속철' 설계용역 韓3사 참여 8개사 글로벌 컨소시엄 선정…낙찰가 10조2,430억 동",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44569",
+   "d": "11월 23일",
+   "ts": "2026-11-23",
+   "care": 15
   },
   {
    "s": "인사이드비나",
@@ -50,6 +41,31 @@
    "d": "11월 23일",
    "ts": "2026-11-23",
    "care": 14
+  },
+  {
+   "s": "인사이드비나",
+   "t": "‘10년 철옹성’ 그랩 무너졌다…베트남 차량호출 왕좌 꿰찬 토종기업 GSM",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44567",
+   "d": "11월 23일",
+   "ts": "2026-11-23",
+   "care": 11
+  },
+  {
+   "s": "인사이드비나",
+   "t": "빈그룹, 호치민시에 베트남 최대 규모 ‘사회주택단지’ 착공…4.5만 세대",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44570",
+   "d": "11월 23일",
+   "ts": "2026-11-23",
+   "care": 19
+  },
+  {
+   "s": "인사이드비나",
+   "t": "베트남, ‘문화의 날 및 상이군인·열사의 날’ 등 법정공휴일 2일 추가…年공휴일 11→13일",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44565",
+   "d": "11월 23일",
+   "ts": "2026-11-23",
+   "care": 17,
+   "cat": "문화"
   },
   {
    "s": "인사이드비나",
