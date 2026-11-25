@@ -246,7 +246,7 @@
     ],
     "extra": []
    },
-   "n": 30
+   "n": 32
   },
   {
    "ts": "2026-11-24",
@@ -506,7 +506,7 @@
     ],
     "extra": []
    },
-   "n": 29
+   "n": 31
   },
   {
    "ts": "2026-11-24",
@@ -724,7 +724,243 @@
     ],
     "extra": []
    },
-   "n": 28
+   "n": 30
+  },
+  {
+   "ts": "2026-11-24",
+   "day": "Nno=44577",
+   "track": "news",
+   "theme": "아파트 숙박",
+   "title": "베트남, ‘에어비앤비’ 등 공유숙박업 제도권 편입…개정 주택법",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44577",
+   "cat": "정치",
+   "intro": "베트남 주택법 개정으로 아파트의 단기 숙박 임대가 합법화됩니다.",
+   "words": [
+    {
+     "vi": "căn hộ",
+     "ko": "아파트",
+     "kr_read": "깐 호",
+     "emoji": "🏢",
+     "en": "a modern apartment building",
+     "tones": [
+      {
+       "syl": "căn",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hộ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-can-ho.webp"
+    },
+    {
+     "vi": "luật",
+     "ko": "법률",
+     "kr_read": "루엇",
+     "emoji": "⚖️",
+     "en": "a balance scale of justice",
+     "tones": [
+      {
+       "syl": "luật",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-luat.webp"
+    },
+    {
+     "vi": "an ninh",
+     "ko": "보안",
+     "kr_read": "안 닌",
+     "emoji": "🛡️",
+     "en": "a shield icon",
+     "tones": [
+      {
+       "syl": "an",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ninh",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-an-ninh.webp"
+    },
+    {
+     "vi": "phòng",
+     "ko": "방",
+     "kr_read": "퐁",
+     "emoji": "🚪",
+     "en": "a bedroom inside an apartment",
+     "tones": [
+      {
+       "syl": "phòng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-phong.webp"
+    },
+    {
+     "vi": "đăng ký",
+     "ko": "등록하다",
+     "kr_read": "당 끼",
+     "emoji": "📝",
+     "en": "a person signing a document",
+     "tones": [
+      {
+       "syl": "đăng",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ký",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-dang-ky.webp"
+    },
+    {
+     "vi": "thuê",
+     "ko": "빌리다",
+     "kr_read": "투에",
+     "emoji": "🔑",
+     "en": "a hand holding a house key",
+     "tones": [
+      {
+       "syl": "thuê",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-thue.webp"
+    }
+   ],
+   "dialog": {
+    "title": "아파트 숙박",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Căn hộ này cho thuê theo ngày không?",
+      "ko": "이 아파트는 하루 단위로 임대하나요?",
+      "kr_read": "깐 호 나이 쪼 투에 태오 응아이 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Căn",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hộ",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "cho",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "thuê",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "theo",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ngày",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có, anh muốn thuê mấy ngày?",
+      "ko": "네, 며칠 동안 빌리고 싶으세요?",
+      "kr_read": "꼬 아인 무온 투에 머이 응아이",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có,",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "muốn",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thuê",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "mấy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "ngày?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 29
   },
   {
    "ts": "2026-11-24",
@@ -969,7 +1205,7 @@
     ],
     "extra": []
    },
-   "n": 27
+   "n": 28
   },
   {
    "ts": "2026-11-24",
@@ -1228,7 +1464,7 @@
     ],
     "extra": []
    },
-   "n": 26
+   "n": 27
   },
   {
    "ts": "2026-11-24",
@@ -1458,7 +1694,7 @@
     ],
     "extra": []
    },
-   "n": 25
+   "n": 26
   },
   {
    "ts": "2026-11-24",
@@ -1694,7 +1930,7 @@
     ],
     "extra": []
    },
-   "n": 24
+   "n": 25
   },
   {
    "ts": "2026-11-23",
@@ -1947,7 +2183,7 @@
     ],
     "extra": []
    },
-   "n": 23
+   "n": 24
   },
   {
    "ts": "2026-11-23",
@@ -2192,6 +2428,248 @@
         "name": "ngang",
         "ko": "평평하게 그대로",
         "shape": "—"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 23
+  },
+  {
+   "ts": "2026-11-23",
+   "day": "Nno=44563",
+   "track": "news",
+   "theme": "베트남 고속철",
+   "title": "韓컨소시엄, 5,600억 ‘베트남 북남고속철’ 설계용역 따내…해외철도 설계 역대 최대 수주성과",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44563",
+   "cat": "정치",
+   "intro": "한국 기업이 베트남 북남고속철도 설계를 수주했습니다. 완공되면 하노이-호치민 이동이 5시간대로 줄어듭니다.",
+   "words": [
+    {
+     "vi": "đường sắt",
+     "ko": "철도",
+     "kr_read": "드엉 쌋",
+     "emoji": "🛤️",
+     "en": "railway tracks stretching into the distance",
+     "tones": [
+      {
+       "syl": "đường",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "sắt",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-duong-sat.webp"
+    },
+    {
+     "vi": "đi lại",
+     "ko": "이동하다",
+     "kr_read": "디 라이",
+     "emoji": "🚶",
+     "en": "people walking and commuting on a street",
+     "tones": [
+      {
+       "syl": "đi",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "lại",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-di-lai.webp"
+    },
+    {
+     "vi": "dự án",
+     "ko": "프로젝트",
+     "kr_read": "즈 안",
+     "emoji": "📋",
+     "en": "a clipboard with project plans on a desk",
+     "tones": [
+      {
+       "syl": "dự",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      },
+      {
+       "syl": "án",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-du-an.webp"
+    },
+    {
+     "vi": "thiết kế",
+     "ko": "설계하다",
+     "kr_read": "티엣 께",
+     "emoji": "📐",
+     "en": "an architectural blueprint layout with a ruler",
+     "tones": [
+      {
+       "syl": "thiết",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "kế",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-thiet-ke.webp"
+    },
+    {
+     "vi": "xây dựng",
+     "ko": "건설하다",
+     "kr_read": "써이 증",
+     "emoji": "🏗️",
+     "en": "a construction site with high building cranes",
+     "tones": [
+      {
+       "syl": "xây",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "dựng",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-xay-dung.webp"
+    },
+    {
+     "vi": "tàu hỏa",
+     "ko": "기차",
+     "kr_read": "따우 호아",
+     "emoji": "🚂",
+     "en": "a passenger train running on tracks",
+     "tones": [
+      {
+       "syl": "tàu",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "hỏa",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-tau-hoa.webp"
+    }
+   ],
+   "dialog": {
+    "title": "베트남 고속철",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Đi tàu hỏa có nhanh không?",
+      "ko": "기차 타면 빠른가요?",
+      "kr_read": "디 따우 호아 꼬 나인 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Đi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "tàu",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "hỏa",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhanh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Rất nhanh, đi lại rất tiện.",
+      "ko": "아주 빠르고, 다니기 정말 편해요.",
+      "kr_read": "젓 나인 디 라이 젓 띠엔",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhanh,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "đi",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "lại",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "tiện.",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
        }
       ],
       "gloss": []
@@ -7286,5 +7764,5 @@
    "n": 1
   }
  ],
- "updated": "2026-11-25 06:17"
+ "updated": "2026-11-25 13:30"
 }
