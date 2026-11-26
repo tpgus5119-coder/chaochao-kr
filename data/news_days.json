@@ -2,6 +2,235 @@
  "days": [
   {
    "ts": "2026-11-25",
+   "day": "Nno=44587",
+   "track": "news",
+   "theme": "해외직구 면세",
+   "title": "베트남, 내년 3월부터 '이커머스 해외직구' 수입세 면제…주문가액 100만 동 미만",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44587",
+   "cat": "경제",
+   "intro": "베트남이 내년 3월부터 100만 동 이하 해외직구 물품의 수입세를 면제합니다. 연간 면세 한도는 4,800만 동이며 부가세 등 다른 세금은 계속 부과됩니다.",
+   "words": [
+    {
+     "vi": "mua hàng",
+     "ko": "물건을 사다",
+     "kr_read": "무어 항",
+     "emoji": "🛍️",
+     "en": "a shopping bag with items inside",
+     "tones": [
+      {
+       "syl": "mua",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-mua-hang.webp"
+    },
+    {
+     "vi": "hàng hóa",
+     "ko": "상품",
+     "kr_read": "항 호아",
+     "emoji": "📦",
+     "en": "cardboard delivery boxes",
+     "tones": [
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "hóa",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-hang-hoa.webp"
+    },
+    {
+     "vi": "thuế",
+     "ko": "세금",
+     "kr_read": "투에",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "thuế",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ]
+    },
+    {
+     "vi": "kiểm tra",
+     "ko": "확인하다",
+     "kr_read": "끼엠 짜",
+     "emoji": "🔍",
+     "en": "a magnifying glass",
+     "tones": [
+      {
+       "syl": "kiểm",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      },
+      {
+       "syl": "tra",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-kiem-tra.webp"
+    },
+    {
+     "vi": "giá",
+     "ko": "가격",
+     "kr_read": "자",
+     "emoji": "🏷️",
+     "en": "a price tag",
+     "tones": [
+      {
+       "syl": "giá",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-gia.webp"
+    },
+    {
+     "vi": "miễn phí",
+     "ko": "무료",
+     "kr_read": "미엔 피",
+     "emoji": "🎁",
+     "en": "a gift box",
+     "tones": [
+      {
+       "syl": "miễn",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      },
+      {
+       "syl": "phí",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-mien-phi.webp"
+    }
+   ],
+   "dialog": {
+    "title": "해외직구 면세",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Đơn hàng này có thuế không?",
+      "ko": "이 주문은 세금이 있나요?",
+      "kr_read": "던 항 나이 꼬 투에 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Đơn",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hàng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thuế",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Không, hàng này không có thuế.",
+      "ko": "아니요, 이 물건은 세금이 없어요.",
+      "kr_read": "콩 항 나이 콩 꼬 투에",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Không,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "hàng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "này",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "không",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thuế.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 37
+  },
+  {
+   "ts": "2026-11-25",
    "day": "Nno=44591",
    "track": "news",
    "theme": "주말 여행 추천",
@@ -228,7 +457,7 @@
     ],
     "extra": []
    },
-   "n": 35
+   "n": 36
   },
   {
    "ts": "2026-11-25",
@@ -458,7 +687,7 @@
     ],
     "extra": []
    },
-   "n": 34
+   "n": 35
   },
   {
    "ts": "2026-11-25",
@@ -717,7 +946,7 @@
     ],
     "extra": []
    },
-   "n": 33
+   "n": 34
   },
   {
    "ts": "2026-11-25",
@@ -977,7 +1206,7 @@
     ],
     "extra": []
    },
-   "n": 32
+   "n": 33
   },
   {
    "ts": "2026-11-25",
@@ -1230,7 +1459,7 @@
     ],
     "extra": []
    },
-   "n": 31
+   "n": 32
   },
   {
    "ts": "2026-11-25",
@@ -1470,6 +1699,253 @@
         "name": "ngã",
         "ko": "끊었다 올림",
         "shape": "∿"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 31
+  },
+  {
+   "ts": "2026-11-25",
+   "day": "Nno=44593",
+   "track": "news",
+   "theme": "공휴일 확대",
+   "title": "[베트남 주간 이슈] 공휴일 연 13일로 늘고 EU는 반덤핑 관세 확정…한국 기업 공장 운영 변수 줄줄이",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44593",
+   "cat": "공장·산업",
+   "intro": "베트남 법정 공휴일이 연 13일로 늘어납니다. 한·베 교역액은 사상 처음 1천억 달러를 넘겼습니다.",
+   "words": [
+    {
+     "vi": "ngày nghỉ",
+     "ko": "휴일",
+     "kr_read": "응아이 응이",
+     "emoji": "📅",
+     "en": "a wall calendar showing a holiday",
+     "tones": [
+      {
+       "syl": "ngày",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "nghỉ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-ngay-nghi.webp"
+    },
+    {
+     "vi": "nhà máy",
+     "ko": "공장",
+     "kr_read": "냐 마이",
+     "emoji": "🏭",
+     "en": "an industrial factory building",
+     "tones": [
+      {
+       "syl": "nhà",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "máy",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-nha-may.webp"
+    },
+    {
+     "vi": "làm việc",
+     "ko": "일하다",
+     "kr_read": "람 비엑",
+     "emoji": "💻",
+     "en": "an office worker sitting at a desk",
+     "tones": [
+      {
+       "syl": "làm",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "việc",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-lam-viec.webp"
+    },
+    {
+     "vi": "công nhân",
+     "ko": "근로자",
+     "kr_read": "꽁 년",
+     "emoji": "👷",
+     "en": "a factory worker in work clothes",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "nhân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-nhan.webp"
+    },
+    {
+     "vi": "lịch",
+     "ko": "일정, 달력",
+     "kr_read": "릭",
+     "emoji": "🗓️",
+     "en": "a desk calendar on an office table",
+     "tones": [
+      {
+       "syl": "lịch",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-lich.webp"
+    },
+    {
+     "vi": "năm sau",
+     "ko": "내년",
+     "kr_read": "남 싸우",
+     "emoji": "",
+     "en": "",
+     "tones": [
+      {
+       "syl": "năm",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "sau",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ]
+    }
+   ],
+   "dialog": {
+    "title": "공휴일 확대",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Năm sau có thêm ngày nghỉ không?",
+      "ko": "내년에 쉬는 날 더 늘어나요?",
+      "kr_read": "남 싸우 꼬 템 응아이 응이 콩",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Năm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "sau",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "thêm",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ngày",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "nghỉ",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "không?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Đúng rồi, nhà máy vừa thông báo.",
+      "ko": "맞아요, 공장에서 방금 공지했어요.",
+      "kr_read": "둥 조이 냐 마이 브어 통 바오",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Đúng",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "rồi,",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "nhà",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "máy",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "vừa",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "thông",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "báo.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
        }
       ],
       "gloss": []
@@ -8566,5 +9042,5 @@
    "n": 1
   }
  ],
- "updated": "2026-11-26 05:35"
+ "updated": "2026-11-26 12:55"
 }
