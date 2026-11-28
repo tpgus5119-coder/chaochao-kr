@@ -210,7 +210,231 @@
     ],
     "extra": []
    },
-   "n": 33
+   "n": 35
+  },
+  {
+   "ts": "2026-11-27",
+   "day": "Nno=44616",
+   "track": "news",
+   "theme": "인터넷 신청",
+   "title": "베트남 최대 통신社 비엣텔, ‘스타링크’ 위성인터넷 재판매 시작…월이용료 160만동",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44616",
+   "cat": "경제",
+   "intro": "베트남 비엣텔이 스타링크 위성인터넷 재판매를 시작했다. 장비비 930만 동, 월 요금은 159만 동부터 시작한다.",
+   "words": [
+    {
+     "vi": "mạng",
+     "ko": "인터넷",
+     "kr_read": "망",
+     "emoji": "🌐",
+     "en": "a computer screen showing internet icon",
+     "tones": [
+      {
+       "syl": "mạng",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-mang.webp"
+    },
+    {
+     "vi": "công ty",
+     "ko": "회사",
+     "kr_read": "꽁 띠",
+     "emoji": "🏢",
+     "en": "a modern office building",
+     "tones": [
+      {
+       "syl": "công",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "ty",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      }
+     ],
+     "img": "n-cong-ty.webp"
+    },
+    {
+     "vi": "lắp đặt",
+     "ko": "설치하다",
+     "kr_read": "랍 닷",
+     "emoji": "🛠️",
+     "en": "a mechanic installing equipment",
+     "tones": [
+      {
+       "syl": "lắp",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "đặt",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-lap-dat.webp"
+    },
+    {
+     "vi": "cước phí",
+     "ko": "요금",
+     "kr_read": "끄억 피",
+     "emoji": "💵",
+     "en": "a price tag or paper bill",
+     "tones": [
+      {
+       "syl": "cước",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "phí",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-cuoc-phi.webp"
+    },
+    {
+     "vi": "thiết bị",
+     "ko": "장비",
+     "kr_read": "티엣 비",
+     "emoji": "📦",
+     "en": "electronic equipment inside a box",
+     "tones": [
+      {
+       "syl": "thiết",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "bị",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-thiet-bi.webp"
+    },
+    {
+     "vi": "tốc độ",
+     "ko": "속도",
+     "kr_read": "똑 도",
+     "emoji": "⚡",
+     "en": "a speedometer dial showing high speed",
+     "tones": [
+      {
+       "syl": "tốc",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "độ",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-toc-do.webp"
+    }
+   ],
+   "dialog": {
+    "title": "인터넷 신청",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Công ty có mạng chưa?",
+      "ko": "회사에 인터넷 연결됐어요?",
+      "kr_read": "꽁 띠 꼬 망 쯔어",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Công",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "ty",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "mạng",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "chưa?",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Có rồi, mạng rất nhanh.",
+      "ko": "연결됐어요, 인터넷이 아주 빨라요.",
+      "kr_read": "꼬 조이 망 젓 나인",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Có",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "rồi,",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "mạng",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "rất",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
+       },
+       {
+        "syl": "nhanh.",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 34
   },
   {
    "ts": "2026-11-27",
@@ -433,6 +657,236 @@
         "name": "huyền",
         "ko": "낮게 내려감",
         "shape": "＼"
+       }
+      ],
+      "gloss": []
+     }
+    ],
+    "extra": []
+   },
+   "n": 33
+  },
+  {
+   "ts": "2026-11-27",
+   "day": "Nno=44609",
+   "track": "news",
+   "theme": "은행 앱 오류",
+   "title": "[단독] 신한은행베트남, 긴급점검에 온라인뱅킹 돌연 ‘먹통’…\"지갑 없이 나왔는데 밥값도 못 내\"",
+   "u": "https://www.insidevina.com/news/articleView.html?idxno=44609",
+   "cat": "경제",
+   "intro": "신한베트남은행 온라인뱅킹이 갑자기 멈췄다. 앱 결제가 안 돼 현지 교민들이 큰 불편을 겪었다.",
+   "words": [
+    {
+     "vi": "ngân hàng",
+     "ko": "은행",
+     "kr_read": "응언 항",
+     "emoji": "🏦",
+     "en": "a bank building",
+     "tones": [
+      {
+       "syl": "ngân",
+       "name": "ngang",
+       "ko": "평평하게 그대로",
+       "shape": "—"
+      },
+      {
+       "syl": "hàng",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      }
+     ],
+     "img": "n-ngan-hang.webp"
+    },
+    {
+     "vi": "tiền mặt",
+     "ko": "현금",
+     "kr_read": "띠엔 맛",
+     "emoji": "💵",
+     "en": "paper cash money bills",
+     "tones": [
+      {
+       "syl": "tiền",
+       "name": "huyền",
+       "ko": "낮게 내려감",
+       "shape": "＼"
+      },
+      {
+       "syl": "mặt",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-tien-mat.webp"
+    },
+    {
+     "vi": "ví",
+     "ko": "지갑",
+     "kr_read": "비",
+     "emoji": "👛",
+     "en": "a leather wallet",
+     "tones": [
+      {
+       "syl": "ví",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      }
+     ],
+     "img": "n-vi.webp"
+    },
+    {
+     "vi": "thẻ",
+     "ko": "카드",
+     "kr_read": "태",
+     "emoji": "💳",
+     "en": "a plastic credit card",
+     "tones": [
+      {
+       "syl": "thẻ",
+       "name": "hỏi",
+       "ko": "내렸다 올림",
+       "shape": "∨"
+      }
+     ],
+     "img": "n-the.webp"
+    },
+    {
+     "vi": "ứng dụng",
+     "ko": "앱",
+     "kr_read": "응 중",
+     "emoji": "📲",
+     "en": "an app icon on mobile screen",
+     "tones": [
+      {
+       "syl": "ứng",
+       "name": "sắc",
+       "ko": "짧게 올라감",
+       "shape": "／"
+      },
+      {
+       "syl": "dụng",
+       "name": "nặng",
+       "ko": "짧고 무겁게",
+       "shape": "↓"
+      }
+     ],
+     "img": "n-ung-dung.webp"
+    },
+    {
+     "vi": "lỗi",
+     "ko": "오류",
+     "kr_read": "로이",
+     "emoji": "⚠️",
+     "en": "a warning error sign",
+     "tones": [
+      {
+       "syl": "lỗi",
+       "name": "ngã",
+       "ko": "끊었다 올림",
+       "shape": "∿"
+      }
+     ],
+     "img": "n-loi.webp"
+    }
+   ],
+   "dialog": {
+    "title": "은행 앱 오류",
+    "emoji": "📰",
+    "lines": [
+     {
+      "vi": "Chuyển khoản bị lỗi rồi à?",
+      "ko": "계좌이체 오류 났어요?",
+      "kr_read": "쭈옌 코안 비 로이 조이 아",
+      "who": "A",
+      "tones": [
+       {
+        "syl": "Chuyển",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "khoản",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "bị",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "lỗi",
+        "name": "ngã",
+        "ko": "끊었다 올림",
+        "shape": "∿"
+       },
+       {
+        "syl": "rồi",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "à?",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       }
+      ],
+      "gloss": []
+     },
+     {
+      "vi": "Vâng, anh trả bằng tiền mặt nhé.",
+      "ko": "네, 현금으로 계산해 주세요.",
+      "kr_read": "벙 아인 짜 방 띠엔 맛 냬",
+      "who": "B",
+      "tones": [
+       {
+        "syl": "Vâng,",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "anh",
+        "name": "ngang",
+        "ko": "평평하게 그대로",
+        "shape": "—"
+       },
+       {
+        "syl": "trả",
+        "name": "hỏi",
+        "ko": "내렸다 올림",
+        "shape": "∨"
+       },
+       {
+        "syl": "bằng",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "tiền",
+        "name": "huyền",
+        "ko": "낮게 내려감",
+        "shape": "＼"
+       },
+       {
+        "syl": "mặt",
+        "name": "nặng",
+        "ko": "짧고 무겁게",
+        "shape": "↓"
+       },
+       {
+        "syl": "nhé.",
+        "name": "sắc",
+        "ko": "짧게 올라감",
+        "shape": "／"
        }
       ],
       "gloss": []
@@ -8017,5 +8471,5 @@
    "n": 1
   }
  ],
- "updated": "2026-11-28 05:01"
+ "updated": "2026-11-28 12:32"
 }
